@@ -1,112 +1,80 @@
-slideItems:
-  - type: image
-    image: slide-hivdb.png 
-    link: /dr-summary/resistance-notes/INSTI/
-    caption: |-
-      HIVDB Program  
-      Version 8.8
-    description: "Feb 13, 2019"
-  - type: text
-    bgColor: "#dccb92"
-    link: /pages/refLib/DTG.html
-    caption: |-
-      Reference Library:  
-      Dolutegravir  
-      Resistance
-    description:
-      A body of literatures reviewed, annotated and searchable
-  - type: text
-    bgColor: "#dccb92"
-    link: /page/insti-sdrm-list/
-    caption: |-
-      Integrase DRMs  
-      for Transmitted  
-      Resistance
-      Surveillance
-    description: |-
-      [DRMs proposed](/page/insti-sdrm-list/) /  
-      [Added to CPR analysis](/cpr/) /  
-      [Criteria and rational](/pages/pdf/Tzou.2019.JAC.pdf)
-  - type: image
-    image: slide-sierra.png 
-    link: /page/webservice/
-    caption: |-
-      Sierra 2.0  
-      Web Service
-    description: "Jul 1, 2019"
-  - type: text
-    bgColor: "#dccb92"
-    link: /page/surveillance-map/
-    caption: |-
-      Transmitted  
-      Resistance  
-      Surveillance Map
-    description:
-      Published virus sequences from >95,000 ART-naïve persons over 120 countries
-  - type: text
-    bgColor: "#dccb92"
-    link: https://github.com/hivdb/hivfacts
-    caption: |-
-      Typical and  
-      Atypical Mutations  
-      for Sequence QA/QC
-    description: "Version 2019.4"
-dbReleaseText:
-  HIVDB released on Jul 2, 2019
-queryPages:
-  title: Query / Download
+---
+dbReleaseText: HIVDB released on Jul 2, 2019
+otherResources:
   items:
-  - icon: treatment  # this icon is not an image, it's hardcoded in frontend
-    title: Genotype-treatment
+  - description: |
+      Panels of multi-drug resistant recombinant infectious molecular clones, donated to the NIH AIDS Reagent Program: NRTI, NNRTI, PI & RAL
+    link: /pages/mdrPanels.html
+    title: Multi-Drug Resistant Panels
+  - link: http://dbpartners.stanford.edu:8080/RegaSubtyping/stanford-hiv/typingtool/
+    title: REGA HIV-1 Subtyping Tool 3.0
+  - description: Collaboration with Africa Centre for Health and Population Studies
+      and South African MRC
+    link: http://bioafrica.mrc.ac.za/hivdb/
+    title: Database Mirror
+  - description: Provides HBV RT mutation frequencies by genotype and treatment
+    link: /HBV/HBVseq/development/HBVseq.html
+    title: HBVseq Program
+  title: Other Resources
+queryPages:
+  items:
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 165,194
+      protease, 174,533 RT and 21,345 integrase HIV-1 virus sequences from 184,328
+      persons; 915 protease, 715 RT and 269 integrase HIV-2 virus sequences from 954
+      persons.'
+    icon: treatment
     link: /pages/genotype-rx.html
-    description: |-
-      [ARV selection data](/pages/genotype-rx.html) comprising
-      153,764 protease, 163,043 RT and 19,856 integrase HIV-1 virus sequences
-      from 175,229 persons; 688 protease, 630 RT and 215 integrase HIV-2
-      virus sequences from XXX persons
-  - icon: phenotype
-    title: Genotype-phenotype
+    title: Genotype-treatment
+  - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
+      25,434 PI, 19,858 NRTI, 11,536 NNRTI and 4,606 INI susceptibility results from
+      HIV-1 virus isolates'
+    icon: phenotype
     link: /pages/genotype-phenotype.html
-    description: |-
-      [Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      22,749 PI, 30,923 NRTI, 8,842 NNRTI and 4,505 INI susceptibility
-      results from HIV-1 virus isolates
-  - icon: clinical
-    title: Genotype-clinical
-    link: /pages/genotype-clinical.html
-    description: |-
+    title: Genotype-phenotype
+  - description: |-
       [Clinical outcome data](/pages/genotype-clinical.html) comprising
       genotype, treatments, plasma HIV-1 RNA levels and CD4 counts from 13
       clinical trials and >=1500 Treatment-Change Episodes
-  - icon: references
-    title: References
-    link: /pages/references.html
-    description: |-
-      [XXXX](/pages/references.html) Genotype-treatment and/or
-      genotype-phenotype data according to author-yr, including
-      [XX](/pages/references.html) new references since the last update.
+    icon: clinical
+    link: /pages/genotype-clinical.html
+    title: Genotype-clinical
+  - description: |-
+      [1,661 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [138 references](/pages/new_submissions.html) collected since 2019-01-01.
 
-      [XXXX](/pages/references.html) Genbank submission sets according to
-      author-yr and submission title, including
-      [XXX](/pages/references.html/) new submissions from Genbank release
-      on 2019-06-15.
-otherResources:
-  title: Other Resources
-  items:
-    - title: Multi-Drug Resistant Panels
-      link: /pages/mdrPanels.html
-      description: >
-        Panels of multi-drug resistant recombinant infectious
-        molecular clones, donated to the NIH AIDS Reagent Program:
-        NRTI, NNRTI, PI & RAL
-    - title: REGA HIV-1 Subtyping Tool 3.0
-      link: http://dbpartners.stanford.edu:8080/RegaSubtyping/stanford-hiv/typingtool/
-    - title: Database Mirror
-      link: http://bioafrica.mrc.ac.za/hivdb/
-      description:
-        Collaboration with Africa Centre for Health and Population
-        Studies and South African MRC
-    - title: HBVseq Program
-      link: /HBV/HBVseq/development/HBVseq.html
-      description:
-        Provides HBV RT mutation frequencies by genotype and treatment
+      [3,042 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 42 new submissions from Genbank release on 2019-04-15.
+    icon: references
+    link: /pages/references.html
+    title: References
+  title: Query / Download
+slideItems:
+- caption: "HIVDB Program  \nVersion 8.8"
+  description: Feb 13, 2019
+  image: slide-hivdb.png
+  link: /dr-summary/resistance-notes/INSTI/
+  type: image
+- bgColor: '#dccb92'
+  caption: "Reference Library:  \nDolutegravir  \nResistance"
+  description: A body of literatures reviewed, annotated and searchable
+  link: /pages/refLib/DTG.html
+  type: text
+- bgColor: '#dccb92'
+  caption: "Integrase DRMs  \nfor Transmitted  \nResistance\nSurveillance"
+  description: "[DRMs proposed](/page/insti-sdrm-list/) /  \n[Added to CPR analysis](/cpr/)
+    /  \n[Criteria and rational](/pages/pdf/Tzou.2019.JAC.pdf)"
+  link: /page/insti-sdrm-list/
+  type: text
+- caption: "Sierra 2.0  \nWeb Service"
+  description: Jul 1, 2019
+  image: slide-sierra.png
+  link: /page/webservice/
+  type: image
+- bgColor: '#dccb92'
+  caption: "Transmitted  \nResistance  \nSurveillance Map"
+  description: Published virus sequences from >95,000 ART-naïve persons over 120 countries
+  link: /page/surveillance-map/
+  type: text
+- bgColor: '#dccb92'
+  caption: "Typical and  \nAtypical Mutations  \nfor Sequence QA/QC"
+  description: Version 2019.4
+  link: https://github.com/hivdb/hivfacts
+  type: text
