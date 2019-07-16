@@ -6,15 +6,8 @@ slideItems:
       HIVDB Program  
       Version 8.8
     description: "Feb 13, 2019"
-  - type: image
-    image: slide-sierra.png 
-    link: /page/webservice/
-    caption: |-
-      Sierra 2.0  
-      Web Service
-    description: "Jul 1, 2019"
   - type: text
-    bgColor: "#ddd"
+    bgColor: "#dccb92"
     link: /pages/refLib/DTG.html
     caption: |-
       Reference Library:  
@@ -23,7 +16,7 @@ slideItems:
     description:
       A body of literatures reviewed, annotated and searchable
   - type: text
-    bgColor: "#ddd"
+    bgColor: "#dccb92"
     link: /page/insti-sdrm-list/
     caption: |-
       Integrase DRMs  
@@ -34,8 +27,15 @@ slideItems:
       [DRMs proposed](/page/insti-sdrm-list/) /  
       [Added to CPR analysis](/cpr/) /  
       [Criteria and rational](/pages/pdf/Tzou.2019.JAC.pdf)
+  - type: image
+    image: slide-sierra.png 
+    link: /page/webservice/
+    caption: |-
+      Sierra 2.0  
+      Web Service
+    description: "Jul 1, 2019"
   - type: text
-    bgColor: "#ddd"
+    bgColor: "#dccb92"
     link: /page/surveillance-map/
     caption: |-
       Transmitted  
@@ -44,7 +44,7 @@ slideItems:
     description:
       Published virus sequences from >95,000 ART-naïve persons over 120 countries
   - type: text
-    bgColor: "#ddd"
+    bgColor: "#dccb92"
     link: https://github.com/hivdb/hivfacts
     caption: |-
       Typical and  
