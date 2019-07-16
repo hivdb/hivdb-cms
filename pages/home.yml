@@ -49,8 +49,7 @@ slideItems:
     caption: |-
       Typical and  
       Atypical Mutations  
-      for Sequence QA  
-      Purpose
+      for Sequence QA/QC
     description: "Version 2019.4"
 dbReleaseText:
   HIVDB released on Jul 2, 2019
