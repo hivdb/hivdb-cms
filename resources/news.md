@@ -10,5 +10,5 @@
 - Updated to reflect published studies in GenBank from 2014-2018; 442 studies of 95,024 persons
 
 **Provisional list of INSTI surveillance DRMs (SDRMs):**
-- Calibrated Population Resistance (CPR) updated with option to upload IN sequences with mutation prevalence determined using INSTI SDRMs
-- Manuscript submitted describing the derivation of the list of INSTI SDRMs
+- [Calibrated Population Resistance (CPR)](/cpr/) updated with option to upload IN sequences with mutation prevalence determined using INSTI SDRMs
+- [Manuscript](/pages/pdf/Tzou.2019.JAC.pdf) submitted describing the derivation of the list of INSTI SDRMs
