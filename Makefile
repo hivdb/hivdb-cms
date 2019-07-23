@@ -7,7 +7,7 @@ build-docker:
 push-docker: build-docker
 	@docker push hivdb/hivdb-cms-builder:latest
 
-build: pages images
+build: build.py pages images resources
 	@rm -rf build/
 	@docker run \
 		--mount type=bind,source=$(PWD),target=/app \

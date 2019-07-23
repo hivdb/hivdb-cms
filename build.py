@@ -9,10 +9,23 @@ from distutils.dir_util import copy_tree
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__))
 PAGEDIR = os.path.join(BASEDIR, 'pages')
+RESOURCEDIR = os.path.join(BASEDIR, 'resources')
 IMAGEDIR = os.path.join(BASEDIR, 'images')
 BUILDDIR = os.path.join(BASEDIR, 'build')
 
 YAML_PATTERN = re.compile(r'^(.*)\.ya?ml$')
+
+
+def load_resources(data):
+    if isinstance(data, dict):
+        for key, val in data.items():
+            if isinstance(val, dict) and '_resource' in val:
+                with open(os.path.join(RESOURCEDIR, val['_resource'])) as fp:
+                    data[key] = fp.read()
+            load_resources(val)
+    elif isinstance(data, list):
+        for val in data:
+            load_resources(val)
 
 
 def main():
@@ -28,6 +41,7 @@ def main():
             os.makedirs(os.path.dirname(jsonpath), exist_ok=True)
             with open(yamlpath) as yamlfp, open(jsonpath, 'w') as jsonfp:
                 data = yaml.load(yamlfp, Loader=Loader)
+                load_resources(data)
                 json.dump(data, jsonfp)
                 print('create: {}'.format(jsonpath))
     copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'images'))
