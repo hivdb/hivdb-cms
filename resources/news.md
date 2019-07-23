@@ -1,12 +1,14 @@
-## May 2012
 
-**2012-05-24: Updated our NRTI and NNRTI Resistance Scores; many comments also changed:**  
-For a more information on the changes to the program please [follow this link](/DR/asi/releaseNotes/updates.html#Ver6.2.0_20120529).
+## July 2019
+**"Amino Acid Prevalence of HIV-1 pol Mutations by Direct PCR and Single Genome Sequencing" published in [AIDS Res Human Retrovirus](https://www.liebertpub.com/doi/abs/10.1089/AID.2018.0289)**
+- Contains meta-analysis of data from the [HIV-1 pol Single Genome Sequence Database page](/project/sgs/)
 
-**2012-05-24: Will update our NRTI and NNRTI Resistance Scores; many comments will also change:**  
-For a more information on the changes to the program please [follow this link](/DR/asi/releaseNotes/updates.html#Ver6.2.0_20120529).
 
-## November 2011
+## June 2019
 
-**2011-11-30: Updated most PI Resistance Scores and Comments and added combination scores:**  
-For a more detailed list of changes to the program and/or report please [follow this link](/DR/asi/releaseNotes/updates.html#Ver6.1.1_20111130).
+**Interactive map of HIV-1 drug resistance rates in untreated populations:**
+- Updated to reflect published studies in GenBank from 2014-2018; 442 studies of 95,024 persons
+
+**Provisional list of INSTI surveillance DRMs (SDRMs):**
+- Calibrated Population Resistance (CPR) updated with option to upload IN sequences with mutation prevalence determined using INSTI SDRMs
+- Manuscript submitted describing the derivation of the list of INSTI SDRMs
