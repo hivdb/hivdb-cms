@@ -26,3 +26,9 @@
 
 ## February 2019
 **[Annotated dolutegravir (DTG) resistance reference library](/pages/refLib/DTG.html)**
+
+**[HIVDB Algorithm version 8.8](/page/algorithm-updates/#version.8.8.update.2019-02-13)**
+- Updated INSTI and NNRTI notes
+- Updated Major HIV Drug Resistance Mutations [PDF handout](/assets/media/resistance-mutation-handout-feb2019.b0204a57.pdf)
+
+
