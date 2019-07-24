@@ -1,5 +1,6 @@
 
 ## July 2019
+
 **"Amino Acid Prevalence of HIV-1 pol Mutations by Direct PCR and Single Genome Sequencing" published in [AIDS Res Human Retrovirus](https://www.liebertpub.com/doi/abs/10.1089/AID.2018.0289)**
 - Contains meta-analysis of data from the [HIV-1 pol Single Genome Sequence Database page](/project/sgs/)
 
