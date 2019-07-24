@@ -3,7 +3,6 @@
 **"Amino Acid Prevalence of HIV-1 pol Mutations by Direct PCR and Single Genome Sequencing" published in [AIDS Res Human Retrovirus](https://www.liebertpub.com/doi/abs/10.1089/AID.2018.0289)**
 - Contains meta-analysis of data from the [HIV-1 pol Single Genome Sequence Database page](/project/sgs/)
 
-
 ## June 2019
 **[Interactive map](/page/surveillance-map/) of HIV-1 drug resistance rates in untreated populations:**
 - Updated to reflect published studies in GenBank from 2014-2018; 442 studies of 95,024 persons
@@ -23,6 +22,10 @@
 **"National and International Dimensions of Human Immunodeficiency Virus-1 Sequence Clusters in a Northern California Clinical Cohort." published in [Open Forum Infect Dis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6483754/)**
 
 **"Multiplex Solid-Phase Melt Curve Analysis for the Point-of-Care Detection of HIV-1 Drug Resistance." published in [J Mol Diagn](https://www.sciencedirect.com/science/article/pii/S1525157818302745?via%3Dihub)**
+
+**ACTG 5208 Clinical Trial [Dataset](/pages/clinicalStudyData/ACTG5208.html):**
+- Lockman S, et al., Nevirapine- versus lopinavir/ritonavir-based initial therapy for HIV-1 infection among women in Africa: a randomized trial. [PLoS Med. 2012;9(6):e1001236](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001236)
+
 
 ## February 2019
 **[Annotated dolutegravir (DTG) resistance reference library](/pages/refLib/DTG.html)**
