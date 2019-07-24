@@ -1,9 +1,9 @@
 ---
-pageTitle: HIVDB News
+pageTitle: HIVDB Updates
 introHeader: |-
   # HIVDB News
 
   News and updates about Stanford HIVDB
 content:
-  _resource: news.md
+  _resource: updates.md
 ...
