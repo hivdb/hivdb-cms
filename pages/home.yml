@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on Jul 2, 2019
+dbReleaseText: HIVDB released on Jul 29, 2019
 otherResources:
   items:
   - description: |
@@ -18,15 +18,15 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 165,194
-      protease, 174,533 RT and 21,345 integrase HIV-1 virus sequences from 184,328
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 165,749
+      protease, 175,083 RT and 21,423 integrase HIV-1 virus sequences from 184,627
       persons; 915 protease, 715 RT and 269 integrase HIV-2 virus sequences from 954
       persons.'
     icon: treatment
     link: /pages/genotype-rx.html
     title: Genotype-treatment
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      25,434 PI, 19,858 NRTI, 11,536 NNRTI and 4,606 INI susceptibility results from
+      25,434 PI, 19,858 NRTI, 11,546 NNRTI and 4,606 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     link: /pages/genotype-phenotype.html
@@ -39,7 +39,7 @@ queryPages:
     link: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
-      [1,661 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [138 references](/pages/new_submissions.html) collected since 2019-01-01.
+      [1,663 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [139 references](/pages/new_submissions.html) collected since 2019-01-01.
 
       [3,042 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 42 new submissions from Genbank release on 2019-04-15.
     icon: references
@@ -47,9 +47,7 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
-- caption: |-
-    HIVDB Algorithm  
-    Version 8.8
+- caption: "HIVDB Algorithm  \nVersion 8.8"
   description: Feb 13, 2019
   image: slide-hivdb.png
   link: /dr-summary/resistance-notes/INSTI/
