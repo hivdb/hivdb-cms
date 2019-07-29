@@ -33,7 +33,7 @@ queryPages:
     title: Genotype-phenotype
   - description: |-
       [Clinical outcome data](/pages/genotype-clinical.html) comprising
-      genotype, treatments, plasma HIV-1 RNA levels and CD4 counts from 13
+      genotype, treatments, plasma HIV-1 RNA levels and CD4 counts from 14
       clinical trials and >1500 Treatment-Change Episodes
     icon: clinical
     link: /pages/genotype-clinical.html
