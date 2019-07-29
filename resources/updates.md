@@ -1,5 +1,7 @@
 
 ## July 2019
+**ACTG 5275 Clinical Trial [Dataset](/pages/clinicalStudyData/ACTG5275.html):**
+- Lennox JL, et al., Efficacy and tolerability of 3 nonnucleoside reverse transcriptase inhibitor-sparing antiretroviral regimens for treatment-naive volunteers infected with HIV-1: a randomized, controlled equivalence trial. [Ann Intern Med. 2014 Oct 7;161(7):461-71](https://annals.org/aim/fullarticle/1911116/efficacy-tolerability-3-nonnucleoside-reverse-transcriptase-inhibitor-sparing-antiretroviral-regimens)
 
 **"Amino Acid Prevalence of HIV-1 pol Mutations by Direct PCR and Single Genome Sequencing" published in [AIDS Res Human Retrovirus](https://www.liebertpub.com/doi/abs/10.1089/AID.2018.0289)**
 - Contains meta-analysis of data from the [HIV-1 pol Single Genome Sequence Database page](/project/sgs/)
