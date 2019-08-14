@@ -60,7 +60,7 @@ slideItems:
 - bgColor: '#dccb92'
   caption: "Integrase DRMs  \nfor Transmitted  \nResistance\nSurveillance"
   description: "[DRMs proposed](/page/insti-sdrm-list/) /  \n[Added to CPR analysis](/cpr/)
-    /  \n[Criteria and rational](/pages/pdf/Tzou.2019.JAC.pdf)"
+    /  \n[Criteria and rational](/pages/pdf/Tzou.2019.pdf)"
   link: /page/insti-sdrm-list/
   type: text
 - caption: Sierra 2.3.2
@@ -77,7 +77,7 @@ slideItems:
   link: /page/surveillance-map/
   type: text
 - bgColor: '#dccb92'
-  caption: "Typical and  \nAtypical Mutations  \nfor Sequence QA/QC"
-  description: Version 2019.4
+  caption: "Usual and  \nUnusual Mutations  \nfor Sequence QA/QC"
+  description: Version 2019.8
   link: https://github.com/hivdb/hivfacts
   type: text

@@ -1,0 +1,201 @@
+---
+output:
+  html_document:
+    code_folding: hide
+---
+<style type="text/css">
+.main-container {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+}
+</style>
+<base target="_blank" />
+This document describes the steps we applied to create the list of signature APOBEC mutations and the list of APOBEC-context drug resistance mutations (DRMs). The structured data of signature APOBEC mutations and APOBEC-context DRMs have been released to public domain. An user can download the data, and the Java/Python library that contains the data from this GitHub repository: https://github.com/hivdb/hivfacts.
+
+```{r, load-libs, echo=F, message=F}
+library(DT)
+library(tidyr)
+library(knitr)
+library(dplyr)
+library(scales)
+require(arsenal)
+library(ggplot2)
+library(jsonlite)
+library(kableExtra)
+library(matrixStats)
+```
+
+```{r}
+WORKDIR = "~/Dropbox/APOBECs"
+CODONPCNTS_JSON = "~/gitrepo/hivfacts/local/apobecs/codonpcnt_for_apobecs.json"
+ALL_APOBECS_CSV = "~/gitrepo/hivfacts/local/apobecs/apobecs_all.csv"
+APOBECS_2019_CSV = "~/Dropbox/APOBECs/APBOECs20190812.csv"
+APOBECS_2019_JSON = "~/Dropbox/APOBECs/APBOECs20190812.json"
+APOBEC_DRMS_JSON = "~/Dropbox/APOBECs/APBOEC_DRMs20190812.json"
+
+THRESHOLD_TARGET_AA_PCNT = 0.5
+THRESHOLD_TARGET_CODON_PCNT = 0.01
+THRESHOLD_TARGET_CODON_COUNT = 1000
+
+THRESHOLD_MUTATED_CODON_PCNT_MAJOR_SUBTYPE = 0.01
+THRESHOLD_MUTATED_CODON_PCNT_OTHER_SUBTYPE = 0.02
+
+THRESHOLD_MAX_MUTATED_AA_PCNT = 0.005
+THRESHOLD_STOP_RATE_FOR_ONE_IN_THOUSAND = 0.4
+THRESHOLD_STOP_RATE_FOR_ONE_IN_TEN_THOUSANDS = 0.3
+
+setwd(WORKDIR)
+
+codonpcnts_data = read_json(CODONPCNTS_JSON, simplifyVector = T)
+codonpcnts_data = codonpcnts_data[codonpcnts_data$percent > THRESHOLD_TARGET_CODON_PCNT, ]
+apobec_list = read.csv(ALL_APOBECS_CSV)
+apobec_list$is_drm = apobec_list$is_drm == 'True'
+apobec_list$lookup_key = sprintf("%s%d%s", apobec_list$gene, apobec_list$codon_pos, apobec_list$mutated_aa)
+apobec_list$mutated_codon_prevalence_major_subtype = rowMaxs(
+  cbind(
+    apobec_list$mutated_codon_prevalence_A,
+    apobec_list$mutated_codon_prevalence_B,
+    apobec_list$mutated_codon_prevalence_C,
+    apobec_list$mutated_codon_prevalence_CRF01_AE,
+    apobec_list$mutated_codon_prevalence_CRF02_AG
+  )
+)
+apobec_list$mutated_codon_prevalence_major_subtype[is.na(apobec_list$mutated_codon_prevalence_major_subtype)] = 0
+apobec_list$mutated_codon_prevalence_others[is.na(apobec_list$mutated_codon_prevalence_others)] = 0
+
+human_apobec_list = data.frame(
+  Lookup=apobec_list$lookup_key,
+  Gene=apobec_list$gene,
+  Position=apobec_list$codon_pos,
+  MutationPattern=sprintf("%s => %s", apobec_list$target_aas, apobec_list$mutated_aa),
+  TotalPersons=apobec_list$pos_total,
+  TargetAAPcnt=apobec_list$target_aa_prevalence,
+  TargetCodonPcnt=apobec_list$target_codon_prevalence,
+  MutatedAAPcnt=apobec_list$mutated_aa_prevalence,
+  MutatedAACount=apobec_list$mutated_aa_prevalence * apobec_list$pos_total,
+  StopsPcnt=apobec_list$pcnt_stops_all,
+  MaxMajorSubtypePcnt=apobec_list$mutated_codon_prevalence_major_subtype,
+  MaxGT100SubtypePcnt=apobec_list$mutated_codon_prevalence_others
+)
+```
+
+## Method
+
+### Signature APOBEC Mutations
+```{r, warning=F}
+step_1a = apobec_list[apobec_list$target_aa_prevalence > THRESHOLD_TARGET_AA_PCNT,]
+all_target_aas = subset(step_1a, select = c(gene, codon_pos, target_aas))
+all_target_aa_count = aggregate(
+  target_aas ~ gene + codon_pos,
+  data=all_target_aas,
+  FUN=function(...) {
+    length(unique(strsplit(paste(..., sep="", collapse=""), split="")[[1]]))
+  })
+
+step_1b = step_1a[
+  step_1a$target_codon_prevalence > THRESHOLD_TARGET_CODON_PCNT |
+  step_1a$target_codon_prevalence * step_1a$pos_total > THRESHOLD_TARGET_CODON_COUNT
+,]
+step_1b = step_1b[rowSums(is.na(step_1b)) != ncol(step_1b),]
+
+all_target_codons = subset(step_1b, select = c(gene, codon_pos, codon_pairs))
+colnames(all_target_codons) = c("gene", "position", "codon")
+all_target_codons = aggregate(
+  codon ~ gene + position,
+  data=all_target_codons,
+  FUN=function(...) {
+    codons = substr(strsplit(paste(..., sep=", ", collapse=""), split=", ")[[1]], 1, 3)
+    return(unique(codons))
+  }) %>% unnest(codon)
+qualified_target_codons = inner_join(all_target_codons, codonpcnts_data, by=c("gene", "position", "codon"))
+```
+
+Step 1: We identified all positions in PR, RT, and IN for which >`r sprintf("%.0f%%", THRESHOLD_TARGET_AA_PCNT * 100)` of amino acids represented a potential target for APOBEC 3F or 3G including glycine (GGN), arginine (AGR and rarely CGR), glutamic acid (GAR), aspartic acid (GAY), tryptophan (TGG), and methionine (ATG; when the following codon begins with an A or G) (`r sum(all_target_aa_count$target_aas)` amino acids). We identified all codons encoding APOBEC targets excluding those targets that occurred in fewer than `r sprintf("%.1f%%", THRESHOLD_TARGET_CODON_PCNT * 100)` of sequences (`r nrow(qualified_target_codons)` codons).
+
+Step 2: We then identified all possible amino acid mutations that could result from the actions of APOBEC 3F or 3G on the potential APOBEC codon targets either once or twice, if the codon resulting from APOBEC editing was also a potential target: (`r nrow(step_1b)` amino acid mutations).
+
+```{r}
+step_3a0 = step_1b[!step_1b$is_drm,]
+step_3a1 = step_3a0[step_3a0$mutated_aa_prevalence <= THRESHOLD_MAX_MUTATED_AA_PCNT,]
+step_3a2 = step_3a1[step_3a1$mutated_codon_prevalence_major_subtype <= THRESHOLD_MUTATED_CODON_PCNT_MAJOR_SUBTYPE,]
+step_3a2k = step_3a1[step_3a1$mutated_codon_prevalence_major_subtype > THRESHOLD_MUTATED_CODON_PCNT_MAJOR_SUBTYPE,]
+
+
+
+
+step_3a3 = step_3a2[step_3a2$mutated_codon_prevalence_others <= THRESHOLD_MUTATED_CODON_PCNT_OTHER_SUBTYPE,]
+step_3b1 = step_3a3[step_3a3$mutated_aa_prevalence <= 0.001 | step_3a3$pcnt_stops_all > THRESHOLD_STOP_RATE_FOR_ONE_IN_THOUSAND, ]
+step_3b2 = step_3b1[step_3b1$mutated_aa_prevalence <= 0.0001 | step_3b1$pcnt_stops_all > THRESHOLD_STOP_RATE_FOR_ONE_IN_TEN_THOUSANDS, ]
+```
+
+Step 3: Each of the APOBEC-context mutations were then examined for their prevalence in ART-naïve and ART-experienced viruses according to subtype and their association with stop codons (W=>*) and active site mutations (PR: D25N; RT: D110N, D185N, D186N; IN: D64N, D116N, E152K).
+
+APOBEC-context mutations were excluded if they (1) were DRMs (`r nrow(step_1b) - nrow(step_3a0)` removed); (2) were polymorphic: (i) a group M prevalence >`r sprintf("%.1f%%", THRESHOLD_MAX_MUTATED_AA_PCNT * 100)` (`r nrow(step_3a0) - nrow(step_3a1)` removed); (ii) a prevalence >`r sprintf("%.0f%%", THRESHOLD_MUTATED_CODON_PCNT_MAJOR_SUBTYPE * 100)` in one of the five most common subtypes (A, B, C, 01, and 02) (`r nrow(step_3a1) - nrow(step_3a2)` removed); (iii) >`r sprintf("%.0f%%", THRESHOLD_MUTATED_CODON_PCNT_OTHER_SUBTYPE * 100)` in a subtype for which >200 sequences were available (`r nrow(step_3a2) - nrow(step_3a3)` removed); and (3) were neither highly unusual nor strongly associated with stop codons and active site mutations: candidate mutations with a group M prevalence >0.1% were excluded if they occurred in sequences for which fewer than `r sprintf("%.0f%%", THRESHOLD_STOP_RATE_FOR_ONE_IN_THOUSAND * 100)` had either a stop codon or an active site mutation (`r nrow(step_3a3) - nrow(step_3b1)` removed). Candidate mutations with a group M prevalence between 0.01% and 0.1% were excluded if they occurred in sequences for which fewer than `r sprintf("%.0f%%", THRESHOLD_STOP_RATE_FOR_ONE_IN_TEN_THOUSANDS * 100)` had either a stop codon or an active site mutation (`r nrow(step_3b1) - nrow(step_3b2)` removed).
+
+After removing the above mentioned `r nrow(step_1b) - nrow(step_3b2)` mutations, we found the signature APOBEC-mediated mutation list contains `r nrow(step_3b2)` APOBEC mutations.
+
+### APOBEC context DRMs
+
+```{r}
+apobec_drms = step_1a[step_1a$is_drm,]
+```
+
+Among the positions in PR, RT, and IN for which >`r sprintf("%.0f%%", THRESHOLD_TARGET_AA_PCNT * 100)` of amino acids represented a potential target, we identified `r nrow(apobec_drms)` APOBEC context mutations were considered drug resistance mutations.
+
+
+## Results
+
+```{r}
+apobecs_2019 = step_3b2
+write.table(
+  data.frame(
+    apobecs_2019$gene,
+    apobecs_2019$codon_pos,
+    apobecs_2019$mutated_aa
+  ),
+  file = APOBECS_2019_CSV,
+  sep = ",",
+  row.names = F,
+  col.names = F
+)
+write_json(data.frame(
+  gene = apobecs_2019$gene,
+  position = apobecs_2019$codon_pos,
+  hm = apobecs_2019$mutated_aa
+), APOBECS_2019_JSON)
+
+write_json(data.frame(
+  gene = apobec_drms$gene,
+  position = apobec_drms$codon_pos,
+  hm = apobec_drms$mutated_aa
+), APOBEC_DRMS_JSON)
+```
+
+List of the `r nrow(apobecs_2019)` APOBEC mutations:
+```{r}
+  human_apobecs_2019 = human_apobec_list[human_apobec_list$Lookup %in% apobecs_2019$lookup_key,]
+  human_apobecs_2019 = subset(human_apobecs_2019, select = -c(Lookup))
+  colnames(human_apobecs_2019) = c('Gene', 'Pos', 'Mut', '# Pt', '% TgtAA', '% TgtCodon', '% MutAA', '# MutAA', '% Stop', '% Major Subtype', '% Other Subtype')
+  human_apobecs_2019 %>%
+    mutate_at(vars(matches("%")), function(x) ifelse(is.na(x), NA, percent(x))) %>%
+    datatable(
+      rownames = FALSE,
+      extensions = 'Buttons',
+      options = list(pageLength = 20, dom = 'Bfrtip', buttons = c('copy', 'csv', 'excel', 'pdf', 'print')))
+```
+
+```{r}
+apobec_drm_list = c()
+for (rowidx in 1:nrow(apobec_drms)) {
+  apobec_drm_list = c(
+    apobec_drm_list,
+    paste(apobec_drms[rowidx, 'gene'], ":",
+          apobec_drms[rowidx, 'codon_pos'],
+          apobec_drms[rowidx, 'mutated_aa'], sep=''))
+}
+apobec_drm_list = paste(apobec_drm_list, collapse = ", ")
+```
+
+List of the `r nrow(apobec_drms)` APOBEC context DRMs: `r apobec_drm_list`.

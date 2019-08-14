@@ -1,3 +1,8 @@
+## August 2019
+**Update of Signature APOBEC mutations and other lists**
+- First time since 2016 we updated the list of signature APOBEC mutations and the list of APOBEC context drug resistance mutations. ([list & rules](/page/apobecs/))
+- The usual and unusual mutations list were updated according to the latest HIVDB database.
+- The Sierra program version has been updated to 2.3.3 (2019-08-13) accordingly to refect the above two updates.
 
 ## July 2019
 **ACTG 5275 Clinical Trial [Dataset](/pages/clinicalStudyData/ACTG5275.html):**

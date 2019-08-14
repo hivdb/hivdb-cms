@@ -40,7 +40,8 @@ deploy-prod: build
 		--mount type=bind,source=$(HOME)/.aws,target=/root/.aws,readonly \
 		--mount type=bind,source=$(PWD),target=/app,readonly \
 		--rm -it hivdb/hivdb-cms-builder:latest \
-		aws s3 sync /app/build s3://cms.hivdb.org/prod --delete
+		aws s3 sync /app/build s3://cms.hivdb.org/prod \
+		--delete --cache-control max-age=600
 
 deploy-all: deploy-localhost deploy-staging deploy-staging2 deploy-prod
 
