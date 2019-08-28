@@ -1,4 +1,7 @@
 ## August 2019
+**Update to HIVDB phenotype queries:**
+- Retrieved datasets downloadable as tab-delimited file
+
 **Update of Signature APOBEC mutations and other lists**
 - First time since 2016 we updated the list of signature APOBEC mutations and the list of APOBEC context drug resistance mutations. ([list & rules](/page/apobecs/))
 - The usual and unusual mutations list were updated according to the latest HIVDB database.
@@ -34,6 +37,9 @@
 **ACTG 5208 Clinical Trial [Dataset](/pages/clinicalStudyData/ACTG5208.html):**
 - Lockman S, et al., Nevirapine- versus lopinavir/ritonavir-based initial therapy for HIV-1 infection among women in Africa: a randomized trial. [PLoS Med. 2012;9(6):e1001236](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001236)
 
+## March 2019
+**Update to HIVDB phenotype queries:**
+- added HIV2 phenotypes
 
 ## February 2019
 **[Annotated dolutegravir (DTG) resistance reference library](/pages/refLib/DTG.html)**
