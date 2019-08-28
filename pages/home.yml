@@ -63,11 +63,11 @@ slideItems:
     /  \n[Criteria and rational](/pages/pdf/Tzou.2019.pdf)"
   link: /page/insti-sdrm-list/
   type: text
-- caption: Sierra 2.3.2
+- caption: Sierra 2.3.3
   description: |-
     [release notes](/page/release-notes/) / [web service](/page/webservice/)
 
-    Jul 17, 2019
+    Aug 13, 2019
   image: slide-sierra.png
   link: /page/release-notes/
   type: image
