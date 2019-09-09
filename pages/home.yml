@@ -47,6 +47,11 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
+- bgColor: '#dccb92'
+  caption: "Reference Library:  \nHIV-2  \nResistance"
+  description: A body of literatures reviewed, annotated and searchable
+  link: /pages/refLib/HIV2.html
+  type: text
 - caption: "HIVDB Algorithm  \nVersion 8.8"
   description: Feb 13, 2019
   image: slide-hivdb.png
