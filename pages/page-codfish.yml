@@ -1,0 +1,9 @@
+---
+pageTitle: CodFISH File Format
+introHeader: |-
+  # CodFISH File Format
+
+  A file format for HIVDB Sequence Reads Interpretation Program
+content:
+  _resource: codfish.md
+...

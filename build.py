@@ -55,6 +55,7 @@ def main():
                 json.dump(data, jsonfp)
                 print('create: {}'.format(jsonpath))
     copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'images'))
+    copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'downloads'))
 
 
 if __name__ == '__main__':
