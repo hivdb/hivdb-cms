@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on Jul 29, 2019
+dbReleaseText: HIVDB released on September 9, 2019
 otherResources:
   items:
   - description: |
@@ -18,15 +18,15 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 165,749
-      protease, 175,083 RT and 21,423 integrase HIV-1 virus sequences from 184,627
-      persons; 915 protease, 715 RT and 269 integrase HIV-2 virus sequences from 954
-      persons.'
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 168,662
+      protease, 178,122 RT and 21,549 integrase HIV-1 virus sequences from 187,693
+      persons; 1,008 protease, 788 RT and 329 integrase HIV-2 virus sequences from
+      1,091 persons.'
     icon: treatment
     link: /pages/genotype-rx.html
     title: Genotype-treatment
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      25,434 PI, 19,858 NRTI, 11,546 NNRTI and 4,606 INI susceptibility results from
+      25,434 PI, 19,858 NRTI, 11,548 NNRTI and 4,606 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     link: /pages/genotype-phenotype.html
@@ -39,9 +39,9 @@ queryPages:
     link: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
-      [1,663 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [139 references](/pages/new_submissions.html) collected since 2019-01-01.
+      [1,695 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [172 references](/pages/new_submissions.html) collected since 2019-01-01.
 
-      [3,042 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 42 new submissions from Genbank release on 2019-04-15.
+      [3,115 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 73 new submissions from Genbank release on 2019-08-15.
     icon: references
     link: /pages/references.html
     title: References
