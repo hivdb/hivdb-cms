@@ -13,6 +13,7 @@ BASEDIR = os.path.dirname(os.path.abspath(__file__))
 PAGEDIR = os.path.join(BASEDIR, 'pages')
 RESOURCEDIR = os.path.join(BASEDIR, 'resources')
 IMAGEDIR = os.path.join(BASEDIR, 'images')
+DOWNLOADDIR = os.path.join(BASEDIR, 'downloads')
 BUILDDIR = os.path.join(BASEDIR, 'build')
 
 YAML_PATTERN = re.compile(r'^(.*)\.ya?ml$')
@@ -55,7 +56,7 @@ def main():
                 json.dump(data, jsonfp)
                 print('create: {}'.format(jsonpath))
     copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'images'))
-    copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'downloads'))
+    copy_tree(DOWNLOADDIR, os.path.join(BUILDDIR, 'downloads'))
 
 
 if __name__ == '__main__':
