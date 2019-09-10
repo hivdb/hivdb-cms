@@ -50,29 +50,34 @@ slideItems:
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nHIV-2  \nResistance"
   description: A body of literatures reviewed, annotated and searchable
+  date: Sep 6, 2019
   link: /pages/refLib/HIV2.html
   type: text
 - caption: "HIVDB Algorithm  \nVersion 8.8"
-  description: Feb 13, 2019
+  description: ""
+  date: Feb 13, 2019
   image: slide-hivdb.png
   link: /dr-summary/resistance-notes/INSTI/
   type: image
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nDolutegravir  \nResistance"
   description: A body of literatures reviewed, annotated and searchable
+  date: Feb 1, 2019
   link: /pages/refLib/DTG.html
   type: text
 - bgColor: '#dccb92'
   caption: "Integrase DRMs  \nfor Transmitted  \nResistance\nSurveillance"
-  description: "[DRMs proposed](/page/insti-sdrm-list/) /  \n[Added to CPR analysis](/cpr/)
-    /  \n[Criteria and rational](/pages/pdf/Tzou.2019.pdf)"
+  description: |-
+    [DRMs proposed](/page/insti-sdrm-list/) /  
+    [Added to CPR analysis](/cpr/) /  
+    [Criteria and rational](/pages/pdf/Tzou.2019.pdf)  
+  date: July 1, 2019
   link: /page/insti-sdrm-list/
   type: text
 - caption: Sierra 2.3.3
   description: |-
     [release notes](/page/release-notes/) / [web service](/page/webservice/)
-
-    Aug 13, 2019
+  date: Aug 13, 2019
   image: slide-sierra.png
   link: /page/release-notes/
   type: image
