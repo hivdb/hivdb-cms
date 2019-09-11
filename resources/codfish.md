@@ -10,7 +10,9 @@ The HIVDB Sequence Reads Interpretation Program accepts a codon frequency table 
 ## Examples
 
 Following listed 3 CodFISH files selected from studies with Illumina FASTQ sequence read files that are available online.
-You can download the file(s) and submit one or more to  [HIVDB Interpretation Program](/hivdb/by-reads/) for analysis.
+Due to browser restriction, please **right click** the link and select "**Save Link As...**" to download the file. Left
+click the link will open the file in your browser and you have to save it through the "File" menu. Once you downloaded
+one or more CodFISH files, you can submit it/them to [HIVDB Interpretation Program](/hivdb/by-reads/) for analysis.
 
 - [SRR4071760]($$CMS_PREFIX$$downloads/codfish-examples/SRR4071760.codfish.txt)
 - [huber-patient\_7]($$CMS_PREFIX$$downloads/codfish-examples/huber-patient_7.codfish.txt)
