@@ -2,10 +2,14 @@ requirements.txt: Pipfile.lock
 	@pipenv run pip freeze > requirements.txt
 
 build-docker:
-	@docker build . -t hivdb/hivdb-cms-builder:latest
+	@docker pull python:3
+	@docker build . --no-cache -t hivdb/hivdb-cms-builder:latest
 
 push-docker: build-docker
 	@docker push hivdb/hivdb-cms-builder:latest
+
+pull-docker:
+	@docker pull hivdb/hivdb-cms-builder:latest
 
 build: build.py pages images resources
 	@rm -rf build/
