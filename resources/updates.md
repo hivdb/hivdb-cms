@@ -1,7 +1,7 @@
 ## September 2019
 **[Annotated HIV2 resistance reference library](/pages/refLib/HIV2.html)**
 
-** Database update:**
+**Database update:**
 - HIVDB: 33 new studies entered 
 - GenBank: 73 new GenBank submissions imported
 
