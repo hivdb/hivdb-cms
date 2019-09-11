@@ -9,35 +9,12 @@ The HIVDB Sequence Reads Interpretation Program accepts a codon frequency table 
 
 ## Examples
 
-Following listed CodFISH files from 8 studies with Illumina FASTQ sequence read files that are available online (SRA or Zenodo).
-You can download the zipball of either study, decompress the `.codfish` files into a local folder, and submit one or more
-`.codfish` files to [HIVDB Interpretation Program](/hivdb/by-reads/) for analysis.
+Following listed 3 CodFISH files selected from studies with Illumina FASTQ sequence read files that are available online.
+You can download the file(s) and submit one or more to  [HIVDB Interpretation Program](/hivdb/by-reads/) for analysis.
 
-1. [Avila-Ríos S (2016)][avila-rios-2016-pubmed]: [257 CodFISH files (zipball)][avila-rios-2016-download]
-2. [Dalmat RR (2018)][dalmat-2018-pubmed]: [112 CodFISH files (zipball)][dalmat-2018-download]
-3. [Huber M (2016)][huber-2016-pubmed]: [34 CodFISH files (zipball)][huber-2016-download]
-4. [Jair K (2019)][jair-2019-pubmed]: [42 CodFISH files (zipball)][jair-2019-download]
-5. [Moscona R (2017)][moscona-2017-pubmed]: [80 CodFISH files (zipball)][moscona-2017-download]
-6. [Nguyen T (2018)][nguyen-2018-pubmed]: [134 CodFISH files (zipball)][nguyen-2018-download]
-7. [Ode H (2015)][ode-2015-pubmed]: [92 CodFISH files (zipball)][ode-2015-download]
-8. [Telele NF (2019)][telele-2019-pubmed]: [109 CodFISH files (zipball)][telele-2019-download]
-
-[avila-rios-2016-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/27736898
-[dalmat-2018-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/30305383
-[huber-2016-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/27867045
-[jair-2019-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/30964884
-[moscona-2017-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/28799325
-[nguyen-2018-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/29873733
-[ode-2015-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/26617593
-[telele-2019-pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/29765082
-[avila-rios-2016-download]: $$CMS_PREFIX$$downloads/codfish-examples/avila-rios-2016-nicaragua-pmid27736898.zip
-[dalmat-2018-download]: $$CMS_PREFIX$$downloads/codfish-examples/dalmat-2018-pmid30305383.zip
-[huber-2016-download]: $$CMS_PREFIX$$downloads/codfish-examples/huber-2016-pmid27867045.zip
-[jair-2019-download]: $$CMS_PREFIX$$downloads/codfish-examples/jair-2019-pmid30964884.zip
-[moscona-2017-download]: $$CMS_PREFIX$$downloads/codfish-examples/moscona-2017-pmid28799325.zip
-[nguyen-2018-download]: $$CMS_PREFIX$$downloads/codfish-examples/nguyen-2018-pmid29873733.zip
-[ode-2015-download]: $$CMS_PREFIX$$downloads/codfish-examples/ode-2015-pmid26617593.zip
-[telele-2019-download]: $$CMS_PREFIX$$downloads/codfish-examples/telele-2019-pmid29765082.zip
+- [SRR4071760]($$CMS_PREFIX$$downloads/codfish-examples/SRR4071760.codfish.txt)
+- [huber-patient\_7]($$CMS_PREFIX$$downloads/codfish-examples/huber-patient_7.codfish.txt)
+- [DRR030302]($$CMS_PREFIX$$downloads/codfish-examples/DRR030302.codfish.txt)
 
 
 ## Create .codfish file from .fastq file
