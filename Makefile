@@ -11,12 +11,20 @@ push-docker: build-docker
 pull-docker:
 	@docker pull hivdb/hivdb-cms-builder:latest
 
+debug:
+	@docker run \
+		--mount type=bind,source=$(PWD),target=/app \
+		--workdir /app --rm -it \
+		hivdb/hivdb-cms-builder:latest \
+		bash
+
 build: build.py pages images resources
 	@rm -rf build/
 	@docker run \
 		--mount type=bind,source=$(PWD),target=/app \
-		--rm -it hivdb/hivdb-cms-builder:latest \
-		python /app/build.py
+		--workdir /app --rm -it \
+		hivdb/hivdb-cms-builder:latest \
+		python build.py
 
 deploy-localhost: build
 	@docker run \

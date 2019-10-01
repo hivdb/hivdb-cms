@@ -3,6 +3,7 @@
 import os
 import re
 import json
+import subprocess
 from datetime import datetime
 
 import yaml
@@ -19,13 +20,30 @@ BUILDDIR = os.path.join(BASEDIR, 'build')
 YAML_PATTERN = re.compile(r'^(.*)\.ya?ml$')
 
 
+def getmtime(resource_path):
+    print(resource_path)
+    proc = subprocess.run(
+        ['git', 'status', '-s', resource_path],
+        stdout=subprocess.PIPE, check=True
+    )
+    if not proc.stdout:
+        proc = subprocess.run(
+            ['git', 'log', '-1', '--date', 'unix', resource_path],
+            stdout=subprocess.PIPE, check=True
+        )
+        for row in proc.stdout.splitlines():
+            if row.startswith(b'Date:'):
+                return float(row[5:].strip())
+    return os.path.getmtime(resource_path)
+
+
 def load_resources(data):
     mtime = 0
     if isinstance(data, dict):
         for key, val in data.items():
             if isinstance(val, dict) and '_resource' in val:
                 resource_path = os.path.join(RESOURCEDIR, val['_resource'])
-                mtime = max(os.path.getmtime(resource_path), mtime)
+                mtime = max(getmtime(resource_path), mtime)
                 with open(resource_path) as fp:
                     data[key] = fp.read()
             mtime = max(load_resources(val), mtime)
@@ -42,7 +60,7 @@ def main():
             if not YAML_PATTERN.match(filename):
                 continue
             yamlpath = os.path.join(folder, filename)
-            mtime = os.path.getmtime(yamlpath)
+            mtime = getmtime(yamlpath)
             rel_yamlpath = os.path.relpath(yamlpath, BASEDIR)
             jsonpath = os.path.join(
                 BUILDDIR, YAML_PATTERN.sub(r'\1.json', rel_yamlpath))

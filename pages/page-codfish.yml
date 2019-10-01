@@ -6,4 +6,5 @@ introHeader: |-
   A file format for HIVDB Sequence Reads Interpretation Program
 content:
   _resource: codfish.md
+toc: true
 ...

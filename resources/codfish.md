@@ -19,7 +19,7 @@ one or more CodFISH files, you can submit it/them to [HIVDB Interpretation Progr
 - [DRR030302]($$CMS_PREFIX$$downloads/codfish-examples/DRR030302.codfish.txt)
 
 
-## Create .codfish file from .fastq file
+## Create `.codfish` file from `.fastq` file
 
 1. Install Docker CE (https://docs.docker.com/install/).
 
