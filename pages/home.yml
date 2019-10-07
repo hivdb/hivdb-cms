@@ -47,18 +47,25 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
+- caption: "HIVDB Algorithm  \nVersion 8.9"
+  description: ""
+  date: Oct 07, 2019
+  image: slide-hivdb.png
+  link: /page/algorithm-updates/#version.8.9.update.2019-10-07
+  type: image
+- caption: Sierra 2.3.5
+  description: |-
+    [release notes](/page/release-notes/) / [web service](/page/webservice/)
+  date: Oct 07, 2019
+  image: slide-sierra.png
+  link: /page/release-notes/
+  type: image
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nHIV-2  \nResistance"
   description: A body of literatures reviewed, annotated and searchable
   date: Sep 6, 2019
   link: /pages/refLib/HIV2.html
   type: text
-- caption: "HIVDB Algorithm  \nVersion 8.8"
-  description: ""
-  date: Feb 13, 2019
-  image: slide-hivdb.png
-  link: /dr-summary/resistance-notes/INSTI/
-  type: image
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nDolutegravir  \nResistance"
   description: A body of literatures reviewed, annotated and searchable
@@ -74,13 +81,6 @@ slideItems:
   date: July 1, 2019
   link: /page/insti-sdrm-list/
   type: text
-- caption: Sierra 2.3.4
-  description: |-
-    [release notes](/page/release-notes/) / [web service](/page/webservice/)
-  date: Sep 13, 2019
-  image: slide-sierra.png
-  link: /page/release-notes/
-  type: image
 - bgColor: '#dccb92'
   caption: "Transmitted  \nResistance  \nSurveillance Map"
   description: Published virus sequences from >95,000 ART-naïve persons over 120 countries
