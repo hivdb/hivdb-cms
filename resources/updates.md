@@ -1,3 +1,9 @@
+## October 2019
+Last month Jonathan Schapiro, Daniel Kuritzkes, and Michelle Moorhouse joined an **[Advisory Committee](/pages/Committee_HIVdb.html)** to provide recommendations for the HIV genotypic resistance interpretation system. Their input was reflected in the most recent update to the HIVDB algorithm - version 8.9. This update included score changes and updated comments for the NNRTI class (particularly doravirine) and for the INSTI class (particularly DTG and BIC).
+
+**[HIVDB Algorithm version 8.9](/page/algorithm-updates/#version.8.9.update.2019-10-07)**
+- Updated INSTI and NNRTI scores and comments
+
 ## September 2019
 **[Annotated HIV2 resistance reference library](/pages/refLib/HIV2.html)**
 
