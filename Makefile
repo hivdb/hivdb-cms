@@ -18,7 +18,7 @@ debug:
 		hivdb/hivdb-cms-builder:latest \
 		bash
 
-build: build.py pages images resources
+build: build.py pages images resources downloads
 	@rm -rf build/
 	@docker run \
 		--mount type=bind,source=$(PWD),target=/app \
