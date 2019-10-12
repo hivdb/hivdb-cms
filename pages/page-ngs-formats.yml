@@ -1,0 +1,10 @@
+---
+pageTitle: Codon Frequency Table and Compatible Formats
+introHeader: |-
+  # Codon Frequency Table and Compatible Formats
+
+  File format for HIVDB Sequence Reads Interpretation Program
+content:
+  _resource: ngs-formats.md
+toc: true
+...
