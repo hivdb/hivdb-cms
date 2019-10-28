@@ -18,6 +18,10 @@ HIVdb-NGS (beta) accepts user-submitted protease, RT, and/or integrase codon fre
 
 Below are three example CodFreq files, which can be viewed in your browser by clicking on them. These files can also be downloaded and viewed in Microsoft Excel. These same three files can be uploaded to HIVdb-NGS (beta) by clicking on the [Load Example Data](/hivdb/by-reads/) link on the Input sequence reads form.
 
+- [SRR4071760]($$CMS_PREFIX$$downloads/codfreq-examples/SRR4071760.codfreq.txt)
+- [SRX3881674]($$CMS_PREFIX$$downloads/codfreq-examples/SRX3881674.codfreq.txt)
+- [DRR030302]($$CMS_PREFIX$$downloads/codfreq-examples/DRR030302.codfreq.txt)
+
 These example files were generated from FASTQ files in the [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra). We have also created a library of FASTQ and CodFreq files from the NCBI (SRA) which are available [here](http://ngs-meta-fastq.hivdb.org/). The steps required to convert a FASTQ file or SAM file to a CodFreq file can be found [here](/page/codfreq/).
 
 Amino Acid Variant Format (AAVF)
