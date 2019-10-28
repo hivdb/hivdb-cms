@@ -15,8 +15,30 @@ click the link will open the file in your browser and you have to save it throug
 one or more CodFreq files, you can submit it/them to [HIVDB Interpretation Program](/hivdb/by-reads/) for analysis.
 
 - [SRR4071760]($$CMS_PREFIX$$downloads/codfreq-examples/SRR4071760.codfreq.txt)
-- [huber-patient\_7]($$CMS_PREFIX$$downloads/codfreq-examples/huber-patient_7.codfreq.txt)
+- [SRX3881674]($$CMS_PREFIX$$downloads/codfreq-examples/SRX3881674.codfreq.txt)
 - [DRR030302]($$CMS_PREFIX$$downloads/codfreq-examples/DRR030302.codfreq.txt)
+
+
+## Create `.codfreq` file from `.sam`/`.bam` file
+
+The `.sam` or `.bam` files are the alignment output from many multiple sequence alignment tools such as Bowtie2, BWA, SNAP, etc.
+
+1. Install Docker CE (https://docs.docker.com/install/).
+
+2. Download script:
+
+   ```bash
+   sudo curl -sL https://raw.githubusercontent.com/hivdb/codfreq/master/bin/sam2codfreq-docker -o /usr/local/bin/sam2codfreq
+   sudo chmod +x /usr/local/bin/sam2codfreq
+   ```
+
+3. Use following command to process FASTQ files and generate CodFreq files.
+
+   ```bash
+   sam2codfreq /path/to/folders/containing/sam-bam/files
+   ```
+   The script will automatically find every file named with an extension of `.sam` or `.bam`, then extract the codon freqency
+   table into `.codfreq` file.
 
 
 ## Create `.codfreq` file from `.fastq` file
@@ -26,7 +48,7 @@ one or more CodFreq files, you can submit it/them to [HIVDB Interpretation Progr
 2. Download script:
 
    ```bash
-   sudo curl -sL https://raw.githubusercontent.com/hivdb/codfreq/master/bin/fastq2codfish-docker -o /usr/local/bin/fastq2codfreq
+   sudo curl -sL https://raw.githubusercontent.com/hivdb/codfreq/master/bin/fastq2codfreq-docker -o /usr/local/bin/fastq2codfreq
    sudo chmod +x /usr/local/bin/fastq2codfreq
    ```
 

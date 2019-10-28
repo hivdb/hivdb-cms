@@ -1,0 +1,10 @@
+---
+pageTitle: Codon Frequency Table File Format
+introHeader: |-
+  # Codon Frequency Table File Format
+
+  File format for HIVDB Sequence Reads Interpretation Program
+content:
+  _resource: codfreq.md
+toc: true
+...

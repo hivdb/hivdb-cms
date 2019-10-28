@@ -47,18 +47,18 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
+- caption: Sierra 2.4.0
+  description: |-
+    [release notes](/page/release-notes/) / [web service](/page/webservice/)
+  date: Oct 24, 2019
+  image: slide-sierra.png
+  link: /page/release-notes/
+  type: image
 - caption: "HIVDB Algorithm  \nVersion 8.9"
   description: ""
   date: Oct 07, 2019
   image: slide-hivdb.png
   link: /page/algorithm-updates/#version.8.9.update.2019-10-07
-  type: image
-- caption: Sierra 2.3.5
-  description: |-
-    [release notes](/page/release-notes/) / [web service](/page/webservice/)
-  date: Oct 07, 2019
-  image: slide-sierra.png
-  link: /page/release-notes/
   type: image
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nHIV-2  \nResistance"
