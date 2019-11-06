@@ -26,7 +26,7 @@ These example files were generated from FASTQ files in the [NCBI Sequence Read A
 
 Amino Acid Variant Format (AAVF)
 
-HIVdb-NGS (beta) also accepts another file format called the AAVF which was developed by the [Winnipeg Consensus](http://www.winnipegconsensus.org/). More information about this format can be found [here](https://github.com/winhiv/aavf-spec).
+HIVdb-NGS (beta) also accepts another file format called the AAVF which was developed by the [Winnipeg Consensus](https://doi.org/10.1002/jia2.25193). More information about this format can be found [here](https://github.com/winhiv/aavf-spec).
 
 
 

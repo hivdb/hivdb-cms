@@ -1,0 +1,11 @@
+---
+pageTitle: HIVDB Algorithm Updates
+introHeader: |-
+  # HIVDB Algorithm Updates
+
+  [All archived versions](/DR/asi/releaseNotes/updates.html)
+content:
+  _resource: algorithm-updates.md
+toc: false
+escapeHtml: false
+...
