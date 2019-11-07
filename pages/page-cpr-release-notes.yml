@@ -1,0 +1,11 @@
+---
+pageTitle: CPR Release Notes
+introHeader: |-
+  # CPR Release Notes
+
+  Calibrated Population Resistance Tool
+content:
+  _resource: cpr-release-notes.md
+toc: true
+escapeHtml: false
+...

@@ -29,11 +29,12 @@ def getmtime(resource_path):
     if not proc.stdout:
         proc = subprocess.run(
             ['git', 'log', '-1', '--date', 'unix', resource_path],
-            stdout=subprocess.PIPE, check=True
+            stdout=subprocess.PIPE, check=False
         )
-        for row in proc.stdout.splitlines():
-            if row.startswith(b'Date:'):
-                return float(row[5:].strip())
+        if proc.returncode == 0:
+            for row in proc.stdout.splitlines():
+                if row.startswith(b'Date:'):
+                    return float(row[5:].strip())
     return os.path.getmtime(resource_path)
 
 
