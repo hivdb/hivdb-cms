@@ -1,0 +1,11 @@
+---
+pageTitle: XML 2009 Spec
+introHeader: |-
+  # XML 2009
+
+  A Sierra report option
+content:
+  _resource: xml-2009-spec.md
+toc: true
+escapeHtml: false
+...

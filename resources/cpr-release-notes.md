@@ -42,16 +42,16 @@ The QA criteria for sequence inclusion and SDRM exclusion is listed in [appendix
 
 The following proportions of sequences containing an SDRM are calculated. For PRRT sequences:
 
-a. proportion of sequences containing at least one NRTI, NNRTI, or PI SDRM;
-b. proportion of sequences containing at least one NRTI SDRM (whether or not NNRTI or PI SDRMs is also present);
-c. proportion of sequences containing at least one NNRTI SDRM (whether or not NRTI or PI SDRMs is also present);
-d. proportion of sequences containing at least one PI SDRM (whether or not NRTI or NNRTI SDRMs is also present);
-e. proportion of sequences containing both NRTI and NNRTI SDRMs;
-f. proportion of sequences containing NRTI, NNRTI, and PI SDRMs.
+1. proportion of sequences containing at least one NRTI, NNRTI, or PI SDRM;
+2. proportion of sequences containing at least one NRTI SDRM (whether or not NNRTI or PI SDRMs is also present);
+3. proportion of sequences containing at least one NNRTI SDRM (whether or not NRTI or PI SDRMs is also present);
+4. proportion of sequences containing at least one PI SDRM (whether or not NRTI or NNRTI SDRMs is also present);
+5. proportion of sequences containing both NRTI and NNRTI SDRMs;
+6. proportion of sequences containing NRTI, NNRTI, and PI SDRMs.
 
 For IN sequences:
 
-a. proportion of sequences containing at least one INSTI SDRM.
+1. proportion of sequences containing at least one INSTI SDRM.
 
 ### Phylogenetic analysis
 
@@ -108,15 +108,15 @@ The same table as [the first table](#number.of.input.sequences) on the Summary p
 
 Table listing the QA analysis results for each sequence and for each gene:
 
-a. **gene** - gene name (PR, RT or IN). RT, PR and IN sequences from the same individual will follow one another;
-b. **first pos** - the first amino acid position sequenced;
-c. **last pos** - the last amino acid position sequenced;
-d. **No. of stops, insertions/deletions and Xs** - the total number of stop codons + previously unpublished insertions/deletions + codons translated to X;
-e. **No. A3GF** - number of APOBEC3G/F hypermutations;
-f. **No. highly unusual** - number of highly unusual mutations;
-g. **Sequence filtered** - a check mark if the sequence does not meet a sequence inclusion criteria;
-h. **SDRM position excluded** - a list of SDRM positions excluded from counting as SDRMs if any;
-i. **Mutation list** - the complete list of amino acid differences from the consensus reference sequence. Stop codons, insertions/deletions/Xs were indicated in color orange, APOBEC3G/F hypermutations in yellow, highly unusual mutations in gray, and SDRMs in red.
+1. **gene** - gene name (PR, RT or IN). RT, PR and IN sequences from the same individual will follow one another;
+2. **first pos** - the first amino acid position sequenced;
+3. **last pos** - the last amino acid position sequenced;
+4. **No. of stops, insertions/deletions and Xs** - the total number of stop codons + previously unpublished insertions/deletions + codons translated to X;
+5. **No. A3GF** - number of APOBEC3G/F hypermutations;
+6. **No. highly unusual** - number of highly unusual mutations;
+7. **Sequence filtered** - a check mark if the sequence does not meet a sequence inclusion criteria;
+8. **SDRM position excluded** - a list of SDRM positions excluded from counting as SDRMs if any;
+9. **Mutation list** - the complete list of amino acid differences from the consensus reference sequence. Stop codons, insertions/deletions/Xs were indicated in color orange, APOBEC3G/F hypermutations in yellow, highly unusual mutations in gray, and SDRMs in red.
 
 ### Complete mutation list
 

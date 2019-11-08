@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- sierra.xsd version 1.1 -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="DrugResistance_Interpretation">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="algorithmName" type="xs:string"/>
+				<xs:element name="algorithmVersion" type="xs:string"/>
+				<xs:element name="webServiceVersion" type="xs:string"/>
+				<xs:element name="schemaVersion" type="xs:string"/>
+				<xs:element name="submissionName" type="xs:string" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="dateTime" type="xs:string" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="reportQualityAnalysis" type="xs:boolean" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="reportScoring" type="xs:boolean" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="result" type="Result" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="Result">
+		<xs:sequence>
+			<xs:element name="success" type="xs:boolean"/>
+			<xs:element name="inputSequence" type="InputSequence" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="GAHypermutated" type="xs:boolean" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="geneData" type="GeneData" minOccurs="0" maxOccurs="3"/>
+			<xs:element name="sequenceQualityCounts" type="SequenceQualityCounts" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="drugScore" type="DrugScore" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="scoreTable" type="ScoreTable" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="comment" type="MutationComment" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="drugComment" type="DrugComment" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="errorMessage" type="xs:string" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="InputSequence">
+		<xs:sequence>
+			<xs:element name="md5sum" type="xs:string"/>
+			<xs:element name="name" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="sequence" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="GeneData">
+		<xs:sequence>
+			<xs:element name="gene" type="xs:string"/>
+			<xs:element name="present" type="xs:boolean"/>
+			<xs:element name="consensus" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="alignedNASequence" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="alignedAASequence" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="firstAA" type="xs:nonNegativeInteger" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="lastAA" type="xs:nonNegativeInteger" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="subtype" type="Subtype" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="mutation" type="Mutation" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="quality" type="QualityAnalysis" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="Subtype">
+		<xs:sequence>
+			<xs:element name="type" type="xs:string"/>
+			<xs:element name="percentSimilarity" type="xs:float"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="Mutation">
+		<xs:sequence>
+			<xs:element name="classification" type="MutationClassification"/>
+			<xs:element name="type" type="MutationType"/>
+			<xs:element name="mutationString" type="xs:string"/>
+			<xs:element name="wildType" type="xs:string"/>
+			<xs:element name="position" type="xs:nonNegativeInteger"/>
+			<xs:element name="nucleicAcid" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="translatedNA" type="xs:string"/>
+			<xs:element name="insertionString" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="insertionNucleicAcid" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="insertionTranslatedNA" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="atypical" type="xs:boolean" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="GAHypermutated" type="xs:boolean" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="QualityAnalysis">
+		<xs:sequence>
+			<xs:element name="frameshift" type="Frameshift" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="ambiguous" type="xs:nonNegativeInteger" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="stop" type="xs:nonNegativeInteger" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="stopAndFrameshiftPositions" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="GAHypermutatedPositions" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="href" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="criteriaFailed" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="Frameshift">
+		<xs:sequence>
+			<xs:element name="position" type="xs:nonNegativeInteger"/>
+			<xs:element name="length" type="xs:nonNegativeInteger"/>
+			<xs:element name="rawAlignBlock" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="DrugScore">
+		<xs:sequence>
+			<xs:element name="drugCode" type="xs:string"/>
+			<xs:element name="genericName" type="xs:string"/>
+			<xs:element name="type" type="xs:string"/>
+			<xs:element name="score" type="xs:float" minOccurs="0" maxOccurs="1"/> 
+			<xs:element name="resistanceLevel" type="xs:float" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="resistanceLevelText" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="threeStepResistanceLevel" type="xs:string"/>
+			<xs:element name="partialScore" type="PartialScore" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+
+	<xs:complexType name="PartialScore">
+		<xs:sequence>
+			<xs:element name="mutation" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element name="score" type="xs:float" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="ScoreTable">
+		<xs:sequence>
+			<xs:element name="scoreRow" type="ScoreRow" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="ScoreRow">
+		<xs:sequence>
+			<xs:element name="score" type="ScoreCell" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="ScoreCell">
+		<xs:attribute name="value" type="xs:string"/>
+		<xs:attribute name="pos" type="xs:nonNegativeInteger" use="optional"/>
+		<xs:attribute name="class" type="xs:string" use="optional"/>
+		<xs:attribute name="drug" type="xs:string" use="optional"/>
+	</xs:complexType>
+
+	<xs:complexType name="MutationComment">
+		<xs:sequence>
+			<xs:element name="gene" type="xs:string"/>
+			<xs:element name="grouping" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="position" type="xs:nonNegativeInteger"/>
+			<xs:element name="commentString" type="xs:string"/>
+			<xs:element name="mutationString" type="xs:string"/>
+		</xs:sequence>
+                <xs:attribute name="id" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:complexType name="DrugComment">
+		<xs:sequence>
+			<xs:element name="gene" type="xs:string"/>
+			<xs:element name="grouping" type="xs:string" minOccurs="0" maxOccurs="1"/>
+ 			<xs:element name="position" type="xs:nonNegativeInteger" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="commentString" type="xs:string"/>
+			<xs:element name="drug" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element name="mutationString" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+                <xs:attribute name="id" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:simpleType name="MutationType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="mutation"/>
+			<xs:enumeration value="insertion"/>
+			<xs:enumeration value="deletion"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="SequenceQualityCounts">
+		<xs:sequence>
+			<xs:element name="insertions" type="xs:nonNegativeInteger"/>
+			<xs:element name="deletions" type="xs:nonNegativeInteger"/>
+			<xs:element name="ambiguous" type="xs:nonNegativeInteger"/>
+			<xs:element name="stops" type="xs:nonNegativeInteger"/>
+			<xs:element name="frameshifts" type="xs:nonNegativeInteger"/>
+		</xs:sequence>
+	</xs:complexType>
+
+
+	<xs:simpleType name="MutationClassification">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="NRTI"/>
+			<xs:enumeration value="NNRTI"/>
+			<xs:enumeration value="PI_MAJOR"/>
+			<xs:enumeration value="PI_MINOR"/>
+			<xs:enumeration value="INI_MAJOR"/>
+			<xs:enumeration value="INI_MINOR"/>
+			<xs:enumeration value="OTHER"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

@@ -1,0 +1,11 @@
+---
+pageTitle: Sierra Web Service of Stanford HIVDB
+introHeader: |-
+  # Sierra Web Service 2
+
+  A web service to allow individuals and institutions to interact programatically with the HIVDB program
+content:
+  _resource: webservice.md
+toc: true
+escapeHtml: false
+...
