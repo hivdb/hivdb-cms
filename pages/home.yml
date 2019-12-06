@@ -18,15 +18,15 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 168,662
-      protease, 178,122 RT and 21,549 integrase HIV-1 virus sequences from 187,693
-      persons; 1,008 protease, 788 RT and 329 integrase HIV-2 virus sequences from
-      1,091 persons.'
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 169,458
+      protease, 178,901 RT and 23,390 integrase HIV-1 virus sequences from 190,341
+      persons; 1,022 protease, 802 RT and 340 integrase HIV-2 virus sequences from
+      1,110 persons.'
     icon: treatment
     link: /pages/genotype-rx.html
     title: Genotype-treatment
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      25,434 PI, 19,858 NRTI, 11,548 NNRTI and 4,606 INI susceptibility results from
+      25,434 PI, 19,858 NRTI, 11,548 NNRTI and 4,907 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     link: /pages/genotype-phenotype.html
@@ -39,53 +39,49 @@ queryPages:
     link: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
-      [1,695 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [172 references](/pages/new_submissions.html) collected since 2019-01-01.
+      [1,704 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [181 references](/pages/new_submissions.html) collected since 2019-01-01.
 
-      [3,115 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 73 new submissions from Genbank release on 2019-08-15.
+      [3,149 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 34 new submissions from Genbank release on 2019-10-15.
     icon: references
     link: /pages/references.html
     title: References
   title: Query / Download
 slideItems:
 - caption: Sierra 2.4.2
-  description: |-
-    [release notes](/page/release-notes/) / [web service](/page/webservice/)
   date: Nov 1, 2019
+  description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   link: /page/release-notes/
   type: image
 - caption: "HIVDB Algorithm  \nVersion 8.9-1"
-  description: ""
   date: Nov 1, 2019
+  description: ''
   image: slide-hivdb.png
   link: /page/algorithm-updates/#version.8.9-1.update.2019-11-01
   type: image
 - caption: HIVdb-NGS (Beta)
-  description: |-
-    [release notes](/page/hivdb-ngs-release-notes/)
   date: Oct 24, 2019
+  description: '[release notes](/page/hivdb-ngs-release-notes/)'
   image: slide-ngs.png
   link: /hivdb/by-reads/
   type: image
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nHIV-2  \nResistance"
-  description: A body of literatures reviewed, annotated and searchable
   date: Sep 6, 2019
+  description: A body of literatures reviewed, annotated and searchable
   link: /pages/refLib/HIV2.html
   type: text
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nDolutegravir  \nResistance"
-  description: A body of literatures reviewed, annotated and searchable
   date: Feb 1, 2019
+  description: A body of literatures reviewed, annotated and searchable
   link: /pages/refLib/DTG.html
   type: text
 - bgColor: '#dccb92'
   caption: "Integrase DRMs  \nfor Transmitted  \nResistance\nSurveillance"
-  description: |-
-    [DRMs proposed](/page/insti-sdrm-list/) /  
-    [Added to CPR analysis](/cpr/) /  
-    [Criteria and rational](/pages/pdf/Tzou.2019.pdf)  
   date: July 1, 2019
+  description: "[DRMs proposed](/page/insti-sdrm-list/) /  \n[Added to CPR analysis](/cpr/)
+    /  \n[Criteria and rational](/pages/pdf/Tzou.2019.pdf)  "
   link: /page/insti-sdrm-list/
   type: text
 - bgColor: '#dccb92'
