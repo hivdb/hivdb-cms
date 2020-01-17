@@ -1,0 +1,11 @@
+---
+pageTitle: WHO SDRM List
+introHeader: |-
+  # The World Health Organization 2009 List of Mutations
+
+  For Surveillance of Transmitted Drug Resistant HIV Strains
+content:
+  _resource: who-sdrm-list.md
+toc: false
+escapeHtml: false
+...
