@@ -1,3 +1,6 @@
+## January 2020
+**[Sierra 2.5.0](/page/program-updates/#version.2.5.0.update.2020-01-24)** - In HIVdb, HIValg, and HIVseq program, we previously ignored a mixture consisted by more than four amino acids. We have changed this threshold to eight for reducing the chance of false negative reports.
+
 ## November 2019
 **[Sierra 2.4.2](/page/program-updates/#version.2.4.2.update.2019-11-01) and [HIVDB Algorithm 8.9-1](/page/algorithm-updates/#version.8.9-1.update.2019-11-01)** - we replaced HIVDB-implemented drug resistance score calculator by FrontierScience ASI Interpreter, which gives us more flexibility of rule customization and therefore allows us to provide more features in the near future, such as selection of HIVDB algorithm versions. HIVDB Drug Resistance Algorithm is therefore upgraded to version 8.9-1 to adopt the new "drug-level comment" syntax introduced by the latest ASI Interpreter. No change was made to the 8.9 rules or mutation comments.
 

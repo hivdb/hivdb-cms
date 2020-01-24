@@ -1,6 +1,11 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 2.5.0 update 2020-01-24
+
+1. Upgrade Java dependency from 8 to 11.
+2. Change threshold for allowed number of amino acids in a mixture from 4 to 8.
+
 ## Version 2.4.2 update 2019-11-01
 
 1. Replace HIVDB-implemented drug resistance score calculator by FrontierScience ASI Interpreter. The ASI Interpreter is 2 - 3 times slower than the original score calculator. However it provides us more flexibility through using the standard ASI files.
