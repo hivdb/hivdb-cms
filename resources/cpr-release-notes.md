@@ -13,7 +13,7 @@ Major updates since 2018:
 
 ### Query dataset
 
-CPR accepts a set of FASTA-formatted HIV-1 RT, protease (PR) or integrase (IN) gene nucleotide sequences as input sequences. Sequences can be passed into the textbox or uploaded as a file containing up to 10,000 non-interleaved FASTA sequences. Consistent with the FASTA format, each sequence should be preceded by a line containing ">" followed by a sequence name and optionally followed by additional descriptors separated by pipes ("|"). However, a neighbor-joining tree will be generated only for sequence sets with 500 or fewer sequences.
+CPR accepts a set of FASTA-formatted HIV-1 RT, protease (PR) or integrase (IN) gene nucleotide sequences as input sequences. Sequences can be passed into the textbox or uploaded as a file containing up to 10,000 FASTA sequences. Consistent with the FASTA format, each sequence should be preceded by a line containing ">" followed by a sequence name and optionally followed by additional descriptors separated by pipes ("|"). However, a neighbor-joining tree will be generated only for sequence sets with 500 or fewer sequences.
 
 ### Surveillance drug-resistance mutation (SDRM) list
 
