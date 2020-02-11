@@ -1,3 +1,11 @@
+## February 2020
+- HIVDB: 9 new studies entered 
+- GenBank: 34 new GenBank submissions imported
+
+**ACTG 5175 Clinical Trial [Dataset](/pages/clinicalStudyData/ACTG5175.html):**
+- Kantor, et al., Pretreatment HIV Drug Resistance and HIV-1 Subtype C Are Independently Associated With Virologic Failure: Results From the Multinational PEARLS (ACTG A5175) Clinical Trial [Clin Infect Dis. 2015 May 15;60(10):1541-9](https://academic.oup.com/cid/article/60/10/1541/338500)
+
+
 ## January 2020
 **[Sierra 2.5.0](/page/program-updates/#version.2.5.0.update.2020-01-24)** - In HIVdb, HIValg, and HIVseq program, we previously ignored a mixture consisted by more than four amino acids. We have changed this threshold to eight for reducing the chance of false negative reports.
 
