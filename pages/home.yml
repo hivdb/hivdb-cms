@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on December 6, 2019
+dbReleaseText: HIVDB released on February 11, 2019
 otherResources:
   items:
   - description: |
@@ -18,8 +18,8 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 169,458
-      protease, 178,901 RT and 23,390 integrase HIV-1 virus sequences from 190,341
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 170,571
+      protease, 180,016 RT and 23,783 integrase HIV-1 virus sequences from 191,685
       persons; 1,022 protease, 802 RT and 340 integrase HIV-2 virus sequences from
       1,110 persons.'
     icon: treatment
@@ -33,15 +33,15 @@ queryPages:
     title: Genotype-phenotype
   - description: |-
       [Clinical outcome data](/pages/genotype-clinical.html) comprising
-      genotype, treatments, plasma HIV-1 RNA levels and CD4 counts from 14
+      genotype, treatments, plasma HIV-1 RNA levels and CD4 counts from 15
       clinical trials and >1500 Treatment-Change Episodes
     icon: clinical
     link: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
-      [1,704 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [181 references](/pages/new_submissions.html) collected since 2019-01-01.
+      [1,714 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [190 references](/pages/new_submissions.html) collected since 2019-01-01.
 
-      [3,149 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 34 new submissions from Genbank release on 2019-10-15.
+      [3,183 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 34 new submissions from Genbank release on 2019-12-15.
     icon: references
     link: /pages/references.html
     title: References
