@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 2.5.1 update 2020-04-29
+
+Bugfix:
+
+1. Fix an issue that Sierra didn't return validation results for mutations analysis correctly.
+
 ## Version 2.5.0 update 2020-01-24
 
 1. Upgrade Java dependency from 8 to 11.

@@ -54,8 +54,8 @@ slideItems:
   image: slide-covdb.png
   link: https://covdb.stanford.edu/
   type: image
-- caption: Sierra 2.5.0
-  date: Jan 24, 2020
+- caption: Sierra 2.5.1
+  date: Apr 29, 2020
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   link: /page/release-notes/
