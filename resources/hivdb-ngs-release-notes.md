@@ -24,9 +24,9 @@ Below are three example CodFreq files, which can be viewed in your browser by cl
 
 These example files were generated from FASTQ files in the [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra). We have also created a library of FASTQ and CodFreq files from the NCBI (SRA) which are available [here](http://ngs-meta-fastq.hivdb.org/). The steps required to convert a FASTQ file or SAM file to a CodFreq file can be found [here](/page/codfreq/).
 
-Amino Acid Variant Format (AAVF)
+#### Amino Acid Variant Format (AAVF)
 
-HIVdb-NGS (beta) also accepts another file format called the AAVF which was developed by the [Winnipeg Consensus](https://doi.org/10.1002/jia2.25193). More information about this format can be found [here](https://github.com/winhiv/aavf-spec).
+HIVdb-NGS (beta) also accepts another file format called the AAVF which was developed by the [Winnipeg Consensus](https://doi.org/10.1002/jia2.25193). Files in this format are produced by several third party NGS pipelines, such as [HyDRA](https://hydra.canada.ca/pages/home) and [PASeq](https://paseq.org/). More information about this format can be found [here](https://github.com/winhiv/aavf-spec).
 
 
 
