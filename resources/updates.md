@@ -1,3 +1,10 @@
+## May 2020
+**[Sierra 3.0.0](/page/program-updates/#version.3.0.0.update.2020-05-10)** - Major refactoring upgrade of Sierra software and HIVDB website. See [program release notes](/page/program-updates/#version.3.0.0.update.2020-05-10) for more details.
+
+
+## April 2020
+**[Sierra 2.5.1](/page/program-updates/#version.2.5.1.update.2020-04-29)** - Bugfix: an issue that Sierra didn't return validation results for mutations analysis correctly.
+
 ## February 2020
 **Database update:**
 - HIVDB: 9 new studies entered 

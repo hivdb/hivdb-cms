@@ -1,6 +1,51 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.0.0 update 2020-05-10
+
+Note: Version 3.0.0 was released on 2020-05-10 but deployed to production server on 2020-05-11.
+
+### Major updates:
+
+1. The whole Sierra software is refactored to separate HIV-related data from the core code.
+   - Virus-independent code have been migrated to a new repository [`sierra-core`](https://github.com/hivdb/sierra-core).
+   - HIV-depended code & data have been migrated to repository [`hivfacts`](https://github.com/hivdb/hivfacts).
+   - [`hiv-genotyper`](https://github.com/hivdb/hiv-genotyper) is deprecated. All its code & data hav been migrated to `sierra-core` and `hivfacts`. 
+2. Lists of HIV-1 Unusual mutations, APOBEC mutations, and APOBEC-context mutations have been updated according to latest HIVDB database. These lists are available at the repository of `hivfacts` version 2020.4p1:
+   - List of HIV-1 all variants, their prevalence, and if they are unusual (1/10000): [CSV format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/aapcnt/rx-all_subtype-all.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/aapcnt/rx-all_subtype-all.json)
+   - List of 298 HIV-1 APOBEC mutations: [CSV format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/apobecs/apobecs.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/apobecs/apobecs.json)
+   - List of 17 HIV-1 APOBEC-context DRMs: [CSV format](https://github.com/hivdb/hivfacts/blob/2020.4p1/data/apobecs/apobec_drms.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/apobecs/apobec_drms.json)
+3. backend of HIVdb-NGS (beta): New classes and functions are added for supporting `SequenceReads` analysis.
+4. backend of HIVdb program for HIV-2 (beta): HIV-2 data are added to `hivfacts` for supporting HIV-2 analysis.
+   - List of HIV-2 all variants, their prevalence and if they are unusual (1/200): [CSV format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/aapcnt-hiv2/rx-all_subtype-all.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/aapcnt-hiv2/rx-all_subtype-all.json)
+   - List of 265 HIV-2 APOBEC mutations: [CSV format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/apobecs-hiv2/apobecs.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/apobecs-hiv2/apobecs.json)
+   - List of 11 HIV-2 APOBEC-context DRMs: [CSV format](https://github.com/hivdb/hivfacts/blob/2020.4p1/data/apobecs-hiv2/apobec_drms.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/apobecs-hiv2/apobec_drms.json)
+   - List of HIV-2 DRMs: [CSV format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/drms_hiv2.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/drms_hiv2.json)
+   - List of HIV-2 SDRMs: [CSV format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/sdrms_hiv2.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/sdrms_hiv2.json)
+   - List of typed mutations: [CSV format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/mutation-type-pairs_hiv2.csv) / [JSON format](https://raw.githubusercontent.com/hivdb/hivfacts/2020.4p1/data/mutation-type-pairs_hiv2.json)
+5. Allow to designate an ASI algorithm for drug resistance interpretation.
+
+### Frontend updates:
+
+1. HIVdb program:
+   - Expose ASI algorithm selection. Use this link to access: [hivdb.stanford.edu/hivdb/by-sequences/?alg-opt](/hivdb/by-sequences/?alg-opt).
+   - An easier way to select and upload example files.
+2. HIVdb-NGS (beta):
+   - A better AAVF parser which can handle insertions and deletions.
+3. HIVdb program for HIV-2 (beta):
+   - A web interface similar to HIVdb program for HIV-1.
+   - Drug resistance interpretation is temporarily supressed before we finished composing the HIV-2 drug resistance scores.
+4. HIVseq program:
+   - Mutation prevalence data has been updated to the latest (HIVFacts 2020.4p1).
+4. HIValg program:
+   - Allow to select different version of HIVDB/ANRS/REGA algorithm.
+   - New "non-available" description for a drug if it's not included in an algorithm.
+
+### SierraPy updates:
+
+A new version of SierraPy 0.3.0 has been release to support submitting `.codfreq` sequence reads files. 
+
+
 ## Version 2.5.1 update 2020-04-29
 
 Bugfix:
