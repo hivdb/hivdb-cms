@@ -31,9 +31,9 @@ library(matrixStats)
 WORKDIR = "~/Dropbox/APOBECs"
 CODONPCNTS_JSON = "~/gitrepo/hivfacts/local/apobecs/codonpcnt_for_apobecs.json"
 ALL_APOBECS_CSV = "~/gitrepo/hivfacts/local/apobecs/apobecs_all.csv"
-APOBECS_2019_CSV = "~/Dropbox/APOBECs/APBOECs20190812.csv"
-APOBECS_2019_JSON = "~/Dropbox/APOBECs/APBOECs20190812.json"
-APOBEC_DRMS_JSON = "~/Dropbox/APOBECs/APBOEC_DRMs20190812.json"
+APOBECS_CSV = "~/Dropbox/APOBECs/APBOECs20200501.csv"
+APOBECS_JSON = "~/Dropbox/APOBECs/APBOECs20200501.json"
+APOBEC_DRMS_JSON = "~/Dropbox/APOBECs/APBOEC_DRMs20200501.json"
 
 THRESHOLD_TARGET_AA_PCNT = 0.5
 THRESHOLD_TARGET_CODON_PCNT = 0.01
@@ -148,23 +148,23 @@ Among the positions in PR, RT, and IN for which >`r sprintf("%.0f%%", THRESHOLD_
 ## Results
 
 ```{r}
-apobecs_2019 = step_3b2
+apobecs = step_3b2
 write.table(
   data.frame(
-    apobecs_2019$gene,
-    apobecs_2019$codon_pos,
-    apobecs_2019$mutated_aa
+    apobecs$gene,
+    apobecs$codon_pos,
+    apobecs$mutated_aa
   ),
-  file = APOBECS_2019_CSV,
+  file = APOBECS_CSV,
   sep = ",",
   row.names = F,
   col.names = F
 )
 write_json(data.frame(
-  gene = apobecs_2019$gene,
-  position = apobecs_2019$codon_pos,
-  hm = apobecs_2019$mutated_aa
-), APOBECS_2019_JSON)
+  gene = apobecs$gene,
+  position = apobecs$codon_pos,
+  hm = apobecs$mutated_aa
+), APOBECS_JSON)
 
 write_json(data.frame(
   gene = apobec_drms$gene,
@@ -173,12 +173,12 @@ write_json(data.frame(
 ), APOBEC_DRMS_JSON)
 ```
 
-List of the `r nrow(apobecs_2019)` APOBEC mutations:
+List of the `r nrow(apobecs)` APOBEC mutations:
 ```{r}
-  human_apobecs_2019 = human_apobec_list[human_apobec_list$Lookup %in% apobecs_2019$lookup_key,]
-  human_apobecs_2019 = subset(human_apobecs_2019, select = -c(Lookup))
-  colnames(human_apobecs_2019) = c('Gene', 'Pos', 'Mut', '# Pt', '% TgtAA', '% TgtCodon', '% MutAA', '# MutAA', '% Stop', '% Major Subtype', '% Other Subtype')
-  human_apobecs_2019 %>%
+  human_apobecs = human_apobec_list[human_apobec_list$Lookup %in% apobecs$lookup_key,]
+  human_apobecs = subset(human_apobecs, select = -c(Lookup))
+  colnames(human_apobecs) = c('Gene', 'Pos', 'Mut', '# Pt', '% TgtAA', '% TgtCodon', '% MutAA', '# MutAA', '% Stop', '% Major Subtype', '% Other Subtype')
+  human_apobecs %>%
     mutate_at(vars(matches("%")), function(x) ifelse(is.na(x), NA, percent(x))) %>%
     datatable(
       rownames = FALSE,
