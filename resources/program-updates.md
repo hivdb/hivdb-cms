@@ -1,6 +1,16 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.0.2 update 2020-05-12
+
+Backward compatibility improvement: add back a deprecated GraphQL field `BoundMutationComment.triggeredAAs` since we acknowledged people are still using it. For new users, please use `BoundMutationComment.boundMutation.displayAAs` instead.
+
+
+## Version 3.0.1 update 2020-05-11
+
+Bugfix: fix a serious bug that causes CPR not working.
+
+
 ## Version 3.0.0 update 2020-05-10
 
 Note: Version 3.0.0 was released on 2020-05-10 but deployed to production server on 2020-05-11.

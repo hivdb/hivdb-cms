@@ -1,5 +1,5 @@
 ## May 2020
-**[Sierra 3.0.0](/page/program-updates/#version.3.0.0.update.2020-05-10)** - Major refactoring upgrade of Sierra software and HIVDB website. See [program release notes](/page/program-updates/#version.3.0.0.update.2020-05-10) for more details.
+**[Sierra 3.0.0](/page/program-updates/#version.3.0.0.update.2020-05-10), [Sierra 3.0.1](/page/program-updates/#version.3.0.1.update.2020-05-11), and [Sierra 3.0.2](/page/program-updates/#version.3.0.2.update.2020-05-12)** - Major refactoring upgrade of Sierra software and HIVDB website. See [program release notes](/page/program-updates/#version.3.0.0.update.2020-05-10) for more details.
 
 
 ## April 2020
