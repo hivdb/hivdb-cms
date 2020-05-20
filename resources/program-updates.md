@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.0.3 update 2020-05-19
+
+Bugfix: the subtyping distance was incorrectly calculated using a fixed denominator 2841 (the whole length of PR+RT+IN). We have changed the denominator back to the length of submitted sequence.
+
+All subtyping **distance** results generated between 2020-05-11 and 2020-05-19 were affected. However, in most cases, the subtype calls were not affected since the order of reference distances were intact. Please refer to [HIV Subtyping Program](https://hivdb.stanford.edu/page/hiv-subtyper/) page for those uncommon cases that would be affected by the change of distance.
+
 ## Version 3.0.2 update 2020-05-12
 
 Backward compatibility improvement: add back a deprecated GraphQL field `BoundMutationComment.triggeredAAs` since we acknowledged people are still using it. For new users, please use `BoundMutationComment.boundMutation.displayAAs` instead.
