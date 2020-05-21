@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.0.4 update 2020-05-21
+
+Bugfixes:
+1. [#27](https://github.com/hivdb/sierra/issues/27): Local NucAmino was referred to an old, incompatible version. This issue didn't affected HIVDB production website (hivdb.stanford.edu).
+2. When drug resistance interpretation contains dosage (drug-level) comment(s), GraphQL querying "BoundComment/triggeredAAs" resulted a NullPointerException. Instead, Sierra should be able to handle this exception and returns a null value.
+
 ## Version 3.0.3 update 2020-05-19
 
 Bugfix: the subtyping distance was incorrectly calculated using a fixed denominator 2841 (the whole length of PR+RT+IN). We have changed the denominator back to the length of submitted sequence.
