@@ -1,4 +1,8 @@
 ## June 2020
+**Database update:**
+- HIVDB: 82 new studies entered 
+- GenBank: 79 new GenBank submissions imported
+
 **[Sierra 3.0.5](/page/program-updates/#version.3.0.5.update.2020-06-24)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.0.5.update.2020-06-24) for more details.
 
 ## May 2020
