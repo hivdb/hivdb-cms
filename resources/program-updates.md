@@ -2,6 +2,13 @@ This page lists the change logs of current and previous versions of Sierra progr
 [Algorithm Updates](/page/algorithm-updates/) page.
 
 
+## Version 3.0.5 update 2020-06-24
+
+Bugfix:
+
+Fix (deprecated) GraphQL `Subtype` Enum: `DataFetchingException` was caused because this Enum's values were incorrectly referred to `Genotype` instances but not plain strings.
+
+
 ## Version 3.0.4 update 2020-05-21
 
 Bugfixes:
