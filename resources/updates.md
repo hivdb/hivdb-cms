@@ -3,6 +3,8 @@
 - HIVDB: 82 new studies entered 
 - GenBank: 79 new GenBank submissions imported
 
+**[DTG resistance reference library](/pages/refLib/DTG.html)**  - 79 new studies annotated
+
 **[Sierra 3.0.5](/page/program-updates/#version.3.0.5.update.2020-06-24)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.0.5.update.2020-06-24) for more details.
 
 ## May 2020
