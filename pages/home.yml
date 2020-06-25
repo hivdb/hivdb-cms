@@ -60,6 +60,12 @@ slideItems:
   image: slide-covdb.png
   link: https://covdb.stanford.edu/
   type: image
+- bgColor: '#dccb92'
+  caption: "Reference Library:  \nDolutegravir  \nResistance"
+  date: June 24, 2020
+  description: A body of literatures reviewed, annotated and searchable
+  link: /pages/refLib/DTG.html
+  type: text
 - caption: "HIVDB Algorithm  \nVersion 8.9-1"
   date: Nov 1, 2019
   description: ''
@@ -77,12 +83,6 @@ slideItems:
   date: Sep 6, 2019
   description: A body of literatures reviewed, annotated and searchable
   link: /pages/refLib/HIV2.html
-  type: text
-- bgColor: '#dccb92'
-  caption: "Reference Library:  \nDolutegravir  \nResistance"
-  date: Feb 1, 2019
-  description: A body of literatures reviewed, annotated and searchable
-  link: /pages/refLib/DTG.html
   type: text
 - bgColor: '#dccb92'
   caption: "Integrase DRMs  \nfor Transmitted  \nResistance\nSurveillance"
