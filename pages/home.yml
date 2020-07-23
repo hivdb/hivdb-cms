@@ -47,8 +47,8 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
-- caption: Sierra 3.0.5
-  date: June 24, 2020
+- caption: Sierra 3.0.6
+  date: July 23, 2020
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   link: /page/release-notes/
