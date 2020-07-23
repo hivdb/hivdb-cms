@@ -2,6 +2,12 @@ This page lists the change logs of current and previous versions of Sierra progr
 [Algorithm Updates](/page/algorithm-updates/) page.
 
 
+## Version 3.0.6 update 2020-07-23
+
+Bugfix:
+
+Fix a bug that mixture mutations with more than 6 amino acids were incorrectly taken into account for drug resistance interpretation. These mutations should be ignored.
+
 ## Version 3.0.5 update 2020-06-24
 
 Bugfix:
@@ -90,7 +96,9 @@ Bugfix:
 ## Version 2.5.0 update 2020-01-24
 
 1. Upgrade Java dependency from 8 to 11.
-2. Change threshold for allowed number of amino acids in a mixture from 4 to 8.
+2. Change threshold for allowed number of amino acids in a mixture from 4 to 6.
+
+Update: In an early revision of 2.5.0 release notes, we made a mistake stating the threshold was changed "from 4 to 8". It should be "from 4 to 6".
 
 ## Version 2.4.2 update 2019-11-01
 

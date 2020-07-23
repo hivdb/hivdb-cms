@@ -1,3 +1,7 @@
+## July 2020
+
+**[Sierra 3.0.6](/page/program-updates/#version.3.0.6.update.2020-07-23)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.0.6.update.2020-07-23) for more details.
+
 ## June 2020
 **Database update:**
 - HIVDB: 82 new studies entered 
@@ -22,9 +26,8 @@
 **ACTG 5175 Clinical Trial [Dataset](/pages/clinicalStudyData/ACTG5175.html):**
 - Kantor, et al., Pretreatment HIV Drug Resistance and HIV-1 Subtype C Are Independently Associated With Virologic Failure: Results From the Multinational PEARLS (ACTG A5175) Clinical Trial. [Clin Infect Dis. 2015 May 15;60(10):1541-9](https://academic.oup.com/cid/article/60/10/1541/338500)
 
-
 ## January 2020
-**[Sierra 2.5.0](/page/program-updates/#version.2.5.0.update.2020-01-24)** - In HIVdb, HIValg, and HIVseq program, we previously ignored a mixture consisted by more than four amino acids. We have changed this threshold to eight for reducing the chance of false negative reports.
+**[Sierra 2.5.0](/page/program-updates/#version.2.5.0.update.2020-01-24)** - In HIVdb, HIValg, and HIVseq program, we previously ignored a mixture consisted by more than four amino acids. We have changed this threshold to six for reducing the chance of false negative reports. (Update: In an early version, the threshold was incorrectly stated as changed "to eight". It should be changed to six.)
 
 ## November 2019
 **[Sierra 2.4.2](/page/program-updates/#version.2.4.2.update.2019-11-01) and [HIVDB Algorithm 8.9-1](/page/algorithm-updates/#version.8.9-1.update.2019-11-01)** - we replaced HIVDB-implemented drug resistance score calculator by FrontierScience ASI Interpreter, which gives us more flexibility of rule customization and therefore allows us to provide more features in the near future, such as selection of HIVDB algorithm versions. HIVDB Drug Resistance Algorithm is therefore upgraded to version 8.9-1 to adopt the new "drug-level comment" syntax introduced by the latest ASI Interpreter. No change was made to the 8.9 rules or mutation comments.
