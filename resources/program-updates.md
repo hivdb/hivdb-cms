@@ -2,6 +2,13 @@ This page lists the change logs of current and previous versions of Sierra progr
 [Algorithm Updates](/page/algorithm-updates/) page.
 
 
+## Version 3.0.7 update 2020-08-28
+
+Bugfix:
+
+Fix a bug in resistence interpretation results that the **mutation partial scores** of certain positions with multiple amino acids were incorrectly showed. For example, score of AZT for RTM184IV should be -10, but it was showed as -20. However, this bug didn't affect the final resisitance scores since they are calculated by program code not affected by this bug.
+
+
 ## Version 3.0.6 update 2020-07-23
 
 Bugfix:
