@@ -1,3 +1,7 @@
+## Aug 2020
+
+**[Sierra 3.0.7](/page/program-updates/#version.3.0.7.update.2020-08-28)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.0.7.update.2020-08-28) for more details.
+
 ## July 2020
 
 **[Sierra 3.0.6](/page/program-updates/#version.3.0.6.update.2020-07-23)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.0.6.update.2020-07-23) for more details.
