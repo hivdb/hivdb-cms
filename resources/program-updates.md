@@ -8,6 +8,10 @@ Bugfix:
 
 Fix a bug in resistence interpretation results that the **mutation partial scores** of certain positions with multiple amino acids were incorrectly showed. For example, score of AZT for RTM184IV should be -10, but it was showed as -20. However, this bug didn't affect the final resisitance scores since they are calculated by program code not affected by this bug.
 
+### Version 3.0.7-1 update 2020-10-22
+
+No change was made in the Sierra-core package. We updated the rendering method of APOBEC validation messages in HIVFacts to display APOBEC mutations and DRMs properly.
+
 
 ## Version 3.0.6 update 2020-07-23
 
