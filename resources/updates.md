@@ -1,5 +1,9 @@
 ## October 2020
 
+**"HIV-1 transmitted drug resistance surveillance: shifting trends in study design and prevalence estimates" published in [J Int AIDS Soc.](https://onlinelibrary.wiley.com/doi/full/10.1002/jia2.25611)**
+
+**"Virological Failure and Acquired Genotypic Resistance Associated With Contemporary Antiretroviral Treatment Regimens" published in [Open Forum Infect Dis.](https://academic.oup.com/ofid/article/7/9/ofaa316/5882011)**
+
 **Database update:**
 - HIVDB: 22 new studies entered 
 - GenBank: 52 new GenBank submissions imported
