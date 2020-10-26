@@ -1,9 +1,21 @@
 ## October 2020
+
 **Database update:**
 - HIVDB: 22 new studies entered 
 - GenBank: 52 new GenBank submissions imported
 
 **[Sierra 3.0.7-1](/page/program-updates/#version.3.0.7-1.update.2020-10-22)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.0.7-1.update.2020-10-22) for more details.
+
+**[Major HIV-1 Drug Resistance Mutations](https://cms.hivdb.org/prod/downloads/resistance-mutation-handout/resistance-mutation-handout.pdf)** (PDF, updated on Oct 23, 2020):
+- NRTIs:
+  - Add comments for TFV, TDF, & TAF;
+- NNRTIs:
+  - Move F227 from comment to DRM table;
+  - Add comments for Y188CH, G190QE;
+  - Add comments for Doravirine (DOR);
+- INSTIs:
+  - Add comments for Cabotegravir (CAB).
+
 
 ## Aug 2020
 
