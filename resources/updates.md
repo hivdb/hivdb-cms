@@ -1,3 +1,9 @@
+## December 2020
+
+**Database update:**
+- HIVDB: 23 new studies entered 
+- GenBank: 30 new GenBank submissions imported
+
 ## October 2020
 
 **"HIV-1 Transmitted Drug Resistance Surveillance: Shifting Trends in Study Design and Prevalence Estimates" published in [J Int AIDS Soc.](https://onlinelibrary.wiley.com/doi/full/10.1002/jia2.25611)**
