@@ -1,3 +1,10 @@
+## January 2021
+
+**Database update:**
+- HIVDB: 10 new studies entered 
+- GenBank: 19 new GenBank submissions imported
+
+
 ## December 2020
 
 **Database update:**
