@@ -60,6 +60,10 @@ make deploy-prod
 make deploy-all
 ```
 
+After a deployment was made to hivdb.stanford.edu, you need to invalidate all cached files here:
+
+https://console.aws.amazon.com/cloudfront/home?region=us-west-2#distribution-settings:ED0OYJBLR1U2Y
+
 ##$ Rebuild Docker image
 
 We have prebuilt Docker "hivdb-cms-builder" images available on
