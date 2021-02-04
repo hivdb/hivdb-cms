@@ -1,3 +1,11 @@
+## February 2021
+
+**Database update:**
+- New cabotegravir susceptibility data: [Smith20](https://hivdb.stanford.edu/cgi-bin/Reference.cgi?RefID=3011&Gene=IN&Species=HIV1&Group=M&Type=Lab); [Rizzardini20] (https://hivdb.stanford.edu/cgi-bin/Reference.cgi?RefID=3010&Gene=IN&Species=HIV1&Group=M&Type=Clinical)
+- [Genotype-rx datasets](https://hivdb.stanford.edu/pages/geno-rx-datasets.html) updated
+- [Genotype-phenotype datasets](https://hivdb.stanford.edu/pages/genopheno.dataset.html) updated
+
+
 ## January 2021
 
 **Database update:**
