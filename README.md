@@ -41,6 +41,9 @@ cd ~/gitrepo/hivdb-cms
 Several deployment commands are available for different targets:
 
 ```bash
+# always pull the latest version first
+git pull
+
 # build and deploy to localhost test environment:
 make deploy-localhost
 
