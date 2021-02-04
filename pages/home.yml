@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on January 26, 2021
+dbReleaseText: HIVDB released on February 3, 2021
 otherResources:
   items:
   - description: |
@@ -19,14 +19,14 @@ otherResources:
 queryPages:
   items:
   - description: '[ARV selection data](/pages/genotype-rx.html) comprising 189,227
-      protease, 199,603 RT and 26,986 integrase HIV-1 virus sequences from 213,267
-      persons; 1,039 protease, 802 RT and 340 integrase HIV-2 virus sequences from
-      1,119 persons.'
+      protease, 199,615 RT and 26,998 integrase HIV-1 virus sequences from 213,273
+      persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences from
+      1,134 persons.'
     icon: treatment
     link: /pages/genotype-rx.html
     title: Genotype-treatment
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      25,434 PI, 19,922 NRTI, 11,548 NNRTI and 4,907 INI susceptibility results from
+      25,434 PI, 19,922 NRTI, 11,554 NNRTI and 4,982 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     link: /pages/genotype-phenotype.html
@@ -39,7 +39,7 @@ queryPages:
     link: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
-      [1,851 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [10 references](/pages/new_submissions.html) collected since 2021-01-01.
+      [1,854 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [13 references](/pages/new_submissions.html) collected since 2021-01-01.
 
       [3,361 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 19 new submissions from Genbank release on 2020-12-15.
     icon: references
