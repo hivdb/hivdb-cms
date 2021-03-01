@@ -2,6 +2,17 @@ This page lists the change logs of current and previous versions of Sierra progr
 [Algorithm Updates](/page/algorithm-updates/) page.
 
 
+## Version 3.1.0 update 2021-03-01
+
+New [HIVDB algorithm 9.0](/page/algorithm-updates/#version.9.0.update.2021-03-01) is released with this version! We added scores and comments for the newly FDA approved drug Cabotegravir (CAB).
+
+Backend changes:
+
+1. GraphQL interface of `AlignedGeneSequence` now supports a String argument `targetStrain` passed to node `adjustedAlignedAAs` and `adjustedAlignedNAs`. This allows to adjust sequence alignment to references other than HIV1B (HXB2 numbering), such as HIV2A and HIV2B.
+2. GraphQL interface of `SequenceReadsAnalysis` now accepts a new Integer argument `minCodonCount` for specifying per-codon cutoff by number. The original argument `minPrevalence` is for specifying per-codon cutoff by percentage.
+3. [hivfacts](https://github.com/hivdb/hivfacts) is updated to version 2021.3. Which includes latest lists of mutation types, DRMs, unusual mutations, signature APOBEC mutations, and APOBEC-context mutations.
+
+
 ## Version 3.0.7 update 2020-08-28
 
 Bugfix:

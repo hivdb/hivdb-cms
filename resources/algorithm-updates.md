@@ -1,3 +1,14 @@
+## Version 9.0 update 2021-03-01
+
+The 9.0 drug resistance ASI file is downloadable at [here][asi90].
+
+In the light of the recent FDA approval of cabotegravir (CAB), we have updated the rules and comments of our HIVDB drug resistance algorithm. The new version is released as 9.0 indicates major changes are introduced. The following document listed all 58 score changes from version 8.9/8.9-1 to 9.0. We also include score changes for top 200 most seen mutation patterns.
+
+The latest comments for INSTI drug resistance mutations can be found at [here](/dr-summary/comments/INSTI/).
+
+All changed rules and affected patterns are listed in [this document][asi90changes].
+
+
 ## Version 8.9 update 2019-10-07
 
 The 8.9 drug resistance ASI file is downloadable at [here][asi89].
@@ -149,8 +160,10 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi88]: $$CMS_PREFIX$$downloads/asi/HIVDB_8.8.xml
 [asi89]: $$CMS_PREFIX$$downloads/asi/HIVDB_8.9.xml
 [asi89p1]: $$CMS_PREFIX$$downloads/asi/HIVDB_8.9-1.xml
+[asi90]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.0.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf
 [asi88changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.8.changes.pdf
 [asi89changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.9.changes.pdf
+[asi90changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.0.changes.pdf
