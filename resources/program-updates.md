@@ -2,6 +2,13 @@ This page lists the change logs of current and previous versions of Sierra progr
 [Algorithm Updates](/page/algorithm-updates/) page.
 
 
+## Version 3.1.1 update 2021-03-21
+
+Bugfix:
+
+Fix a bug which causes drug resistance interpretation crashed when a drug is not available by the current algorithm.
+
+
 ## Version 3.1.0 update 2021-03-01
 
 New [HIVDB algorithm 9.0](/page/algorithm-updates/#version.9.0.update.2021-03-01) is released with this version! We added scores and comments for the newly FDA approved drug Cabotegravir (CAB).

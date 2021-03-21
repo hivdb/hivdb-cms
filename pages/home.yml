@@ -47,17 +47,17 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
+- caption: Sierra 3.1.1
+  date: Mar 21, 2021
+  description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
+  image: slide-sierra.png
+  link: /page/release-notes/
+  type: image
 - caption: "HIVDB Algorithm  \nVersion 9.0"
   date: Mar 1, 2021
   description: ''
   image: slide-hivdb.png
   link: /page/algorithm-updates/#version.9.0.update.2021-03-01
-  type: image
-- caption: Sierra 3.1.0
-  date: Mar 1, 2021
-  description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
-  image: slide-sierra.png
-  link: /page/release-notes/
   type: image
 - caption: ''
   date: ''
