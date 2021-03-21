@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.1.2 update 2021-03-21
+
+Bugfix:
+
+Fix a bug which causes pretty alignment outputs empty results for HIV2 Group B sequences.
+
 
 ## Version 3.1.1 update 2021-03-21
 

@@ -3,6 +3,7 @@
 **Program/Algorithm Updates:**
 - **[Sierra 3.1.0](/page/program-updates/#version.3.1.0.update.2021-03-01) and [HIVDB Algorithm 9.0](/page/algorithm-updates/#version.9.0.update.2021-03-01)** - in the light of the recent FDA approval of cabotegravir (CAB), we have updated the rules and comments of our HIVDB drug resistance algorithm. The new version is released as 9.0 indicates major changes are introduced. In addition to the algorithm changes, there are a few GraphQL interface non-breaking changes are also made in this release. Access the "Sierra 3.1.0" page for more information.
 - **[Sierra 3.1.1](/page/program-updates/#version.3.1.1.update.2021-03-21)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.1.1.update.2021-03-21) for more details.
+- **[Sierra 3.1.2](/page/program-updates/#version.3.1.2.update.2021-03-21)** - Bugfix release. See [program release notes](/page/program-updates/#version.3.1.2.update.2021-03-21) for more details.
 
 ## February 2021
 

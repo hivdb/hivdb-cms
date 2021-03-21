@@ -47,7 +47,7 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
-- caption: Sierra 3.1.1
+- caption: Sierra 3.1.2
   date: Mar 21, 2021
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
