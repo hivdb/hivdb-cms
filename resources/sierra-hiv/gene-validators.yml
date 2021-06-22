@@ -1,0 +1,6 @@
+- regexp: '^\s*(pr|protease)([ _-]?protein)?\s*$'
+  gene: PR
+- regexp: '^\s*(rt|reverse[ -]transcriptase)([ _-]?protein)?\s*$'
+  gene: RT
+- regexp: '^\s*(in|integrase)([ _-]?(pro|protein|proteinase))?\s*$'
+  gene: IN
