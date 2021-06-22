@@ -1,0 +1,9 @@
+- gene: PR
+  displayGene: PR
+  range: [169, 445]
+- gene: RT
+  displayGene: RT
+  range: [466, 2145]
+- gene: IN
+  displayGene: IN
+  range: [2146, 3009]

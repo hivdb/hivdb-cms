@@ -1,7 +1,7 @@
 requirements.txt: Pipfile.lock
-	@pipenv run pip freeze > requirements.txt
+	@pipenv lock --requirements > requirements.txt
 
-build-docker:
+build-docker: requirements.txt
 	@docker pull python:3
 	@docker build . --no-cache -t hivdb/hivdb-cms-builder:latest
 
@@ -18,13 +18,20 @@ debug:
 		hivdb/hivdb-cms-builder:latest \
 		bash
 
-build: build.py pages images resources downloads
+_docker-build:
 	@rm -rf build/
 	@docker run \
 		--mount type=bind,source=$(PWD),target=/app \
 		--workdir /app --rm -it \
-		hivdb/hivdb-cms-builder:latest \
+		hivdb/chiro-cms-builder:latest \
 		python build.py
+
+_fast-build:
+	@rm -rf build/
+	@pipenv run python build.py
+
+build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py
+	@test -e $(shell which pipenv) && make _fast-build || make _docker-build
 
 deploy-localhost: build
 	@docker run \
