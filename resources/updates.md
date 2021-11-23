@@ -2,7 +2,7 @@
 
 **ACTG 5241 Clinical Trial [Dataset](/pages/clinicalStudyData/ACTG5241.html):**
 - Gandhi, et al., Long-term Outcomes in a Large Randomized Trial of HIV-1 Salvage Therapy: 96-Week Results of AIDS Clinical Trials Group A5241 (OPTIONS). [J Infect Dis. 2020 Apr 7;221(9):1407-1415](https://academic.oup.com/jid/article/221/9/1407/5499329)
-- Associated genotype-phenotype [Dataset] (/cgi-bin/Reference.cgi?linkout=PubMed&PubMedID=31135883): imported
+- Associated genotype-phenotype [Dataset] imported (/cgi-bin/Reference.cgi?linkout=PubMed&PubMedID=31135883)
 
 
 ## March 2021
