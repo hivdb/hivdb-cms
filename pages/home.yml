@@ -67,6 +67,12 @@ slideItems:
   link: https://covdb.stanford.edu/
   type: image
 - bgColor: '#dccb92'
+  caption: "Systematic Reviews"
+  date: Mar 31, 2022
+  description: Public availability of HIV-1 drug resistance sequence and treatment data
+  link: /pages/pdf/Rhee.2022.LancetMicrobe.pdf
+  type: text
+- bgColor: '#dccb92'
   caption: "Reference Library:  \nDolutegravir  \nResistance"
   date: June 24, 2020
   description: A body of literatures reviewed, annotated and searchable
