@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on November 22, 2021
+dbReleaseText: HIVDB released on April 20, 2022
 otherResources:
   items:
   - description: |
@@ -18,15 +18,15 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 190,798
-      protease, 201,291 RT and 27,151 integrase HIV-1 virus sequences from 214,819
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 199,783
+      protease, 209,540 RT and 31,504 integrase HIV-1 virus sequences from 223,754
       persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences from
       1,134 persons.'
     icon: treatment
     link: /pages/genotype-rx.html
     title: Genotype-treatment
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      30,312 PI, 23,716 NRTI, 13,753 NNRTI and 5,207 INI susceptibility results from
+      30,312 PI, 23,716 NRTI, 13,753 NNRTI and 5,327 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     link: /pages/genotype-phenotype.html
@@ -39,9 +39,9 @@ queryPages:
     link: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
-      [1,879 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [36 references](/pages/new_submissions.html) collected since 2021-01-01.
+      [1,903 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [61 references](/pages/new_submissions.html) collected since 2021-01-01.
 
-      [3,361 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 19 new submissions from Genbank release on 2020-12-15.
+      [3,562 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 201 new submissions from Genbank release on 2021-10-15.
     icon: references
     link: /pages/references.html
     title: References
@@ -67,9 +67,10 @@ slideItems:
   link: https://covdb.stanford.edu/
   type: image
 - bgColor: '#dccb92'
-  caption: "Systematic Reviews"
+  caption: Systematic Reviews
   date: Jan 19, 2022
-  description: '[Public availability of HIV-1 drug resistance sequence and treatment data](/pages/pdf/Rhee.2022.LancetMicrobe.pdf)'
+  description: '[Public availability of HIV-1 drug resistance sequence and treatment
+    data](/pages/pdf/Rhee.2022.LancetMicrobe.pdf)'
   link: /pages/pdf/Rhee.2022.LancetMicrobe.pdf
   type: text
 - bgColor: '#dccb92'
