@@ -1,9 +1,12 @@
+- gene: CA
+  displayGene: CA
+  range: [1186, 1878]
 - gene: PR
   displayGene: PR
-  range: [169, 445]
+  range: [2253, 2549]
 - gene: RT
   displayGene: RT
-  range: [466, 2145]
+  range: [2550, 4229]
 - gene: IN
   displayGene: IN
-  range: [2146, 3009]
+  range: [4230, 5093]
