@@ -1,0 +1,22 @@
+positionAxis:
+  posOffset: 1185
+  posStart: 1186
+  posEnd: 1878
+  convertToAA: true
+  tickCount: 15
+  roundToNearest: 5
+
+domains:
+- posStart: 1186
+  posEnd: 1878
+  scaleRatio: 1
+
+regions:
+- name: CA
+  label: Capsid
+  posStart: 1186
+  posEnd: 1878
+  fill: '#b2df8a'
+  color: '#33a02c'
+  shapeType: rect
+  labelPosition: over

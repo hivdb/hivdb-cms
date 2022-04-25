@@ -1,17 +1,18 @@
 species: HIV1
-allGenes: &allGenes [PR, RT, IN]
-highlightGenes: &hlGenes []
+allGenes: &allGenes [gag, CA, pol, PR, RT, IN, vif, vpr, tat, rev, vpu, env, nef]
+highlightGenes: &hlGenes [CA, PR, RT, IN]
 geneDisplay: {}
 geneSynonyms:
+  Capsid: CA
   Protease: PR
   Reverse transcriptase: RT
   Reverse-transcriptase: RT
   Integrase: IN
 regionPresets:
   presets:
-    - name: pol
-      label: pol protein
-      highlightGenes: *hlGenes
+    - name: RT
+      label: Reverse transcriptase
+      highlightGenes: [RT]
       preset:
         <<: &presetCommon
           width: 1720
@@ -20,7 +21,43 @@ regionPresets:
           paddingRight: 20
           paddingTop: 20
         .:
-          _resource: sierra-hiv/mutation-viewer-regions.yml
+          _resource: sierra-hiv/mutation-viewer-RT.yml
+    - name: PR
+      label: Protease
+      highlightGenes: [PR]
+      preset:
+        <<: &presetCommon
+          width: 1720
+          minHeight: 170
+          paddingLeft: 60
+          paddingRight: 20
+          paddingTop: 20
+        .:
+          _resource: sierra-hiv/mutation-viewer-PR.yml
+    - name: IN
+      label: Integrase
+      highlightGenes: [IN]
+      preset:
+        <<: &presetCommon
+          width: 1720
+          minHeight: 170
+          paddingLeft: 60
+          paddingRight: 20
+          paddingTop: 20
+        .:
+          _resource: sierra-hiv/mutation-viewer-IN.yml
+    - name: CA
+      label: Capsid
+      highlightGenes: [CA]
+      preset:
+        <<: &presetCommon
+          width: 1720
+          minHeight: 170
+          paddingLeft: 60
+          paddingRight: 20
+          paddingTop: 20
+        .:
+          _resource: sierra-hiv/mutation-viewer-CA.yml
   genes:
     _resource: sierra-hiv/mutation-viewer-genes.yml
 geneReferences:
@@ -35,7 +72,7 @@ seqReadsDefaultParams:
   strain: HIV1
   maxMixtureRate: 0.005 # ≤0.5%
   minPrevalence: 0.1  # ≥10%
-  minCodonReads: 10
+  minCodonReads: 5
   minPositionReads: 1
 seqReadsMaxMixtureRate:
   - value: 0.0
