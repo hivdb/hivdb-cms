@@ -16,7 +16,7 @@ regions:
   label: Capsid
   posStart: 1186
   posEnd: 1878
-  fill: '#b2df8a'
-  color: '#33a02c'
+  fill: '#fdbf6f'
+  color: '#c94a00'
   shapeType: rect
   labelPosition: over
