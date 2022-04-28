@@ -134,3 +134,11 @@ seqreads-analysis-form-placeholder: >-
 
 ngs2codfreq-placeholder: >-
   Convert FASTQ => CodFreq Files
+
+seqsummary-header-genotype-link: /page/hiv-subtyper/
+seqsummary-header-genotype: Subtype
+
+mutation-type-PR-Major: PI Major
+mutation-type-PR-Accessory: PI Major
+mutation-type-IN-Major: INSTI Major
+mutation-type-IN-Accessory: INSTI Major

@@ -8,8 +8,11 @@ positionAxis:
 
 domains:
 - posStart: 2550
+  posEnd: 3599
+  scaleRatio: 0.9
+- posStart: 3600
   posEnd: 4229
-  scaleRatio: 1
+  scaleRatio: 0.1
 
 regions:
 - name: RT

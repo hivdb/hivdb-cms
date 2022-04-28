@@ -10,42 +10,6 @@ geneSynonyms:
   Integrase: IN
 regionPresets:
   presets:
-    - name: RT
-      label: Reverse transcriptase
-      highlightGenes: [RT]
-      preset:
-        <<: &presetCommon
-          width: 1720
-          minHeight: 170
-          paddingLeft: 60
-          paddingRight: 20
-          paddingTop: 20
-        .:
-          _resource: sierra-hiv/mutation-viewer-RT.yml
-    - name: PR
-      label: Protease
-      highlightGenes: [PR]
-      preset:
-        <<: &presetCommon
-          width: 1720
-          minHeight: 170
-          paddingLeft: 60
-          paddingRight: 20
-          paddingTop: 20
-        .:
-          _resource: sierra-hiv/mutation-viewer-PR.yml
-    - name: IN
-      label: Integrase
-      highlightGenes: [IN]
-      preset:
-        <<: &presetCommon
-          width: 1720
-          minHeight: 170
-          paddingLeft: 60
-          paddingRight: 20
-          paddingTop: 20
-        .:
-          _resource: sierra-hiv/mutation-viewer-IN.yml
     - name: CA
       label: Capsid
       highlightGenes: [CA]
@@ -58,6 +22,27 @@ regionPresets:
           paddingTop: 20
         .:
           _resource: sierra-hiv/mutation-viewer-CA.yml
+    - name: PR
+      label: Protease
+      highlightGenes: [PR]
+      preset:
+        <<: *presetCommon
+        .:
+          _resource: sierra-hiv/mutation-viewer-PR.yml
+    - name: RT
+      label: Reverse transcriptase
+      highlightGenes: [RT]
+      preset:
+        <<: *presetCommon
+        .:
+          _resource: sierra-hiv/mutation-viewer-RT.yml
+    - name: IN
+      label: Integrase
+      highlightGenes: [IN]
+      preset:
+        <<: *presetCommon
+        .:
+          _resource: sierra-hiv/mutation-viewer-IN.yml
   genes:
     _resource: sierra-hiv/mutation-viewer-genes.yml
 geneReferences:
