@@ -1,6 +1,26 @@
+- regexp: '\s*(gag|gp0?2)\s*$'
+  gene: gag
+- regexp: '\s*(ca|capsid)([ _-]?protein)?\s*$'
+  gene: CA
+- regexp: '\s*(pol|polyprotein)\s*$'
+  gene: pol
 - regexp: '^\s*(pr|protease)([ _-]?protein)?\s*$'
   gene: PR
 - regexp: '^\s*(rt|reverse[ -]transcriptase)([ _-]?protein)?\s*$'
   gene: RT
 - regexp: '^\s*(in|integrase)([ _-]?(pro|protein|proteinase))?\s*$'
   gene: IN
+- regexp: '\s*(vif|gp0?3)\s*$'
+  gene: vif
+- regexp: '\s*(vpr|gp0?4)\s*$'
+  gene: vpr
+- regexp: '\s*(tat|gp0?5)\s*$'
+  gene: tat
+- regexp: '\s*(rev|gp0?6)\s*$'
+  gene: rev
+- regexp: '\s*(vpu|gp0?7)\s*$'
+  gene: vpu
+- regexp: '\s*(env|gp0?8)\s*$'
+  gene: env
+- regexp: '\s*(env|gp0?9)\s*$'
+  gene: nef
