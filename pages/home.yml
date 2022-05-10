@@ -4,16 +4,18 @@ otherResources:
   items:
   - description: |
       Panels of multi-drug resistant recombinant infectious molecular clones, donated to the NIH AIDS Reagent Program: NRTI, NNRTI, PI & RAL
-    link: /pages/mdrPanels.html
+    href: /pages/mdrPanels.html
     title: Multi-Drug Resistant Panels
-  - link: http://dbpartners.stanford.edu:8080/RegaSubtyping/stanford-hiv/typingtool/
+  - href: http://dbpartners.stanford.edu:8080/RegaSubtyping/stanford-hiv/typingtool/
+    newWindow: true
     title: REGA HIV-1 Subtyping Tool 3.0
   - description: Collaboration with Africa Centre for Health and Population Studies
       and South African MRC
-    link: http://bioafrica.mrc.ac.za/hivdb/
+    href: http://bioafrica.mrc.ac.za/hivdb/
+    newWindow: true
     title: Database Mirror
   - description: Provides HBV RT mutation frequencies by genotype and treatment
-    link: /HBV/HBVseq/development/HBVseq.html
+    href: /HBV/HBVseq/development/HBVseq.html
     title: HBVseq Program
   title: Other Resources
 queryPages:
@@ -23,27 +25,27 @@ queryPages:
       persons; 1,075 protease, 936 RT and 340 integrase HIV-2 virus sequences from
       1,232 persons.'
     icon: treatment
-    link: /pages/genotype-rx.html
+    href: /pages/genotype-rx.html
     title: Genotype-treatment
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
       30,312 PI, 23,716 NRTI, 13,753 NNRTI and 5,327 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
-    link: /pages/genotype-phenotype.html
+    href: /pages/genotype-phenotype.html
     title: Genotype-phenotype
   - description: |-
       [Clinical outcome data](/pages/genotype-clinical.html) comprising
       genotype, treatments, plasma HIV-1 RNA levels and CD4 counts from 15
       clinical trials and >1500 Treatment-Change Episodes
     icon: clinical
-    link: /pages/genotype-clinical.html
+    href: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
       [1,922 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [80 references](/pages/new_submissions.html) collected since 2021-01-01.
 
       [3,456 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 126 new submissions from Genbank release on 2021-10-15.
     icon: references
-    link: /pages/references.html
+    href: /pages/references.html
     title: References
   title: Query / Download
 slideItems:
@@ -51,60 +53,60 @@ slideItems:
   date: June 8, 2022
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
-  link: /page/release-notes/
+  to: /page/release-notes/
   type: image
 - caption: "HIVDB Algorithm  \nVersion 9.1"
   date: June 2, 2022
   description: ''
   image: slide-hivdb.png
-  link: /page/algorithm-updates/#version.9.1.update.2022-06-02
+  to: /page/algorithm-updates/#version.9.1.update.2022-06-02
   type: image
 - caption: ''
   date: ''
   description: Experimental data on SARS-CoV-2 variants to monoclonal antibodies,
     convalescent plasma, and vaccinee plasma
   image: slide-covdb.png
-  link: https://covdb.stanford.edu/
+  href: https://covdb.stanford.edu/
   type: image
 - bgColor: '#dccb92'
   caption: Systematic Reviews
   date: Jan 19, 2022
   description: '[Public availability of HIV-1 drug resistance sequence and treatment
     data](/pages/pdf/Rhee.2022.LancetMicrobe.pdf)'
-  link: /pages/pdf/Rhee.2022.LancetMicrobe.pdf
+  href: /pages/pdf/Rhee.2022.LancetMicrobe.pdf
   type: text
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nDolutegravir  \nResistance"
   date: June 24, 2020
   description: A body of literatures reviewed, annotated and searchable
-  link: /pages/refLib/DTG.html
+  href: /pages/refLib/DTG.html
   type: text
 - caption: HIVdb-NGS (Beta)
   date: Oct 24, 2019
   description: '[release notes](/page/hivdb-ngs-release-notes/)'
   image: slide-ngs.png
-  link: /hivdb/by-reads/
+  to: /hivdb/by-reads/
   type: image
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nHIV-2  \nResistance"
   date: Sep 6, 2019
   description: A body of literatures reviewed, annotated and searchable
-  link: /pages/refLib/HIV2.html
+  hrefk: /pages/refLib/HIV2.html
   type: text
 - bgColor: '#dccb92'
   caption: "Integrase DRMs  \nfor Transmitted  \nResistance\nSurveillance"
   date: July 1, 2019
   description: "[DRMs proposed](/page/insti-sdrm-list/) /  \n[Added to CPR analysis](/cpr/)
     /  \n[Criteria and rational](/pages/pdf/Tzou.2019.pdf)  "
-  link: /page/insti-sdrm-list/
+  to: /page/insti-sdrm-list/
   type: text
 - bgColor: '#dccb92'
   caption: "Transmitted  \nResistance  \nSurveillance Map"
   description: Published virus sequences from >95,000 ART-naïve persons over 120 countries
-  link: /page/surveillance-map/
+  to: /page/surveillance-map/
   type: text
 - bgColor: '#dccb92'
   caption: "Usual and  \nUnusual Mutations  \nfor Sequence QA/QC"
   description: Version 2019.8
-  link: https://github.com/hivdb/hivfacts
+  href: https://github.com/hivdb/hivfacts
   type: text
