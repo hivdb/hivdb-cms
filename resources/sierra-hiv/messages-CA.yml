@@ -1,8 +1,8 @@
 pattern-analysis-form-title: >- # Warning: title doesn't support markdown
-  HIVdb Program: Mutations Analysis
+  HIV-1 Capsid: Mutations Analysis
 
 pattern-analysis-report-title: >- # Warning: title doesn't support markdown
-  HIV-1 Mutations Analysis Report
+  HIV-1 Capsid Mutations Analysis Report
 
 pattern-analysis-form-desc: |-
   HIVdb accepts user-submitted protease, RT, and integrase sequences or
@@ -36,10 +36,10 @@ pattern-analysis-input-placeholder: >-
   Enter/paste mutations
 
 sequence-analysis-form-title: >- # Warning: title doesn't support markdown
-  HIVdb Program: Sequence Analysis
+  HIV-1 Capsid: Sequence Analysis
 
 sequence-analysis-report-title: >- # Warning: title doesn't support markdown
-  HIV-1 Sequence Analysis Report
+  HIV-1 Capsid Sequence Analysis Report
 
 sequence-analysis-form-desc: |-
   HIVdb accepts user-submitted protease, RT, and integrase sequences or
@@ -71,13 +71,13 @@ sequence-analysis-form-desc: |-
   Notes](/page/release-notes/).
 
 seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
-  HIVdb Program: Sequence Reads (NGS) Analysis
+  HIV-1 Capsid: Sequence Reads (NGS) Analysis
 
 ngs2codfreq-form-title: >- # Warning: title doesn't support markdown
   HIV-1 NGS Pipeline
 
 seqreads-analysis-report-title: >- # Warning: title doesn't support markdown
-  HIV-1 Sequence Reads (NGS) Analysis Report
+  HIV-1 Capsid Sequence Reads (NGS) Analysis Report
 
 seqreads-analysis-form-desc: |-
   HIVdb-NGS (beta) accepts user-submitted protease, RT, and/or integrase [codon
@@ -164,4 +164,3 @@ alg-options-title: >- # no markdown
   Drug resistance algorithm options
 alg-options-desc: >-
   Select the drug resistance algorithm you want to use for this analysis.
-
