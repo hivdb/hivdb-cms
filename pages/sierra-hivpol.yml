@@ -8,6 +8,10 @@ geneSynonyms:
   Reverse-transcriptase: RT
   Integrase: IN
 displayMutationScores: [PR, RT, IN]
+formEnableTabs:
+  - patterns
+  - sequences
+  - reads
 regionPresets:
   presets:
     - name: PR
@@ -43,6 +47,7 @@ geneReferences:
 geneValidatorDefs:
   _resource: sierra-hiv/gene-validators.yml
 mutationDefaultGene: null
+mutationSplitGeneInput: true
 mutationSuggestions:
   _resource: sierra-hiv/mutation-suggestions.yml
 mutationPrefills: null
