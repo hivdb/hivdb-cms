@@ -5,6 +5,9 @@ geneDisplay: {}
 geneSynonyms:
   Capsid: CA
 displayMutationScores: []
+formEnableTabs:
+  - sequences
+  - reads
 regionPresets:
   presets:
     - name: CA

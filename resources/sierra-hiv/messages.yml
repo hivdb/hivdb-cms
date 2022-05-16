@@ -29,8 +29,11 @@ pattern-analysis-form-desc: |-
 pattern-analysis-prefill-label: >- # Warning: title doesn't support markdown
   Select pre-populate mutations:
 
-pattern-analysis-input-label: >-
-  Enter/paste mutations:
+pattern-analysis-input-label: ''
+
+pattern-analysis-suggest-options-label-RT: Reverse Transcriptase
+pattern-analysis-suggest-options-label-PR: Protease
+pattern-analysis-suggest-options-label-IN: Integrase
 
 pattern-analysis-input-placeholder: >-
   Enter/paste mutations
@@ -164,4 +167,13 @@ alg-options-title: >- # no markdown
   Drug resistance algorithm options
 alg-options-desc: >-
   Select the drug resistance algorithm you want to use for this analysis.
-
+mut-input-error-invalid-mutation: >- # no markdown
+  Invalid mutation: a mutation must consist of the gene (optional), a reference
+  amino acid (optional), the position and mutation amino acid. For example, 
+  RT:M184V or just "184V" under "Reverse Transcriptase" section.
+mut-input-error-invalid-gene: >- # no markdown
+  Unable to identify input gene "$$GENE$$".
+mut-input-error-pos-is-zero: >- # no markdown
+  Position cannot be zero.
+mut-input-error-pos-out-of-bounds: >- # no markdown
+  Position cannot be greater than $$MAX_POS$$.
