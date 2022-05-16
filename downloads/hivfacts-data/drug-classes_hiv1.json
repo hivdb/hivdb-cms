@@ -1,0 +1,76 @@
+[
+  {
+    "name": "CAI",
+    "ordinal": 1,
+    "abstractGene": "CA",
+    "fullName": "Capsid Inhibitor",
+    "strains": [
+      "HIV1"
+    ],
+    "synonyms": [],
+    "mutationTypes": [
+      "Major",
+      "Other"
+    ]
+  },
+  {
+    "name": "PI",
+    "ordinal": 2,
+    "abstractGene": "PR",
+    "fullName": "Protease Inhibitor",
+    "strains": [
+      "HIV1"
+    ],
+    "synonyms": [],
+    "mutationTypes": [
+      "Major",
+      "Accessory",
+      "Other"
+    ]
+  },
+  {
+    "name": "NRTI",
+    "ordinal": 3,
+    "abstractGene": "RT",
+    "fullName": "Nucleoside Reverse Transcriptase Inhibitor",
+    "strains": [
+      "HIV1"
+    ],
+    "synonyms": [],
+    "mutationTypes": [
+      "NRTI",
+      "Other"
+    ]
+  },
+  {
+    "name": "NNRTI",
+    "ordinal": 4,
+    "abstractGene": "RT",
+    "fullName": "Non-nucleoside Reverse Transcriptase Inhibitor",
+    "strains": [
+      "HIV1"
+    ],
+    "synonyms": [],
+    "mutationTypes": [
+      "NNRTI",
+      "Other"
+    ]
+  },
+  {
+    "name": "INSTI",
+    "ordinal": 5,
+    "abstractGene": "IN",
+    "fullName": "Integrase Strand Transfer Inhibitor",
+    "strains": [
+      "HIV1"
+    ],
+    "synonyms": [
+      "INI"
+    ],
+    "mutationTypes": [
+      "Major",
+      "Accessory",
+      "Other"
+    ]
+  }
+]

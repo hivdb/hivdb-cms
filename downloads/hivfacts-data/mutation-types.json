@@ -1,0 +1,22 @@
+[
+  {
+    "name": "NRTI",
+    "ordinal": 1
+  },
+  {
+    "name": "NNRTI",
+    "ordinal": 2
+  },
+  {
+    "name": "Major",
+    "ordinal": 3
+  },
+  {
+    "name": "Accessory",
+    "ordinal": 4
+  },
+  {
+    "name": "Other",
+    "ordinal": 5
+  }
+]
