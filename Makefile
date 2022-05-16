@@ -30,6 +30,10 @@ _fast-build:
 	@rm -rf build/
 	@pipenv run python build.py
 
+sync-hivfacts:
+	@rsync -av --delete --delete-excluded --exclude={'*.yml','*.yaml'} ../hivfacts/data/* downloads/hivfacts-data
+
+
 build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py
 	@test -e $(shell which pipenv) && make _fast-build || make _docker-build
 
@@ -65,4 +69,4 @@ deploy-prod: build
 deploy-all: deploy-localhost deploy-staging deploy-staging2 deploy-prod
 
 
-.PHONY: build-docker push-docker deploy-*
+.PHONY: build-docker push-docker deploy-* sync-hivfacts
