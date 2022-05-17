@@ -177,3 +177,10 @@ mut-input-error-pos-is-zero: >- # no markdown
   Position cannot be zero.
 mut-input-error-pos-out-of-bounds: >- # no markdown
   Position cannot be greater than $$MAX_POS$$.
+
+multi-algorithm-selection-title: Select algorithms
+multi-algorithm-selection-desc: >-  # no markdown
+  Select two or more previously published algorithms and/or upload one or more
+  ASI-encoded interpretation algorithms from your computer using the file
+  selection box below.
+multi-algorithm-selection-selected-algs: 'Selected algorithms:'

@@ -1,0 +1,71 @@
+pattern-analysis-form-title: >- # Warning: title doesn't support markdown
+  HIValg Program: Mutations Analysis
+
+pattern-analysis-report-title: >- # Warning: title doesn't support markdown
+  HIValg Program: Mutations Analysis Report
+
+pattern-analysis-form-desc: |-
+  HIValg compares HIVdb results to those of 2 other algorithms: i. Rega
+  Institute ([rules](http://rega.kuleuven.be/cev/)), and ii. Agence Nationale
+  de Recherches sur le SIDA (ANRS
+  [rules](http://www.hivfrenchresistance.org/)). However, it does not provide
+  the complete HIVdb report. HIValg also allows users to interpret sequences
+  using any algorithm created using the [Algorithm Specification Interface
+  (ASI)](/page/asi/). A detailed description of the program as well as all
+  updates can be found in the [Release Notes](/page/release-notes/).
+
+  Protease, RT, and integrase mutations can be entered using either the text
+  box or auto-suggestion boxes. To use the text box, type each mutation
+  separated by one or more spaces. The consensus wildtype and separating commas
+  are optional. If there is a mixture of more than one amino acid at a
+  position, write both amino amino acids (an intervening slash is optional).
+  Insertions should be indicated by “Insertion” and deletions by “Deletion”.
+
+sequence-analysis-form-title: >- # Warning: title doesn't support markdown
+  HIValg Program: Sequence Analysis
+
+sequence-analysis-report-title: >- # Warning: title doesn't support markdown
+  HIValg Program: Sequence Analysis Report
+
+sequence-analysis-form-desc: |-
+  HIValg compares HIVdb results to those of 2 other algorithms: i. Rega
+  Institute ([rules](http://rega.kuleuven.be/cev/)), and ii. Agence Nationale
+  de Recherches sur le SIDA (ANRS
+  [rules](http://www.hivfrenchresistance.org/)). However, it does not provide
+  the complete HIVdb report. HIValg also allows users to interpret sequences
+  using any algorithm created using the [Algorithm Specification Interface
+  (ASI)](/page/asi/). A detailed description of the program as well as all
+  updates can be found in the [Release Notes](/page/release-notes/).
+
+  Sequences can be entered as plain text if just one sequence is entered.
+  Sequences must be entered using the FASTA format if multiple sequences are
+  entered. Sequences can be pasted in the text box or uploaded using the File
+  Upload option. The upper limit is currently 1000 sequences containing 3000
+  nucleotides per sequence.
+
+  The program output will contain an HTML page with a navigation sidebar
+  linking to the results for each sequence. Detailed descriptions of the HTML
+  and spreadsheet output are explained in the [Release
+  Notes](/page/release-notes/).
+
+seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
+  HIValg Program: Sequence Reads (NGS) Analysis
+
+seqreads-analysis-report-title: >- # Warning: title doesn't support markdown
+  HIValg Program: Sequence Reads (NGS) Analysis Report
+
+seqreads-analysis-form-desc: |-
+  HIValg compares HIVdb results to those of 2 other algorithms: i. Rega
+  Institute ([rules](http://rega.kuleuven.be/cev/)), and ii. Agence Nationale
+  de Recherches sur le SIDA (ANRS
+  [rules](http://www.hivfrenchresistance.org/)). However, it does not provide
+  the complete HIVdb report. HIValg also allows users to interpret sequences
+  using any algorithm created using the [Algorithm Specification Interface
+  (ASI)](/page/asi/). A detailed description of the program as well as all
+  updates can be found in the [Release Notes](/page/release-notes/).
+
+  User-submitted protease, RT, and/or integrase [codon frequency tables
+  (CodFreq files)](/page/hivdb-ngs-release-notes/#codon.frequency.table) or
+  [AAVF files](/page/hivdb-ngs-release-notes/#codon.frequency.table) generated
+  by the [HYDRA pipeline](/page/hivdb-ngs-release-notes/#codon.frequency.table)
+  are accepted.

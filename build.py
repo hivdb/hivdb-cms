@@ -9,7 +9,7 @@ from collections.abc import Mapping
 from importlib import import_module
 from datetime import datetime
 
-import ruamel.yaml
+import ruamel.yaml  # type: ignore
 from distutils.dir_util import copy_tree, remove_tree
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__))
