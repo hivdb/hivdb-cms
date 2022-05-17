@@ -31,7 +31,7 @@ _fast-build:
 	@pipenv run python build.py
 
 sync-hivfacts:
-	@rsync -av --delete --delete-excluded --exclude={'*.yml','*.yaml'} ../hivfacts/data/* downloads/hivfacts-data
+	@rsync -av --delete --delete-excluded --exclude={'*.yml','*.yaml'} ../hivfacts/data/* resources/hivfacts-data
 
 
 build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py
