@@ -7,9 +7,10 @@ geneSynonyms:
   Reverse transcriptase: RT
   Reverse-transcriptase: RT
   Integrase: IN
+displayMutationScores: [PR, RT, IN]
 displayDRInterpretation: false
-displayMutationPrevalence: true
-displayAlgComparison: false
+displayMutationPrevalence: false
+displayAlgComparison: true
 formEnableTabs:
   - patterns
   - sequences
@@ -101,8 +102,8 @@ seqReadsMinCodonReadsOptions:
 messages:
   .<<common:
     _resource: sierra-hiv/messages.yml
-  .<<HIVSeq:
-    _resource: sierra-hiv/messages-hivseq.yml
+  .<<HIVAlg:
+    _resource: sierra-hiv/messages-hivalg.yml
 sequenceExamples:
   - url: downloads/fasta-examples/dataset-small.txt
     title: Protease/RT sequences (N=10)
@@ -114,5 +115,18 @@ seqReadsExamples:
   - downloads/codfreq-examples/SRR4071760.codfreq.txt
   - downloads/codfreq-examples/SRX3881674.codfreq.txt
   - downloads/codfreq-examples/DRR030302.codfreq.txt
-drugDisplayNames: {}
-drugDisplayOptions: null
+drugDisplayNames:
+  ATV: ATV/r
+  DRV: DRV/r
+  FPV: FPV/r
+  IDV: IDV/r
+  LPV: LPV/r
+  SQV: SQV/r
+  TPV: TPV/r
+  LMV: 3TC
+algorithmVersions:
+  _resource: hivfacts-data/algorithms/versions.json
+excludeAlgorithmVersions:
+  - 'HIVDB_7'
+  - 'HIVDB_8_[0123]'
+  - 'ANRS_2[67]$'
