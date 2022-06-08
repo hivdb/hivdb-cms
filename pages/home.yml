@@ -47,8 +47,8 @@ queryPages:
     title: References
   title: Query / Download
 slideItems:
-- caption: Sierra 3.1.3a1
-  date: June 2, 2022
+- caption: Sierra 3.1.3
+  date: June 8, 2022
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   link: /page/release-notes/
@@ -57,12 +57,11 @@ slideItems:
   date: June 2, 2022
   description: ''
   image: slide-hivdb.png
-  link: /page/algorithm-updates/#version.9.0.update.2021-03-01
+  link: /page/algorithm-updates/#version.9.1.update.2022-06-02
   type: image
 - caption: ''
   date: ''
-  description: Antivirals, investigational agents, repurposed drugs, monoclonal antibodies,
-    interferons, and lead compounds (Apr 2020)
+  description: experimental data on SARS-CoV-2 variants to monoclonal antibodies, convalescent plasma, and vaccinee plasma
   image: slide-covdb.png
   link: https://covdb.stanford.edu/
   type: image

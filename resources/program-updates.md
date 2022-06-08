@@ -1,6 +1,11 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.1.3 update 2022-06-08
+
+New [HIVDB algorithm 9.1](/page/algorithm-updates/#version.9.1.update.2022-06-02) is released with this version! We updated scores for Doravirine (DOR).
+
+
 ## Version 3.1.2 update 2021-03-21
 
 Bugfix:
