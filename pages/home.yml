@@ -61,7 +61,7 @@ slideItems:
   type: image
 - caption: ''
   date: ''
-  description: experimental data on SARS-CoV-2 variants to monoclonal antibodies, convalescent plasma, and vaccinee plasma
+  description: Experimental data on SARS-CoV-2 variants to monoclonal antibodies, convalescent plasma, and vaccinee plasma
   image: slide-covdb.png
   link: https://covdb.stanford.edu/
   type: image
