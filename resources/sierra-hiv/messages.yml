@@ -169,8 +169,8 @@ alg-options-desc: >-
   Select the drug resistance algorithm you want to use for this analysis.
 mut-input-error-invalid-mutation: >- # no markdown
   Invalid mutation: a mutation must consist of the gene (optional), a reference
-  amino acid (optional), the position and mutation amino acid. For example, 
-  RT:M184V or just "184V" under "Reverse Transcriptase" section.
+  amino acid (optional), the position and mutation amino acid. For examples,
+  RT:M184V, IN:145S, or just "77I" under PR gene input area.
 mut-input-error-invalid-gene: >- # no markdown
   Unable to identify input gene "$$GENE$$".
 mut-input-error-pos-is-zero: >- # no markdown
@@ -184,3 +184,50 @@ multi-algorithm-selection-desc: >-  # no markdown
   ASI-encoded interpretation algorithms from your computer using the file
   selection box below.
 multi-algorithm-selection-selected-algs: 'Selected algorithms:'
+
+mutation-popup: >-
+  ${isUnusual}
+  
+
+  ${isDRM}
+
+mutation-is-unusual: >-
+  ${mutation} is an unusual mutation as having a global prevalence below 0.01%.
+
+mutation-is-drm: >-
+  ${mutation} is a reported resistance mutation against ${drugClassFullName}
+  (${drugClass}).
+
+mutation-is-drm-CAI: >-
+  ${mutation} is a capsid Assembly inhibitor (CAI) resistance mutation.
+
+mutation-is-drm-PI: >-
+  ${mutation} is a protease inhibitor (PI) resistance mutation.
+
+mutation-is-drm-NRTI: >-
+  ${mutation} is a nucleoside reverse transcriptase inhibitor (NRTI) resistance
+  mutation.
+
+mutation-is-drm-NNRTI: >-
+  ${mutation} is a non-nucleoside reverse transcriptase inhibitor (NNRTI)
+  resistance mutation.
+
+mutation-is-drm-INSTI: >-
+  ${mutation} is an integrase strand transfer inhibitor (INSTI) resistance
+  mutation.
+
+min-position-reads-dropdown-label: Minimum read depth
+min-position-reads-dropdown-desc: >-
+  Regions containing fewer reads are ignored. The default is a minimum of 5
+  reads per position.
+
+min-prevalence-dropdown-label: Mutation detection threshold
+min-prevalence-dropdown-desc: >-
+  Choose a threshold above which mutations are considered to be valid once the
+  nucleotide mixture threshold is satisfied.
+
+max-mixture-rate-dropdown-label: Nucleotide mixture threshold
+max-mixture-rate-dropdown-desc: >-
+  Choose a threshold that limits the proportion of allowed nucleotide mixtures
+  across the genome (after the minimum read depth is applied). The default
+  threshold is 2% (~10 mixtures across PR, RT and IN). 

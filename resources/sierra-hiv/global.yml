@@ -53,18 +53,12 @@ mutationSuggestions:
 mutationPrefills: null
 seqReadsDefaultParams:
   strain: HIV1
-  maxMixtureRate: 0.005 # ≤0.5%
+  maxMixtureRate: 0.02 # ≤2%
   minPrevalence: 0.1  # ≥10%
   minPositionReads: 5
 seqReadsMaxMixtureRate:
   - value: 0.0
     label: "(no mixture)"
-  - value: 0.0005
-    label: ≤0.05%
-  - value: 0.001
-    label: ≤0.1%
-  - value: 0.002
-    label: ≤0.2%
   - value: 0.005
     label: ≤0.5%
   - value: 0.01
@@ -73,6 +67,8 @@ seqReadsMaxMixtureRate:
     label: ≤2%
   - value: 0.05
     label: ≤5%
+  - value: 0.1
+    label: ≤10%
   - value: 1
     label: "(don't apply)"
 seqReadsMinPrevalenceOptions:

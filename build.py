@@ -9,7 +9,7 @@ from collections.abc import Mapping
 from importlib import import_module
 from datetime import datetime
 
-import ruamel.yaml  # type: ignore
+import ruamel.yaml
 from distutils.dir_util import copy_tree, remove_tree
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__))
@@ -50,6 +50,7 @@ def load_resources(data):
     if isinstance(data, dict):
         if '_resource' in data:
             rpath = data.pop('_resource')
+            key = data.pop('_resource_key', None)
             resource_path = os.path.join(BUILDRESDIR, rpath)
             if not os.path.isfile(resource_path):
                 resource_path = os.path.join(RESOURCEDIR, rpath)
@@ -61,6 +62,8 @@ def load_resources(data):
                     data = yaml.load(fp)
                 else:
                     data = fp.read()
+            if key:
+                data = data[key]
         else:
             for key, val in list(data.items()):
                 val, nested_mtime = load_resources(val)
