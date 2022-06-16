@@ -45,7 +45,7 @@ def getmtime(resource_path):
 
 
 def load_resources(data):
-    mtime = 0
+    mtime = nested_mtime = 0
     data = copy.copy(data)
     if isinstance(data, dict):
         if '_resource' in data:
@@ -57,13 +57,14 @@ def load_resources(data):
             mtime = max(getmtime(resource_path), mtime)
             with open(resource_path) as fp:
                 if resource_path.endswith('.json'):
-                    data = json.load(fp)
+                    data, nested_mtime = load_resources(json.load(fp))
                 elif YAML_PATTERN.match(resource_path):
-                    data = yaml.load(fp)
+                    data, nested_mtime = load_resources(yaml.load(fp))
                 else:
                     data = fp.read()
             if key:
                 data = data[key]
+            mtime = max(nested_mtime, mtime)
         else:
             for key, val in list(data.items()):
                 val, nested_mtime = load_resources(val)

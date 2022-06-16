@@ -188,11 +188,20 @@ multi-algorithm-selection-selected-algs: 'Selected algorithms:'
 mutation-popup: >-
   ${isUnusual}
   
+  ${isApobec}
+
+  ${isApobecDRM}
 
   ${isDRM}
 
 mutation-is-unusual: >-
   ${mutation} is an unusual mutation as having a global prevalence below 0.01%.
+
+mutation-is-apobec: >-
+  ${mutation} is an APOBEC mutation.
+
+mutation-is-apobec-drm: >-
+  ${mutation} is an APOBEC-context drug-resistance mutation.
 
 mutation-is-drm: >-
   ${mutation} is a reported resistance mutation against ${drugClassFullName}
@@ -221,12 +230,12 @@ min-position-reads-dropdown-desc: >-
   Regions containing fewer reads are ignored. The default is a minimum of 5
   reads per position.
 
-min-prevalence-dropdown-label: Mutation detection threshold
+min-prevalence-dropdown-label: Mutation detection threshold (MDT)
 min-prevalence-dropdown-desc: >-
   Choose a threshold above which mutations are considered to be valid once the
   nucleotide mixture threshold is satisfied.
 
-max-mixture-rate-dropdown-label: Nucleotide mixture threshold
+max-mixture-rate-dropdown-label: Nucleotide mixture threshold (NMT)
 max-mixture-rate-dropdown-desc: >-
   Choose a threshold that limits the proportion of allowed nucleotide mixtures
   across the genome (after the minimum read depth is applied). The default

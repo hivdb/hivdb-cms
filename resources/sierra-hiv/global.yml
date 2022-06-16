@@ -1,6 +1,7 @@
 species: HIV1
 allGenes: &allGenes [PR, RT, IN]
 highlightGenes: &hlGenes [PR, RT, IN]
+highlightDRM: false
 geneDisplay: {}
 geneSynonyms:
   Protease: PR
