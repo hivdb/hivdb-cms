@@ -1,7 +1,7 @@
-species: HIV1
+.<<global:
+  _resource: sierra-hiv/global.yml
 allGenes: &allGenes [CA]
 highlightGenes: &hlGenes [CA]
-geneDisplay: {}
 geneSynonyms:
   Capsid: CA
 displayMutationScores: []
@@ -24,76 +24,8 @@ regionPresets:
           _resource: sierra-hiv/mutation-viewer-CA.yml
   genes:
     _resource: sierra-hiv/mutation-viewer-genes.yml
-geneReferences:
-  _resource: sierra-hiv/gene-references.yml
-geneValidatorDefs:
-  _resource: sierra-hiv/gene-validators.yml
-mutationDefaultGene: null
-mutationSuggestions:
-  _resource: sierra-hiv/mutation-suggestions.yml
-mutationPrefills: null
-seqReadsDefaultParams:
-  strain: HIV1
-  maxMixtureRate: 0.005 # ≤0.5%
-  minPrevalence: 0.1  # ≥10%
-  minCodonReads: 5
-  minPositionReads: 1
-seqReadsMaxMixtureRate:
-  - value: 0.0
-    label: "(no mixture)"
-  - value: 0.0005
-    label: ≤0.05%
-  - value: 0.001
-    label: ≤0.1%
-  - value: 0.002
-    label: ≤0.2%
-  - value: 0.005
-    label: ≤0.5%
-  - value: 0.01
-    label: ≤1%
-  - value: 0.02
-    label: ≤2%
-  - value: 0.05
-    label: ≤5%
-  - value: 1
-    label: "(don't apply)"
-seqReadsMinPrevalenceOptions:
-  - value: 0.01
-    label: ≥1%
-  - value: 0.02
-    label: ≥2%
-  - value: 0.05
-    label: ≥5%
-  - value: 0.10
-    label: ≥10%
-  - value: 0.20
-    label: ≥20%
-  - value: 0.50
-    label: ≥50%
-seqReadsMinCodonReadsOptions:
-  - value: 1
-    label: (don't apply)
-  - value: 5
-    label: ≥5
-  - value: 10
-    label: ≥10
-  - value: 20
-    label: ≥20
 messages:
   .<<common:
     _resource: sierra-hiv/messages.yml
   .<<CAonly:
     _resource: sierra-hiv/messages-CA.yml
-sequenceExamples:
-  - url: downloads/fasta-examples/dataset-small.txt
-    title: Protease/RT sequences (N=10)
-  - url: downloads/fasta-examples/dataset-integrases.txt
-    title: Integrase sequences (N=31)
-  - url: downloads/fasta-examples/dataset-indels.txt
-    title: Sequences contain insertion(s) / deletion(s) (N=12)
-seqReadsExamples:
-  - downloads/codfreq-examples/SRR4071760.codfreq.txt
-  - downloads/codfreq-examples/SRX3881674.codfreq.txt
-  - downloads/codfreq-examples/DRR030302.codfreq.txt
-drugDisplayNames: {}
-drugDisplayOptions: null

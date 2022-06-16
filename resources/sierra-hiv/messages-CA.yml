@@ -15,3 +15,8 @@ seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
  
 seqreads-analysis-report-title: >- # Warning: title doesn't support markdown
   HIV-1 Capsid Sequence Reads (NGS) Analysis Report
+
+max-mixture-rate-dropdown-desc: >-
+  Choose a threshold that limits the proportion of allowed nucleotide mixtures
+  across the genome (after the minimum read depth is applied). The default
+  threshold is 2% (~4 mixtures in Capsid). 
