@@ -13,6 +13,13 @@ formEnableTabs:
   - patterns
   - sequences
   - reads
+formEnableTabularReportOptions:
+  - "Sequence summary"
+  - "Resistance summary"
+  - "Consensus sequence (FASTA)"  # NGS only
+  - "Mutation list"
+  - "Unsequenced regions"
+  - "Pretty amino acid alignments"
 regionPresets:
   presets:
     - name: PR

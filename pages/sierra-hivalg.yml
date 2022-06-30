@@ -4,6 +4,7 @@ displayMutationScores: [PR, RT, IN]
 displayDRInterpretation: false
 displayMutationPrevalence: false
 displayAlgComparison: true
+formEnableTabularReportOptions: []
 messages:
   .<<common:
     _resource: sierra-hiv/messages.yml

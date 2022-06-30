@@ -149,10 +149,20 @@ ngs2codfreq-placeholder: >-
 seqsummary-header-genotype-link: /page/hiv-subtyper/
 seqsummary-header-genotype: Subtype
 
+mutation-type-CA-Major: CAI Major
+mutation-type-CA-Other: CA Other
+
 mutation-type-PR-Major: PI Major
-mutation-type-PR-Accessory: PI Major
+mutation-type-PR-Accessory: PI Accessory
+mutation-type-PR-Other: PR Other
+
+mutation-type-RT-NRTI: NRTI
+mutation-type-RT-NNRTI: NNRTI
+mutation-type-RT-Other: RT Other
+
 mutation-type-IN-Major: INSTI Major
-mutation-type-IN-Accessory: INSTI Major
+mutation-type-IN-Accessory: INSTI Accessory
+mutation-type-IN-Other: IN Other
 
 drug-display-options-title: >- # no markdown
   Drug display options
