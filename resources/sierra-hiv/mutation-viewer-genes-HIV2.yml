@@ -1,0 +1,15 @@
+- gene: PR
+  displayGene: PR
+  rangeByStrain:
+    HIV2A: [256, 552]
+    HIV2B: [253, 549]
+- gene: RT
+  displayGene: RT
+  rangeByStrain:
+    HIV2A: [553, 2229]
+    HIV2B: [550, 2226]
+- gene: IN
+  displayGene: IN
+  rangeByStrain:
+    HIV2A: [2230, 3108]
+    HIV2B: [2227, 3114]

@@ -1,0 +1,25 @@
+positionAxis:
+  posOffset: 549
+  posStart: 550
+  posEnd: 2226
+  convertToAA: true
+  tickCount: 15
+  roundToNearest: 5
+
+domains:
+- posStart: 550
+  posEnd: 1599
+  scaleRatio: 0.9
+- posStart: 1600
+  posEnd: 2226
+  scaleRatio: 0.1
+
+regions:
+- name: RT
+  label: Reverse transcriptase
+  posStart: 550
+  posEnd: 2226
+  fill: '#a6cee3'
+  color: '#1f78b4'
+  shapeType: rect
+  labelPosition: over

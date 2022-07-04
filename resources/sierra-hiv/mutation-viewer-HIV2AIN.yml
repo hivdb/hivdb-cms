@@ -1,0 +1,22 @@
+positionAxis:
+  posOffset: 2229
+  posStart: 2230
+  posEnd: 3108
+  convertToAA: true
+  tickCount: 15
+  roundToNearest: 5
+
+domains:
+- posStart: 2230
+  posEnd: 3108
+  scaleRatio: 1
+
+regions:
+- name: IN
+  label: Integrase
+  posStart: 2230
+  posEnd: 3108
+  fill: '#cab2d6'
+  color: '#6a3d9a'
+  shapeType: rect
+  labelPosition: over
