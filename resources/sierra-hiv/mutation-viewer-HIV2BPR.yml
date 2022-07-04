@@ -1,0 +1,22 @@
+positionAxis:
+  posOffset: 252
+  posStart: 253
+  posEnd: 549
+  convertToAA: true
+  tickCount: 15
+  roundToNearest: 5
+
+domains:
+- posStart: 253      # pol
+  posEnd: 549
+  scaleRatio: 1
+
+regions:
+- name: PR
+  label: Protease
+  posStart: 253
+  posEnd: 549
+  fill: '#b2df8a'
+  color: '#33a02c'
+  shapeType: rect
+  labelPosition: over
