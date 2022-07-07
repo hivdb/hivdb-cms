@@ -5,6 +5,7 @@ highlightGenes: &hlGenes [CA]
 geneSynonyms:
   Capsid: CA
 displayMutationScores: []
+displaySDRMs: false
 formEnableTabs:
   - sequences
   - reads
@@ -24,6 +25,9 @@ regionPresets:
           _resource: sierra-hiv/mutation-viewer-CA.yml
   genes:
     _resource: sierra-hiv/mutation-viewer-genes.yml
+sequenceExamples: []
+seqReadsExamples: []
+drugDisplayOptions: false
 messages:
   .<<common:
     _resource: sierra-hiv/messages.yml

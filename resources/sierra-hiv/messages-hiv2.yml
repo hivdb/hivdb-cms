@@ -1,0 +1,25 @@
+sequence-analysis-form-title: >- # Warning: title doesn't support markdown
+  HIVdb Program for HIV-2 (beta)
+
+sequence-analysis-report-title: >- # Warning: title doesn't support markdown
+  HIV-2 Sequence Analysis Report
+
+sequence-analysis-form-desc: |-
+  HIVdb for HIV-2 (beta) accepts user-submitted protease, RT, and integrase
+  HIV-2 sequences. Its purpose is educational and as such it provides mutation
+  classification and extensive comments.
+
+  Sequences can be entered as plain text if just one sequence is entered.
+  Sequences must be entered using the FASTA format if multiple sequences are
+  entered. Sequences can be pasted in the text box or uploaded using the File
+  Upload option. For better performance, we recommend users to submit less than
+  1000 sequences (about 3000 nucleotides per sequence) per request.
+
+  By default the program output will contain an HTML page with a navigation
+  sidebar linking to the results for each sequence. Users selecting the
+  spreadsheet output options, will obtain links to tab-delimited files
+  containing tabular sequence summary data, tabular resistance summary data,
+  and a formatted amino acid sequence alignment. HTML and spreadsheet output
+  are explained in the [Release Notes](/page/release-notes/).
+
+seqsummary-header-genotype: Group

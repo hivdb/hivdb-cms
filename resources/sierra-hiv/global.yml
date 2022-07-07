@@ -8,6 +8,7 @@ geneSynonyms:
   Reverse-transcriptase: RT
   Integrase: IN
 displayMutationScores: [PR, RT, IN]
+displaySDRMs: [PR, RT, IN]
 formEnableTabs:
   - patterns
   - sequences
