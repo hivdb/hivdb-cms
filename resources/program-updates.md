@@ -1,6 +1,44 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2 update 2022-07-06
+
+This version is a milestone update that we have successfully merged the
+Sierra-SARS2 fork with the original Sierra-HIV code base.
+
+**Backend major changes**:
+
+1. Alignment program has been changed from NucAmino to [PostAlign][postalign].
+   In addition to aligning FASTA sequences using [MiniMap2][minimap2], it
+   introduces codon-aware alignment and positional gap score for fine-tuning the
+   alignment result. PostAlign also supports extracting non-continuous genes
+   from a sequence.
+2. Sequence analysis has been added for Capsid (CA). In fact, the Sierra-HIV web
+   service is now able to support whole genome alignment for HIV-1 and to
+   generate mutation reports for PR, RT, IN, CA, gag, pol, vif, vpr, tat,
+   rev, vpu, env and nef.
+3. A [FASTQ-to-CodFreq pipeline][codfreq] is provided as we did for
+   Sierra-SARS2.
+4. For NGS sequence analysis, Sierra-HIV is now able to generate consensus
+   sequence based on different threshold settings.
+5. Updated validation messages.
+
+
+**The frontend code** has been rewritten using the latest React library. Several
+new features we created for Sierra-SARS2 has been ported to Sierra-HIV:
+
+1. A new chart that plot mutations on genome map.
+2. Mixture rate threshold and chart for NGS analysis.
+3. Per-AA prevalence for NGS mutations.
+4. Infinite loading view for multiple sequences.
+5. New interface for running [FASTQ-to-CodFreq pipeline][codfreq] online.
+
+
+[postalign]: https://github.com/hivdb/post-align
+[minimap2]: https://github.com/lh3/minimap2
+[codfreq]: https://github.com/hivdb/codfreq
+
+
 ## Version 3.1.3 update 2022-06-08
 
 New [HIVDB algorithm 9.1](/page/algorithm-updates/#version.9.1.update.2022-06-02) is released with this version! We updated scores for Doravirine (DOR).
