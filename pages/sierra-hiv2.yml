@@ -3,10 +3,10 @@
 species: HIV2
 displayMutationScores: []
 formEnableTabs:
-  - patterns
   - sequences
 sequenceExamples:
   - url: downloads/fasta-examples/dataset-hiv2.txt
+drugDisplayOptions: false
 regionPresets:
   presets:
     - name: PR
@@ -64,3 +64,13 @@ regionPresets:
           _resource: sierra-hiv/mutation-viewer-HIV2BIN.yml
   genes:
     _resource: sierra-hiv/mutation-viewer-genes-HIV2.yml
+messages:
+  .<<common:
+    _resource: sierra-hiv/messages.yml
+  .<<HIV2:
+    _resource: sierra-hiv/messages-hiv2.yml
+formEnableTabularReportOptions:
+  - "Sequence summary"
+  - "Mutation list"
+  - "Unsequenced regions"
+  # - "Pretty amino acid alignments"

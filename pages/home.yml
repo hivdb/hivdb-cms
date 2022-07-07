@@ -4,7 +4,7 @@ otherResources:
   items:
   - description: |
       Panels of multi-drug resistant recombinant infectious molecular clones, donated to the NIH AIDS Reagent Program: NRTI, NNRTI, PI & RAL
-    href: /pages/mdrPanels.html
+    to: /pages/mdrPanels.html
     title: Multi-Drug Resistant Panels
   - href: http://dbpartners.stanford.edu:8080/RegaSubtyping/stanford-hiv/typingtool/
     newWindow: true
@@ -15,7 +15,7 @@ otherResources:
     newWindow: true
     title: Database Mirror
   - description: Provides HBV RT mutation frequencies by genotype and treatment
-    href: /HBV/HBVseq/development/HBVseq.html
+    to: /HBV/HBVseq/development/HBVseq.html
     title: HBVseq Program
   title: Other Resources
 queryPages:
@@ -25,27 +25,27 @@ queryPages:
       persons; 1,075 protease, 936 RT and 340 integrase HIV-2 virus sequences from
       1,232 persons.'
     icon: treatment
-    href: /pages/genotype-rx.html
+    to: /pages/genotype-rx.html
     title: Genotype-treatment
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
       30,312 PI, 23,716 NRTI, 13,753 NNRTI and 5,327 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
-    href: /pages/genotype-phenotype.html
+    to: /pages/genotype-phenotype.html
     title: Genotype-phenotype
   - description: |-
       [Clinical outcome data](/pages/genotype-clinical.html) comprising
       genotype, treatments, plasma HIV-1 RNA levels and CD4 counts from 15
       clinical trials and >1500 Treatment-Change Episodes
     icon: clinical
-    href: /pages/genotype-clinical.html
+    to: /pages/genotype-clinical.html
     title: Genotype-clinical
   - description: |-
       [1,922 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [80 references](/pages/new_submissions.html) collected since 2021-01-01.
 
       [3,456 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 126 new submissions from Genbank release on 2021-10-15.
     icon: references
-    href: /pages/references.html
+    to: /pages/references.html
     title: References
   title: Query / Download
 slideItems:
@@ -73,13 +73,13 @@ slideItems:
   date: Jan 19, 2022
   description: '[Public availability of HIV-1 drug resistance sequence and treatment
     data](/pages/pdf/Rhee.2022.LancetMicrobe.pdf)'
-  href: /pages/pdf/Rhee.2022.LancetMicrobe.pdf
+  to: /pages/pdf/Rhee.2022.LancetMicrobe.pdf
   type: text
 - bgColor: '#dccb92'
   caption: "Reference Library:  \nDolutegravir  \nResistance"
   date: June 24, 2020
   description: A body of literatures reviewed, annotated and searchable
-  href: /pages/refLib/DTG.html
+  to: /pages/refLib/DTG.html
   type: text
 - caption: HIVdb-NGS (Beta)
   date: Oct 24, 2019
@@ -91,7 +91,7 @@ slideItems:
   caption: "Reference Library:  \nHIV-2  \nResistance"
   date: Sep 6, 2019
   description: A body of literatures reviewed, annotated and searchable
-  hrefk: /pages/refLib/HIV2.html
+  to: /pages/refLib/HIV2.html
   type: text
 - bgColor: '#dccb92'
   caption: "Integrase DRMs  \nfor Transmitted  \nResistance\nSurveillance"
