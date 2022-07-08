@@ -1,6 +1,13 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.1 update 2022-07-08
+
+Bugfix;
+
+Change sequence validation level for drug resistance positions so it never
+triggers CRITICAL error.
+
 ## Version 3.2 update 2022-07-06
 
 This version is a milestone update that we have successfully merged the
