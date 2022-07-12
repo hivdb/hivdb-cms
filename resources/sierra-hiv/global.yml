@@ -20,6 +20,7 @@ formEnableTabularReportOptions:
   - "Mutation list"
   - "Unsequenced regions"
   - "Pretty amino acid alignments"
+  - "Raw JSON report"
 regionPresets:
   presets:
     - name: PR
