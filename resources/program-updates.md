@@ -1,6 +1,22 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.2 update 2022-07-13
+
+Frontend changes:
+
+1. For HIVDB sequence analysis and sequence reads analysis, a "raw JSON report"
+   sub-option is added under output option "Machine-readable data" (previously
+   named "Spreadsheets (CSV)").
+2. AAVF parser has been fixed.
+
+Backend/GraphQL changes:
+
+The default behavior of includedGenes for HIV-1 is changed back to only query
+results for PR, RT, and IN. Explict specification is required for querying other
+genes.
+
+
 ## Version 3.2.1 update 2022-07-08
 
 Bugfix;
