@@ -1,6 +1,15 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.3 update 2022-07-21
+
+Bugfix:
+
+Previously, a default k-mer window size=10 was applied when aligning an HIV-1
+sequence by minimap2. This default window size is changed to 5 to achieve higher
+sensitivity for short sequences (e.g. PR only).
+
+
 ## Version 3.2.2 update 2022-07-13
 
 Frontend changes:
@@ -19,7 +28,7 @@ genes.
 
 ## Version 3.2.1 update 2022-07-08
 
-Bugfix;
+Bugfix:
 
 Change sequence validation level for drug resistance positions so it never
 triggers CRITICAL error.
