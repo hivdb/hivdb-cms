@@ -1716,6 +1716,11 @@
   },
   {
     "gene": "IN",
+    "position": 197,
+    "aa": "R"
+  },
+  {
+    "gene": "IN",
     "position": 198,
     "aa": "K"
   },
@@ -1833,11 +1838,6 @@
     "gene": "IN",
     "position": 277,
     "aa": "K"
-  },
-  {
-    "gene": "IN",
-    "position": 277,
-    "aa": "S"
   },
   {
     "gene": "IN",
