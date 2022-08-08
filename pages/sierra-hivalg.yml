@@ -5,8 +5,9 @@ displayDRInterpretation: false
 displayMutationPrevalence: false
 displayAlgComparison: true
 formEnableTabularReportOptions: 
-  - Algorithm comparison
-  - Raw JSON report
+  - "Algorithm comparison"
+  - "Consensus sequence (FASTA)"  # NGS only
+  - "Raw JSON report"
 messages:
   .<<common:
     _resource: sierra-hiv/messages.yml

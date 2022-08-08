@@ -1,6 +1,15 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.4 update 2022-08-08
+
+Bugfix:
+
+1. Fixed the pretty pair-wise view and subtyping distance for sequences that in
+reverse compliment.
+2. Added back the CSV output of algorithm comparison.
+
+
 ## Version 3.2.3 update 2022-07-21
 
 Bugfix:
