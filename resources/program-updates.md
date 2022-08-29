@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.5 update 2022-08-26
+
+Bugfix: Updated PostAlign to fix a bug that led to frameshift when input
+sequence doesn't start with the first basepair of a codon.
+
+
 ## Version 3.2.4 update 2022-08-08
 
 Bugfix:

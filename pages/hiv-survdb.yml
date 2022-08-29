@@ -4,3 +4,12 @@ minSeqChoices:
   - 25
   - 50
   - 100
+plotSubregions:
+  - Asia
+  - Caribbean
+  - Europe
+  - North America
+  - Post-Soviet States
+  - South America
+  - Sub-Saharan Africa
+
