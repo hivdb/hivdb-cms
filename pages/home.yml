@@ -55,7 +55,7 @@ slideItems:
   image: slide-asieditor.png
   to: /project/asi-editor/
   type: image
-- caption: Sierra 3.2.6
+- caption: Sierra 3.2.7
   date: Sep 6, 2022
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
