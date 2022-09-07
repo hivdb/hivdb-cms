@@ -1,6 +1,11 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.6 update 2022-09-06
+
+Bugfix: Add back the `targetStrain` feature introduced in 3.1.0 which was
+accidentally removed when we upgraded to 3.2.0.
+
 ## Version 3.2.5 update 2022-08-26
 
 Bugfix: Updated PostAlign to fix a bug that led to frameshift when input
