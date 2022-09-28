@@ -44,6 +44,8 @@ queryPages:
       [1,946 references](/cgi-bin/Reference.cgi) of genotype-treatment and/or genotype-phenotype data according to author-yr, including [104 references](/pages/new_submissions.html) collected since 2021-01-01.
 
       [3,573 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 117 new submissions from Genbank release on 2022-08-15.
+
+      [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)
     icon: references
     title: References
     to: /pages/references.html
