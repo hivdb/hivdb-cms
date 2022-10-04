@@ -183,3 +183,5 @@ drugDisplayOptions:
         disabled: false
       - name: TPV
         disabled: false
+refSequencePath: downloads/HXB2_x_ConsensusB.fas
+refSequenceName: HXB2_x_ConsensusB

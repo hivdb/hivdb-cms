@@ -63,12 +63,12 @@ slideItems:
   image: slide-sierra.png
   to: /page/release-notes/
   type: image
-- caption: "HIVDB Algorithm  \nVersion 9.1"
-  date: June 2, 2022
-  description: ''
-  image: slide-hivdb.png
-  to: /page/algorithm-updates/#version.9.1.update.2022-06-02
-  type: image
+- bgColor: '#dccb92'
+  caption: HIV in vitro selection
+  date: Oct 3, 2022
+  description: HIV in vitro selected PR, RT, IN mutations
+  href: https://office365stanford-my.sharepoint.com/:x:/g/personal/philiptz_stanford_edu/ESMDlVvU8V9Dsp6mm1VBnKUB_RNVJih1H7o-DEouYZpLQw?e=3P9lmR
+  type: text
 - bgColor: '#92dca1'
   caption: HIV Surveillance Database
   date: Aug 8, 2022
@@ -81,6 +81,12 @@ slideItems:
     convalescent plasma, and vaccinee plasma
   href: https://covdb.stanford.edu/
   image: slide-covdb.png
+  type: image
+- caption: "HIVDB Algorithm  \nVersion 9.1"
+  date: June 2, 2022
+  description: ''
+  image: slide-hivdb.png
+  to: /page/algorithm-updates/#version.9.1.update.2022-06-02
   type: image
 - bgColor: '#dccb92'
   caption: Systematic Reviews

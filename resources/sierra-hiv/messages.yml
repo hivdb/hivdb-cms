@@ -121,6 +121,21 @@ ngs2codfreq-form-desc: |-
   (CodFreq files)**. The pipeline first aligns FASTQ files using MINIMAP2. It
   then extracts codon frequency tables from the output SAM files.
 
+ngs2codfreq-primer-fasta-input-desc: |-
+  Please upload an HIV-1 primer FASTA file or enter HIV-1 primer sequences.
+  Keywords are used to identify directionality from each sequence header:
+
+  - 5′ end only keywords: foward, left, fwd, 5-end
+  - 3′ end only keywords: backward, reverse, right, bwd, rev, rvs, 3-end
+  - Others are identified as 5′ and 3’ end
+
+ngs2codfreq-primer-bed-input-desc: |-
+  Please upload an HIV-1 primer BED file or enter
+  [zero-based](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/bedtools/BEDTools-User-Manual.v4.pdf)
+  HIV-1 primer locations between 0 to 9719 following the HXB2 numbering
+  system
+  ([K03455.1](https://www.ncbi.nlm.nih.gov/nuccore/K03455.1)).
+
 codfreq-example: |-
 
   Minimal example of a CodFreq file:
