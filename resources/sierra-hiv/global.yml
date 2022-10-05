@@ -64,7 +64,7 @@ seqReadsDefaultParams:
   strain: HIV1
   maxMixtureRate: 0.02 # ≤2%
   minPrevalence: 0.1  # ≥10%
-  minPositionReads: 5
+  minPositionReads: 50
 seqReadsMaxMixtureRate:
   - value: 0.0
     label: "(no mixture)"
@@ -102,6 +102,12 @@ seqReadsMinPositionReadsOptions:
     label: ≥25
   - value: 50
     label: ≥50
+  - value: 100
+    label: ≥100
+  - value: 250
+    label: ≥250
+  - value: 500
+    label: ≥500
 messages:
   _resource: sierra-hiv/messages.yml
 sequenceExamples:
