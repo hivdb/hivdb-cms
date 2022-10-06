@@ -1,6 +1,25 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.9 update 2022-10-06
+
+Bugfixes:
+
+1. A regression bug that prevent `mutationsByTypes` reporting mixtures.
+2. PostAlign caused a missing gene serious warning ("Alignment of gene XX is
+discarded since the List of 'alignedSites' is empty or contains only gaps") by
+not filtering out all empty genes. This behavior has been changed and this kind
+of warnings will be no long reported.
+3. An incorrectly concatenated (e.g. RT + PR) sequence would cause excess
+number of artifact mutations being reported due to the way PostAlign dealing
+with unaligned sequences. This issue has been resolved.
+
+Improvement:
+
+IUPAC simple nucleotide score is added to PostAlign's gap placement algorithm
+for considering both NA and AA when doing placements. For certain extreme case
+this hybrid score calculation generates better results than just use BLOSUM62.
+
 ## Version 3.2.8 update 2022-10-05
 
 New feature:
