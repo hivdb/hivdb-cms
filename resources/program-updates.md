@@ -1,6 +1,32 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.8 update 2022-10-05
+
+New feature:
+
+New functions have been added to CodFreq (NGS) pipeline which converts FASTQ to
+CodFreq files. It is now able to trim adapters, filter reads which are too short
+or contain low phred scores using `fastp`. Optional primmer trimming is also
+supported for both FASTA (`cutadapt`) and BED (`ivar`) format.
+
+Bugfixes:
+
+1. Earlier version of Sierra-HIV failed to report gene sequences that have been
+   aligned but were dropped by Sierra due to quality reasons. We added this
+   feature back.
+2. We introduced a new concept "conditionally unsequenced regions" for flagging
+   a mutation that closes to the boundary of a definitive unsequenced region, or
+   belongs to a long-stretch (≥20 AAs) range deletion.  These "gray area"
+   mutations are no longer reported by the program.  Instead, they are now
+   reported as part of unsequenced regions.
+3. An alignment extension algorithm is introduced to extend MiniMap2 alignment
+   to include unaligned boundary nucleotides (hivdb/postalign).
+4. MiniMap2 alignment options have been changed from "-w 5 -B 1" to "-w 5" to
+   address certain misalignment issue. The "-B 1" was added to partially reduced
+   the unaligned boundary nucleotides issue previously - we now have a more
+   sophisticated algorithm doing it. 
+
 ## Version 3.2.7 update 2022-09-06
 
 Bugfix:
