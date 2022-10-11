@@ -1,6 +1,13 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.10 update 2022-10-11
+
+New feature: Users are now able to download RAW files (BAM, FASTQ, logs, etc.)
+created by FASTQ =&gt; CodFreq pipeline.
+
+Bugfix: In PostAlign, avoid penalizing gaps post/pre each end of input sequence.
+
 ## Version 3.2.9 update 2022-10-06
 
 Bugfixes:

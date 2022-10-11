@@ -51,8 +51,8 @@ queryPages:
     to: /pages/references.html
   title: Query / Download
 slideItems:
-- caption: Sierra 3.2.9
-  date: Oct 6, 2022
+- caption: Sierra 3.2.10
+  date: Oct 11, 2022
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   to: /page/release-notes/
