@@ -1,6 +1,13 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.11 update 2022-10-12
+
+- Bugfix [#34](https://github.com/hivdb/sierra/issues/34): Fix missing genotype
+  results prevents Capsid analysis results.
+- The leading and trailing N's are now trimmed from the input sequence for
+  better robustness.
+
 ## Version 3.2.10 update 2022-10-11
 
 New feature: Users are now able to download RAW files (BAM, FASTQ, logs, etc.)
