@@ -1,6 +1,11 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.2.12 update 2022-10-14
+- Bugfix: Fix a `NullPointerException` bug which caused crashing.
+- Improvement: Two AAs insertion (TN) is now anchored to position IN:255 (see
+  https://pubmed.ncbi.nlm.nih.gov/34260070/).
+
 ## Version 3.2.11 update 2022-10-12
 
 - Bugfix [#34](https://github.com/hivdb/sierra/issues/34): Fix missing genotype
