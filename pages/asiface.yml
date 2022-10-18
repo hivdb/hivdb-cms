@@ -56,6 +56,18 @@ preloads:
   date: "2016-09-15"
   url: $$CMS_PREFIX$$downloads/asi/HIVDB_8.1.xml
 - family: ANRS
+  version: "33"
+  date: "2022-10-01"
+  url: $$CMS_PREFIX$$downloads/asi/ANRS_33.xml
+- family: ANRS
+  version: "32"
+  date: "2021-10-01"
+  url: $$CMS_PREFIX$$downloads/asi/ANRS_32.xml
+- family: ANRS
+  version: "31"
+  date: "2020-12-01"
+  url: $$CMS_PREFIX$$downloads/asi/ANRS_31.xml
+- family: ANRS
   version: "30"
   date: "2019-11-01"
   url: $$CMS_PREFIX$$downloads/asi/ANRS_30.xml
