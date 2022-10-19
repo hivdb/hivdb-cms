@@ -1,6 +1,17 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.3.0 update 2022-10-19
+
+1. ANRS HIV-1 algorithm has been upgraded to version 33 (October 2022). Version
+   31 (December 2020), and 32 (October 2021) are also added to our available
+   algorithm list.
+2. Fix a bug in NGS consensus assembly which may leave insertions untrimmed
+   when applying the assembly trimming rules. ([hivdb/sierra-core@`fea7486`](https://github.com/hivdb/sierra-core/commit/fea7486f1dbe1b3eb99527161df60a9b5dc1c08d))
+3. Upgrade [ASIInterpreter](https://github.com/hivdb/asi_interpreter) to
+   version 1.6.1.
+4. Upgrade the minimum Java SDK requirement to version 15.
+
 ## Version 3.2.12 update 2022-10-14
 - Bugfix: Fix a `NullPointerException` bug which caused crashing.
 - Improvement: Two AAs insertion (TN) is now anchored to position IN:255 (see
