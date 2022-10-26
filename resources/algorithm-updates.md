@@ -195,6 +195,7 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi89p1]: $$CMS_PREFIX$$downloads/asi/HIVDB_8.9-1.xml
 [asi90]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.0.xml
 [asi91]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.1.xml
+[asi92]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.2.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf
