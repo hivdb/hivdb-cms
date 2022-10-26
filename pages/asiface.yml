@@ -1,5 +1,9 @@
 preloads:
 - family: HIVDB
+  version: "9.2"
+  date: "2022-10-25"
+  url: $$CMS_PREFIX$$downloads/asi/HIVDB_9.2.xml
+- family: HIVDB
   version: "9.1"
   date: "2022-06-02"
   url: $$CMS_PREFIX$$downloads/asi/HIVDB_9.1.xml
