@@ -191,3 +191,19 @@ drugDisplayOptions:
         disabled: false
 refSequencePath: downloads/HXB2_x_ConsensusB.fas
 refSequenceName: HXB2_x_ConsensusB
+mutationTypesByGenes:
+  PR:
+    Major: Major
+    Accessory: Accessory
+    Other: Other
+  RT:
+    NRTI: NRTI
+    NNRTI: NNRTI
+    Other: Other
+  IN:
+    Major: Major
+    Accessory: Accessory
+    Other: Other
+  CA:
+    Major: Major
+    Other: Other

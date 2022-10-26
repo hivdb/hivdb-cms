@@ -1,3 +1,11 @@
+## Version 9.2 update 2022-10-25
+
+The 9.2 drug resistance ASI file is downloadable at [here][asi92].
+
+This version includes major comment updates for NRTI, NNRTI, PI and INSTI
+mutations. It also includes new comments for CAI mutations. No score change is
+made in this version.
+
 ## Version 9.1 update 2022-06-02
 
 The 9.1 drug resistance ASI file is downloadable at [here][asi91].

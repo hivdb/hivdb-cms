@@ -1,6 +1,11 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.3.1 update 2022-10-26
+
+HIVDB algorithm 9.2 with updated NRTI, NNRTI, INSTI, PI and new CAI comments (no
+score changes).
+
 ## Version 3.3.0 update 2022-10-19
 
 1. ANRS HIV-1 algorithm has been upgraded to version 33 (October 2022). Version
