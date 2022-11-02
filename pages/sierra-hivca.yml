@@ -25,7 +25,9 @@ regionPresets:
           _resource: sierra-hiv/mutation-viewer-CA.yml
   genes:
     _resource: sierra-hiv/mutation-viewer-genes.yml
-sequenceExamples: []
+sequenceExamples:
+  - url: downloads/fasta-examples/dataset-hivca.txt
+    title: Capsid sequences (N=5)
 seqReadsExamples: []
 drugDisplayOptions: false
 messages:
