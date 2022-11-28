@@ -1,3 +1,14 @@
+## Version 9.3 update 2022-11-20
+
+The 9.3 drug resistance ASI file is downloadable at [here][asi93].
+
+This version includes important score updates for NRTI drugs ABC, AZT, TDF, and
+3TC/FTC. The latest scores for NRTI drug resistance mutations can be found at
+[here](/dr-summary/mut-scores/NRTI/).
+
+All affected patterns are listed in [this spreadsheet][asi93changes].
+
+
 ## Version 9.2 update 2022-10-25
 
 The 9.2 drug resistance ASI file is downloadable at [here][asi92].
@@ -196,6 +207,7 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi90]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.0.xml
 [asi91]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.1.xml
 [asi92]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.2.xml
+[asi93]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.3.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf
@@ -203,4 +215,5 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi89changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.9.changes.pdf
 [asi90changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.0.changes.pdf
 [asi91changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.1.changes.pdf
+[asi93changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.3.changes.pdf
 [asi91ref]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.1.references.pdf

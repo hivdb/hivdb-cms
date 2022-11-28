@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4 update 2022-11-28
+
+[HIVDB algorithm has been upgraded to
+9.3](/page/algorithm-updates/#version.9.3.update.2022-11-20) which includes
+important score updates for NRTI drugs ABC, AZT, TDF, and 3TC/FTC.
+
 ## Version 3.3.1 update 2022-10-26
 
 HIVDB algorithm 9.2 with updated NRTI, NNRTI, INSTI, PI and new CAI comments (no
