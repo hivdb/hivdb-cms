@@ -51,17 +51,17 @@ queryPages:
     to: /pages/references.html
   title: Query / Download
 slideItems:
-- caption: Sierra 3.4.0
-  date: Nov 28, 2022
+- caption: Sierra 3.4.1
+  date: Dec 7, 2022
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   to: /page/release-notes/
   type: image
-- caption: "HIVDB Algorithm  \nVersion 9.3"
-  date: Nov 20, 2022
+- caption: "HIVDB Algorithm  \nVersion 9.4"
+  date: Dec 7, 2022
   description: ''
   image: slide-hivdb.png
-  to: /page/algorithm-updates/#version.9.3.update.2022-11-20
+  to: /page/algorithm-updates/#version.9.4.update.2022-12-07
   type: image
 - caption: ''
   date: Aug 18, 2022

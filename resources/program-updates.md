@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.1 update 2022-12-07
+
+[HIVDB algorithm has been upgraded to
+9.4](/page/algorithm-updates/#version.9.4.update.2022-12-07) which includes
+important comments updates for CAI mutations.
+
 ## Version 3.4 update 2022-11-28
 
 [HIVDB algorithm has been upgraded to
