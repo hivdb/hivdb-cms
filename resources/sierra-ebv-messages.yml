@@ -1,0 +1,136 @@
+pattern-analysis-form-title: >- # Warning: title doesn't support markdown
+  Sudan Ebolavirus Mutations Analysis
+
+pattern-analysis-report-title: >- # Warning: title doesn't support markdown
+  Sudan Ebolavirus Mutations Analysis Report
+
+pattern-analysis-form-desc: |-
+  Mutations of each SEV gene, NP, VP35, VP40, GP, sGP, ssGP, VP30, VP24, and L,
+  can be entered using the text box. To use the text box, type or paste
+  mutations separated by one or more spaces. The mutation should start with its
+  gene's name and a colon followed. The reference wildtype and separating
+  commas are optional. If there is a mixture of more than one amino acid at a
+  position, write both amino amino acids (an intervening slash is optional).
+  Insertions should be indicated by “ins” and deletions by “del”.
+
+pattern-analysis-prefill-label: >- # Warning: title doesn't support markdown
+  Pre-populate mutations:
+
+pattern-analysis-input-label: >-
+  Enter/paste mutations:
+
+pattern-analysis-input-placeholder: >-
+  Enter/paste mutations
+
+sequence-analysis-form-title: >- # Warning: title doesn't support markdown
+  Sudan Ebolavirus Sequence Analysis
+
+sequence-analysis-report-title: >- # Warning: title doesn't support markdown
+  Sudan Ebolavirus Sequence Analysis Report
+
+sequence-analysis-form-desc: |-
+  Sudan Ebolavirus Sequences can be entered as plain text if just one sequence
+  is entered.  Sequences must be entered using the FASTA format if multiple
+  sequences are entered. Sequences can be pasted in the text box or uploaded
+  using the File Upload option. The upper limit is currently 100 sequences
+  containing ~20000 nucleotides per sequence. The input sequences will be
+  aligned to the reference sequence Wuhan-Hu-1
+  ([NC_006432.1](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/prod/downloads/NC_006432.1.fas)).
+  The report provides lineage/variant, mutations, quality assessment, drug
+  resistance comments and susceptibility summary.
+
+seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
+  Sudan Ebolavirus Sequence Reads (NGS) Analysis
+
+ngs2codfreq-form-title: >- # Warning: title doesn't support markdown
+  Sudan Ebolavirus NGS Pipeline
+
+seqreads-analysis-report-title: >- # Warning: title doesn't support markdown
+  Sudan Ebolavirus Sequence Reads (NGS) Analysis Report
+
+seqreads-analysis-form-desc: |-
+  Sudan Ebolavirus Sequence Reads of each Sudan Ebolavirus gene, NP, VP35,
+  VP40, GP, sGP, ssGP, VP30, VP24, and L, can be submittted in the form of
+  [codon frequency tables (CodFreq files)](/page/codfreq/).
+
+  We provide a pipeline for directly aligning FASTQ files and generating
+  CodFreq tables from the MINIMAP2 alignments. To use this pipeline, just add
+  the .fastq or .fastq.gz files to the below input form. By clicking the "Start
+  process" button, the program will automatically start the FASTQ pipeline,
+  upload your FASTQ files to our server. Once the pipeline is finished, buttons
+  for downloading the CodFreq tables or directly running the analysis will
+  appear.
+
+  For submitted FASTQ files, please note that these files will be stored for
+  two weeks for quality control purposes in the event that questions arise
+  regarding the manner in which the codon frequency file is produced.
+
+ngs2codfreq-form-desc: |-
+  Sudan Ebolavirus NGS Pipeline **converts FASTQ files into codon frequency tables
+  (CodFreq files)**. The pipeline first aligns FASTQ files using MINIMAP2. It
+  then extracts codon frequency tables from the output SAM files.
+
+ngs2codfreq-primer-fasta-input-desc: |-
+  Please upload a Sudan Ebolavirus primer FASTA file or enter Sudan Ebolavirus primer
+  sequences. Keywords are used to identify directionality from each sequence
+  header:
+
+  - 5′ end only keywords: foward, left, fwd, 5-end
+  - 3′ end only keywords: backward, reverse, right, bwd, rev, rvs, 3-end
+  - Others are identified as 5′ and 3’ end
+
+ngs2codfreq-primer-bed-input-desc: |-
+  Please upload a Sudan Ebolavirus primer BED file or enter
+  [zero-based](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/bedtools/BEDTools-User-Manual.v4.pdf)
+  Sudan Ebolavirus primer locations between 0 to 18875 according to the
+  numbering system of Gulu
+  ([NC_006432.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_006432.1)).
+
+codfreq-example: |-
+  Example of a CodFreq file. Two additional columns "aminoAcid" and "percent"
+  are added to help understanding:
+
+  | gene | position | totalReads | codon | reads | aminoAcid | percent |
+  |------|----------|------------|-------|-------|-----------|---------|
+  | S    | 500      | 8653       | ACT   | 8530  | T         | 98.6%   |
+  | S    | 500      | 8653       | ACC   | 123   | T         | 1.4%    |
+  | S    | 501      | 8657       | AAT   | 5545  | N         | 64.1%   |
+  | S    | 501      | 8657       | TAT   | 2967  | Y         | 34.3%   |
+  | S    | 501      | 8657       | CAT   | 87    | H         | 1.0%    |
+  | S    | 501      | 8657       | ACC   | 31    | T         | 0.4%    |
+  | S    | 501      | 8657       | ACT   | 27    | T         | 0.3%    |
+  | S    | 502      | 8653       | GGT   | 8449  | G         | 97.6%   |
+  | S    | 502      | 8653       | GGA   | 187   | G         | 2.2%    |
+  | S    | 502      | 8653       | GGC   | 17    | G         | 0.2%    |
+
+seqreads-analysis-form-placeholder: >-
+  Drag and drop CodFreq files
+
+ngs2codfreq-placeholder: >-
+  Convert FASTQ => CodFreq Files
+
+mut-input-error-invalid-mutation: >- # no markdown
+  Invalid mutation: a mutation must consist of the gene (optional), a reference
+  amino acid (optional), the position and mutation amino acid.
+mut-input-error-invalid-gene: >- # no markdown
+  Unable to identify input gene "$$GENE$$".
+mut-input-error-pos-is-zero: >- # no markdown
+  Position cannot be zero.
+mut-input-error-pos-out-of-bounds: >- # no markdown
+  Position cannot be greater than $$MAX_POS$$.
+
+min-position-reads-dropdown-label: Minimum read depth
+min-position-reads-dropdown-desc: >-
+  Regions containing fewer reads are ignored. The default is a minimum of 5
+  reads per position.
+
+min-prevalence-dropdown-label: Mutation detection threshold
+min-prevalence-dropdown-desc: >-
+  Choose a threshold above which mutations are considered to be valid once the
+  nucleotide mixture threshold is satisfied.
+
+max-mixture-rate-dropdown-label: Nucleotide mixture threshold
+max-mixture-rate-dropdown-desc: >-
+  Choose a threshold that limits the proportion of allowed nucleotide mixtures
+  across the genome (after the minimum read depth is applied). The default
+  threshold is 0.05% (~15 mixtures across a complete genome). 
