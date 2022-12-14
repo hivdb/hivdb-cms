@@ -1,6 +1,19 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.2 update 2022-12-14
+
+Improvements and bugfixes:
+
+1. Dangling code for sequence "shrinkage" is removed. This function has been
+   disabled since NucAmino was replaced by PostAlign in version 3.2.
+2. A frameshift deletion was mistakenly reported as a whole amino acid deletion
+   in SequenceReads analysis. This error has been fixed.
+3. DefaultVirus and default validators are introduced in sierra-core. This helps
+   us add supports for new viruses (e.g.  https://github.com/hivdb/sierra-ebv)
+   easier.
+4. A new sequence analysis program for [Sudan Ebolavirus](/ebv/) is added.
+
 ## Version 3.4.1 update 2022-12-07
 
 [HIVDB algorithm has been upgraded to
