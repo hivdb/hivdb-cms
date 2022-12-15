@@ -261,7 +261,8 @@ messages:
 sequenceExamples:
   - url: downloads/ebv-fasta-examples/EboSud-639.fas
     title: EboSud-639::KC589025 (N=1)
-seqReadsExamples: []
+seqReadsExamples:
+  - downloads/ebv-codfreq-examples/SRR7167616.codfreq.txt
 highlightUnusualMutation: false
 highlightDRM: false
 refSequencePath: "downloads/NC_006432.1.fas"
