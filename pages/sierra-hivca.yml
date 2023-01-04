@@ -4,6 +4,7 @@ allGenes: &allGenes [CA]
 highlightGenes: &hlGenes [CA]
 geneSynonyms:
   Capsid: CA
+displaySubtype: false
 displayMutationScores: []
 displaySDRMs: false
 formEnableTabs:

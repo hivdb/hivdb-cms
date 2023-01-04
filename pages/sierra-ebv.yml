@@ -211,7 +211,7 @@ mutationSuggestions: null
 mutationPrefills: []
 seqReadsDefaultParams:
   strain: SEV
-  maxMixtureRate: 0.0005 # ≤0.05%
+  maxMixtureRate: 0.002 # ≤0.2%
   minPrevalence: 0.1  # ≥10%
   minPositionReads: 10
 seqReadsMaxMixtureRate:

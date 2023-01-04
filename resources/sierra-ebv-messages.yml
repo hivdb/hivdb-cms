@@ -121,7 +121,7 @@ mut-input-error-pos-out-of-bounds: >- # no markdown
 
 min-position-reads-dropdown-label: Minimum read depth
 min-position-reads-dropdown-desc: >-
-  Regions containing fewer reads are ignored. The default is a minimum of 5
+  Regions containing fewer reads are ignored. The default is a minimum of 10
   reads per position.
 
 min-prevalence-dropdown-label: Mutation detection threshold
@@ -133,4 +133,4 @@ max-mixture-rate-dropdown-label: Nucleotide mixture threshold
 max-mixture-rate-dropdown-desc: >-
   Choose a threshold that limits the proportion of allowed nucleotide mixtures
   across the genome (after the minimum read depth is applied). The default
-  threshold is 0.05% (~15 mixtures across a complete genome). 
+  threshold is 0.2% (~5-10 mixtures across a complete genome). 
