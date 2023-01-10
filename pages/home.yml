@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on November 18, 2022
+dbReleaseText: HIVDB released on January 10, 2023
 otherResources:
   items:
   - description: |
@@ -20,15 +20,16 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 209,599
-      protease, 219,126 RT and 34,906 integrase HIV-1 virus sequences from 236,074
-      persons; 1,075 protease, 936 RT and 340 integrase HIV-2 virus sequences from
-      1,232 persons. [In vitro selection data](https://office365stanford-my.sharepoint.com/:x:/g/personal/philiptz_stanford_edu/ESMDlVvU8V9Dsp6mm1VBnKUB_RNVJih1H7o-DEouYZpLQw?e=3P9lmR) includes 1,111 HIV-1 in vitro selection data of PR, RT and IN.'
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 209,581
+      protease, 219,104 RT, 34,925 integrase and 13,940 capsid HIV-1 virus sequences
+      from 243,613 persons; 1,075 protease, 936 RT and 340 integrase HIV-2 virus sequences
+      from 1,232 persons. [In vitro selection data](https://office365stanford-my.sharepoint.com/:x:/g/personal/philiptz_stanford_edu/ESMDlVvU8V9Dsp6mm1VBnKUB_RNVJih1H7o-DEouYZpLQw?e=3P9lmR)
+      includes 1,111 HIV-1 in vitro selection data of PR, RT and IN.'
     icon: treatment
     title: Genotype-treatment
     to: /pages/genotype-rx.html
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      30,312 PI, 23,955 NRTI, 14,014 NNRTI and 5,442 INI susceptibility results from
+      30,312 PI, 23,955 NRTI, 14,014 NNRTI and 5,457 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     title: Genotype-phenotype
@@ -41,11 +42,11 @@ queryPages:
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
   - description: |-
-      1,969 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
+      1,998 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
 
       [3,573 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 117 new submissions from Genbank release on 2022-08-15.
 
-      [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)
+      [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)..
     icon: references
     title: References
     to: /pages/references.html
