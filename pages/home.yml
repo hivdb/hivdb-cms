@@ -64,18 +64,18 @@ slideItems:
   image: slide-hivdb.png
   to: /page/algorithm-updates/#version.9.4.update.2022-12-07
   type: image
+- bgColor: '#dccb92'
+  caption: HIV in vitro selection
+  date: Mar 13, 2023
+  description: HIV in vitro selected PR, RT, IN and CA mutations
+  to: /project/ivseldb/
+  type: text
 - caption: ''
   date: Aug 18, 2022
   description: JavaScript-based Algorithm Specification Interface (ASI) editor
   image: slide-asieditor.png
   to: /project/asi-editor/
   type: image
-- bgColor: '#dccb92'
-  caption: HIV in vitro selection
-  date: Oct 3, 2022
-  description: HIV in vitro selected PR, RT, IN mutations
-  href: https://office365stanford-my.sharepoint.com/:x:/g/personal/philiptz_stanford_edu/ESMDlVvU8V9Dsp6mm1VBnKUB_RNVJih1H7o-DEouYZpLQw?e=3P9lmR
-  type: text
 - caption: ''
   date: ''
   description: Experimental data on SARS-CoV-2 variants to monoclonal antibodies,
