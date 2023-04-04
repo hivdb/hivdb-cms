@@ -233,22 +233,24 @@ mutation-is-drm: >-
   (${drugClass}).
 
 mutation-is-drm-CAI: >-
-  ${mutation} is a capsid Assembly inhibitor (CAI) resistance mutation.
+  ${mutation} is a capsid Assembly inhibitor (CAI) resistance mutation (see
+  comment below).
 
 mutation-is-drm-PI: >-
-  ${mutation} is a protease inhibitor (PI) resistance mutation.
+  ${mutation} is a protease inhibitor (PI) resistance mutation (see comment
+  below).
 
 mutation-is-drm-NRTI: >-
   ${mutation} is a nucleoside reverse transcriptase inhibitor (NRTI) resistance
-  mutation.
+  mutation (see comment below).
 
 mutation-is-drm-NNRTI: >-
   ${mutation} is a non-nucleoside reverse transcriptase inhibitor (NNRTI)
-  resistance mutation.
+  resistance mutation (see comment below).
 
 mutation-is-drm-INSTI: >-
   ${mutation} is an integrase strand transfer inhibitor (INSTI) resistance
-  mutation.
+  mutation (see comment below).
 
 min-position-reads-dropdown-label: Minimum read depth
 min-position-reads-dropdown-desc: >-
