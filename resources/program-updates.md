@@ -1,6 +1,16 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.3 update 2023-04-26
+
+This release fixes a problem reported by email that Sierra may crash when an
+incorrectly concatenated sequence is submitted. Instead of crashing, Sierra can
+now report the abnormality of the sequence with an updated version of PostAlign.
+
+The dependency of PostAlign has been updated to
+[hivdb/post-align@5ea22aa](https://github.com/hivdb/post-align/commit/5ea22aa50c7ccfcc06e2871daa2a6aeaeb17ae2d).
+
+
 ## Version 3.4.2 update 2022-12-14
 
 Improvements and bugfixes:
