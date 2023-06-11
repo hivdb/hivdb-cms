@@ -5,6 +5,17 @@ The 9.4 drug resistance ASI file is downloadable at [here][asi94].
 This version includes major comment updates for CAI mutations. No score change
 is made in this version.
 
+### Version 9.4.1 update 2023-06-11
+
+The 9.4.1 drug resistance ASI file is available for download [here][asi941].
+
+This version contains only a single comment update. No score changes are made.
+
+There was a mistake in the L33F comment: "L33F is a relatively non-polymorphic
+accessory mutation selected by each of the PIs. In combination with other
+PI-resistance mutations, it is associated with reduced susceptibility to LPV,
+ATV, and *DOR*." *DOR* should be and is corrected to **DRV**.
+
 ## Version 9.3 update 2022-11-20
 
 The 9.3 drug resistance ASI file is downloadable at [here][asi93].
@@ -216,6 +227,7 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi92]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.2.xml
 [asi93]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.3.xml
 [asi94]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.4.xml
+[asi941]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.4.1.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf

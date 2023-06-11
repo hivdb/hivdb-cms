@@ -1,6 +1,18 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.4 update 2023-06-11
+
+**Minor algorithm update HIVDB 9.4 => HIVDB 9.4.1**: There was a mistake in the
+L33F comment: "L33F is a relatively non-polymorphic accessory mutation selected
+by each of the PIs. In combination with other PI-resistance mutations, it is
+associated with reduced susceptibility to LPV, ATV, and *DOR*." *DOR* should be
+and is corrected to **DRV**.
+
+**Bugfix**: Fixed a bug that crashed the program when an empty sequence was
+submitted.
+
+
 ## Version 3.4.3 update 2023-04-26
 
 This release fixes a problem reported by email that Sierra may crash when an
