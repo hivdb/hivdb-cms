@@ -32,7 +32,7 @@ _fast-build:
 
 sync-hivfacts:
 	@rsync -avc --delete --delete-excluded --exclude={'*.yml','*.yaml','*.swp','*.swo','*/.mypy_cache'} ../hivfacts/data/* resources/hivfacts-data
-
+	@rsync -avc --delete ../hivfacts/data/algorithms/*.xml downloads/asi/
 
 build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py
 	@test -e $(shell which pipenv) && make _fast-build || make _docker-build
