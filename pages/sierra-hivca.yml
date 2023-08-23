@@ -5,7 +5,7 @@ highlightGenes: &hlGenes [CA]
 geneSynonyms:
   Capsid: CA
 displaySubtype: false
-displayMutationScores: []
+displayMutationScores: [CA]
 displaySDRMs: false
 formEnableTabs:
   - sequences

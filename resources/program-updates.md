@@ -1,6 +1,13 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.5 update 2023-08-11
+
+- **HIVDB algorithm 9.5.0**: New drug resistance scores for CAI mutations; minor
+  comments update.
+- Bugfix: The TSM and SDRM drug class of an ambiguous mutation containing a
+  TSM/SDRM AA was null. This bug has been fixed.
+
 ## Version 3.4.4 update 2023-06-11
 
 **Minor algorithm update HIVDB 9.4 => HIVDB 9.4.1**: There was a mistake in the

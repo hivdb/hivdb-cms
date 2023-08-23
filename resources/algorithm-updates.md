@@ -1,3 +1,10 @@
+## Version 9.5 update 2023-08-22
+
+The 9.5 drug resistance ASI file is downloadable at [here][asi95].
+
+This version includes new drug resistance scores and minor comment updates for
+CAI mutations.
+
 ## Version 9.4 update 2022-12-07
 
 The 9.4 drug resistance ASI file is downloadable at [here][asi94].
@@ -228,6 +235,7 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi93]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.3.xml
 [asi94]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.4.xml
 [asi941]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.4.1.xml
+[asi95]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.5.0.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf
