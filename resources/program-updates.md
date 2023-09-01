@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.6 update 2023-09-01
+
+**Bugfix**: Fixed a bug that prevented the program from creating a list of
+ambiguous mutations by filtering.
+**UI**: Add [CAI mutation scores](/dr-summary/mut-scores/CAI/) page.
+
 ## Version 3.4.5 update 2023-08-11
 
 - **HIVDB algorithm 9.5.0**: New drug resistance scores for CAI mutations; minor

@@ -57,3 +57,7 @@ drugDisplayOptions:
         disabled: false
       - name: TPV/r
         disabled: false
+  - drugClass: CAI
+    drugs:
+      - name: LEN
+        disabled: true
