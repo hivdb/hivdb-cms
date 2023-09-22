@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.7 update 2023-09-22
+
+**Mutation types**: re-assess mutation types for non-DRM mutations. [See GitHub
+update for
+details](https://github.com/hivdb/hivfacts/commit/f7409d68edaeaade1c6b99dd7ebd5e3500c96a4a).
+
 ## Version 3.4.6 update 2023-09-01
 
 **Bugfix**: Fixed a bug that prevented the program from creating a list of
