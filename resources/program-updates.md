@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.8 update 2023-11-05
+
+- **HIVDB algorithm 9.5.1**: Minor comments update.
+- **Bugfix**: Certain mixtures with DRMs, for example RT:K70HN, was mistyped as
+  "Other" mutations. This version fixed the bug.
+
 ## Version 3.4.7 update 2023-09-22
 
 **Mutation types**: re-assess mutation types for non-DRM mutations. [See GitHub
