@@ -1,6 +1,15 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.9 update 2023-12-09
+
+**Subtyping/genotyping updates**:
+
+Subtype A is divided into A1/3/4/6/7. Two reference sequences of subtype A8 are
+added (MW353966/MW353967). Subtypes of six reference sequences are changed from
+A to X22 (CRF22\_01A1) after further re-analysis is performed: AH011123,
+AY371167, EU743963, JN864048, KP109498, and KU168256.
+
 ## Version 3.4.8 update 2023-11-05
 
 - **HIVDB algorithm 9.5.1**: Minor comments update.
