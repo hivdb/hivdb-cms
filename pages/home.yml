@@ -65,6 +65,11 @@ slideItems:
   to: /page/algorithm-updates/#version.9.5.update.2023-08-22
   type: image
 - bgColor: '#dccb92'
+  caption: Open Postdoctoral position
+  description: You'll collaborate on groundbreaking projects and contribute to the globally utilized Stanford HIV Drug Resistance Database (HIVDB)
+  href: https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-robert-shafer
+  type: text
+- bgColor: '#dccb92'
   caption: HIV in vitro selection
   date: Mar 13, 2023
   description: HIV in vitro selected PR, RT, IN and CA mutations
