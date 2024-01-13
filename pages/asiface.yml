@@ -107,5 +107,13 @@ preloads:
   version: "9.1"
   date: "2004-09-08"
   url: $$CMS_PREFIX$$downloads/asi/Rega_9.1.xml
+- family: HIVDB-HIV2
+  version: "9.0"
+  date: "2024-01-13"
+  url: $$CMS_PREFIX$$downloads/asi/HIVDB-HIV2_9.0.xml
+- family: HIVDB-HIV2
+  version: "9.0a3"
+  date: "2020-05-04"
+  url: $$CMS_PREFIX$$downloads/asi/HIVDB-HIV2_9.0a3.xml
 
 defaultPatternsURL: "https://raw.githubusercontent.com/hivdb/hivfacts/main/data/patterns_hiv1.csv"
