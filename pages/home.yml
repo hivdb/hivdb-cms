@@ -20,16 +20,16 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 217,348
-      protease, 227,024 RT, 35,845 integrase and 23,654 capsid HIV-1 virus sequences
-      from 257,103 persons; 1,075 protease, 936 RT and 340 integrase HIV-2 virus sequences
-      from 1,232 persons. [In vitro selection data](https://office365stanford-my.sharepoint.com/:x:/g/personal/philiptz_stanford_edu/ESMDlVvU8V9Dsp6mm1VBnKUB_RNVJih1H7o-DEouYZpLQw?e=3P9lmR)
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 217,525
+      protease, 227,074 RT, 35,861 integrase and 23,816 capsid HIV-1 virus sequences
+      from 257,315 persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences
+      from 1,134 persons. [In vitro selection data](https://office365stanford-my.sharepoint.com/:x:/g/personal/philiptz_stanford_edu/ESMDlVvU8V9Dsp6mm1VBnKUB_RNVJih1H7o-DEouYZpLQw?e=3P9lmR)
       includes 1,111 HIV-1 in vitro selection data of PR, RT and IN.'
     icon: treatment
     title: Genotype-treatment
     to: /pages/genotype-rx.html
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      30,312 PI, 24,089 NRTI, 14,061 NNRTI and 5,370 INI susceptibility results from
+      30,312 PI, 24,089 NRTI, 14,080 NNRTI and 5,370 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     title: Genotype-phenotype
@@ -42,9 +42,9 @@ queryPages:
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
   - description: |-
-      2,093 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
+      2,105 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
 
-      [3,694 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 46 new submissions from Genbank release on 2023-06-15.
+      [3,763 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 25 new submissions from Genbank release on 2023-12-15.
 
       [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)..
     icon: references
@@ -66,7 +66,8 @@ slideItems:
   type: image
 - bgColor: '#dccb92'
   caption: Open Postdoctoral Position
-  description: Collaborate on groundbreaking projects and contribute to the globally utilized Stanford HIV Drug Resistance Database (HIVDB)
+  description: Collaborate on groundbreaking projects and contribute to the globally
+    utilized Stanford HIV Drug Resistance Database (HIVDB)
   href: https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-robert-shafer
   type: text
 - bgColor: '#dccb92'
