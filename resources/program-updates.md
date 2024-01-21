@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.11 update 2024-01-20
+
+- **Bugfix**: Address an issue that certain CRFs were incorrectly called due to
+  an insufficient regional subtyping rule, or a misconfiguration of region
+  subtype (X29).
+
 ## Version 3.4.10 update 2024-01-13
 
 - **HIVDB-HIV2 algorithm 9.0**: Comments update since 2020.
