@@ -1,0 +1,125 @@
+allGenes: &allGenes [RT]
+highlightGenes: &hlGenes [RT]
+listReadDepthByGene: []
+geneDisplay: {}
+geneSynonyms: {}
+regionPresets:
+  presets:
+    - name: RT
+      label: Reverse transcriptase
+      highlightGenes: *hlGenes
+      preset:
+        <<: &presetCommon
+          width: 1720
+          minHeight: 170
+          paddingLeft: 60
+          paddingRight: 20
+          paddingTop: 20
+        positionExtendSize: 30
+
+        positionAxis:
+          posOffset: 131
+          posStart: 132
+          posEnd: 1163
+          convertToAA: true
+          tickCount: 15
+          roundToNearest: 5
+
+        domains:
+          - posStart: 132
+            posEnd: 1163
+            scaleRatio: 1
+
+        regions:
+          - name: RT
+            label: ''
+            posStart: 132
+            posEnd: 1163
+            fill: '#a6cee3'
+            color: '#1f78b4'
+            shapeType: rect
+            labelPosition: over
+  genes:
+    - gene: RT
+      displayGene: RT
+      range: [132, 1163]
+geneReferences:
+  P: MPLSYQHFRRLLLLDDEAGPLEEELPRLADEGLNRRVAEDLNLGNLNVSIPWTHKVGNFTGLYSSTVPVFNPHWKTPSFPNIHLHQDIIKKCEQFVGPLTVNEKRRLQLIMPARFYPKVTKYLPLDKGIKPYYPEHLVNHYFQTRHYLHTLWKAGILYKRETTHSASFCGSPYSWEQDLQHGAESFHQQSSGILSRPPVGSSLQSKHRKSRLGLQSQQGHLARRQQGRSWSIRAGFHPTARRPFGVEPSGSGHTTNFASKSASCLHQSPVRKAAYPAVSTFEKHSSSGHAVEFHNLPPNSARSQSERPVFPCWWLQFRNSKPCSDYCLSLIVNLLEDWGPCAEHGEHHIRIPRTPSRVTGGVFLVDKNPHNTAESRLVVDFSQFSRGNYRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLSRYVARLSSNSRILNNQHGTMPDLHDYCSRNLYVSLLLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESLFTAVTNFLLSLGIHLNPNKTKRWGYSLNFMGYVIGCYGSLPQEHIIQKIKECFRKLPINRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQSKQAFTFSPTYKAFLCKQYLNLYPVARQRPGLCQVFADATPTGWGLVMGHQRMRGTFSAPLPIHTAELLAACFARSRSGANIIGTDNSVVLSRKYTSFPWLLGCAANWILRGTSFVYVPSALNPADDPSRGRLGLSRPLLRLPFRPTTGRTSLYADSPSVPSHLPDRVHFASPLHVAWRPP
+  RT: EDWGPCAEHGEHHIRIPRTPSRVTGGVFLVDKNPHNTAESRLVVDFSQFSRGNYRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLSRYVARLSSNSRILNNQHGTMPDLHDYCSRNLYVSLLLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESLFTAVTNFLLSLGIHLNPNKTKRWGYSLNFMGYVIGCYGSLPQEHIIQKIKECFRKLPINRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQSKQAFTFSPTYKAFLCKQYLNLYPVARQ
+  S: MGQNLSTSNPLGFFPDHQLDPAFRANTANPDWDFNPNKDTWPDANKVGAGAFGLGFTPPHGGLLGWSPQAQGILQTLPANPPPASTNRQSGRQPTPLSPPLRNTHPQAMQWNSTTFHQTLQDPRVRGLYFPAGGSSSGTVNPVLTTASPLSSIFSRIGDPALNMENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCMTTAQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYSILSPFLPLLPIFFCLWVYI
+  X: MAARLCCQLDPARDVLCLRPVGAESCGRPFSGSLGTLSSPSPSAVPTDHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHQILPKVLHKRTLGLSAMSTTDLEAYFKDCLFKDWEELGEEIRLKVFVLGGCRHKLVCAPAPCNFFTSA
+  C: MQLFHLCLIISCSCPTVQASKLCLGWLWGMDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTASALYREALESPEHCSPHHTALRQAILCWGELMTLATWVGVNLEDPASRDLVVSYVNTNMGLKFRQLLWFHISCLTFGRETVIEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC
+geneValidatorDefs:
+  - regexp: '^\s*(p|pol)\s*$'
+    gene: P
+  - regexp: '^\s*rt\s*$'
+    gene: RT
+  - regexp: '^\s*s\s*$'
+    gene: S
+  - regexp: '^\s*x\s*$'
+    gene: X
+    range: [1, 295]
+  - regexp: '^\s*c\s*$'
+    gene: C
+mutationDefaultGene: RT
+mutationSuggestions: null
+mutationPrefills: []
+seqReadsDefaultParams:
+  strain: HBV
+  maxMixtureRate: 0.002 # ≤0.2%
+  minPrevalence: 0.1  # ≥10%
+  minPositionReads: 10
+seqReadsMaxMixtureRate:
+  - value: 0.0
+    label: "(no mixture)"
+  - value: 0.0005
+    label: ≤0.05%
+  - value: 0.001
+    label: ≤0.1%
+  - value: 0.002
+    label: ≤0.2%
+  - value: 0.005
+    label: ≤0.5%
+  - value: 0.01
+    label: ≤1%
+  - value: 1
+    label: "(don't apply)"
+seqReadsMinPrevalenceOptions:
+  - value: 0.01
+    label: ≥1%
+  - value: 0.02
+    label: ≥2%
+  - value: 0.05
+    label: ≥5%
+  - value: 0.10
+    label: ≥10%
+  - value: 0.20
+    label: ≥20%
+  - value: 0.50
+    label: ≥50%
+seqReadsMinPositionReadsOptions:
+  - value: 1
+    label: "(don't apply)"
+  - value: 5
+    label: ≥5
+  - value: 10
+    label: ≥10
+  - value: 25
+    label: ≥25
+  - value: 50
+    label: ≥50
+  - value: 100
+    label: ≥100
+messages:
+  .:
+    _resource: sierra-hbv-messages.yml
+sequenceExamples:
+  - url: downloads/ebv-fasta-examples/EboSud-639.fas
+    title: EboSud-639::KC589025 (N=1)
+seqReadsExamples:
+  - downloads/ebv-codfreq-examples/SRR7167616.codfreq.txt
+hideMutationViewToggler: true
+highlightUnusualMutation: true
+highlightDRM: true
+refSequencePath: "downloads/NC_003977.2.fas"
+refSequenceName: "Ayw::NC_003977.2"
