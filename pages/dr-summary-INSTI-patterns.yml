@@ -1,0 +1,4 @@
+drugDisplayOptions:
+  _resource: dr-summary-display-options.yml
+patterns:
+  _resource: hivfacts-data/patterns-hiv1/patterns-INSTI.json
