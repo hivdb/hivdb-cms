@@ -114,10 +114,13 @@ messages:
   .:
     _resource: sierra-hbv-messages.yml
 sequenceExamples:
-  - url: downloads/ebv-fasta-examples/EboSud-639.fas
-    title: EboSud-639::KC589025 (N=1)
+  - url: downloads/hbv-fasta-examples/samplesmall.fas
+    title: Small set (N=5)
+  - url: downloads/hbv-fasta-examples/Margeridon-Thermet.2009.fas
+    title: Margeridon-Thermet, 2009 (N=37)
 seqReadsExamples:
-  - downloads/ebv-codfreq-examples/SRR7167616.codfreq.txt
+  - downloads/hbv-codfreq-examples/SRR21376962.codfreq.txt
+  - downloads/hbv-codfreq-examples/SRR27684789.codfreq.txt
 hideMutationViewToggler: true
 highlightUnusualMutation: true
 highlightDRM: true
