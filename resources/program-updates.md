@@ -1,6 +1,15 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.12 update 2024-02-19
+
+Bugfix:
+
+Previously, minimizer window size=5 (`-w 5`) was employed for aligning HIV-1
+sequences by minimap2.  We changed this config to minimizer k-mer length=10
+(`-k 10 -w 5`) for increase alignment sensitivity for super short sequences.
+
+
 ## Version 3.4.11 update 2024-01-20
 
 - **Bugfix**: Address an issue that certain CRFs were incorrectly called due to
