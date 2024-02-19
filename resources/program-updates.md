@@ -3,12 +3,10 @@ This page lists the change logs of current and previous versions of Sierra progr
 
 ## Version 3.4.12 update 2024-02-19
 
-Bugfix:
-
-Previously, minimizer window size=5 (`-w 5`) was employed for aligning HIV-1
-sequences by minimap2.  We changed this config to minimizer k-mer length=10
-(`-k 10 -w 5`) for increase alignment sensitivity for super short sequences.
-
+- **Bugfix**: Previously, minimizer window size=5 (`-w 5`) was employed for
+  aligning HIV-1 sequences by minimap2.  We changed this config to minimizer
+  k-mer length=10 (`-k 10 -w 5`) for increase alignment sensitivity for super
+  short sequences.
 
 ## Version 3.4.11 update 2024-01-20
 
