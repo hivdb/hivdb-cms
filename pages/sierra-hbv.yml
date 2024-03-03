@@ -126,3 +126,15 @@ highlightUnusualMutation: true
 highlightDRM: true
 refSequencePath: "downloads/NC_003977.2.fas"
 refSequenceName: "Ayw::NC_003977.2"
+citations:
+  Nguyen JGAMR 2023: "Nguyen TK, Van Le D. Resistant mutations within the hepatitis B virus reverse transcriptase sequence in treatment failure patients with chronic HBV infection in Vietnam. Journal of Global Antimicrobial Resistance. 2023 Jun 1;33:35-41 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/36849052/)]."
+  Liu Y Emerg Microb Infect 2019: "Liu Y, Zhou Y, Li X, Niu M, Chen R, Shao J, Si L, Luo D, Lin Y, Li L, Zhang K. Hepatitis B virus mutation pattern rtL180M+ A181C+ M204V may contribute to entecavir resistance in clinical practice. Emerging microbes & infections. 2019 Jan 1;8(1):354-65 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/30866789/)]."
+  Rose RE Hep Comm 2018: "Rose RE, Hernandez D, Falk PJ, Ericson K, Zhou N, Thiry A, McPhee F. Discovery of the Novel Entecavir‐Resistant Hepatitis B Virus Reverse Transcriptase A181C Substitution From an Integrated Genotypic Analysis. Hepatology Communications. 2018 Sep;2(9):1123-35 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/30202825/)]."
+  Liu Y JVH 2015: "Liu Y, Li X, Xin S, Xu Z, Chen R, Yang J, Liu L, Wong VS, Yang D, Chan HY, Xu D. The rt A 181 S mutation of hepatitis B virus primarily confers resistance to adefovir dipivoxil. Journal of Viral Hepatitis. 2015 Mar;22(3):328-34 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25132017/)]."
+  Bautista-Amorocho Front Microbiol 2023: "Bautista-Amorocho H, Silva-Sayago JA, Picón-Villamizar J. High frequency of Lamivudine and Telbivudine resistance mutations in hepatitis B virus isolates from HIV co-infected patients on highly active antiretroviral therapy (HAART) in Bucaramanga, Colombia. Frontiers in Microbiology.;14:1202342 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37555061/)]."
+  Liu Y Antivir Ther 2014: "Liu Y, Liu W, Li X, Xu Z, Wang X, Li C, Chen L, Xin S, Xu D. Screening and identification of a novel adefovir dipivoxil resistance associated mutation, rtN236V, of HBV from a large cohort of HBV-infected patients. Antiviral Therapy. 2014 Aug;19(6):551-8 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24710668/)]."
+  Shao J JIDC 2021: "Shao J, Liu Y, Liu LM, Chen R, Zhao L, Zhou Y, Li L, Li X, Li J, Xu D. Multiple drug-resistant HBV mutation may contribute to poor response of adefovir+ entecavir in entecavir-resistant patients. The Journal of Infection in Developing Countries. 2021 Jan 31;15(01):131-40 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33571155/)]."
+  Shang J BMC ID 2021: "Shang J, Zhou J, Liu H, Ise RM, Tu Y, Ran J, Bai L, Tang H. Efficacy of different nucleoside analog rescue therapies for entecavir-resistant chronic hepatitis B patients. BMC Infectious Diseases. 2021 Dec;21(1):1-8 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34488678/)]."
+
+
+

@@ -137,7 +137,7 @@ max-mixture-rate-dropdown-desc: >-
 
 mutation-popup: >-
   ${isUnusual}
-  
+
   ${isDRM}
 
 mutation-is-unusual: >-
@@ -146,3 +146,7 @@ mutation-is-unusual: >-
 mutation-is-drm: >-
   ${mutation} is a reported resistance mutation against ${drugClassFullName}
   (${drugClass}).
+
+mutation-is-drm-NRTI: >-
+  ${mutation} is a nucleoside reverse transcriptase inhibitor (NRTI) resistance
+  mutation (see comment below).
