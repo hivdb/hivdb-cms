@@ -1,6 +1,11 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.4.13 update 2024-03-03
+
+- **Bugfix**: Fix a bug that MINIMAP2 argument `-w 5` was accidentally removed
+  by the previous version 3.4.12.
+
 ## Version 3.4.12 update 2024-02-19
 
 - **Bugfix**: Previously, minimizer window size=5 (`-w 5`) was employed for
