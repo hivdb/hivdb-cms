@@ -1,8 +1,8 @@
 preloads:
 - family: HIVDB
-  version: "9.6a1"
-  date: "2024-02-24"
-  url: $$CMS_PREFIX$$downloads/asi/HIVDB_9.6a1.xml
+  version: "9.6"
+  date: "2024-03-09"
+  url: $$CMS_PREFIX$$downloads/asi/HIVDB_9.6.xml
 - family: HIVDB
   version: "9.5.1"
   date: "2023-11-05"
@@ -83,6 +83,10 @@ preloads:
   version: "8.1"
   date: "2016-09-15"
   url: $$CMS_PREFIX$$downloads/asi/HIVDB_8.1.xml
+- family: ANRS
+  version: "34"
+  date: "2022-11-01"
+  url: $$CMS_PREFIX$$downloads/asi/ANRS_34.xml
 - family: ANRS
   version: "33"
   date: "2022-10-01"
