@@ -1,6 +1,13 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.5.0 update 2024-03-21
+- **HIVDB algorithm 9.6**: This latest algorithm update incorporates
+  significant modifications and enhancements in the rules and comments for
+  NRTI, NNRTI, INSTI, and PI drug classes. A detailed comparison between
+  algorithm versions 9.3 and 9.6 can be found in this zip file:
+  [algV9.6.zip](https://github.com/hivdb/sierra/files/14686931/algV9.6.zip).
+
 ## Version 3.4.13 update 2024-03-03
 
 - **Bugfix**: Fix a bug that MINIMAP2 argument `-w 5` was accidentally removed

@@ -52,17 +52,17 @@ queryPages:
     to: /pages/references.html
   title: Query / Download
 slideItems:
-- caption: Sierra 3.4.13
-  date: Mar 3, 2024
+- caption: "HIVDB Algorithm  \nVersion 9.6"
+  date: Mar 09, 2024
+  description: ''
+  image: slide-hivdb.png
+  to: /page/algorithm-updates/#version.9.6.update.2024-03-09
+  type: image
+- caption: Sierra 3.5.0
+  date: Mar 21, 2024
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   to: /page/release-notes/
-  type: image
-- caption: "HIVDB Algorithm  \nVersion 9.5.1"
-  date: Nov 05, 2023
-  description: ''
-  image: slide-hivdb.png
-  to: /page/algorithm-updates/#version.9.5.update.2023-08-22
   type: image
 - bgColor: '#dccb92'
   caption: Open Postdoctoral Position
