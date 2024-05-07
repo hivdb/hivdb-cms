@@ -71,6 +71,12 @@ slideItems:
   href: https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-robert-shafer
   type: text
 - bgColor: '#dccb92'
+  caption: HIV, HBV, HCV Genbank submission tool
+  date: May 7, 2024
+  description: HIV, HBV, HCV Genbank submission tool
+  to: /genbank/
+  type: text
+- bgColor: '#dccb92'
   caption: HIV in vitro selection
   date: Mar 13, 2023
   description: HIV in vitro selected PR, RT, IN and CA mutations
