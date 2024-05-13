@@ -78,9 +78,9 @@ slideItems:
   type: text
 - bgColor: '#dccb92'
   caption: HIV in vitro selection
-  date: Mar 13, 2023
+  date: May 13, 2024
   description: HIV in vitro selected PR, RT, IN and CA mutations
-  to: /project/ivseldb/
+  to: /pages/genotype-rx.html
   type: text
 - caption: ''
   date: Aug 18, 2022
