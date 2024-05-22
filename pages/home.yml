@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on May 1, 2024
+dbReleaseText: HIVDB released on May 22, 2024
 otherResources:
   items:
   - description: |
@@ -20,10 +20,10 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 217,880
-      protease, 227,440 RT, 35,891 integrase and 23,816 capsid HIV-1 virus sequences
-      from 257,722 persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences
-      from 1,139 persons. [In vitro selection data](/pages/genotype-rx.html)
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 217,899
+      protease, 227,456 RT, 35,892 integrase and 23,816 capsid HIV-1 virus sequences
+      from 257,726 persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences
+      from 1,139 persons. [In vitro selection data](https://office365stanford-my.sharepoint.com/:x:/g/personal/philiptz_stanford_edu/ESMDlVvU8V9Dsp6mm1VBnKUB_RNVJih1H7o-DEouYZpLQw?e=3P9lmR)
       includes 1,111 HIV-1 in vitro selection data of PR, RT and IN.'
     icon: treatment
     title: Genotype-treatment
@@ -42,7 +42,7 @@ queryPages:
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
   - description: |-
-      2,207 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
+      2,210 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
 
       [3,780 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 17 new submissions from Genbank release on 2023-04-15.
 
