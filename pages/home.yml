@@ -66,7 +66,7 @@ slideItems:
   type: image
 - bgColor: '#dccb92'
   caption: HIV Drug Resistance Tutorials
-  description: Educational videos about mutations associated with Reduced Susceptibility to HIV antiretrovirals
+  description: '[NRTI](https://s3.us-west-2.amazonaws.com/cms.hivdb.org/public-videos/NRTI+HIVDR+5-13-24.mp4) / [NNRTI](https://s3.us-west-2.amazonaws.com/cms.hivdb.org/public-videos/NNRTI-Associated+Mutations.mp4)'
   href: '#:~:text=HIV Drug Resistance Tutorials'
   type: text
 - bgColor: '#dccb92'
