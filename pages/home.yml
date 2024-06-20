@@ -66,7 +66,7 @@ slideItems:
   type: image
 - bgColor: '#dccb92'
   caption: HIV Drug Resistance Tutorials
-  description: '[NRTI](https://s3.us-west-2.amazonaws.com/cms.hivdb.org/public-videos/NRTI+HIVDR+5-13-24.mp4) / [NNRTI](https://s3.us-west-2.amazonaws.com/cms.hivdb.org/public-videos/NNRTI-Associated+Mutations.mp4) / [PI] (https://s3.us-west-2.amazonaws.com/cms.hivdb.org/public-videos/PI+HIVDR+video.mp4) / [INSTI](https://s3.us-west-2.amazonaws.com/cms.hivdb.org/public-videos/INSTI+HIVDR.mp4) / [HIVDR Intepretation Program](https://s3.us-west-2.amazonaws.com/cms.hivdb.org/public-videos/HIVDR+GRT.mp4)'
+  description: '[NRTI](https://www.youtube.com/watch?v=lbkznxR11Wk) / [NNRTI](https://www.youtube.com/watch?v=6Ff7MIXejCU) / [PI] (https://www.youtube.com/watch?v=s6w8u890BMc) / [INSTI](https://www.youtube.com/watch?v=awfKA4-d8T8) / [HIVDR Intepretation Program](https://www.youtube.com/watch?v=fdwx0MB6dBk)'
   href: '#'
   type: text
   date: Jun 02, 2024
