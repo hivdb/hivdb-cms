@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on May 22, 2024
+dbReleaseText: HIVDB released on Aug 06, 2024
 otherResources:
   items:
   - description: |
@@ -21,15 +21,15 @@ otherResources:
 queryPages:
   items:
   - description: '[ARV selection data](/pages/genotype-rx.html) comprising 217,899
-      protease, 227,456 RT, 35,892 integrase and 23,816 capsid HIV-1 virus sequences
-      from 257,726 persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences
-      from 1,139 persons. [In vitro selection data](/pages/genotype-rx.html)
-      includes 1,111 HIV-1 in vitro selection data of PR, RT and IN.'
+      protease, 227,465 RT, 35,892 integrase and 23,832 capsid HIV-1 virus sequences
+      from 257,743 persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences
+      from 1,139 persons. [In vitro selection data](/pages/genotype-rx.html) includes
+      1,111 HIV-1 in vitro selection data of PR, RT and IN.'
     icon: treatment
     title: Genotype-treatment
     to: /pages/genotype-rx.html
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      30,312 PI, 23,814 NRTI, 14,125 NNRTI and 5,370 INI susceptibility results from
+      30,356 PI, 24,098 NRTI, 14,221 NNRTI and 5,370 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     title: Genotype-phenotype
@@ -42,7 +42,7 @@ queryPages:
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
   - description: |-
-      2,210 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
+      2,232 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
 
       [3,780 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 17 new submissions from Genbank release on 2023-04-15.
 
@@ -66,12 +66,14 @@ slideItems:
   type: image
 - bgColor: '#dccb92'
   caption: HIV Drug Resistance Tutorials
-  description: '[NRTI](https://www.youtube.com/watch?v=lbkznxR11Wk) / [NNRTI](https://www.youtube.com/watch?v=6Ff7MIXejCU) / [PI] (https://www.youtube.com/watch?v=s6w8u890BMc) / [INSTI](https://www.youtube.com/watch?v=awfKA4-d8T8) / [HIVDR Intepretation Program](https://www.youtube.com/watch?v=fdwx0MB6dBk)'
+  date: Jun 02, 2024
+  description: '[NRTI](https://www.youtube.com/watch?v=lbkznxR11Wk) / [NNRTI](https://www.youtube.com/watch?v=6Ff7MIXejCU)
+    / [PI] (https://www.youtube.com/watch?v=s6w8u890BMc) / [INSTI](https://www.youtube.com/watch?v=awfKA4-d8T8)
+    / [HIVDR Intepretation Program](https://www.youtube.com/watch?v=fdwx0MB6dBk)'
   href: '#'
   type: text
-  date: Jun 02, 2024
 - bgColor: '#dccb92'
-  caption: "HIVDB Viral Sequence and Treatment Submission (VISTAS) Program"
+  caption: HIVDB Viral Sequence and Treatment Submission (VISTAS) Program
   date: Jun 28, 2024
   description: HIV, HBV, HCV Genbank submission tool
   to: /genbank/
