@@ -1,6 +1,13 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.5.1 update 2024-09-20
+**Bugfixes**:
+
+- Fixed a bug that failed to exclude low quality alignment from the final results.
+- Fixed several bugs that related to genotyper/subtyper.
+- Fixed an issue that missing DRPs are not reported by NGS program.
+
 ## Version 3.5.0 update 2024-03-21
 - **HIVDB algorithm 9.6**: This latest algorithm update incorporates
   significant modifications and enhancements in the rules and comments for
@@ -55,6 +62,7 @@ details](https://github.com/hivdb/hivfacts/commit/f7409d68edaeaade1c6b99dd7ebd5e
 
 **Bugfix**: Fixed a bug that prevented the program from creating a list of
 ambiguous mutations by filtering.
+
 **UI**: Add [CAI mutation scores](/dr-summary/mut-scores/CAI/) page.
 
 ## Version 3.4.5 update 2023-08-11
