@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on Sep 09, 2024
+dbReleaseText: HIVDB released on Oct 02, 2024
 otherResources:
   items:
   - description: |
@@ -20,9 +20,9 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 217,899
-      protease, 227,581 RT, 35,892 integrase and 23,833 capsid HIV-1 virus sequences
-      from 257,859 persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 221,425
+      protease, 231,112 RT, 36,610 integrase and 23,833 capsid HIV-1 virus sequences
+      from 261,832 persons; 1,075 protease, 838 RT and 340 integrase HIV-2 virus sequences
       from 1,139 persons. [In vitro selection data](/pages/genotype-rx.html) includes
       1,111 HIV-1 in vitro selection data of PR, RT and IN.'
     icon: treatment
@@ -42,9 +42,9 @@ queryPages:
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
   - description: |-
-      2,196 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
+      2,208 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
 
-      [3,780 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 17 new submissions from Genbank release on 2023-04-15.
+      [3,872 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 92 new submissions from Genbank release on 2024-08-15.
 
       [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)..
     icon: references
