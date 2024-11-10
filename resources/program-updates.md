@@ -1,6 +1,11 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.5.2 update 2024-11-09
+- **HIVDB algorithm 9.7**: This latest update incorporates minor modifications
+  in the rules of NNRTI. All affected rules and patterns can be found in [this
+  zip file][asi97changes].
+
 ## Version 3.5.1 update 2024-09-20
 **Bugfixes**:
 
@@ -633,3 +638,4 @@ The raw comparison result can be found in this Excel spreadsheet: [download][sie
 [ANRS_PDF_28]: http://www.hivfrenchresistance.org/2018/Algo2018-hiv1.pdf
 [ANRS_PDF_29]: http://www.hivfrenchresistance.org/2018b/Algo-nov2018-HIV1.pdf
 [REGA_PDF]: https://rega.kuleuven.be/cev/avd/software/rega-hiv1-rules-v10.pdf
+[asi97changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.7.changes.zip

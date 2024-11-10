@@ -1,3 +1,10 @@
+## Version 9.7 update 2024-11-09
+
+The 9.7 drug resistance ASI file is downloadable at [here][asi97].
+
+This latest update incorporates minor modifications in the rules of NNRTI. All
+affected rules and patterns can be found in [this zip file][asi97changes].
+
 ## Version 9.6 update 2024-03-09
 
 The 9.6 drug resistance ASI file is downloadable at [here][asi96].
@@ -253,6 +260,7 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi95]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.5.0.xml
 [asi951]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.5.1.xml
 [asi96]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.6.xml
+[asi97]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.7.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf
@@ -262,4 +270,5 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi91changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.1.changes.pdf
 [asi93changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.3.changes.xlsx
 [asi96changes]: https://github.com/hivdb/sierra/files/14686931/algV9.6.zip
+[asi97changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.7.changes.zip
 [asi91ref]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_9.1.references.pdf
