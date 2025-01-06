@@ -1,3 +1,24 @@
+## Version 9.8 update 2025-01-05
+
+The 9.8 drug resistance ASI file is downloadable at [here][asi98].
+
+This latest update includes score and comment updates for Lenacapavir (LEN),
+the Capsid Inhibitor. In addition, we added score interpretation for Dapivirine
+(DPV), an NNRTI drug recommended by the WHO.
+
+**LEN Score updates**:
+
+- K70R: 20 => 10
+- N74K: (new) => 30
+- A105T/E/S: 20 => 10
+- T107N/C: 20 => 10
+- T107A: 20 => (deleted)
+- Q67H + K70R: 10 => 20
+- Q67H + T107N => Q67H + T107NA: 10 => 20
+
+Please access [NNRTI Resistance Mutation Scores](dr-summary/mut-scores/NNRTI/)
+for viewing/downloading Dapivirine scores.
+
 ## Version 9.7 update 2024-11-09
 
 The 9.7 drug resistance ASI file is downloadable at [here][asi97].

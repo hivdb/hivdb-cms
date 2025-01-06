@@ -159,6 +159,8 @@ drugDisplayOptions:
         disabled: true
       - name: RPV
         disabled: true
+      - name: DPV
+        disabled: false
   - drugClass: INSTI
     drugs:
       - name: BIC
