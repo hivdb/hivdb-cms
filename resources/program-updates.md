@@ -6,7 +6,7 @@ This page lists the change logs of current and previous versions of Sierra progr
   updates for Lenacapavir (LEN), the Capsid Inhibitor. In addition, we added
   score interpretation for Dapivirine (DPV), an NNRTI drug recommended by the
   WHO. Visit [algorithm updates
-  page](page/algorithm-updates/#version.9.8.update.2025-01-05) for more
+  page](/page/algorithm-updates/#version.9.8.update.2025-01-05) for more
   information.
 
 ## Version 3.5.2 update 2024-11-09
