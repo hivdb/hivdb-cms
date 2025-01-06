@@ -16,7 +16,7 @@ the Capsid Inhibitor. In addition, we added score interpretation for Dapivirine
 - Q67H + K70R: 10 => 20
 - Q67H + T107N => Q67H + T107NA: 10 => 20
 
-Please access [NNRTI Resistance Mutation Scores](dr-summary/mut-scores/NNRTI/)
+Please access [NNRTI Resistance Mutation Scores](/dr-summary/mut-scores/NNRTI/)
 for viewing/downloading Dapivirine scores.
 
 ## Version 9.7 update 2024-11-09
