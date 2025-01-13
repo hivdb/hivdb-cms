@@ -5,6 +5,7 @@
 1. download genbank file for all sequences from a specific virus
 2. search PubMed for all related literature for the virus, then fetch the PDF document for all literatures and extracted related information from PDFs
 3. using the two files prepared in step 1 and step 2, with the provided [tool](https://github.com/hivdb/GenBankRefs) for generating the database.
+4. You can view the database using [SQLite Viewer](https://inloop.github.io/sqlite-viewer)
 
 ## CCHFV
 
@@ -38,7 +39,7 @@
 
 ## Nipah
 
-- [Download Nipah Database](https://github.com/hivdb/GenBankRefs/releases/download/20250110/Lassa.db)
+- [Download Nipah Database](https://github.com/hivdb/GenBankRefs/releases/download/20250110/Nipah.db)
 
 
 ### Related literatures
@@ -59,7 +60,7 @@
 
 ## LASV
 
-- [Download LASV Database](https://github.com/hivdb/GenBankRefs/releases/download/20250110/Nipah.db)
+- [Download LASV Database](https://github.com/hivdb/GenBankRefs/releases/download/20250110/Lassa.db)
 
 
 
