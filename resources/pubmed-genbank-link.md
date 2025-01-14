@@ -9,7 +9,7 @@
 
 ## CCHFV
 
-- [Download CCHFV Database](https://github.com/hivdb/GenBankRefs/releases/download/20250110/CCHF.db)
+- [Download CCHFV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/CCHF.db)
 
 ### Related literatures
 
@@ -39,7 +39,7 @@
 
 ## Nipah
 
-- [Download Nipah Database](https://github.com/hivdb/GenBankRefs/releases/download/20250110/Nipah.db)
+- [Download Nipah Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Nipah.db)
 
 
 ### Related literatures
@@ -60,7 +60,7 @@
 
 ## LASV
 
-- [Download LASV Database](https://github.com/hivdb/GenBankRefs/releases/download/20250110/Lassa.db)
+- [Download LASV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Lassa.db)
 
 
 
