@@ -1,0 +1,3102 @@
+[
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 249,
+        "Total": 3301,
+        "%": 7.54
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 244,
+        "Total": 3301,
+        "%": 7.39
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 219,
+        "Total": 3301,
+        "%": 6.63
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 177,
+        "Total": 3301,
+        "%": 5.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 176,
+        "Total": 3301,
+        "%": 5.33
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 175,
+        "Total": 3301,
+        "%": 5.3
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Turkey",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 118,
+        "Total": 3301,
+        "%": 3.57
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Kosovo",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 94,
+        "Total": 3301,
+        "%": 2.85
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Turkey",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 76,
+        "Total": 3301,
+        "%": 2.3
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Kosovo",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 64,
+        "Total": 3301,
+        "%": 1.94
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 56,
+        "Total": 3301,
+        "%": 1.7
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 54,
+        "Total": 3301,
+        "%": 1.64
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 52,
+        "Total": 3301,
+        "%": 1.58
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Turkey",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 52,
+        "Total": 3301,
+        "%": 1.58
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 47,
+        "Total": 3301,
+        "%": 1.42
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Iran",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 42,
+        "Total": 3301,
+        "%": 1.27
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Turkey",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 42,
+        "Total": 3301,
+        "%": 1.27
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Iran",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 42,
+        "Total": 3301,
+        "%": 1.27
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Turkey",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 41,
+        "Total": 3301,
+        "%": 1.24
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 35,
+        "Total": 3301,
+        "%": 1.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 33,
+        "Total": 3301,
+        "%": 1.0
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 33,
+        "Total": 3301,
+        "%": 1.0
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "South Africa",
+        "IsolateYear": 1985,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 33,
+        "Total": 3301,
+        "%": 1.0
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "South Africa",
+        "IsolateYear": 1985,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 32,
+        "Total": 3301,
+        "%": 0.97
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kosovo",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 32,
+        "Total": 3301,
+        "%": 0.97
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Spain",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 30,
+        "Total": 3301,
+        "%": 0.91
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 29,
+        "Total": 3301,
+        "%": 0.88
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 29,
+        "Total": 3301,
+        "%": 0.88
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 28,
+        "Total": 3301,
+        "%": 0.85
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "South Africa",
+        "IsolateYear": 1985,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 28,
+        "Total": 3301,
+        "%": 0.85
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkey",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 28,
+        "Total": 3301,
+        "%": 0.85
+    },
+    {
+        "Host": "",
+        "Country": "South Africa",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 24,
+        "Total": 3301,
+        "%": 0.73
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 23,
+        "Total": 3301,
+        "%": 0.7
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Pakistan",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 22,
+        "Total": 3301,
+        "%": 0.67
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 19,
+        "Total": 3301,
+        "%": 0.58
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 19,
+        "Total": 3301,
+        "%": 0.58
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2020,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 19,
+        "Total": 3301,
+        "%": 0.58
+    },
+    {
+        "Host": "",
+        "Country": "Russia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 16,
+        "Total": 3301,
+        "%": 0.48
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Iran",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 16,
+        "Total": 3301,
+        "%": 0.48
+    },
+    {
+        "Host": "Ticks",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 16,
+        "Total": 3301,
+        "%": 0.48
+    },
+    {
+        "Host": "Ticks",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 16,
+        "Total": 3301,
+        "%": 0.48
+    },
+    {
+        "Host": "Ticks",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 16,
+        "Total": 3301,
+        "%": 0.48
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2020,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 15,
+        "Total": 3301,
+        "%": 0.45
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Turkey",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 14,
+        "Total": 3301,
+        "%": 0.42
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 14,
+        "Total": 3301,
+        "%": 0.42
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Kosovo",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 12,
+        "Total": 3301,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Oman",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 12,
+        "Total": 3301,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 12,
+        "Total": 3301,
+        "%": 0.36
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Tajikistan",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 12,
+        "Total": 3301,
+        "%": 0.36
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Bulgaria",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 11,
+        "Total": 3301,
+        "%": 0.33
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 11,
+        "Total": 3301,
+        "%": 0.33
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "S",
+        "#": 11,
+        "Total": 3301,
+        "%": 0.33
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Zambia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 11,
+        "Total": 3301,
+        "%": 0.33
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 10,
+        "Total": 3301,
+        "%": 0.3
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "China",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 10,
+        "Total": 3301,
+        "%": 0.3
+    },
+    {
+        "Host": "Sheep and Ticks",
+        "Country": "Greece",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 10,
+        "Total": 3301,
+        "%": 0.3
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": "Not available",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 10,
+        "Total": 3301,
+        "%": 0.3
+    },
+    {
+        "Host": "",
+        "Country": "China",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 8,
+        "Total": 3301,
+        "%": 0.24
+    },
+    {
+        "Host": "",
+        "Country": "Pakistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 8,
+        "Total": 3301,
+        "%": 0.24
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 8,
+        "Total": 3301,
+        "%": 0.24
+    },
+    {
+        "Host": "Ticks",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 8,
+        "Total": 3301,
+        "%": 0.24
+    },
+    {
+        "Host": "Ticks",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 8,
+        "Total": 3301,
+        "%": 0.24
+    },
+    {
+        "Host": "",
+        "Country": "Turkey",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 7,
+        "Total": 3301,
+        "%": 0.21
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 7,
+        "Total": 3301,
+        "%": 0.21
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 7,
+        "Total": 3301,
+        "%": 0.21
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Spain",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 7,
+        "Total": 3301,
+        "%": 0.21
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 7,
+        "Total": 3301,
+        "%": 0.21
+    },
+    {
+        "Host": "",
+        "Country": "Iran",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "",
+        "Country": "Russia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Goat and Ticks",
+        "Country": "Greece",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Iran",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Kazakhstan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 1967,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 1967,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": 1967,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Tajikistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Iran",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 6,
+        "Total": 3301,
+        "%": 0.18
+    },
+    {
+        "Host": "",
+        "Country": "Bulgaria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "",
+        "Country": "Namibia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "",
+        "Country": "Russia",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "Camel and Ticks",
+        "Country": "Egypt",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "Cattle and Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2005,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Albania",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2020,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "Ticks",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 5,
+        "Total": 3301,
+        "%": 0.15
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "",
+        "Country": "Russia",
+        "IsolateYear": 2001,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Animal",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "China",
+        "IsolateYear": 1974,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Iran",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Namibia",
+        "IsolateYear": 1987,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Namibia",
+        "IsolateYear": 1987,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sudan",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sudan",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sudan",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens and Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Ticks",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 1968,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kosovo",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 4,
+        "Total": 3301,
+        "%": 0.12
+    },
+    {
+        "Host": "",
+        "Country": "China",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Buffalo",
+        "Country": "Pakistan",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Camel and Ticks",
+        "Country": "Egypt",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Namibia",
+        "IsolateYear": 1987,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Oman",
+        "IsolateYear": 1998,
+        "IsolateYr": "1991-2000",
+        "Gene": "M",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2022,
+        "IsolateYr": "2021-2025",
+        "Gene": "L",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2022,
+        "IsolateYr": "2021-2025",
+        "Gene": "M",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2022,
+        "IsolateYr": "2021-2025",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Russia",
+        "IsolateYear": "Not available",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Sheep",
+        "Country": "Iran",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Bulgaria",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Bulgaria",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kosovo",
+        "IsolateYear": 2001,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "M",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "S",
+        "#": 3,
+        "Total": 3301,
+        "%": 0.09
+    },
+    {
+        "Host": "",
+        "Country": "India",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "",
+        "Country": "Iran",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "",
+        "Country": "Not available",
+        "IsolateYear": "Not available",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "",
+        "Country": "South Africa",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "",
+        "Country": "Uganda",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Camel",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Cattle and Ticks",
+        "Country": "Ghana",
+        "IsolateYear": 2020,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Cattle and Ticks",
+        "Country": "Ghana",
+        "IsolateYear": 2020,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Cattle and Ticks",
+        "Country": "Ghana",
+        "IsolateYear": 2020,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Goat and Ticks",
+        "Country": "Turkey",
+        "IsolateYear": 2005,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Albania",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Kazakhstan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Oman",
+        "IsolateYear": 1998,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2002,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": 2002,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "South Africa",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "South Africa",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "USA",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "USA",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "USA",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 1995,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 1995,
+        "IsolateYr": "1991-2000",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 1995,
+        "IsolateYr": "1991-2000",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Yugoslavia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Albania",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kazakhstan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kenya",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Nigeria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 1989,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 1989,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": 1989,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Senegal",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Senegal",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Senegal",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Syria",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Tajikistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkmenistan",
+        "IsolateYear": 1973,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkmenistan",
+        "IsolateYear": 1973,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkmenistan",
+        "IsolateYear": 1973,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Zambia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 2,
+        "Total": 3301,
+        "%": 0.06
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Albania",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Bulgaria",
+        "IsolateYear": 1976,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Democratic Republic of the Congo",
+        "IsolateYear": "Not available",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Greece",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "India",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "India",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Iran",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Iran",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Iran",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Iraq",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Oman",
+        "IsolateYear": 1997,
+        "IsolateYr": "1991-2000",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Pakistan",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Pakistan",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Pakistan",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Russia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "South Africa",
+        "IsolateYear": 1985,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Tajikistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Tajikistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Tajikistan",
+        "IsolateYear": 1991,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Tajikistan",
+        "IsolateYear": 1990,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Turkmenistan",
+        "IsolateYear": 1984,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Uganda",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "United Arab Emirates",
+        "IsolateYear": 1979,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Uzbekistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Uzbekistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "",
+        "Country": "Uzbekistan",
+        "IsolateYear": 1985,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Calf and Homo sapiens and Rat and Ticks",
+        "Country": "India",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Camel and Ticks",
+        "Country": "Saudi Arabia",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Camel and Ticks",
+        "Country": "Saudi Arabia",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Camel and Ticks",
+        "Country": "Saudi Arabia",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Cattle and Ticks",
+        "Country": "Uganda",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Cattle and Ticks",
+        "Country": "Uganda",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Cattle and Ticks",
+        "Country": "Uganda",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat",
+        "Country": "Nigeria",
+        "IsolateYear": 1965,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat",
+        "Country": "Nigeria",
+        "IsolateYear": 1965,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat",
+        "Country": "Nigeria",
+        "IsolateYear": 1965,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat",
+        "Country": "Senegal",
+        "IsolateYear": 1972,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat",
+        "Country": "Senegal",
+        "IsolateYear": 1972,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat",
+        "Country": "Senegal",
+        "IsolateYear": 1972,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat and Ticks",
+        "Country": "Albania",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat and Ticks",
+        "Country": "Greece",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Goat and Ticks",
+        "Country": "Greece",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Afghanistan",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Afghanistan",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Afghanistan",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Afghanistan",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Afghanistan",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Afghanistan",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bulgaria",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "China",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Democratic Republic of the Congo",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Democratic Republic of the Congo",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Democratic Republic of the Congo",
+        "IsolateYear": 1956,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Democratic Republic of the Congo",
+        "IsolateYear": 1956,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Democratic Republic of the Congo",
+        "IsolateYear": 1956,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Greece",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Greece",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Iraq",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Iraq",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Kosovo",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Oman",
+        "IsolateYear": 1998,
+        "IsolateYr": "1991-2000",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Pakistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Republic of the Congo",
+        "IsolateYear": 1956,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Republic of the Congo",
+        "IsolateYear": 1956,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Republic of the Congo",
+        "IsolateYear": 1956,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "South Africa",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "South Africa",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Spain",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Spain",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Spain",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Tajikistan",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Tajikistan",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Tajikistan",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Tajikistan",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Turkey",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 1958,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 1958,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uganda",
+        "IsolateYear": 1958,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uzbekistan",
+        "IsolateYear": 1967,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uzbekistan",
+        "IsolateYear": 1967,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Uzbekistan",
+        "IsolateYear": 1967,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Yugoslavia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Yugoslavia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Jerboa and Ticks",
+        "Country": "China",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Jerboa and Ticks",
+        "Country": "China",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Jerboa and Ticks",
+        "Country": "China",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Not available",
+        "Country": "",
+        "IsolateYear": "Not available",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Rat",
+        "Country": "China",
+        "IsolateYear": 2005,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Serow",
+        "Country": "China",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Serow",
+        "Country": "China",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Serow",
+        "Country": "China",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Sheep",
+        "Country": "China",
+        "IsolateYear": 1968,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Sheep",
+        "Country": "China",
+        "IsolateYear": 1968,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Sheep",
+        "Country": "China",
+        "IsolateYear": 1968,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Sheep",
+        "Country": "Iran",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Cameroon",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 1968,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "China",
+        "IsolateYear": 1968,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Egypt",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Greece",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kazakhstan",
+        "IsolateYear": 1971,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kazakhstan",
+        "IsolateYear": 1971,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Kazakhstan",
+        "IsolateYear": 1971,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Mali",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Mauritania",
+        "IsolateYear": 1984,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Mauritania",
+        "IsolateYear": 1984,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Mauritania",
+        "IsolateYear": 1984,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Morocco",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Nigeria",
+        "IsolateYear": 1996,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Nigeria",
+        "IsolateYear": 1996,
+        "IsolateYr": "1991-2000",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Nigeria",
+        "IsolateYear": 1996,
+        "IsolateYr": "1991-2000",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Pakistan",
+        "IsolateYear": 1965,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Pakistan",
+        "IsolateYear": 1965,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Pakistan",
+        "IsolateYear": 1965,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Russia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "South Africa",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "South Africa",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "South Africa",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "South Africa",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Spain",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Spain",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Spain",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Spain",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Spain",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Sudan",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Turkmenistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Uganda",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Uganda",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Uganda",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks",
+        "Country": "Uzbekistan",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Ticks and Tortoise",
+        "Country": "Algeria",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    },
+    {
+        "Host": "Tortoise",
+        "Country": "Turkey",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "S",
+        "#": 1,
+        "Total": 3301,
+        "%": 0.03
+    }
+]

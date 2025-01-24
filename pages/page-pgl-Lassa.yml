@@ -3,7 +3,7 @@ pageTitle: Lassa database summary
 introHeader: |-
   # Lassa database summary
 content:
-  _resource: pubmed-genbank-Lassa.md
+  _resource: pubmed-genbank-tables.md
 toc: false
 tables:
   submissionsets:
@@ -19,6 +19,64 @@ tables:
     - name: Year
       label: Year
     data:
-      _resource: pgl/Lassa/tblGBRefs.json
+      _resource: pgl/CCHF/tblGBRefs.json
+  isolate_missing_data:
+    columnDefs:
+    - name: Accession
+      label: Accession
+    - name: Country
+      label: Country
+    - name: IsolateYear
+      label: IsolateYear
+    - name: Host
+      label: Host
+    - name: Specimen
+      label: Specimen
+    data:
+      _resource: pgl/CCHF/vIsolateMissingData.json
+  submission_no_match:
+    columnDefs:
+    - name: PMID
+      label: PMID
+    - name: Authors
+      label: Authors
+    - name: Title
+      label: Title
+    - name: Journal
+      label: Journal
+    - name: Year
+      label: Year
+    data:
+      _resource: pgl/CCHF/vSubMissionNotMatch.json
+  metadata_summary:
+    columnDefs:
+    - name: Host
+      label: Host
+    - name: Country
+      label: Country
+    - name: IsolateYear
+      label: IsolateYear
+    - name: Gene
+      label: Gene
+    - name: "#"
+      label: NumSeq
+    - name: '%'
+      label: PcntSeq
+    data:
+      _resource: pgl/CCHF/vIsolateMetadataSummary.json
+  publications:
+    columnDefs:
+    - name: PMID
+      label: PMID
+    - name: Authors
+      label: Authors
+    - name: Title
+      label: Title
+    - name: Journal
+      label: Journal
+    - name: Year
+      label: Year
+    data:
+      _resource: pgl/CCHF/tblPublications.json
 ...
 

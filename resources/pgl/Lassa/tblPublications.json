@@ -1,0 +1,626 @@
+[
+    {
+        "PubID": 1,
+        "Authors": "Happi AN; Ogunsanya OA; Ayinla AO; Sijuwola AE; Saibu FM; Akano K; Nwofoke C; Elias OT; Achonduh-Atijegbe O; Daodu RO; Adedokun OA; Adeyemo A; Ogundana KE; Lawal OZ; Parker E; Nosamiefan I; Okolie J; Parker ZF; McCauley MD; Eller LA; Lombardi K; Tiamiyu AB; Iroezindu M; Akinwale E; Njatou TLFA; Mebrahtu T; Broach E; Zuppe A; Prins P; Lay J; Amare M; Modjarrad K; Collins ND; Vasan S; Tucker C; Daye S; Happi CT",
+        "Title": "Lassa virus in novel hosts: insights into the epidemiology of lassa virus infections in southern Nigeria.",
+        "Journal": "Emerg Microbes Infect",
+        "PMID": "38088796",
+        "Year": "2024"
+    },
+    {
+        "PubID": 2,
+        "Authors": "Bangura U; Davis C; Lamin J; Bangura J; Soropogui B; Davison AJ; Nichols J; Vucak M; Dawson M; Ansumana R; Sondufu D; Cadar D; Rieger T; Thomson E; Sahr F; Magassouba N; Ghersi B; Bird BH; Fichet-Calvet E",
+        "Title": "Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa.",
+        "Journal": "Emerg Microbes Infect",
+        "PMID": "38047354",
+        "Year": "2024"
+    },
+    {
+        "PubID": 3,
+        "Authors": "Oguzie JU; Petros BA; Oluniyi PE; Mehta SB; Eromon PE; Nair P; Adewale-Fasoro O; Ifoga PD; Odia I; Pastusiak A; Gbemisola OS; Aiyepada JO; Uyigue EA; Edamhande AP; Blessing O; Airende M; Tomkins-Tinch C; Qu J; Stenson L; Schaffner SF; Oyejide N; Ajayi NA; Ojide K; Ogah O; Abejegah C; Adedosu N; Ayodeji O; Liasu AA; Okogbenin S; Okokhere PO; Park DJ; Folarin OA; Komolafe I; Ihekweazu C; Frost SDW; Jackson EK; Siddle KJ; Sabeti PC; Happi CT",
+        "Title": "Metagenomic surveillance uncovers diverse and novel viral taxa in febrile patients from Nigeria.",
+        "Journal": "Nat Commun",
+        "PMID": "37542071",
+        "Year": "2023"
+    },
+    {
+        "PubID": 4,
+        "Authors": "Adesina AS; Oyeyiola A; Obadare A; Igbokwe J; Abejegah C; Akhilomen P; Bangura U; Asogun D; Tobin E; Ayodeji O; Osoniyi O; Davis C; Thomson EC; Pahlmann M; G\u221a\u00banther S; Fichet-Calvet E; Olayemi A",
+        "Title": "Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice.",
+        "Journal": "Emerg Microbes Infect",
+        "PMID": "37288752",
+        "Year": "2023"
+    },
+    {
+        "PubID": 5,
+        "Authors": "Whitlock AOB; Bird BH; Ghersi B; Davison AJ; Hughes J; Nichols J; Vu\u0192\u00e7ak M; Amara E; Bangura J; Lavalie EG; Kanu MC; Kanu OT; Sjodin A; Remien CH; Nuismer SL",
+        "Title": "Identifying the genetic basis of viral spillover using Lassa virus as a test case.",
+        "Journal": "R Soc Open Sci",
+        "PMID": "36968239",
+        "Year": "2023"
+    },
+    {
+        "PubID": 6,
+        "Authors": "Wood R; Bangura U; Mari\u221a\u00b4n J; Douno M; Fichet-Calvet E",
+        "Title": "Detection of Lassa virus in wild rodent feces: Implications for Lassa fever burden within households in the endemic region of Faranah, Guinea.",
+        "Journal": "One Health",
+        "PMID": "34522759",
+        "Year": "2021"
+    },
+    {
+        "PubID": 7,
+        "Authors": "Bangura U; Buanie J; Lamin J; Davis C; Bongo GN; Dawson M; Ansumana R; Sondufu D; Thomson EC; Sahr F; Fichet-Calvet E",
+        "Title": "Lassa Virus Circulation in Small Mammal Populations in Bo District, Sierra Leone.",
+        "Journal": "Biology (Basel)",
+        "PMID": "33466234",
+        "Year": "2021"
+    },
+    {
+        "PubID": 8,
+        "Authors": "Yadouleton A; Picard C; Rieger T; Loko F; Cadar D; Kouthon EC; Job EO; Bankol\u221a\u00a9 H; Oestereich L; Gbaguidi F; Pahlman M; Becker-Ziaja B; Journeaux A; Pannetier D; M\u221a\u00a9ly S; Mundweiler S; Thomas D; Kohossi L; Saizonou R; Kaka\u221a\u00d8 CG; Da Silva M; Kossoubedie S; Kakonku AL; M'Pel\u221a\u00a9 P; Gunther S; Baize S; Fichet-Calvet E",
+        "Title": "Lassa fever in Benin: description of the 2014 and 2016 epidemics and genetic characterization of a new Lassa virus.",
+        "Journal": "Emerg Microbes Infect",
+        "PMID": "32723007",
+        "Year": "2020"
+    },
+    {
+        "PubID": 9,
+        "Authors": "Mari\u221a\u00b4n J; Lo Iacono G; Rieger T; Magassouba N; G\u221a\u00banther S; Fichet-Calvet E",
+        "Title": "Households as hotspots of Lassa fever? Assessing the spatial distribution of Lassa virus-infected rodents in rural villages of Guinea.",
+        "Journal": "Emerg Microbes Infect",
+        "PMID": "32459576",
+        "Year": "2020"
+    },
+    {
+        "PubID": 10,
+        "Authors": "Boisen ML; Uyigue E; Aiyepada J; Siddle KJ; Oestereich L; Nelson DKS; Bush DJ; Rowland MM; Heinrich ML; Eromon P; Kayode AT; Odia I; Adomeh DI; Muoebonam EB; Akhilomen P; Okonofua G; Osiemi B; Omoregie O; Airende M; Agbukor J; Ehikhametalor S; Aire CO; Duraffour S; Pahlmann M; B\u221a\u2202hm W; Barnes KG; Mehta S; Momoh M; Sandi JD; Goba A; Folarin OA; Ogbaini-Emovan E; Asogun DA; Tobin EA; Akpede GO; Okogbenin SA; Okokhere PO; Grant DS; Schieffelin JS; Sabeti PC; G\u221a\u00banther S; Happi CT; Branco LM; Garry RF",
+        "Title": "Field evaluation of a Pan-Lassa rapid diagnostic test during the 2018 Nigerian Lassa fever outbreak.",
+        "Journal": "Sci Rep",
+        "PMID": "32457420",
+        "Year": "2020"
+    },
+    {
+        "PubID": 11,
+        "Authors": "Olayemi A; Adesina AS; Strecker T; Magassouba N; Fichet-Calvet E",
+        "Title": "Determining Ancestry between Rodent- and Human-Derived Virus Sequences in Endemic Foci: Towards a More Integral Molecular Epidemiology of Lassa Fever within West Africa.",
+        "Journal": "Biology (Basel)",
+        "PMID": "32046182",
+        "Year": "2020"
+    },
+    {
+        "PubID": 12,
+        "Authors": "Wiley MR; Fakoli L; Letizia AG; Welch SR; Ladner JT; Prieto K; Reyes D; Espy N; Chitty JA; Pratt CB; Di Paola N; Taweh F; Williams D; Saindon J; Davis WG; Patel K; Holland M; Negr\u221a\u2265n D; Str\u221a\u2202her U; Nichol ST; Sozhamannan S; Rollin PE; Dogba J; Nyenswah T; Bolay F; Albari\u221a\u00b1o CG; Fallah M; Palacios G",
+        "Title": "Lassa virus circulating in Liberia: a retrospective genomic characterisation.",
+        "Journal": "Lancet Infect Dis",
+        "PMID": "31588039",
+        "Year": "2019"
+    },
+    {
+        "PubID": 13,
+        "Authors": "Salu OB; James AB; Bankol\u221a\u00a9 HS; Agbla JM; Da Silva M; Gbaguidi F; Loko CF; Omilabu SA",
+        "Title": "Molecular confirmation and phylogeny of Lassa fever virus in Benin Republic 2014-2016.",
+        "Journal": "Afr J Lab Med",
+        "PMID": "31534915",
+        "Year": "2019"
+    },
+    {
+        "PubID": 14,
+        "Authors": "Ehichioya DU; Dellicour S; Pahlmann M; Rieger T; Oestereich L; Becker-Ziaja B; Cadar D; Ighodalo Y; Olokor T; Omomoh E; Oyakhilome J; Omiunu R; Agbukor J; Ebo B; Aiyepada J; Ebhodaghe P; Osiemi B; Ehikhametalor S; Akhilomen P; Airende M; Esumeh R; Muoebonam E; Giwa R; Ekanem A; Igenegbale G; Odigie G; Okonofua G; Enigbe R; Omonegho Yerumoh E; Pallasch E; Bockholt S; Kafetzopoulou LE; Duraffour S; Okokhere PO; Akpede GO; Okogbenin SA; Odia I; Aire C; Akpede N; Tobin E; Ogbaini-Emovon E; Lemey P; Adomeh DI; Asogun DA; G\u221a\u00banther S",
+        "Title": "Phylogeography of Lassa Virus in Nigeria.",
+        "Journal": "J Virol",
+        "PMID": "31413134",
+        "Year": "2019"
+    },
+    {
+        "PubID": 15,
+        "Authors": "Yadouleton A; Agolinou A; Kourouma F; Saizonou R; Pahlmann M; Bedi\u221a\u00a9 SK; Bankol\u221a\u00a9 H; Becker-Ziaja B; Gbaguidi F; Thielebein A; Magassouba N; Duraffour S; Baptiste JP; G\u221a\u00banther S; Fichet-Calvet E",
+        "Title": "Lassa Virus in Pygmy Mice, Benin, 2016-2017.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "31365854",
+        "Year": "2019"
+    },
+    {
+        "PubID": 16,
+        "Authors": "Kafetzopoulou LE; Pullan ST; Lemey P; Suchard MA; Ehichioya DU; Pahlmann M; Thielebein A; Hinzmann J; Oestereich L; Wozniak DM; Efthymiadis K; Schachten D; Koenig F; Matjeschk J; Lorenzen S; Lumley S; Ighodalo Y; Adomeh DI; Olokor T; Omomoh E; Omiunu R; Agbukor J; Ebo B; Aiyepada J; Ebhodaghe P; Osiemi B; Ehikhametalor S; Akhilomen P; Airende M; Esumeh R; Muoebonam E; Giwa R; Ekanem A; Igenegbale G; Odigie G; Okonofua G; Enigbe R; Oyakhilome J; Yerumoh EO; Odia I; Aire C; Okonofua M; Atafo R; Tobin E; Asogun D; Akpede N; Okokhere PO; Rafiu MO; Iraoyah KO; Iruolagbe CO; Akhideno P; Erameh C; Akpede G; Isibor E; Naidoo D; Hewson R; Hiscox JA; Vipond R; Carroll MW; Ihekweazu C; Formenty P; Okogbenin S; Ogbaini-Emovon E; G\u221a\u00banther S; Duraffour S",
+        "Title": "Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak.",
+        "Journal": "Science",
+        "PMID": "30606844",
+        "Year": "2019"
+    },
+    {
+        "PubID": 17,
+        "Authors": "Oloniniyi OK; Unigwe US; Okada S; Kimura M; Koyano S; Miyazaki Y; Iroezindu MO; Ajayi NA; Chukwubike CM; Chika-Igwenyi NM; Ndu AC; Nwidi DU; Abe H; Urata S; Kurosaki Y; Yasuda J",
+        "Title": "Genetic characterization of Lassa virus strains isolated from 2012 to 2016 in southeastern Nigeria.",
+        "Journal": "PLoS Negl Trop Dis",
+        "PMID": "30500827",
+        "Year": "2018"
+    },
+    {
+        "PubID": 18,
+        "Authors": "Siddle KJ; Eromon P; Barnes KG; Mehta S; Oguzie JU; Odia I; Schaffner SF; Winnicki SM; Shah RR; Qu J; Wohl S; Brehio P; Iruolagbe C; Aiyepada J; Uyigue E; Akhilomen P; Okonofua G; Ye S; Kayode T; Ajogbasile F; Uwanibe J; Gaye A; Momoh M; Chak B; Kotliar D; Carter A; Gladden-Young A; Freije CA; Omoregie O; Osiemi B; Muoebonam EB; Airende M; Enigbe R; Ebo B; Nosamiefan I; Oluniyi P; Nekoui M; Ogbaini-Emovon E; Garry RF; Andersen KG; Park DJ; Yozwiak NL; Akpede G; Ihekweazu C; Tomori O; Okogbenin S; Folarin OA; Okokhere PO; MacInnis BL; Sabeti PC; Happi CT",
+        "Title": "Genomic Analysis of Lassa Virus during an Increase in Cases in Nigeria in 2018.",
+        "Journal": "N Engl J Med",
+        "PMID": "30332564",
+        "Year": "2018"
+    },
+    {
+        "PubID": 19,
+        "Authors": "Whitmer SLM; Strecker T; Cadar D; Dienes HP; Faber K; Patel K; Brown SM; Davis WG; Klena JD; Rollin PE; Schmidt-Chanasit J; Fichet-Calvet E; Noack B; Emmerich P; Rieger T; Wolff S; Fehling SK; Eickmann M; Mengel JP; Schultze T; Hain T; Ampofo W; Bonney K; Aryeequaye JND; Ribner B; Varkey JB; Mehta AK; Lyon GM 3rd; Kann G; De Leuw P; Schuettfort G; Stephan C; Wieland U; Fries JWU; Kochanek M; Kraft CS; Wolf T; Nichol ST; Becker S; Str\u221a\u2202her U; G\u221a\u00banther S",
+        "Title": "New Lineage of Lassa Virus, Togo, 2016.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "29460758",
+        "Year": "2018"
+    },
+    {
+        "PubID": 20,
+        "Authors": "Wolff S; Schultze T; Fehling SK; Mengel JP; Kann G; Wolf T; Eickmann M; Becker S; Hain T; Strecker T",
+        "Title": "Genome Sequence of Lassa Virus Isolated from the First Domestically Acquired Case in Germany.",
+        "Journal": "Genome Announc",
+        "PMID": "27660771",
+        "Year": "2016"
+    },
+    {
+        "PubID": 21,
+        "Authors": "Olayemi A; Cadar D; Magassouba N; Obadare A; Kourouma F; Oyeyiola A; Fasogbon S; Igbokwe J; Rieger T; Bockholt S; J\u221a\u00a9r\u221a\u00a5me H; Schmidt-Chanasit J; Garigliany M; Lorenzen S; Igbahenah F; Fichet JN; Ortsega D; Omilabu S; G\u221a\u00banther S; Fichet-Calvet E",
+        "Title": "New Hosts of The Lassa Virus.",
+        "Journal": "Sci Rep",
+        "PMID": "27140942",
+        "Year": "2016"
+    },
+    {
+        "PubID": 22,
+        "Authors": "Bonney JHK; Nyarko EO; Ohene SA; Amankwa J; Ametepi RK; Nimo-Paintsil SC; Sarkodie B; Agbenohevi P; Adjabeng M; Kyei NNA; Bel-Nono S; Ampofo WK",
+        "Title": "Molecular confirmation of Lassa fever imported into Ghana.",
+        "Journal": "Afr J Lab Med",
+        "PMID": "28879105",
+        "Year": "2016"
+    },
+    {
+        "PubID": 23,
+        "Authors": "Olayemi A; Obadare A; Oyeyiola A; Igbokwe J; Fasogbon A; Igbahenah F; Ortsega D; Asogun D; Umeh P; Vakkai I; Abejegah C; Pahlman M; Becker-Ziaja B; G\u221a\u00banther S; Fichet-Calvet E",
+        "Title": "Arenavirus Diversity and Phylogeography of Mastomys natalensis Rodents, Nigeria.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "26982388",
+        "Year": "2016"
+    },
+    {
+        "PubID": 24,
+        "Authors": "Fichet-Calvet E; \u221a\u00f1lschl\u221a\u00a7ger S; Strecker T; Koivogui L; Becker-Ziaja B; Camara AB; Soropogui B; Magassouba N; G\u221a\u00banther S",
+        "Title": "Spatial and temporal evolution of Lassa virus in the natural host population in Upper Guinea.",
+        "Journal": "Sci Rep",
+        "PMID": "26911443",
+        "Year": "2016"
+    },
+    {
+        "PubID": 25,
+        "Authors": "Andersen KG; Shapiro BJ; Matranga CB; Sealfon R; Lin AE; Moses LM; Folarin OA; Goba A; Odia I; Ehiane PE; Momoh M; England EM; Winnicki S; Branco LM; Gire SK; Phelan E; Tariyal R; Tewhey R; Omoniwa O; Fullah M; Fonnie R; Fonnie M; Kanneh L; Jalloh S; Gbakie M; Saffa S; Karbo K; Gladden AD; Qu J; Stremlau M; Nekoui M; Finucane HK; Tabrizi S; Vitti JJ; Birren B; Fitzgerald M; McCowan C; Ireland A; Berlin AM; Bochicchio J; Tazon-Vega B; Lennon NJ; Ryan EM; Bjornson Z; Milner DA Jr; Lukens AK; Broodie N; Rowland M; Heinrich M; Akdag M; Schieffelin JS; Levy D; Akpan H; Bausch DG; Rubins K; McCormick JB; Lander ES; G\u221a\u00banther S; Hensley L; Okogbenin S; Schaffner SF; Okokhere PO; Khan SH; Grant DS; Akpede GO; Asogun DA; Gnirke A; Levin JZ; Happi CT; Garry RF; Sabeti PC",
+        "Title": "Clinical Sequencing Uncovers Origins and Evolution of Lassa Virus.",
+        "Journal": "Cell",
+        "PMID": "26276630",
+        "Year": "2015"
+    },
+    {
+        "PubID": 26,
+        "Authors": "Kouadio L; Nowak K; Akoua-Koffi C; Weiss S; Allali BK; Witkowski PT; Kr\u221a\u00bager DH; Couacy-Hymann E; Calvignac-Spencer S; Leendertz FH",
+        "Title": "Lassa Virus in Multimammate Rats, C\u00f4te d\u2019Ivoire, 2013.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "26196447",
+        "Year": "2015"
+    },
+    {
+        "PubID": 27,
+        "Authors": "Leski TA; Stockelman MG; Moses LM; Park M; Stenger DA; Ansumana R; Bausch DG; Lin B",
+        "Title": "Sequence variability and geographic distribution of Lassa virus, Sierra Leone.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "25811712",
+        "Year": "2015"
+    },
+    {
+        "PubID": 28,
+        "Authors": "Matranga CB; Andersen KG; Winnicki S; Busby M; Gladden AD; Tewhey R; Stremlau M; Berlin A; Gire SK; England E; Moses LM; Mikkelsen TS; Odia I; Ehiane PE; Folarin O; Goba A; Kahn SH; Grant DS; Honko A; Hensley L; Happi C; Garry RF; Malboeuf CM; Birren BW; Gnirke A; Levin JZ; Sabeti PC",
+        "Title": "Enhanced methods for unbiased deep sequencing of Lassa and Ebola RNA viruses from clinical and biological samples.",
+        "Journal": "Genome Biol",
+        "PMID": "25403361",
+        "Year": "2014"
+    },
+    {
+        "PubID": 29,
+        "Authors": "Zapata JC; Goicochea M; Nadai Y; Eyzaguirre LM; Carr JK; Tallon LJ; Sadzewicz L; Myers G; Fraser CM; Su Q; Djavani M; Lukashevich IS; Salvato MS",
+        "Title": "Genetic variation in vitro and in vivo of an attenuated Lassa vaccine candidate.",
+        "Journal": "J Virol",
+        "PMID": "24335292",
+        "Year": "2014"
+    },
+    {
+        "PubID": 30,
+        "Authors": "Lalis A; Leblois R; Lecompte E; Denys C; Ter Meulen J; Wirth T",
+        "Title": "The impact of human conflict on the genetics of Mastomys natalensis and Lassa virus in West Africa.",
+        "Journal": "PLoS One",
+        "PMID": "22615894",
+        "Year": "2012"
+    },
+    {
+        "PubID": 31,
+        "Authors": "Ehichioya DU; Hass M; Becker-Ziaja B; Ehimuan J; Asogun DA; Fichet-Calvet E; Kleinsteuber K; Lelke M; ter Meulen J; Akpede GO; Omilabu SA; G\u221a\u00banther S; Olschl\u221a\u00a7ger S",
+        "Title": "Current molecular epidemiology of Lassa virus in Nigeria.",
+        "Journal": "J Clin Microbiol",
+        "PMID": "21191050",
+        "Year": "2011"
+    },
+    {
+        "PubID": 32,
+        "Authors": "Amorosa V; MacNeil A; McConnell R; Patel A; Dillon KE; Hamilton K; Erickson BR; Campbell S; Knust B; Cannon D; Miller D; Manning C; Rollin PE; Nichol ST",
+        "Title": "Imported Lassa fever, Pennsylvania, USA, 2010.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "20875288",
+        "Year": "2010"
+    },
+    {
+        "PubID": 33,
+        "Authors": "Safronetz D; Lopez JE; Sogoba N; Traore' SF; Raffel SJ; Fischer ER; Ebihara H; Branco L; Garry RF; Schwan TG; Feldmann H",
+        "Title": "Detection of Lassa virus, Mali.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "20587185",
+        "Year": "2010"
+    },
+    {
+        "PubID": 34,
+        "Authors": "Ehichioya DU; Hass M; Olschl\u221a\u00a7ger S; Becker-Ziaja B; Onyebuchi Chukwu CO; Coker J; Nasidi A; Ogugua OO; G\u221a\u00banther S; Omilabu SA",
+        "Title": "Lassa fever, Nigeria, 2005-2008.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "20507773",
+        "Year": "2010"
+    },
+    {
+        "PubID": 35,
+        "Authors": "Lecompte E; Fichet-Calvet E; Daffis S; Koul\u221a\u00a9mou K; Sylla O; Kourouma F; Dor\u221a\u00a9 A; Soropogui B; Aniskin V; Allali B; Kouassi Kan S; Lalis A; Koivogui L; G\u221a\u00banther S; Denys C; ter Meulen J",
+        "Title": "Mastomys natalensis and Lassa fever, West Africa.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "17326956",
+        "Year": "2006"
+    },
+    {
+        "PubID": 36,
+        "Authors": "Moshkoff DA; Salvato MS; Lukashevich IS",
+        "Title": "Molecular characterization of a reassortant virus derived from Lassa and Mopeia viruses.",
+        "Journal": "Virus Genes",
+        "PMID": "17143722",
+        "Year": "2007"
+    },
+    {
+        "PubID": 37,
+        "Authors": "Omilabu SA; Badaru SO; Okokhere P; Asogun D; Drosten C; Emmerich P; Becker-Ziaja B; Schmitz H; G\u221a\u00banther S",
+        "Title": "Lassa fever, Nigeria, 2003 and 2004.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "16355508",
+        "Year": "2005"
+    },
+    {
+        "PubID": 38,
+        "Authors": "Vieth S; Torda AE; Asper M; Schmitz H; G\u221a\u00banther S",
+        "Title": "Sequence analysis of L RNA of Lassa virus.",
+        "Journal": "Virology",
+        "PMID": "14972544",
+        "Year": "2004"
+    },
+    {
+        "PubID": 39,
+        "Authors": "G\u221a\u00banther S; Weisner B; Roth A; Grewing T; Asper M; Drosten C; Emmerich P; Petersen J; Wilczek M; Schmitz H",
+        "Title": "Lassa fever encephalopathy: Lassa virus in cerebrospinal fluid but not in serum.",
+        "Journal": "J Infect Dis",
+        "PMID": "11443561",
+        "Year": "2001"
+    },
+    {
+        "PubID": 40,
+        "Authors": "G\u221a\u00banther S; Emmerich P; Laue T; K\u221a\u00bahle O; Asper M; Jung A; Grewing T; ter Meulen J; Schmitz H",
+        "Title": "Imported lassa fever in Germany: molecular characterization of a new lassa virus strain.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "10998376",
+        "Year": "2000"
+    },
+    {
+        "PubID": 41,
+        "Authors": "Bowen MD; Rollin PE; Ksiazek TG; Hustad HL; Bausch DG; Demby AH; Bajani MD; Peters CJ; Nichol ST",
+        "Title": "Genetic diversity among Lassa virus strains.",
+        "Journal": "J Virol",
+        "PMID": "10888638",
+        "Year": "2000"
+    },
+    {
+        "PubID": 42,
+        "Authors": "Djavani M; Lukashevich IS; Sanchez A; Nichol ST; Salvato MS",
+        "Title": "Completion of the Lassa fever virus sequence and identification of a RING finger open reading frame at the L RNA 5' End.",
+        "Journal": "Virology",
+        "PMID": "9281522",
+        "Year": "1997"
+    },
+    {
+        "PubID": 43,
+        "Authors": "Lukashevich IS; Djavani M; Shapiro K; Sanchez A; Ravkov E; Nichol ST; Salvato MS",
+        "Title": "The Lassa fever virus L gene: nucleotide sequence, comparison, and precipitation of a predicted 250 kDa protein with monospecific antiserum.",
+        "Journal": "J Gen Virol",
+        "PMID": "9049403",
+        "Year": "1997"
+    },
+    {
+        "PubID": 44,
+        "Authors": "Clegg JC; Wilson SM; Oram JD",
+        "Title": "Nucleotide sequence of the S RNA of Lassa virus (Nigerian strain) and comparative analysis of arenavirus gene products.",
+        "Journal": "Virus Res",
+        "PMID": "2042397",
+        "Year": "1991"
+    },
+    {
+        "PubID": 45,
+        "Authors": "Auperin DD; McCormick JB",
+        "Title": "Nucleotide sequence of the Lassa virus (Josiah strain) S genome RNA and amino acid sequence comparison of the N and GPC proteins to other arenaviruses.",
+        "Journal": "Virology",
+        "PMID": "2916333",
+        "Year": "1989"
+    },
+    {
+        "PubID": 46,
+        "Authors": "Auperin DD; Sasso DR; McCormick JB",
+        "Title": "Nucleotide sequence of the glycoprotein gene and intergenic region of the Lassa virus S genome RNA.",
+        "Journal": "Virology",
+        "PMID": "3750844",
+        "Year": "1986"
+    },
+    {
+        "PubID": 47,
+        "Authors": "Clegg JC; Oram JD",
+        "Title": "Molecular cloning of Lassa virus RNA: nucleotide sequence and expression of the nucleocapsid protein gene.",
+        "Journal": "Virology",
+        "PMID": "3840620",
+        "Year": "1985"
+    },
+    {
+        "PubID": 48,
+        "Authors": "He CQ; Kong C; He M; Chen GX; Liu SM; Ding NZ",
+        "Title": "Intrasegmental recombination as an evolutionary force of Lassa fever virus.",
+        "Journal": "Front Microbiol",
+        "PMID": "38832113",
+        "Year": "2024"
+    },
+    {
+        "PubID": 49,
+        "Authors": "Taniguchi S; Saito T; Paroha R; Huang C; Paessler S; Maruyama J",
+        "Title": "Unraveling factors responsible for pathogenic differences in Lassa virus strains.",
+        "Journal": "bioRxiv",
+        "PMID": "38826374",
+        "Year": "2024"
+    },
+    {
+        "PubID": 50,
+        "Authors": "Huang C; Mantlo E; Paessler S",
+        "Title": "Lassa virus NP DEDDh 3'-5' exoribonuclease activity is required for optimal viral RNA replication and mutation control.",
+        "Journal": "bioRxiv",
+        "PMID": "37090668",
+        "Year": "2023"
+    },
+    {
+        "PubID": 51,
+        "Authors": "Deschambault Y; Soule G; Klassen L; Sloan A; Audet J; Azaransky K; Musa AS; Ahmad A; Akinpelu AM; Mba N; Stein DR; Ranson M; Almiski M; Tierney K; Fischer G; Chan M; Safronetz D",
+        "Title": "An Outbred Guinea Pig Disease Model for Lassa Fever Using a Host-Adapted Clade III Nigerian Lassa Virus.",
+        "Journal": "Viruses",
+        "PMID": "36992478",
+        "Year": "2023"
+    },
+    {
+        "PubID": 52,
+        "Authors": "Stein DR; Warner BM; Audet J; Soule G; Siragam V; Sroga P; Griffin BD; Leung A; Grolla A; Tierney K; Albietz A; Kobasa D; Musa AS; Ahmad A; Akinpelu AM; Mba N; Rosenke R; Scott DP; Saturday G; Ihekweazu C; Safronetz D",
+        "Title": "Differential pathogenesis of closely related 2018 Nigerian outbreak clade III Lassa virus isolates.",
+        "Journal": "PLoS Pathog",
+        "PMID": "34634087",
+        "Year": "2021"
+    },
+    {
+        "PubID": 53,
+        "Authors": "Magassouba N; Koivogui E; Conde S; Kone M; Koropogui M; Soropogui B; Kekoura I; Hinzmann J; G\u221a\u00banther S; Keita S; Duraffour S; Fichet-Calvet E",
+        "Title": "A Sporadic and Lethal Lassa Fever Case in Forest Guinea, 2019.",
+        "Journal": "Viruses",
+        "PMID": "32977629",
+        "Year": "2020"
+    },
+    {
+        "PubID": 54,
+        "Authors": "Li Y; Tian H",
+        "Title": "Adaptive genetic diversification of Lassa virus associated with the epidemic split of north-central Nigerian and non-Nigerian lineages.",
+        "Journal": "Virology",
+        "PMID": "32174454",
+        "Year": "2020"
+    },
+    {
+        "PubID": 55,
+        "Authors": "Cai Y; Ye C; Cheng B; Nogales A; Iwasaki M; Yu S; Cooper K; Liu DX; Hart R; Adams R; Brady T; Postnikova EN; Kurtz J; St Claire M; Kuhn JH; de la Torre JC; Mart\u221a\u2260nez-Sobrido L",
+        "Title": "A Lassa Fever Live-Attenuated Vaccine Based on Codon Deoptimization of the Viral Glycoprotein Gene.",
+        "Journal": "mBio",
+        "PMID": "32098811",
+        "Year": "2020"
+    },
+    {
+        "PubID": 56,
+        "Authors": "Welch SR; Scholte FEM; Albari\u221a\u00b1o CG; Kainulainen MH; Coleman-McCray JD; Guerrero LW; Chakrabarti AK; Klena JD; Nichol ST; Spengler JR; Spiropoulou CF",
+        "Title": "The S Genome Segment Is Sufficient to Maintain Pathogenicity in Intra-Clade Lassa Virus Reassortants in a Guinea Pig Model.",
+        "Journal": "Front Cell Infect Microbiol",
+        "PMID": "30050872",
+        "Year": "2018"
+    },
+    {
+        "PubID": 57,
+        "Authors": "Matranga CB; Gladden-Young A; Qu J; Winnicki S; Nosamiefan D; Levin JZ; Sabeti PC",
+        "Title": "Unbiased Deep Sequencing of RNA Viruses from Clinical Samples.",
+        "Journal": "J Vis Exp",
+        "PMID": "27403729",
+        "Year": "2016"
+    },
+    {
+        "PubID": 58,
+        "Authors": "Safronetz D; Sogoba N; Lopez JE; Maiga O; Dahlstrom E; Zivcec M; Feldmann F; Haddock E; Fischer RJ; Anderson JM; Munster VJ; Branco L; Garry R; Porcella SF; Schwan TG; Feldmann H",
+        "Title": "Geographic distribution and genetic characterization of Lassa virus in sub-Saharan Mali.",
+        "Journal": "PLoS Negl Trop Dis",
+        "PMID": "24340119",
+        "Year": "2013"
+    },
+    {
+        "PubID": 59,
+        "Authors": "Asogun DA; Adomeh DI; Ehimuan J; Odia I; Hass M; Gabriel M; Olschl\u221a\u00a7ger S; Becker-Ziaja B; Folarin O; Phelan E; Ehiane PE; Ifeh VE; Uyigue EA; Oladapo YT; Muoebonam EB; Osunde O; Dongo A; Okokhere PO; Okogbenin SA; Momoh M; Alikah SO; Akhuemokhan OC; Imomeh P; Odike MA; Gire S; Andersen K; Sabeti PC; Happi CT; Akpede GO; G\u221a\u00banther S",
+        "Title": "Molecular diagnostics for lassa fever at Irrua specialist teaching hospital, Nigeria: lessons learnt from two years of laboratory operation.",
+        "Journal": "PLoS Negl Trop Dis",
+        "PMID": "23029594",
+        "Year": "2012"
+    },
+    {
+        "PubID": 60,
+        "Authors": "Branco LM; Boisen ML; Andersen KG; Grove JN; Moses LM; Muncy IJ; Henderson LA; Schieffellin JS; Robinson JE; Bangura JJ; Grant DS; Raabe VN; Fonnie M; Zaitsev EM; Sabeti PC; Garry RF",
+        "Title": "Lassa hemorrhagic fever in a late term pregnancy from northern Sierra Leone with a positive maternal outcome: case report.",
+        "Journal": "Virol J",
+        "PMID": "21843352",
+        "Year": "2011"
+    },
+    {
+        "PubID": 61,
+        "Authors": "Albari\u221a\u00b1o CG; Bird BH; Chakrabarti AK; Dodd KA; Erickson BR; Nichol ST",
+        "Title": "Efficient rescue of recombinant Lassa virus reveals the influence of S segment noncoding regions on virus replication and virulence.",
+        "Journal": "J Virol",
+        "PMID": "21307206",
+        "Year": "2011"
+    },
+    {
+        "PubID": 62,
+        "Authors": "Albari\u221a\u00b1o CG; Bird BH; Chakrabarti AK; Dodd KA; White DM; Bergeron E; Shrivastava-Ranjan P; Nichol ST",
+        "Title": "Reverse genetics generation of chimeric infectious Junin/Lassa virus is dependent on interaction of homologous glycoprotein stable signal peptide and G2 cytoplasmic domains.",
+        "Journal": "J Virol",
+        "PMID": "20980515",
+        "Year": "2011"
+    },
+    {
+        "PubID": 63,
+        "Authors": "Olschl\u221a\u00a7ger S; Lelke M; Emmerich P; Panning M; Drosten C; Hass M; Asogun D; Ehichioya D; Omilabu S; G\u221a\u00banther S",
+        "Title": "Improved detection of Lassa virus by reverse transcription-PCR targeting the 5' region of S RNA.",
+        "Journal": "J Clin Microbiol",
+        "PMID": "20351210",
+        "Year": "2010"
+    },
+    {
+        "PubID": 64,
+        "Authors": "Vieth S; Drosten C; Lenz O; Vincent M; Omilabu S; Hass M; Becker-Ziaja B; ter Meulen J; Nichol ST; Schmitz H; G\u221a\u00banther S",
+        "Title": "RT-PCR assay for detection of Lassa virus and related Old World arenaviruses targeting the L gene.",
+        "Journal": "Trans R Soc Trop Med Hyg",
+        "PMID": "17905372",
+        "Year": "2007"
+    },
+    {
+        "PubID": 65,
+        "Authors": "Gonzalez JP; Georges AJ; Kiley MP; Meunier DM; Peters CJ; McCormick JB",
+        "Title": "Evolutionary biology of a Lassa virus complex.",
+        "Journal": "Med Microbiol Immunol",
+        "PMID": "3724662",
+        "Year": "1986"
+    },
+    {
+        "PubID": 66,
+        "Authors": "Jahrling PB; Frame JD; Smith SB; Monson MH",
+        "Title": "Endemic Lassa fever in Liberia. III. Characterization of Lassa virus isolates.",
+        "Journal": "Trans R Soc Trop Med Hyg",
+        "PMID": "3898483",
+        "Year": "1985"
+    },
+    {
+        "PubID": 67,
+        "Authors": "Carnec X; Baize S; Reynard S; Diancourt L; Caro V; Tordo N; Bouloy M",
+        "Title": "Lassa virus nucleoprotein mutants generated by reverse genetics induce a robust type I interferon response in human dendritic cells and macrophages.",
+        "Journal": "J Virol",
+        "PMID": "21880754",
+        "Year": "2011"
+    },
+    {
+        "PubID": 68,
+        "Authors": "Demby AH; Chamberlain J; Brown DW; Clegg CS",
+        "Title": "Early diagnosis of Lassa fever by reverse transcription-PCR.",
+        "Journal": "J Clin Microbiol",
+        "PMID": "7883875",
+        "Year": "1994"
+    },
+    {
+        "PubID": 69,
+        "Authors": "Ehichioya DU; Asogun DA; Ehimuan J; Okokhere PO; Pahlmann M; Olschl\u221a\u00a7ger S; Becker-Ziaja B; G\u221a\u00banther S; Omilabu SA",
+        "Title": "Hospital-based surveillance for Lassa fever in Edo State, Nigeria, 2005-2008.",
+        "Journal": "Trop Med Int Health",
+        "PMID": "22594713",
+        "Year": "2012"
+    },
+    {
+        "PubID": 70,
+        "Authors": "Fischer RJ; Purushotham JN; van Doremalen N; Sebastian S; Meade-White K; Cordova K; Letko M; Jeremiah Matson M; Feldmann F; Haddock E; LaCasse R; Saturday G; Lambe T; Gilbert SC; Munster VJ",
+        "Title": "ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge.",
+        "Journal": "NPJ Vaccines",
+        "PMID": "33654106",
+        "Year": "2021"
+    },
+    {
+        "PubID": 71,
+        "Authors": "Spengler JR; Kainulainen MH; Welch SR; Coleman-McCray JD; Harmon JR; Condrey JA; Scholte FEM; Nichol ST; Montgomery JM; Albari\u221a\u00b1o CG; Spiropoulou CF",
+        "Title": "Lassa Virus Replicon Particle Vaccine Protects Strain 13/N Guinea Pigs Against Challenge With Geographically and Genetically Diverse Viral Strains.",
+        "Journal": "J Infect Dis",
+        "PMID": "35099012",
+        "Year": "2022"
+    },
+    {
+        "PubID": 72,
+        "Authors": "Kouba T; Vogel D; Thorkelsson SR; Quemin ERJ; Williams HM; Milewski M; Busch C; G\u221a\u00banther S; Gr\u221a\u00banewald K; Rosenthal M; Cusack S",
+        "Title": "Conformational changes in Lassa virus L protein associated with promoter binding and RNA synthesis activity.",
+        "Journal": "Nat Commun",
+        "PMID": "34857749",
+        "Year": "2021"
+    },
+    {
+        "PubID": 73,
+        "Authors": "Kronmann KC; Nimo-Paintsil S; Guirguis F; Kronmann LC; Bonney K; Obiri-Danso K; Ampofo W; Fichet-Calvet E",
+        "Title": "Two novel arenaviruses detected in pygmy mice, Ghana.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "24188212",
+        "Year": "2013"
+    },
+    {
+        "PubID": 74,
+        "Authors": "Mateo M; Picard C; Sylla Y; Kamo E; Odegue D; Journeaux A; Kan SK; Money M; Coulibaly DN; Koffi E; Meite S; Akran V; Kadjo H; Adjogoua E; Kakou SN; Baize S; Dosso M",
+        "Title": "Fatal Case of Lassa Fever, Bangolo District, C\u00f4te d'Ivoire, 2015.",
+        "Journal": "Emerg Infect Dis",
+        "PMID": "31441759",
+        "Year": "2019"
+    },
+    {
+        "PubID": 75,
+        "Authors": "Xu X; Peng R; Peng Q; Wang M; Xu Y; Liu S; Tian X; Deng H; Tong Y; Hu X; Zhong J; Wang P; Qi J; Gao GF; Shi Y",
+        "Title": "Cryo-EM structures of Lassa and Machupo virus polymerases complexed with cognate regulatory Z proteins identify targets for antivirals.",
+        "Journal": "Nat Microbiol",
+        "PMID": "34127846",
+        "Year": "2021"
+    },
+    {
+        "PubID": 76,
+        "Authors": "Bowen MD, Peters CJ, Nichol ST.",
+        "Title": "Phylogenetic analysis of the Arenaviridae: patterns of virus evolution and evidence for cospeciation between arenaviruses and their rodent hosts",
+        "Journal": "Mol Phylogenet Evol. 1997 Dec;8(3):301-16. doi: 10.1006/mpev.1997.0436.",
+        "PMID": "9417890",
+        "Year": "1997"
+    },
+    {
+        "PubID": 77,
+        "Authors": "Charrel RN, Lemasson JJ, Garbutt M, Khelifa R, De Micco P, Feldmann H, de Lamballerie X.",
+        "Title": "New insights into the evolutionary relationships between arenaviruses provided by comparative analysis of small and large segment sequences",
+        "Journal": "Virology. 2003 Dec 20;317(2):191-6. doi: 10.1016/j.virol.2003.08.016.",
+        "PMID": "14698659",
+        "Year": "2003"
+    },
+    {
+        "PubID": 78,
+        "Authors": "Clegg JC.",
+        "Title": "Molecular phylogeny of the arenaviruses",
+        "Journal": "Curr Top Microbiol Immunol. 2002;262:1-24. doi: 10.1007/978-3-642-56029-3_1.",
+        "PMID": "11987802",
+        "Year": "2002"
+    }
+]

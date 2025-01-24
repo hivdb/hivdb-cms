@@ -1,0 +1,1042 @@
+[
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 56,
+        "Total": 281,
+        "%": 19.93
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 49,
+        "Total": 281,
+        "%": 17.44
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 26,
+        "Total": 281,
+        "%": 9.25
+    },
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 25,
+        "Total": 281,
+        "%": 8.9
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "F",
+        "#": 23,
+        "Total": 281,
+        "%": 8.19
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 23,
+        "Total": 281,
+        "%": 8.19
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 23,
+        "Total": 281,
+        "%": 8.19
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 23,
+        "Total": 281,
+        "%": 8.19
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "P",
+        "#": 23,
+        "Total": 281,
+        "%": 8.19
+    },
+    {
+        "Host": "Bat",
+        "Country": "Bangladesh",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 20,
+        "Total": 281,
+        "%": 7.12
+    },
+    {
+        "Host": "Bat",
+        "Country": "Bangladesh",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 19,
+        "Total": 281,
+        "%": 6.76
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 14,
+        "Total": 281,
+        "%": 4.98
+    },
+    {
+        "Host": "Bat",
+        "Country": "Bangladesh",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "F",
+        "#": 11,
+        "Total": 281,
+        "%": 3.91
+    },
+    {
+        "Host": "Bat",
+        "Country": "Bangladesh",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 11,
+        "Total": 281,
+        "%": 3.91
+    },
+    {
+        "Host": "Bat",
+        "Country": "Bangladesh",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 11,
+        "Total": 281,
+        "%": 3.91
+    },
+    {
+        "Host": "Bat",
+        "Country": "Bangladesh",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 11,
+        "Total": 281,
+        "%": 3.91
+    },
+    {
+        "Host": "Bat",
+        "Country": "Bangladesh",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "P",
+        "#": 11,
+        "Total": 281,
+        "%": 3.91
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "F",
+        "#": 9,
+        "Total": 281,
+        "%": 3.2
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 9,
+        "Total": 281,
+        "%": 3.2
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 9,
+        "Total": 281,
+        "%": 3.2
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 9,
+        "Total": 281,
+        "%": 3.2
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Bangladesh",
+        "IsolateYear": 2004,
+        "IsolateYr": "2001-2010",
+        "Gene": "P",
+        "#": 9,
+        "Total": 281,
+        "%": 3.2
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "L",
+        "#": 9,
+        "Total": 281,
+        "%": 3.2
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 8,
+        "Total": 281,
+        "%": 2.85
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "N",
+        "#": 7,
+        "Total": 281,
+        "%": 2.49
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "F",
+        "#": 7,
+        "Total": 281,
+        "%": 2.49
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 7,
+        "Total": 281,
+        "%": 2.49
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 7,
+        "Total": 281,
+        "%": 2.49
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 7,
+        "Total": 281,
+        "%": 2.49
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "P",
+        "#": 7,
+        "Total": 281,
+        "%": 2.49
+    },
+    {
+        "Host": "",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "F",
+        "#": 6,
+        "Total": 281,
+        "%": 2.14
+    },
+    {
+        "Host": "",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 6,
+        "Total": 281,
+        "%": 2.14
+    },
+    {
+        "Host": "",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 6,
+        "Total": 281,
+        "%": 2.14
+    },
+    {
+        "Host": "",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 6,
+        "Total": 281,
+        "%": 2.14
+    },
+    {
+        "Host": "",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "P",
+        "#": 6,
+        "Total": 281,
+        "%": 2.14
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "F",
+        "#": 6,
+        "Total": 281,
+        "%": 2.14
+    },
+    {
+        "Host": "",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 5,
+        "Total": 281,
+        "%": 1.78
+    },
+    {
+        "Host": "Bat",
+        "Country": "Indonesia",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 5,
+        "Total": 281,
+        "%": 1.78
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "N",
+        "#": 5,
+        "Total": 281,
+        "%": 1.78
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "P",
+        "#": 5,
+        "Total": 281,
+        "%": 1.78
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "G",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "M",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "F",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "G",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "M",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "N",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "P",
+        "#": 4,
+        "Total": 281,
+        "%": 1.42
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "F",
+        "#": 3,
+        "Total": 281,
+        "%": 1.07
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 3,
+        "Total": 281,
+        "%": 1.07
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "P",
+        "#": 3,
+        "Total": 281,
+        "%": 1.07
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 3,
+        "Total": 281,
+        "%": 1.07
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 2,
+        "Total": 281,
+        "%": 0.71
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 2,
+        "Total": 281,
+        "%": 0.71
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 2,
+        "Total": 281,
+        "%": 0.71
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "P",
+        "#": 2,
+        "Total": 281,
+        "%": 0.71
+    },
+    {
+        "Host": "",
+        "Country": "Bangladesh",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 2,
+        "Total": 281,
+        "%": 0.71
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Malaysia",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Malaysia",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Malaysia",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Malaysia",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Malaysia",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Malaysia",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Dog",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Dog",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Dog",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Dog",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "M",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Dog",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "N",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Dog",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "M",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "India",
+        "IsolateYear": 2007,
+        "IsolateYr": "2001-2010",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "M",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "N",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Malaysia",
+        "IsolateYear": 1999,
+        "IsolateYr": "1991-2000",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "F",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "M",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    },
+    {
+        "Host": "Pig",
+        "Country": "Malaysia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "P",
+        "#": 1,
+        "Total": 281,
+        "%": 0.36
+    }
+]

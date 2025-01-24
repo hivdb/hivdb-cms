@@ -1,0 +1,1272 @@
+[
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 510,
+        "Total": 2419,
+        "%": 21.08
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 475,
+        "Total": 2419,
+        "%": 19.64
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 407,
+        "Total": 2419,
+        "%": 16.83
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 381,
+        "Total": 2419,
+        "%": 15.75
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 162,
+        "Total": 2419,
+        "%": 6.7
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 155,
+        "Total": 2419,
+        "%": 6.41
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Nigeria",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 117,
+        "Total": 2419,
+        "%": 4.84
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Nigeria",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 115,
+        "Total": 2419,
+        "%": 4.75
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 112,
+        "Total": 2419,
+        "%": 4.63
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 74,
+        "Total": 2419,
+        "%": 3.06
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 68,
+        "Total": 2419,
+        "%": 2.81
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 64,
+        "Total": 2419,
+        "%": 2.65
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 64,
+        "Total": 2419,
+        "%": 2.65
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 62,
+        "Total": 2419,
+        "%": 2.56
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 58,
+        "Total": 2419,
+        "%": 2.4
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "Z",
+        "#": 53,
+        "Total": 2419,
+        "%": 2.19
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 48,
+        "Total": 2419,
+        "%": 1.98
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 48,
+        "Total": 2419,
+        "%": 1.98
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 42,
+        "Total": 2419,
+        "%": 1.74
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 39,
+        "Total": 2419,
+        "%": 1.61
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 39,
+        "Total": 2419,
+        "%": 1.61
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 37,
+        "Total": 2419,
+        "%": 1.53
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 36,
+        "Total": 2419,
+        "%": 1.49
+    },
+    {
+        "Host": "",
+        "Country": "Guinea",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 33,
+        "Total": 2419,
+        "%": 1.36
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 32,
+        "Total": 2419,
+        "%": 1.32
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 28,
+        "Total": 2419,
+        "%": 1.16
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 25,
+        "Total": 2419,
+        "%": 1.03
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 19,
+        "Total": 2419,
+        "%": 0.79
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 19,
+        "Total": 2419,
+        "%": 0.79
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Nigeria",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 19,
+        "Total": 2419,
+        "%": 0.79
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 18,
+        "Total": 2419,
+        "%": 0.74
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 18,
+        "Total": 2419,
+        "%": 0.74
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 16,
+        "Total": 2419,
+        "%": 0.66
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 16,
+        "Total": 2419,
+        "%": 0.66
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Benin",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 15,
+        "Total": 2419,
+        "%": 0.62
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 15,
+        "Total": 2419,
+        "%": 0.62
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 14,
+        "Total": 2419,
+        "%": 0.58
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 13,
+        "Total": 2419,
+        "%": 0.54
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 13,
+        "Total": 2419,
+        "%": 0.54
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 13,
+        "Total": 2419,
+        "%": 0.54
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Benin",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 12,
+        "Total": 2419,
+        "%": 0.5
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "Z",
+        "#": 12,
+        "Total": 2419,
+        "%": 0.5
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Benin",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 10,
+        "Total": 2419,
+        "%": 0.41
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Benin",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 10,
+        "Total": 2419,
+        "%": 0.41
+    },
+    {
+        "Host": "",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "Z",
+        "#": 8,
+        "Total": 2419,
+        "%": 0.33
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 7,
+        "Total": 2419,
+        "%": 0.29
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 7,
+        "Total": 2419,
+        "%": 0.29
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 6,
+        "Total": 2419,
+        "%": 0.25
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 6,
+        "Total": 2419,
+        "%": 0.25
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "G",
+        "#": 6,
+        "Total": 2419,
+        "%": 0.25
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 6,
+        "Total": 2419,
+        "%": 0.25
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "N",
+        "#": 6,
+        "Total": 2419,
+        "%": 0.25
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "Z",
+        "#": 6,
+        "Total": 2419,
+        "%": 0.25
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2014,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 6,
+        "Total": 2419,
+        "%": 0.25
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 1976,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 5,
+        "Total": 2419,
+        "%": 0.21
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 1976,
+        "IsolateYr": "<1990",
+        "Gene": "Z",
+        "#": 5,
+        "Total": 2419,
+        "%": 0.21
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "G",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "N",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "Z",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 1976,
+        "IsolateYr": "<1990",
+        "Gene": "G",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Sierra Leone",
+        "IsolateYear": 1976,
+        "IsolateYr": "<1990",
+        "Gene": "N",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Cote d'Ivoire",
+        "IsolateYear": 2013,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Nigeria",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "G",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Nigeria",
+        "IsolateYear": 2008,
+        "IsolateYr": "2001-2010",
+        "Gene": "L",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Nigeria",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 4,
+        "Total": 2419,
+        "%": 0.17
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Togo",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Togo",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Togo",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Togo",
+        "IsolateYear": 2016,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Benin",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Benin",
+        "IsolateYear": 2017,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "Z",
+        "#": 3,
+        "Total": 2419,
+        "%": 0.12
+    },
+    {
+        "Host": "",
+        "Country": "Liberia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "G",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "N",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1981,
+        "IsolateYr": "<1990",
+        "Gene": "Z",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": 2010,
+        "IsolateYr": "2001-2010",
+        "Gene": "Z",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Not available",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2012,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 2,
+        "Total": 2419,
+        "%": 0.08
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "",
+        "Country": "Nigeria",
+        "IsolateYear": 1969,
+        "IsolateYr": "<1990",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "",
+        "Country": "Sierra Leone",
+        "IsolateYear": 1979,
+        "IsolateYr": "<1990",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "",
+        "Country": "Sierra Leone",
+        "IsolateYear": 1979,
+        "IsolateYr": "<1990",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Cote d'Ivoire",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Cote d'Ivoire",
+        "IsolateYear": 2015,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1996,
+        "IsolateYr": "1991-2000",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1996,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1996,
+        "IsolateYr": "1991-2000",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 1996,
+        "IsolateYr": "1991-2000",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Guinea",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Liberia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Homo sapiens",
+        "Country": "Nigeria",
+        "IsolateYear": 2000,
+        "IsolateYr": "1991-2000",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Not available",
+        "Country": "",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Other",
+        "Country": "Not available",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Other",
+        "Country": "Not available",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Other",
+        "Country": "Not available",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Other",
+        "Country": "Not available",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Ghana",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Ghana",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Ghana",
+        "IsolateYear": 2011,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Guinea",
+        "IsolateYear": 2003,
+        "IsolateYr": "2001-2010",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Liberia",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "N",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Mali",
+        "IsolateYear": 2009,
+        "IsolateYr": "2001-2010",
+        "Gene": "Z",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    },
+    {
+        "Host": "Rodent",
+        "Country": "Sierra Leone",
+        "IsolateYear": "",
+        "IsolateYr": "",
+        "Gene": "G",
+        "#": 1,
+        "Total": 2419,
+        "%": 0.04
+    }
+]
