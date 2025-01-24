@@ -10,6 +10,7 @@
 ## CCHFV
 
 - [Download CCHFV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/CCHF.db)
+- [Database summary](/page/pgl-CCHF)
 
 ### Related literatures
 
