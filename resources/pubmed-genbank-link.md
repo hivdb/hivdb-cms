@@ -25,11 +25,9 @@ This document outlines the methodology and results of creating and analyzing dat
   - Specimens: 2,195
   - Country: 182
   - Isolate Year: 96
-<br>
 
 - **Number of Publication from PubMed search**: 2114
 - **Number of Publication included after Full Text Review**: 196
-<br>
 
 - **Number of Matched Submission Sets**: 198
 - **Number of Matched Publications**: 169
