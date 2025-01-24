@@ -2,18 +2,18 @@
 
 This document outlines the methodology and results of creating and analyzing databases for three viruses: Crimean-Congo Hemorrhagic Fever Virus (CCHFV), Nipah Virus (NiV), and Lassa Virus (LASV). The database integrates GenBank sequence data and related publications to provide a comprehensive resource for researchers.
 
-## How to use
+## How to create a Database
 
 1. **Download GenBank file**: Retrieve all sequences for a specific virus from GenBank.
-2. **Search PubMed**: Find all related literature for the virus, download PDFs, and extract relevant information from the documents.
-3. **Generate the database**: Use the [tool](https://github.com/hivdb/GenBankRefs) to create the database using the files from steps 1 and 2.
+2. **Search PubMed**: Find all related literature for the virus, download PDFs, and extract relevant information (accession numbers, isolate country, isolate year, host and specimen) from the documents either manually or using AI.
+3. **Generate the database**: Use this [tool](https://github.com/hivdb/GenBankRefs) to create the database using the files from steps 1 and 2.
 4. **View the database**: Open and explore the database with [SQLite Viewer](https://inloop.github.io/sqlite-viewer).
 
 
 ## CCHFV
 
 - [Download CCHFV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/CCHF.db)
-- [Database summary](/page/pgl-CCHF)
+- [Database Summary and Tables](/page/pgl-CCHF)
 
 ### Database Statistics
 
@@ -50,7 +50,7 @@ This document outlines the methodology and results of creating and analyzing dat
 ## Nipah
 
 - [Download Nipah Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Nipah.db)
-- [Database summary](/page/pgl-Nipah)
+- [Database Summary and Tables](/page/pgl-Nipah)
 
 ### Database Statistics
 
@@ -87,7 +87,7 @@ This document outlines the methodology and results of creating and analyzing dat
 ## LASV
 
 - [Download LASV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Lassa.db)
-- [Database summary](/page/pgl-Lassa)
+- [Database Summary and Tables](/page/pgl-Lassa)
 
 ### Database Statistics
 
