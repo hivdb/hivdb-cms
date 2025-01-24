@@ -1,0 +1,24 @@
+---
+pageTitle: Nipah database summary
+introHeader: |-
+  # Nipah database summary
+content:
+  _resource: pubmed-genbank-Nipah.md
+toc: false
+tables:
+  submissionsets:
+    columnDefs:
+    - name: PMID
+      label: PMID
+    - name: Authors
+      label: Authors
+    - name: Title
+      label: Title
+    - name: Journal
+      label: Journal
+    - name: Year
+      label: Year
+    data:
+      _resource: pgl/Nipah/tblGBRefs.json
+...
+

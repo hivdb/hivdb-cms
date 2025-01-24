@@ -1,16 +1,46 @@
 ## Introduction
 
+This document outlines the methodology and results of creating and analyzing databases for three viruses: Crimean-Congo Hemorrhagic Fever Virus (CCHFV), Nipah Virus (NiV), and Lassa Virus (LASV). The database integrates GenBank sequence data and related publications to provide a comprehensive resource for researchers.
+
 ## How to use
 
-1. download genbank file for all sequences from a specific virus
-2. search PubMed for all related literature for the virus, then fetch the PDF document for all literatures and extracted related information from PDFs
-3. using the two files prepared in step 1 and step 2, with the provided [tool](https://github.com/hivdb/GenBankRefs) for generating the database.
-4. You can view the database using [SQLite Viewer](https://inloop.github.io/sqlite-viewer)
+1. **Download GenBank file**: Retrieve all sequences for a specific virus from GenBank.
+2. **Search PubMed**: Find all related literature for the virus, download PDFs, and extract relevant information from the documents.
+3. **Generate the database**: Use the [tool](https://github.com/hivdb/GenBankRefs) to create the database using the files from steps 1 and 2.
+4. **View the database**: Open and explore the database with [SQLite Viewer](https://inloop.github.io/sqlite-viewer).
+
 
 ## CCHFV
 
 - [Download CCHFV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/CCHF.db)
 - [Database summary](/page/pgl-CCHF)
+
+### Database Statistics
+
+- **Number of GenBank Accessions**: 4,848
+- **Number of GenBank Submission Sets**: 310
+- **Non-Clinical Isolation Accessions**: 21
+- **GenBank MetaData Gaps**:
+  - Hosts: 280
+  - Specimens: 2,195
+  - Country: 182
+  - Isolate Year: 96
+<br>
+
+- **Number of Publication from PubMed search**: 2114
+- **Number of Publication included after Full Text Review**: 196
+<br>
+
+- **Number of Matched Submission Sets**: 198
+- **Number of Matched Publications**: 169
+- **Number of Submission Sets without Matched Publication**: 112
+- **Number of Submission Sets supplemented by Publication Data**:
+    - Host: 23 (Numseq 205)
+    - Speciemens: 52 (Numseq 925)
+    - Country: 9 (Numseq 52)
+    - Isolate Year: 40 (Numseq 271)
+
+
 
 ### Related literatures
 
@@ -22,7 +52,32 @@
 ## Nipah
 
 - [Download Nipah Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Nipah.db)
+- [Database summary](/page/pgl-Nipah)
 
+### Database Statistics
+
+- **Number of GenBank Accessions**: 407
+- **Number of GenBank Submission Sets**: 61
+- **Non-Clinical Isolation Accessions**: 40
+- **GenBank MetaData Gaps**:
+  - Hosts: 193
+  - Specimens: 1,049
+  - Country: 182
+  - Isolate Year: 221
+<br>
+
+- **Number of Publication from PubMed search**: 1515
+- **Number of Publication included after Full Text Review**: 33
+<br>
+
+- **Number of Matched Submission Sets**: 30
+- **Number of Matched Publications**: 30
+- **Number of Submission Sets without Matched Publication**: 31
+- **Number of Submission Sets supplemented by Publication Data**:
+    - Host: 9 (Numseq 12)
+    - Speciemens: 19 (Numseq 81)
+    - Country: 5 (Numseq 4)
+    - Isolate Year: 11 (Numseq 32)
 
 ### Related literatures
 
@@ -36,8 +91,32 @@
 ## LASV
 
 - [Download LASV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Lassa.db)
+- [Database summary](/page/pgl-Lassa)
 
+### Database Statistics
 
+- **Number of GenBank Accessions**: 2,780
+- **Number of GenBank Submission Sets**: 103
+- **Non-Clinical Isolation Accessions**: 47
+- **GenBank MetaData Gaps**:
+  - Hosts: 57
+  - Specimens: 135
+  - Country: 47
+  - Isolate Year: 77
+<br>
+
+- **Number of Publication from PubMed search**: 1680
+- **Number of Publication included after Full Text Review**: 66
+<br>
+
+- **Number of Matched Submission Sets**: 64
+- **Number of Matched Publications**: 61
+- **Number of Submission Sets without Matched Publication**: 39
+- **Number of Submission Sets supplemented by Publication Data**:
+    - Host: 16 (Numseq 126)
+    - Speciemens: 18 (Numseq 833)
+    - Country: 15 (Numseq 87)
+    - Isolate Year: 15 (Numseq 132)
 
 ### Related literatures
 

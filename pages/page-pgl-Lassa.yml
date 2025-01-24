@@ -1,0 +1,24 @@
+---
+pageTitle: Lassa database summary
+introHeader: |-
+  # Lassa database summary
+content:
+  _resource: pubmed-genbank-Lassa.md
+toc: false
+tables:
+  submissionsets:
+    columnDefs:
+    - name: PMID
+      label: PMID
+    - name: Authors
+      label: Authors
+    - name: Title
+      label: Title
+    - name: Journal
+      label: Journal
+    - name: Year
+      label: Year
+    data:
+      _resource: pgl/Lassa/tblGBRefs.json
+...
+
