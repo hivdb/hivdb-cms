@@ -20,18 +20,19 @@ This document outlines the methodology and results of creating and analyzing dat
 - **Number of GenBank Accessions**: 4,848
 - **Number of GenBank Submission Sets**: 310
 - **Non-Clinical Isolation Accessions**: 21
-- **GenBank MetaData Gaps**:
+- **GenBank MetaData Gaps (Sequences)**:
   - Hosts: 280
   - Specimens: 2,195
   - Country: 182
   - Isolate Year: 96
 
-- **Number of Publication from PubMed search**: 2114
-- **Number of Publication included after Full Text Review**: 196
+- **Number of Publications included after Full Text Review**: 196
 
 - **Number of Matched Submission Sets**: 198
 - **Number of Matched Publications**: 169
 - **Number of Submission Sets without Matched Publication**: 112
+
+- **Number of Matched Submission Sets via our Algorithm (not by PMID)**: 67
 - **Number of Submission Sets supplemented by Publication Data**:
     - Host: 23 (Numseq 205)
     - Speciemens: 52 (Numseq 925)
@@ -40,7 +41,7 @@ This document outlines the methodology and results of creating and analyzing dat
 
 
 
-### Related literatures
+### Related literatures - Phylogenetic studies
 
 - Bente, D.A.; Forrester, N.L.; Watts, D.M.; McAuley, A.J.; Whitehouse, C.A.; Bray, M. Crimean-Congo Hemorrhagic Fever: History, Epidemiology, Pathogenesis, Clinical Syndrome and Genetic Diversity. Antiviral Research 2013, 100, 159–189, doi:10.1016/j.antiviral.2013.07.006.
 - Carroll, S.A.; Bird, B.H.; Rollin, P.E.; Nichol, S.T. Ancient Common Ancestry of Crimean-Congo Hemorrhagic Fever Virus. Molecular Phylogenetics and Evolution 2010, 55, 1103–1110, doi:10.1016/j.ympev.2010.01.006.
@@ -57,25 +58,26 @@ This document outlines the methodology and results of creating and analyzing dat
 - **Number of GenBank Accessions**: 407
 - **Number of GenBank Submission Sets**: 61
 - **Non-Clinical Isolation Accessions**: 40
-- **GenBank MetaData Gaps**:
-  - Hosts: 193
-  - Specimens: 1,049
-  - Country: 182
-  - Isolate Year: 221
+- **GenBank MetaData Gaps (Sequences)**:
+  - Hosts: 57
+  - Specimens: 135
+  - Country: 47
+  - Isolate Year: 77
 
-- **Number of Publication from PubMed search**: 1515
-- **Number of Publication included after Full Text Review**: 33
+- **Number of Publications included after Full Text Review**: 33
 
 - **Number of Matched Submission Sets**: 30
 - **Number of Matched Publications**: 30
 - **Number of Submission Sets without Matched Publication**: 31
+
+- **Number of Matched Submission Sets via our Algorithm (not by PMID)**: 8
 - **Number of Submission Sets supplemented by Publication Data**:
     - Host: 9 (Numseq 12)
-    - Speciemens: 19 (Numseq 81)
+    - Specimens: 19 (Numseq 81)
     - Country: 5 (Numseq 4)
     - Isolate Year: 11 (Numseq 32)
 
-### Related literatures
+### Related literatures - Phylogenetic studies
 
 
 -  de Campos, G.M.; Cella, E.; Kashima, S.; Alcântara, L.C.J.; Sampaio, S.C.; Elias, M.C.; Giovanetti, M.; Slavov, S.N. Updated Insights into the Phylogenetics, Phylodynamics, and Genetic Diversity of Nipah Virus (NiV). Viruses 2024, 16, 171, doi:10.3390/v16020171.
@@ -94,25 +96,26 @@ This document outlines the methodology and results of creating and analyzing dat
 - **Number of GenBank Accessions**: 2,780
 - **Number of GenBank Submission Sets**: 103
 - **Non-Clinical Isolation Accessions**: 47
-- **GenBank MetaData Gaps**:
-  - Hosts: 57
-  - Specimens: 135
-  - Country: 47
-  - Isolate Year: 77
+- **GenBank MetaData Gaps (Sequences)**:
+  - Hosts: 193
+  - Specimens: 1,049
+  - Country: 182
+  - Isolate Year: 221
 
-- **Number of Publication from PubMed search**: 1680
-- **Number of Publication included after Full Text Review**: 66
+- **Number of Publications included after Full Text Review**: 66
 
 - **Number of Matched Submission Sets**: 64
 - **Number of Matched Publications**: 61
 - **Number of Submission Sets without Matched Publication**: 39
+
+- **Number of Matched Submission Sets via our Algorithm (not by PMID)**: 19
 - **Number of Submission Sets supplemented by Publication Data**:
     - Host: 16 (Numseq 126)
     - Speciemens: 18 (Numseq 833)
     - Country: 15 (Numseq 87)
     - Isolate Year: 15 (Numseq 132)
 
-### Related literatures
+### Related literatures - Phylogenetic studies
 
 -  Andersen, K.G.; Shapiro, B.J.; Matranga, C.B.; Sealfon, R.; Lin, A.E.; Moses, L.M.; Folarin, O.A.; Goba, A.; Odia, I.; Ehiane, P.E.; et al. Clinical Sequencing Uncovers Origins and Evolution of Lassa Virus. Cell 2015, 162, 738–750, doi:10.1016/j.cell.2015.07.020.
 -  He, C.-Q.; Kong, C.; He, M.; Chen, G.-X.; Liu, S.-M.; Ding, N.-Z. Intrasegmental Recombination as an Evolutionary Force of Lassa Fever Virus. Front. Microbiol. 2024, 15, doi:10.3389/fmicb.2024.1411537.
