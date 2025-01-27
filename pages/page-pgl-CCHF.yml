@@ -8,46 +8,12 @@ toc: false
 tables:
   submissionsets:
     columnDefs:
-    - name: PMID
-      label: PMID
-    - name: Authors
-      label: Authors
-    - name: Title
-      label: Title
-    - name: Journal
-      label: Journal
-    - name: Year
-      label: Year
+    - name: SubmissionSet
+      label: SubmissionSet
+    - name: Publication
+      label: Publication
     data:
-      _resource: pgl/CCHF/tblGBRefs.json
-  isolate_missing_data:
-    columnDefs:
-    - name: Accession
-      label: Accession
-    - name: Country
-      label: Country
-    - name: IsolateYear
-      label: IsolateYear
-    - name: Host
-      label: Host
-    - name: Specimen
-      label: Specimen
-    data:
-      _resource: pgl/CCHF/vIsolateMissingData.json
-  submission_no_match:
-    columnDefs:
-    - name: PMID
-      label: PMID
-    - name: Authors
-      label: Authors
-    - name: Title
-      label: Title
-    - name: Journal
-      label: Journal
-    - name: Year
-      label: Year
-    data:
-      _resource: pgl/CCHF/vSubMissionNotMatch.json
+      _resource: pgl/CCHF/vGPMatched.json
   metadata_summary:
     columnDefs:
     - name: Host
@@ -60,23 +26,21 @@ tables:
       label: Gene
     - name: "#"
       label: NumSeq
-    - name: '%'
-      label: PcntSeq
+    - name: Publications
+      label: Publications
     data:
       _resource: pgl/CCHF/vIsolateMetadataSummary.json
-  publications:
+  isolate_missing_data:
     columnDefs:
-    - name: PMID
-      label: PMID
-    - name: Authors
-      label: Authors
-    - name: Title
-      label: Title
-    - name: Journal
-      label: Journal
-    - name: Year
-      label: Year
+    - name: Accession
+      label: Accession
+    - name: Country
+      label: Country
+    - name: IsolateYear
+      label: IsolateYear
+    - name: Host
+      label: Host
     data:
-      _resource: pgl/CCHF/tblPublications.json
+      _resource: pgl/CCHF/vIsolateMissingData.json
 ...
 
