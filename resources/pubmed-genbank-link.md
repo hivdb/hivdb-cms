@@ -17,28 +17,17 @@ This document outlines the methodology and results of creating and analyzing dat
 
 ### Database Statistics
 
-- **Number of GenBank Accessions**: 4,848
 - **Number of GenBank Submission Sets**: 310
-- **Non-Clinical Isolation Accessions**: 21
-- **GenBank MetaData Gaps (Sequences)**:
-  - Hosts: 280
-  - Specimens: 2,195
-  - Country: 182
-  - Isolate Year: 96
-
-- **Number of Publications included after Full Text Review**: 196
+- **Number of Clinical GenBank Submission Sets**: 303
+- **Number of Publications**: 196
 
 - **Number of Matched Submission Sets**: 198
 - **Number of Matched Publications**: 169
-- **Number of Submission Sets without Matched Publication**: 112
 
-- **Number of Matched Submission Sets via our Algorithm (not by PMID)**: 67
-- **Number of Submission Sets supplemented by Publication Data**:
-    - Host: 23 (Numseq 205)
-    - Speciemens: 52 (Numseq 925)
-    - Country: 9 (Numseq 52)
-    - Isolate Year: 40 (Numseq 271)
+- **Number of Clinical GenBank Submission Sets without Matched Publication**: 105
+- **Number of Publications without Matched GenBank Submission**: 27
 
+- **Number of Submission Sets & Publications Matched via our Algorithm (not by PMID)**: 67
 
 
 ### Related literatures - Phylogenetic studies
@@ -55,27 +44,18 @@ This document outlines the methodology and results of creating and analyzing dat
 
 ### Database Statistics
 
-- **Number of GenBank Accessions**: 407
 - **Number of GenBank Submission Sets**: 61
-- **Non-Clinical Isolation Accessions**: 40
-- **GenBank MetaData Gaps (Sequences)**:
-  - Hosts: 57
-  - Specimens: 135
-  - Country: 47
-  - Isolate Year: 77
-
-- **Number of Publications included after Full Text Review**: 33
+- **Number of Clinical GenBank Submission Sets**: 48
+- **Number of Publications**: 33
 
 - **Number of Matched Submission Sets**: 30
 - **Number of Matched Publications**: 30
-- **Number of Submission Sets without Matched Publication**: 31
 
-- **Number of Matched Submission Sets via our Algorithm (not by PMID)**: 8
-- **Number of Submission Sets supplemented by Publication Data**:
-    - Host: 9 (Numseq 12)
-    - Specimens: 19 (Numseq 81)
-    - Country: 5 (Numseq 4)
-    - Isolate Year: 11 (Numseq 32)
+- **Number of Clinical GenBank Submission Sets without Matched Publication**: 31
+- **Number of Publications without Matched GenBank Submission**: 3
+
+- **Number of Submission Sets & Publications Matched via our Algorithm (not by PMID)**: 8
+
 
 ### Related literatures - Phylogenetic studies
 
@@ -93,27 +73,18 @@ This document outlines the methodology and results of creating and analyzing dat
 
 ### Database Statistics
 
-- **Number of GenBank Accessions**: 2,780
 - **Number of GenBank Submission Sets**: 103
-- **Non-Clinical Isolation Accessions**: 47
-- **GenBank MetaData Gaps (Sequences)**:
-  - Hosts: 193
-  - Specimens: 1,049
-  - Country: 182
-  - Isolate Year: 221
-
-- **Number of Publications included after Full Text Review**: 66
+- **Number of Clinical GenBank Submission Sets**: 89
+- **Number of Publications**: 66
 
 - **Number of Matched Submission Sets**: 64
 - **Number of Matched Publications**: 61
-- **Number of Submission Sets without Matched Publication**: 39
 
-- **Number of Matched Submission Sets via our Algorithm (not by PMID)**: 19
-- **Number of Submission Sets supplemented by Publication Data**:
-    - Host: 16 (Numseq 126)
-    - Speciemens: 18 (Numseq 833)
-    - Country: 15 (Numseq 87)
-    - Isolate Year: 15 (Numseq 132)
+- **Number of Clinical GenBank Submission Sets without Matched Publication**: 39
+- **Number of Publications without Matched GenBank Submission**: 5
+
+- **Number of Submission Sets & Publications Matched via our Algorithm (not by PMID)**: 19
+
 
 ### Related literatures - Phylogenetic studies
 
