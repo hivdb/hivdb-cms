@@ -1,478 +1,303 @@
 [
     {
-        "RefID": 1,
-        "SubmissionSet": "Title: Viral nucleic acid microarray and method of use, Authors: Baptista C., Wu X., Munroe D., Journal: Patent, Year: 2007",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Baptista (2007)"
-    },
-    {
-        "RefID": 2,
-        "SubmissionSet": "Title: SOLUBLE FORMS OF HENDRA AND NIPAH VIRUS F GLYCOPROTEIN AND USES THEREOF, Authors: Chan Y., Broder C., Journal: Patent, Year: 2017",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Chan (2017)"
-    },
-    {
-        "RefID": 3,
-        "SubmissionSet": "Title: Soluble forms of hendra and nipah virus f glycoprotein and uses thereof, Authors: Chan Y., Broder C., Journal: Patent, Year: 2010",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Chan (2010)"
-    },
-    {
-        "RefID": 4,
-        "SubmissionSet": "Title: RNAI THERAPEUTIC FOR RESPIRATORY VIRUS INFECTION, Authors: Ga C., Kumar M., Mcswiggen J., Journal: Patent, Year: 2008",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Ga (2008)"
-    },
-    {
-        "RefID": 5,
-        "SubmissionSet": "Title: Rnai therapeutic for respiratory virus infection, Authors: Ge Q., Kumar M., Mcswiggen J., Journal: Patent, Year: 2006",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Ge (2006)"
-    },
-    {
-        "RefID": 6,
-        "SubmissionSet": "Title: A method for detecting nipah virus and method for providing immunoprotection against henipaviruses, Authors: Georges courbot M., Wild F., Deubel V., Buckland R., Contamin H., Kum T., Loth P., Journal: Patent, Year: 2005",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Georges courbot (2005)"
-    },
-    {
-        "RefID": 7,
-        "SubmissionSet": "Title: Direct Submission, Authors: Honko A., Hensley L., Wohl S., Barnes K., Sabeti P., Olinger G., Jahrling P., Sword J., Journal:  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA, Year: 2017",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Honko (2017)"
-    },
-    {
-        "RefID": 8,
-        "SubmissionSet": "Title: Direct Submission, Authors: Johnson J., Sword J., Wohl S., Barnes K., Sabeti P., Hensley L., Olinger G., Jahrling P., Honko A., Journal:  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA, Year: 2017",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Johnson (2017)"
-    },
-    {
-        "RefID": 9,
-        "SubmissionSet": "Title: Pseudotyping of foamy viruses, Authors: Lindemann D., Ho Y., Schnabel V., Journal: Patent, Year: 2013",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Lindemann (2013)"
-    },
-    {
         "RefID": 10,
-        "SubmissionSet": "PMID: 19141449, Title: Determination of the henipavirus phosphoprotein gene mRNA editing frequencies and detection of the C, V and W proteins of Nipah virus in virus-infected cells, Authors: Lo M., Harcourt B., Mungall B., Tamin A., Peeples M., Bellini W., Rota P., Journal: J. Gen. Virol. 90 (PT 2), 398-404 (2009), Year: 2009",
+        "SubmissionSet": "Lo (2009, 19141449). Determination of the henipavirus phosphoprotein gene mRNA editing frequencies and detection of the C, V and W proteins of Nipah virus in virus-infected cells. J. Gen. Virol. 90 (PT 2), 398-404 (2009)",
         "PubID": 34,
-        "Publication": "PMID: 19141449, Title: Determination of the henipavirus phosphoprotein gene mRNA editing frequencies and detection of the C, V and W proteins of Nipah virus in virus-infected cells., Authors: Lo MK; Harcourt BH; Mungall BA; Tamin A; Peeples ME; Bellini WJ; Rota PA, Journal: J Gen Virol, Year: 2009",
+        "Publication": "Lo (2009, 19141449). Determination of the henipavirus phosphoprotein gene mRNA editing frequencies and detection of the C, V and W proteins of Nipah virus in virus-infected cells.. J Gen Virol",
         "ShortName": "Lo (2009, 19141449)"
     },
     {
-        "RefID": 11,
-        "SubmissionSet": "Title: Modified Microbial Nucleic Acid, Authors: Millar D., Meruki J., Journal: Patent, Year: 2009",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Millar (2009)"
-    },
-    {
-        "RefID": 12,
-        "SubmissionSet": "Title: An anti-paramyxovirus agent, Authors: Miyajima N., Takeuchi K., Onishi Y., Kato A., Journal: Patent, Year: 2003",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Miyajima (2003)"
-    },
-    {
-        "RefID": 13,
-        "SubmissionSet": "Title: Direct Submission, Authors: NCBI, Journal:  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA, Year: 2004",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "NCBI (2004)"
-    },
-    {
-        "RefID": 14,
-        "SubmissionSet": "Title: Direct Submission, Authors: NCBI, Journal:  One Health Institute & Karen C Drayer Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, 1089 Veterinary Medicine Drive, Davis, CA 95616, USA, Year: 2020",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "NCBI (2020)"
-    },
-    {
-        "RefID": 15,
-        "SubmissionSet": "Title: Direct Submission, Authors: Peng L., Hirsch S., Kocher G., Mehta M., Holbrook M., Journal:  IRF, NIH/NIAID, 8200 Research Plaza, Frederick, MD 21702, USA, Year: 2024",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Peng (2024)"
-    },
-    {
-        "RefID": 16,
-        "SubmissionSet": "Title: A METHOD OF DETECTING NIPAH VIRUS AND METHOD FOR PROVIDING IMMUNOPROTECTION AGAINST HENIPAVIRUSES, Authors: Ross P., Kurubo M., Wilde F., Deubel V., Bakkurando R., Contamin H., Kamu S., Journal: Patent, Year: 2007",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Ross (2007)"
-    },
-    {
-        "RefID": 17,
-        "SubmissionSet": "Title: RNA CONSTRUCT, Authors: Shattock R., Mckay P., Watson M., Harper E., Journal: Patent, Year: 2023",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Shattock (2023)"
-    },
-    {
-        "RefID": 18,
-        "SubmissionSet": "Title: PARAMYXOVIRUS AND METHODS OF USE, Authors: Wang L., Marsh G., Field H., Broder C., Journal: Patent, Year: 2015",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Wang (2015)"
-    },
-    {
-        "RefID": 19,
-        "SubmissionSet": "Title: Direct Submission, Authors: Yadav P., Journal:  Maximum Containment Laboratory, National Institue of Virology, Pashan, Pune, Maharashtra 411021, India, Year: 2019",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Yadav (2019)"
-    },
-    {
-        "RefID": 20,
-        "SubmissionSet": "Title: Direct Submission, Authors: Yadav P., Journal:  Maximum Containment Laboratory, National Institue of Virology, Pashan, Pune, Maharashtra 411021, India, Year: 2023",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Yadav (2023)"
-    },
-    {
-        "RefID": 21,
-        "SubmissionSet": "Title: Direct Submission, Authors: Yadav P., Journal:  Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune, Maharashtra 411021, India, Year: 2019",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Yadav (2019)"
-    },
-    {
-        "RefID": 22,
-        "SubmissionSet": "Title: Direct Submission, Authors: Yadav P., Journal:  Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune, Maharashtra 411021, India, Year: 2023",
-        "PubID": 2,
-        "Publication": "PMID: 38529536, Title: Clinico-epidemiological presentations and management of Nipah virus infection during the outbreak in Kozhikode district, Kerala state, India 2023., Authors: As AK; Sahay RR; Radhakrishnan C; P S; Kandath S; Patil DY; Shete AM; M S; Ramakrishnan G; Moorkoth AP; Gupta N; Yadav PD; Godbole S; Ramakrishnan LV; Vadekkandiyil S; Ekkalayil D; V N; Balakrishnan A; Pullor NK; Asokan N; Joseph RK; Nair PR; Purayil SM; Mathew T; Kizhakkekandiyil R; Poovullathil JK; Ps KS; Pt U; George K; Rahim A; Kumar S; S S; Mohandas S; Rajan LS; Ramachandran SP; Thampi SP; Ashadevi; Anish TS; Chandran P; Mohan A; Vadakkayil B; Koroth SC; Hafeez N; Sasi RR; Abraham M, Journal: J Med Virol, Year: 2024",
-        "ShortName": "As (2024, 38529536)"
-    },
-    {
-        "RefID": 22,
-        "SubmissionSet": "Title: Direct Submission, Authors: Yadav P., Journal:  Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune, Maharashtra 411021, India, Year: 2023",
-        "PubID": 3,
-        "Publication": "PMID: 38511004, Title: Surveillance of Nipah virus in Pteropus medius of Kerala state, India, 2023., Authors: Balasubramanian R; Mohandas S; Thankappan UP; Shete A; Patil D; Sabarinath K; Mathapati B; Sahay R; Yadav PD, Journal: Front Microbiol, Year: 2024",
-        "ShortName": "Balasubramanian (2024, 38511004)"
-    },
-    {
         "RefID": 23,
-        "SubmissionSet": "PMID: 15663869, Title: Isolation and molecular identification of Nipah virus from pigs, Authors: Abubakar S., Ali A., Chang L., Sharifah S., Yusoff K., Zamrod Z., Journal: 2228-2230 (2004), 50603 Kuala Lumpur, Abubakar S., Emerging Infect. Dis. 10 (12), Faculty Of Medicine, MALAYSIA, Medical Microbiology, University Malaya, Year: 2003, 2004",
+        "SubmissionSet": "Abubakar (2004, 15663869). Isolation and molecular identification of Nipah virus from pigs. 2228-2230 (2004), 50603 Kuala Lumpur, Abubakar S., Emerging Infect. Dis. 10 (12), Faculty Of Medicine, MALAYSIA, Medical Microbiology, University Malaya",
         "PubID": 26,
-        "Publication": "PMID: 15663869, Title: Isolation and molecular identification of Nipah virus from pigs., Authors: AbuBakar S; Chang LY; Ali AR; Sharifah SH; Yusoff K; Zamrod Z, Journal: Emerg Infect Dis, Year: 2004",
+        "Publication": "AbuBakar (2004, 15663869). Isolation and molecular identification of Nipah virus from pigs.. Emerg Infect Dis",
         "ShortName": "AbuBakar (2004, 15663869)"
     },
     {
         "RefID": 24,
-        "SubmissionSet": "Title: Identification of a new Nipah virus strain from pigs, Authors: Abubakar S., Li-yen C., Mohd ali A., Sharifah S., Journal: 50603 Kuala Lumpur, Abubakar S., Faculty of Medicine, MALAYSIA, Medical Microbiology, University Malaya, Unpublished, Year: 2004",
+        "SubmissionSet": "Abubakar (2004). Identification of a new Nipah virus strain from pigs. 50603 Kuala Lumpur, Abubakar S., Faculty of Medicine, MALAYSIA, Medical Microbiology, University Malaya, Unpublished",
         "PubID": 26,
-        "Publication": "PMID: 15663869, Title: Isolation and molecular identification of Nipah virus from pigs., Authors: AbuBakar S; Chang LY; Ali AR; Sharifah SH; Yusoff K; Zamrod Z, Journal: Emerg Infect Dis, Year: 2004",
+        "Publication": "AbuBakar (2004, 15663869). Isolation and molecular identification of Nipah virus from pigs.. Emerg Infect Dis",
         "ShortName": "AbuBakar (2004, 15663869)"
     },
     {
         "RefID": 25,
-        "SubmissionSet": "PMID: 30561301, Title: Bangladesh, Isolation and Full-Genome Characterization of Nipah Viruses from Bats, Authors: Anderson D., Crameri G., Daszak P., Epstein J., Foord A., Gurley E., Islam A., Khan S., Luby S., Mendenhall I., Rahman M., Todd S., Wang L., Journal: 166-170 (2019), 8 College Rd, Duke-NUS, Emerging Infect. Dis. 25 (1), Program of Emerging Infectious Diseases, Singapore, Singapore 169857, Year: 2019",
+        "SubmissionSet": "Anderson (2019, 30561301). Bangladesh, Isolation and Full-Genome Characterization of Nipah Viruses from Bats. 166-170 (2019), 8 College Rd, Duke-NUS, Emerging Infect. Dis. 25 (1), Program of Emerging Infectious Diseases, Singapore, Singapore 169857",
         "PubID": 11,
-        "Publication": "PMID: 30561301, Title: Isolation and Full-Genome Characterization of Nipah Viruses from Bats, Bangladesh., Authors: Anderson DE; Islam A; Crameri G; Todd S; Khan SU; Foord A; Rahman MZ; Mendenhall IH; Luby SP; Gurley ES; Daszak P; Epstein JH; Wang LF, Journal: Emerg Infect Dis, Year: 2019",
+        "Publication": "Anderson (2019, 30561301). Isolation and Full-Genome Characterization of Nipah Viruses from Bats, Bangladesh.. Emerg Infect Dis",
         "ShortName": "Anderson (2019, 30561301)"
     },
     {
         "RefID": 26,
-        "SubmissionSet": "PMID: 21529409, Title: Genomic characterization of Nipah virus, India, West Bengal, Authors: Arankalle V., Bandyopadhyay B., Banerjee P., Goswami R., Hati A., Jadi R., Majumdar M., Mishra A., Neogi D., Patil D., Rahman M., Ramdasi A., Journal: 20-A, 907-909 (2011), Dr. Ambedkar Road, Emerging Infect. Dis. 17 (5), Hepatitis, India, Maharashtra 411001, National Institute of Virology, Pune, Year: 2008, 2011",
+        "SubmissionSet": "Arankalle (2011, 21529409). Genomic characterization of Nipah virus, India, West Bengal. 20-A, 907-909 (2011), Dr. Ambedkar Road, Emerging Infect. Dis. 17 (5), Hepatitis, India, Maharashtra 411001, National Institute of Virology, Pune",
         "PubID": 19,
-        "Publication": "PMID: 21529409, Title: Genomic characterization of Nipah virus, West Bengal, India., Authors: Arankalle VA; Bandyopadhyay BT; Ramdasi AY; Jadi R; Patil DR; Rahman M; Majumdar M; Banerjee PS; Hati AK; Goswami RP; Neogi DK; Mishra AC, Journal: Emerg Infect Dis, Year: 2011",
+        "Publication": "Arankalle (2011, 21529409). Genomic characterization of Nipah virus, West Bengal, India.. Emerg Infect Dis",
         "ShortName": "Arankalle (2011, 21529409)"
     },
     {
         "RefID": 27,
-        "SubmissionSet": "PMID: 30364984, Title: 2018, India, Outbreak investigation of Nipah Virus Disease in Kerala, Authors: Arunkumar G., Bhargava B., Chandni R., Mourya D., Sadanandan R., Singh S., Sudan P., Journal: India, J. Infect. Dis. (2018) In press, Karnataka 576104, Madhav Nagar, Manipal, Manipal Academy of Higher Education (MAHE), Manipal Centre for Virus Research, Year: 2018",
+        "SubmissionSet": "Arunkumar (2018, 30364984). 2018, India, Outbreak investigation of Nipah Virus Disease in Kerala. India, J. Infect. Dis. (2018) In press, Karnataka 576104, Madhav Nagar, Manipal, Manipal Academy of Higher Education (MAHE), Manipal Centre for Virus Research",
         "PubID": 12,
-        "Publication": "PMID: 30364984, Title: Outbreak Investigation of Nipah Virus Disease in Kerala, India, 2018., Authors: Arunkumar G; Chandni R; Mourya DT; Singh SK; Sadanandan R; Sudan P; Bhargava B, Journal: J Infect Dis, Year: 2019",
+        "Publication": "Arunkumar (2019, 30364984). Outbreak Investigation of Nipah Virus Disease in Kerala, India, 2018.. J Infect Dis",
         "ShortName": "Arunkumar (2019, 30364984)"
     },
     {
-        "RefID": 28,
-        "SubmissionSet": "Title: Nipah virus vaccines, Authors: Audonnet J., Journal: Patent, Year: 2006, 2010",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Audonnet (2010)"
-    },
-    {
         "RefID": 29,
-        "SubmissionSet": "Title: The genetic diversity of Nipah virus across spatial scales, Authors: Azuero O., Cappelle J., Duong V., Gurley E., Heng O., Hoem T., Hul V., Islam A., Lefrancq N., Lemey P., Mckee C., Nikolay B., Ou T., Rahman M., Salje H., Williams D., Journal: 5, Bld Monivong, Cambodia, Institut Pasteur du Cambodge, Phnom Penh, Phnom Penh 120210, Unpublished, Virology Unit, Year: 2023",
+        "SubmissionSet": "Azuero (2023). The genetic diversity of Nipah virus across spatial scales. 5, Bld Monivong, Cambodia, Institut Pasteur du Cambodge, Phnom Penh, Phnom Penh 120210, Unpublished, Virology Unit",
         "PubID": 1,
-        "Publication": "PMID: 38682164, Title: The genetic diversity of Nipah virus across spatial scales., Authors: Cortes-Azuero O; Lefrancq N; Nikolay B; McKee C; Cappelle J; Hul V; Ou TP; Hoem T; Lemey P; Rahman MZ; Islam A; Gurley ES; Duong V; Salje H, Journal: J Infect Dis, Year: 2024",
+        "Publication": "Cortes-Azuero (2024, 38682164). The genetic diversity of Nipah virus across spatial scales.. J Infect Dis",
         "ShortName": "Cortes-Azuero (2024, 38682164)"
     },
     {
         "RefID": 30,
-        "SubmissionSet": "Title: FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS): Supporting development and validation of Infectious Disease Dx tests, Authors: Aluvathingal J., Bennett R., Hensley L., Mehta A., Myers T., Nadendla S., Sadzewicz L., Sichtig H., Tallon L., Vavikolanu K., Yan Y., Journal: 10903 New Hampshire Avenue, Center for Devices and Radiological Health, MD 20903, US Food and Drug Administration, USA, Unpublished, White Oak, Year: 2021",
+        "SubmissionSet": "Aluvathingal (2021). FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS): Supporting development and validation of Infectious Disease Dx tests. 10903 New Hampshire Avenue, Center for Devices and Radiological Health, MD 20903, US Food and Drug Administration, USA, Unpublished, White Oak",
         "PubID": "",
         "Publication": "",
         "ShortName": "Aluvathingal (2021)"
     },
     {
-        "RefID": 31,
-        "SubmissionSet": "Title: HENDRA AND NIPAH VIRUS G GLYCOPROTEIN IMMUNOGENIC COMPOSITIONS, Authors: Broder C., Edwards N., Elhay M., Huang J., Wareing M., Journal: Patent, Year: 2014, 2016, 2017, 2018",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Broder (2017)"
-    },
-    {
         "RefID": 32,
-        "SubmissionSet": "PMID: 11514724, Title: Complete nucleotide sequences of Nipah virus isolates from Malaysia, Authors: Chan Y., Chua K., Koh C., Lam S., Lim M., Journal: 2151-2155 (2001), Department of Medical Microbiology, F.T. 50603, Faculty of Medicine, J. Gen. Virol. 82 (Pt 9), Kuala Lumpur, Malaysia, University of Malaya, Year: 2001",
+        "SubmissionSet": "Chan (2001, 11514724). Complete nucleotide sequences of Nipah virus isolates from Malaysia. 2151-2155 (2001), Department of Medical Microbiology, F.T. 50603, Faculty of Medicine, J. Gen. Virol. 82 (Pt 9), Kuala Lumpur, Malaysia, University of Malaya",
         "PubID": 28,
-        "Publication": "PMID: 11514724, Title: Complete nucleotide sequences of Nipah virus isolates from Malaysia., Authors: Chan YP; Chua KB; Koh CL; Lim ME; Lam SK, Journal: J Gen Virol, Year: 2001",
+        "Publication": "Chan (2001, 11514724). Complete nucleotide sequences of Nipah virus isolates from Malaysia.. J Gen Virol",
         "ShortName": "Chan (2001, 11514724)"
     },
     {
         "RefID": 33,
-        "SubmissionSet": "Title: Characterization of Nipah Virus from Naturally Infected Pteropus vampyrus Bats, Malaysia, Authors: Chang L., Daszak P., Epstein J., Field H., Hassan L., Hassan S., Henipavirus ecology research G., Mamat Z., Mohamed M., Naim M., Olival K., Rahman S., Saad N., Shohaimi S., Suri A., Journal: 1990-1993 (2010), 50603, Chang L.Y., Emerg. Infect. Dis. 16 (12), Faculty of Medicine, MALAYSIA, Medical Microbiology, University Malaya, Year: 2010",
+        "SubmissionSet": "Chang (2010). Characterization of Nipah Virus from Naturally Infected Pteropus vampyrus Bats, Malaysia. 1990-1993 (2010), 50603, Chang L.Y., Emerg. Infect. Dis. 16 (12), Faculty of Medicine, MALAYSIA, Medical Microbiology, University Malaya",
         "PubID": 20,
-        "Publication": "PMID: 21122240, Title: Characterization of Nipah virus from naturally infected Pteropus vampyrus bats, Malaysia., Authors: Rahman SA; Hassan SS; Olival KJ; Mohamed M; Chang LY; Hassan L; Saad NM; Shohaimi SA; Mamat ZC; Naim MS; Epstein JH; Suri AS; Field HE; Daszak P, Journal: Emerg Infect Dis, Year: 2010",
+        "Publication": "Rahman (2010, 21122240). Characterization of Nipah virus from naturally infected Pteropus vampyrus bats, Malaysia.. Emerg Infect Dis",
         "ShortName": "Rahman (2010, 21122240)"
     },
     {
         "RefID": 34,
-        "SubmissionSet": "PMID: 10827955, Title: Nipah virus: a recently emergent deadly paramyxovirus, Authors: Anderson L., Bellini W., Chua K., Daniels P., Eaton B., Field H., Goldsmith C., Gould A., Gubler D., Halpin K., Harcourt B., Ksiazek T., Lam S., Ling A., Mahy B., Olson J., Peters C., Roehrig J., Rollin P., Rota P., Shieh W., Tamin A., Zaki S., Journal: 1432-1435 (2000), 1600 Clifton Rd., Atlanta, Centers for Disease Control and Prevention, GA 30333, MS-C-22, Measles Virus Section, Science 288 (5470), USA, Year: 1999, 2000, 2001",
+        "SubmissionSet": "Anderson (2000, 10827955). Nipah virus: a recently emergent deadly paramyxovirus. 1432-1435 (2000), 1600 Clifton Rd., Atlanta, Centers for Disease Control and Prevention, GA 30333, MS-C-22, Measles Virus Section, Science 288 (5470), USA",
         "PubID": 35,
-        "Publication": "PMID: 10827955, Title: Nipah virus: a recently emergent deadly paramyxovirus, Authors: Anderson L., Bellini W., Chua K., Daniels P., Eaton B., Field H., Goldsmith C., Gould A., Gubler D., Halpin K., Harcourt B., Ksiazek T., Lam S., Ling A., Mahy B., Olson J., Peters C., Roehrig J., Rollin P., Rota P., Shieh W., Tamin A., Zaki S., Journal: 1432-1435 (2000), 1600 Clifton Rd., Atlanta, Centers for Disease Control and Prevention, GA 30333, MS-C-22, Measles Virus Section, Science 288 (5470), USA, Year: 2000",
+        "Publication": "Anderson (2000, 10827955). Nipah virus: a recently emergent deadly paramyxovirus. 1432-1435 (2000), 1600 Clifton Rd., Atlanta, Centers for Disease Control and Prevention, GA 30333, MS-C-22, Measles Virus Section, Science 288 (5470), USA",
         "ShortName": "Anderson (2000, 10827955)"
     },
     {
         "RefID": 35,
-        "SubmissionSet": "PMID: 11504554, Title: Molecular characterization of the polymerase gene and genomic termini of Nipah virus, Authors: Harcourt B., Tamin A., Halpin K., Ksiazek T., Rollin P., Bellini W., Rota P., Journal: Virology 287 (1), 192-201 (2001), Year: 2001",
+        "SubmissionSet": "Harcourt (2001, 11504554). Molecular characterization of the polymerase gene and genomic termini of Nipah virus. Virology 287 (1), 192-201 (2001)",
         "PubID": 29,
-        "Publication": "PMID: 11504554, Title: Molecular characterization of the polymerase gene and genomic termini of Nipah virus., Authors: Harcourt BH; Tamin A; Halpin K; Ksiazek TG; Rollin PE; Bellini WJ; Rota PA, Journal: Virology, Year: 2001",
+        "Publication": "Harcourt (2001, 11504554). Molecular characterization of the polymerase gene and genomic termini of Nipah virus.. Virology",
         "ShortName": "Harcourt (2001, 11504554)"
     },
     {
         "RefID": 36,
-        "SubmissionSet": "PMID: 11880045, Title: Isolation of Nipah virus from Malaysian Island flying-foxes, Authors: Chan Y., Chua B., Chua K., Hooi P., Khong J., Koh C., Lam S., Lim M., Wee K., Journal: 145-151 (2002), FT 50603, Faculty of Medicine, Kuala Lumpur, Malaysia, Medical Microbiology, Microbes Infect. 4 (2), University of Malaysia, Year: 2001, 2002",
+        "SubmissionSet": "Chan (2002, 11880045). Isolation of Nipah virus from Malaysian Island flying-foxes. 145-151 (2002), FT 50603, Faculty of Medicine, Kuala Lumpur, Malaysia, Medical Microbiology, Microbes Infect. 4 (2), University of Malaysia",
         "PubID": 27,
-        "Publication": "PMID: 11880045, Title: Isolation of Nipah virus from Malaysian Island flying-foxes., Authors: Chua KB; Koh CL; Hooi PS; Wee KF; Khong JH; Chua BH; Chan YP; Lim ME; Lam SK, Journal: Microbes Infect, Year: 2002",
+        "Publication": "Chua (2002, 11880045). Isolation of Nipah virus from Malaysian Island flying-foxes.. Microbes Infect",
         "ShortName": "Chua (2002, 11880045)"
     },
     {
         "RefID": 37,
-        "SubmissionSet": "Title: Cambodia, Detection of different strains of Nipah virus through ecologically targeted surveillance of Pteropid bats, Authors: Buchy P., Cappelle J., Duong V., Hul V., Journal: 5, Cambodia, Institut Pasteur in Cambodia, Monivong Blvd, Phnom Penh 12201, Unpublished, Virology, Year: 2014",
+        "SubmissionSet": "Buchy (2014). Cambodia, Detection of different strains of Nipah virus through ecologically targeted surveillance of Pteropid bats. 5, Cambodia, Institut Pasteur in Cambodia, Monivong Blvd, Phnom Penh 12201, Unpublished, Virology",
         "PubID": "",
         "Publication": "",
         "ShortName": "Buchy (2014)"
     },
     {
-        "RefID": 38,
-        "SubmissionSet": "Title: Hendra and Nipah Virus G Glycoprotein Immunogenic Compositions, Authors: Broder C., Elhay M., Huang J., Journal: Patent, Year: 2014, 2020",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Broder (2020)"
-    },
-    {
         "RefID": 39,
-        "SubmissionSet": "PMID: 31652377, Title: Population genetics of fruit bat reservoir informs the dynamics, and diversity of Nipah virus, distribution, Authors: Amato G., Anthony S., Briese T., Broder C., Crameri G., Daszak P., Engstrand R., Epstein J., Field H., Fielder M., Gurley E., Hersch R., Hossein M., Islam A., Khan M., Khan S., Kilpatrick A., Latinne A., Lipkin W., Luby S., Olival K., Quan P., Rahman M., Ross N., Sanchez M., Smith I., Tao Y., Wang L., Zambrana-torrelio C., Journal: 460 West 34th street, EcoHealth Alliance, Mol. Ecol. (2019) In press, NY 10001, New York, USA, Year: 2019",
+        "SubmissionSet": "Amato (2019, 31652377). Population genetics of fruit bat reservoir informs the dynamics, and diversity of Nipah virus, distribution. 460 West 34th street, EcoHealth Alliance, Mol. Ecol. (2019) In press, NY 10001, New York, USA",
         "PubID": 36,
-        "Publication": "PMID: 31652377, Title: Population genetics of fruit bat reservoir informs the dynamics, and diversity of Nipah virus, distribution, Authors: Amato G., Anthony S., Briese T., Broder C., Crameri G., Daszak P., Engstrand R., Epstein J., Field H., Fielder M., Gurley E., Hersch R., Hossein M., Islam A., Khan M., Khan S., Kilpatrick A., Latinne A., Lipkin W., Luby S., Olival K., Quan P., Rahman M., Ross N., Sanchez M., Smith I., Tao Y., Wang L., Zambrana-torrelio C., Journal: 460 West 34th street, EcoHealth Alliance, Mol. Ecol. (2019) In press, NY 10001, New York, USA, Year: 2019",
+        "Publication": "Amato (2019, 31652377). Population genetics of fruit bat reservoir informs the dynamics, and diversity of Nipah virus, distribution. 460 West 34th street, EcoHealth Alliance, Mol. Ecol. (2019) In press, NY 10001, New York, USA",
         "ShortName": "Amato (2019, 31652377)"
     },
     {
         "RefID": 40,
-        "SubmissionSet": "PMID: 31855143, Title: Cambodia, High Pathogenicity of Nipah Virus from Pteropus lylei Fruit Bats, Authors: Aurine N., Dumont C., Ferren M., Fouret J., Gaudino M., Georges-courbot M., Horvat B., Legras-lachuer C., Legras-laucher C., Mathieu C., Reynard O., Reynes J., Volchkov V., Journal: 104-113 (2020), Avenue Tony Garnier 21, CIRI (International Center for Infectiology Research), Emerging Infect. Dis. 26 (1), France, INSERM U1111, Lyon 69007, Year: 2019, 2020",
+        "SubmissionSet": "Aurine (2020, 31855143). Cambodia, High Pathogenicity of Nipah Virus from Pteropus lylei Fruit Bats. 104-113 (2020), Avenue Tony Garnier 21, CIRI (International Center for Infectiology Research), Emerging Infect. Dis. 26 (1), France, INSERM U1111, Lyon 69007",
         "PubID": 32,
-        "Publication": "PMID: 31855143, Title: High Pathogenicity of Nipah Virus from Pteropus lylei Fruit Bats, Cambodia., Authors: Gaudino M; Aurine N; Dumont C; Fouret J; Ferren M; Mathieu C; Reynard O; Volchkov VE; Legras-Lachuer C; Georges-Courbot MC; Horvat B, Journal: Emerg Infect Dis, Year: 2020",
+        "Publication": "Gaudino (2020, 31855143). High Pathogenicity of Nipah Virus from Pteropus lylei Fruit Bats, Cambodia.. Emerg Infect Dis",
         "ShortName": "Gaudino (2020, 31855143)"
     },
     {
         "RefID": 41,
-        "SubmissionSet": "PMID: 16318702, Title: 2004, Bangladesh, Genetic characterization of Nipah virus, Authors: Bankamp B., Bellini W., Bowden N., Breiman R., Comer J., Gurley E., Harcourt B., Hossain J., Hossain M., Ksiazek T., Liu X., Lowe L., Rollin P., Rota P., Tamin A., Journal: 1594-1597 (2005), 1600 Clifton Rd., Atlanta, Centers for Disease Control and Prevention, Division of Viral and Rickettsial Diseases, Emerging Infect. Dis. 11 (10), GA 30333, Mail Stop C-22, USA, Year: 2005",
+        "SubmissionSet": "Bankamp (2005, 16318702). 2004, Bangladesh, Genetic characterization of Nipah virus. 1594-1597 (2005), 1600 Clifton Rd., Atlanta, Centers for Disease Control and Prevention, Division of Viral and Rickettsial Diseases, Emerging Infect. Dis. 11 (10), GA 30333, Mail Stop C-22, USA",
         "PubID": 24,
-        "Publication": "PMID: 16318702, Title: Genetic characterization of Nipah virus, Bangladesh, 2004., Authors: Harcourt BH; Lowe L; Tamin A; Liu X; Bankamp B; Bowden N; Rollin PE; Comer JA; Ksiazek TG; Hossain MJ; Gurley ES; Breiman RF; Bellini WJ; Rota PA, Journal: Emerg Infect Dis, Year: 2005",
+        "Publication": "Harcourt (2005, 16318702). Genetic characterization of Nipah virus, Bangladesh, 2004.. Emerg Infect Dis",
         "ShortName": "Harcourt (2005, 16318702)"
     },
     {
         "RefID": 42,
-        "SubmissionSet": "PMID: 10860887, Title: Molecular characterization of Nipah virus, a newly emergent paramyxovirus, Authors: Anderson L., Bellini W., Harcourt B., Ksiazek T., Rollin P., Rota P., Tamin A., Journal: 1600 Clifton Rd., 334-349 (2000), Atlanta, Centers for Disease Control and Prevention, GA 30333, MS-C-22, Measles Virus Section, USA, Virology 271 (2), Year: 2000",
+        "SubmissionSet": "Anderson (2000, 10860887). Molecular characterization of Nipah virus, a newly emergent paramyxovirus. 1600 Clifton Rd., 334-349 (2000), Atlanta, Centers for Disease Control and Prevention, GA 30333, MS-C-22, Measles Virus Section, USA, Virology 271 (2)",
         "PubID": 30,
-        "Publication": "PMID: 10860887, Title: Molecular characterization of Nipah virus, a newly emergent paramyxovirus., Authors: Harcourt BH; Tamin A; Ksiazek TG; Rollin PE; Anderson LJ; Bellini WJ; Rota PA, Journal: Virology, Year: 2000",
+        "Publication": "Harcourt (2000, 10860887). Molecular characterization of Nipah virus, a newly emergent paramyxovirus.. Virology",
         "ShortName": "Harcourt (2000, 10860887)"
     },
     {
         "RefID": 43,
-        "SubmissionSet": "PMID: 29260663, Title: 2013-2014, Bangladesh, Nipah Virus Contamination of Hospital Surfaces during Outbreaks, Authors: Bhuiyan M., Daszak P., Gurley E., Hassan M., Islam M., Kafi M., Luby S., Rahman M., Sazzad H., Stroeher U., Stroher U., Sturm-ramirez K., Sultana S., Journal: 15-21 (2018), 68, Bangladesh, Dhaka, Dhaka 1212, Dhakla 1212, Emerging Infect. Dis. 24 (1), Infectious Disease Division, International Centre for Diarrhoeal Recearch, International Centre for Diarrhoeal Research, Mohakhali, Tajuddin Ahmed Sarani, Year: 2017, 2018",
+        "SubmissionSet": "Bhuiyan (2018, 29260663). 2013-2014, Bangladesh, Nipah Virus Contamination of Hospital Surfaces during Outbreaks. 15-21 (2018), 68, Bangladesh, Dhaka, Dhaka 1212, Dhakla 1212, Emerging Infect. Dis. 24 (1), Infectious Disease Division, International Centre for Diarrhoeal Recearch, International Centre for Diarrhoeal Research, Mohakhali, Tajuddin Ahmed Sarani",
         "PubID": 14,
-        "Publication": "PMID: 29260663, Title: Nipah Virus Contamination of Hospital Surfaces during Outbreaks, Bangladesh, 2013-2014., Authors: Hassan MZ; Sazzad HMS; Luby SP; Sturm-Ramirez K; Bhuiyan MU; Rahman MZ; Islam MM; Str\u221a\u2202her U; Sultana S; Kafi MAH; Daszak P; Rahman M; Gurley ES, Journal: Emerg Infect Dis, Year: 2018",
+        "Publication": "Hassan (2018, 29260663). Nipah Virus Contamination of Hospital Surfaces during Outbreaks, Bangladesh, 2013-2014.. Emerg Infect Dis",
         "ShortName": "Hassan (2018, 29260663)"
     },
     {
         "RefID": 44,
-        "SubmissionSet": "Title: First report of Nipah virus shed in urine by fruit bats (Pteropus medius), Sri Lanka, Authors: Bas D., Becker-ziaja B., Brinkmann A., Handunnetti S., Jeevatharan H., Kohl C., Muzeniek T., Nitsche A., Oeruc M., Perera I., Perera T., Premawansa G., Premawansa S., Schwarz F., Siriwardana S., Weerasena J., Yapa W., Journal: Berlin 13353, Centre for Biological Threats and Special Pathogens, Germany, Robert Koch-Institute, Seestrasse 10, Unpublished, Year: 2024",
+        "SubmissionSet": "Bas (2024). First report of Nipah virus shed in urine by fruit bats (Pteropus medius), Sri Lanka. Berlin 13353, Centre for Biological Threats and Special Pathogens, Germany, Robert Koch-Institute, Seestrasse 10, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Bas (2024)"
     },
     {
         "RefID": 45,
-        "SubmissionSet": "PMID: 22304936, Title: 2008-2010, Characterization of Nipah virus from outbreaks in Bangladesh, Authors: Bellini W., Comer J., Gurley E., Hossain M., Hummel K., Lo M., Lowe L., Luby S., Miller D., Rollin P., Rota P., Sazzad H., Journal: 1600 Clifton Road, 248-255 (2012), Atlanta, Centers for Disease Control and Prevention, Emerging Infect. Dis. 18 (2), GA 30333, Mailstop G-14, USA, Viral Special Pathogens Branch, Year: 2011, 2012",
+        "SubmissionSet": "Bellini (2012, 22304936). 2008-2010, Characterization of Nipah virus from outbreaks in Bangladesh. 1600 Clifton Road, 248-255 (2012), Atlanta, Centers for Disease Control and Prevention, Emerging Infect. Dis. 18 (2), GA 30333, Mailstop G-14, USA, Viral Special Pathogens Branch",
         "PubID": 18,
-        "Publication": "PMID: 22304936, Title: Characterization of Nipah virus from outbreaks in Bangladesh, 2008-2010., Authors: Lo MK; Lowe L; Hummel KB; Sazzad HM; Gurley ES; Hossain MJ; Luby SP; Miller DM; Comer JA; Rollin PE; Bellini WJ; Rota PA, Journal: Emerg Infect Dis, Year: 2012",
+        "Publication": "Lo (2012, 22304936). Characterization of Nipah virus from outbreaks in Bangladesh, 2008-2010.. Emerg Infect Dis",
         "ShortName": "Lo (2012, 22304936)"
     },
     {
         "RefID": 46,
-        "SubmissionSet": "PMID: 33129964, Title: Genetic Diversity of Nipah virus in Bangladesh, Authors: Daszak P., Epstein J., Flora M., Gurley E., Hossain M., Islam A., Islam M., Klena J., Luby S., Rahman M., Sazzad H., Siddika A., Sultana S., Journal: 68, Bangladesh, Dhaka 1212, Int J Infect Dis (2020) In press, Shaheed Tajuddin Ahmed Sharani, Virology, b, icddr, Year: 2020",
+        "SubmissionSet": "Daszak (2020, 33129964). Genetic Diversity of Nipah virus in Bangladesh. 68, Bangladesh, Dhaka 1212, Int J Infect Dis (2020) In press, Shaheed Tajuddin Ahmed Sharani, Virology, b, icddr",
         "PubID": 9,
-        "Publication": "PMID: 33129964, Title: Genetic diversity of Nipah virus in Bangladesh., Authors: Rahman MZ; Islam MM; Hossain ME; Rahman MM; Islam A; Siddika A; Hossain MSS; Sultana S; Rahman M; Klena JD; Flora MS; Daszak P; Epstein JH; Luby SP; Gurley ES, Journal: Int J Infect Dis, Year: 2021",
+        "Publication": "Rahman (2021, 33129964). Genetic diversity of Nipah virus in Bangladesh.. Int J Infect Dis",
         "ShortName": "Rahman (2021, 33129964)"
     },
     {
         "RefID": 47,
-        "SubmissionSet": "Title: Nipah Virus Transmission in Bangladesh, Authors: Hossain M., Klena J., Miah M., Montgomery J., Rahman D., Rahman M., Rahman S., Satter S., Shirin T., Journal: 68, B, Bangladesh, Dhaka 1212, Icddr, One Health Laboratory, Shaheed Tajuddin Ahmed Sharani, Shaheed Tajuddin Ahmed sharani, Unpublished, b, icddr, Year: 2024",
+        "SubmissionSet": "Hossain (2024). Nipah Virus Transmission in Bangladesh. 68, B, Bangladesh, Dhaka 1212, Icddr, One Health Laboratory, Shaheed Tajuddin Ahmed Sharani, Shaheed Tajuddin Ahmed sharani, Unpublished, b, icddr",
         "PubID": "",
         "Publication": "",
         "ShortName": "Hossain (2024)"
     },
     {
         "RefID": 48,
-        "SubmissionSet": "PMID: 16022778, Title: Cambodia, Nipah virus in Lyle's flying foxes, Authors: Counor D., Deubel V., Faure C., Georges-courbot M., Molia S., Ong S., Reynes J., Sarthou J., Seng V., Walston J., Journal: 1042-1047 (2005), 5 Boulevard Monivong, Cambodia, Emerging Infect. Dis. 11 (7), Institut Pasteur du Cambodge, Phnom Penh, Year: 2004, 2005",
+        "SubmissionSet": "Counor (2005, 16022778). Cambodia, Nipah virus in Lyle's flying foxes. 1042-1047 (2005), 5 Boulevard Monivong, Cambodia, Emerging Infect. Dis. 11 (7), Institut Pasteur du Cambodge, Phnom Penh",
         "PubID": 25,
-        "Publication": "PMID: 16022778, Title: Nipah virus in Lyle's flying foxes, Cambodia., Authors: Reynes JM; Counor D; Ong S; Faure C; Seng V; Molia S; Walston J; Georges-Courbot MC; Deubel V; Sarthou JL, Journal: Emerg Infect Dis, Year: 2005",
+        "Publication": "Reynes (2005, 16022778). Nipah virus in Lyle's flying foxes, Cambodia.. Emerg Infect Dis",
         "ShortName": "Reynes (2005, 16022778)"
     },
     {
         "RefID": 49,
-        "SubmissionSet": "Title: Indonesia, Nipah virus in the fruit bat Pteropus vampyrus in Sumatera, Authors: Abdul adjid R., Barr J., Daniels P., Field H., Ratnawati A., Saepulloh M., Sendow I., Taylor T., Journal: 39 Kessels Road, Australia, Biosecurity Queensland, Block 10, Coopers Plains, Department of Agriculture, Fisheries & Forestry, QLD 4108, Queensland Centre for Emerging Infectious Diseases, Unpublished, Year: 2013",
+        "SubmissionSet": "Abdul adjid (2013). Indonesia, Nipah virus in the fruit bat Pteropus vampyrus in Sumatera. 39 Kessels Road, Australia, Biosecurity Queensland, Block 10, Coopers Plains, Department of Agriculture, Fisheries & Forestry, QLD 4108, Queensland Centre for Emerging Infectious Diseases, Unpublished",
         "PubID": 16,
-        "Publication": "PMID: 23894501, Title: Nipah virus in the fruit bat Pteropus vampyrus in Sumatera, Indonesia., Authors: Sendow I; Ratnawati A; Taylor T; Adjid RM; Saepulloh M; Barr J; Wong F; Daniels P; Field H, Journal: PLoS One, Year: 2013",
+        "Publication": "Sendow (2013, 23894501). Nipah virus in the fruit bat Pteropus vampyrus in Sumatera, Indonesia.. PLoS One",
         "ShortName": "Sendow (2013, 23894501)"
     },
     {
         "RefID": 50,
-        "SubmissionSet": "Title: Genetic characterisation of a Nipah virus isolated from a Pteropus vampyrus in Malaysia, Authors: Chang L., Daszak P., Epstein J., Humes F., Latiffah K., Maizan M., Sharifah S., Sharina M., Siti suri A., Sohayati A., Syamsiah A., Zaini C., Journal: Jalan Persiaran Lagoon Selatan, Kuala Lumpur, Malaysia, Monash University, School of Medicine and Health Sciences, Selangor 46150, Sunway Campus, Unpublished, Year: 2010",
+        "SubmissionSet": "Chang (2010). Genetic characterisation of a Nipah virus isolated from a Pteropus vampyrus in Malaysia. Jalan Persiaran Lagoon Selatan, Kuala Lumpur, Malaysia, Monash University, School of Medicine and Health Sciences, Selangor 46150, Sunway Campus, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Chang (2010)"
     },
     {
         "RefID": 51,
-        "SubmissionSet": "PMID: 19402762, Title: A Longitudinal Study of the Prevalence of Nipah Virus in Pteropus lylei Bats in Thailand: Evidence of seasonal preference in disease transmission, A longitudinal study of the prevalence of Nipah virus in Pteropus lylei bats in Thailand: evidence for seasonal preference in disease transmission, Authors: Boongird K., Gongal G., Hemachudha T., Ratanasetyuth N., Saengsen D., Supavonwong P., Wacharapluesadee S., Wanghongsa S., Journal: 183-190 (2010), Bangkok, Bangkok 10330, Chulalongkorn University, Medicine, Rama4, Thailand, Unpublished, Vector Borne Zoonotic Dis. 10 (2), Year: 2008, 2010",
+        "SubmissionSet": "Boongird (2010, 19402762). A Longitudinal Study of the Prevalence of Nipah Virus in Pteropus lylei Bats in Thailand: Evidence of seasonal preference in disease transmission, A longitudinal study of the prevalence of Nipah virus in Pteropus lylei bats in Thailand: evidence for seasonal preference in disease transmission. 183-190 (2010), Bangkok, Bangkok 10330, Chulalongkorn University, Medicine, Rama4, Thailand, Unpublished, Vector Borne Zoonotic Dis. 10 (2)",
         "PubID": 21,
-        "Publication": "PMID: 19402762, Title: A longitudinal study of the prevalence of Nipah virus in Pteropus lylei bats in Thailand: evidence for seasonal preference in disease transmission., Authors: Wacharapluesadee S; Boongird K; Wanghongsa S; Ratanasetyuth N; Supavonwong P; Saengsen D; Gongal GN; Hemachudha T, Journal: Vector Borne Zoonotic Dis, Year: 2010",
+        "Publication": "Wacharapluesadee (2010, 19402762). A longitudinal study of the prevalence of Nipah virus in Pteropus lylei bats in Thailand: evidence for seasonal preference in disease transmission.. Vector Borne Zoonotic Dis",
         "ShortName": "Wacharapluesadee (2010, 19402762)"
     },
     {
         "RefID": 52,
-        "SubmissionSet": "PMID: 34218820, Title: Two decades of one health surveillance of Nipah virus in Thailand, Authors: Ampoot W., Buathong R., Bunprakob S., Damrongwatanapokin S., Duengkae P., Ghai S., Hemachudha T., Joyjinda Y., Kaewpom T., Kalpravidh W., Kulprawit W., Manee-orn P., Maneeorn P., Nuansrichay B., Olival K., Petcharat S., Ponpinit T., Rodpan A., Ruchiseesarod C., Saraya A., Stokes M., Suradhat S., Tantilertcharoen R., Thanapongtharm W., Wacharapluesadee S., Wongsathapornchai K., Yingsakmongkon S., Journal: 12 (2021), Bangkok 10330, Chulalongkorn University, Faculty of Medicine, King Chulalongkorn Memorial Hospital, One Health Outlook 3 (1), Payathai, Thai Red Cross Emerging Infectious Diseases - Health Science Centre and WHO Collaborating Centre for Research and Training on Viral Zoonoses, Thailand, Year: 2021",
+        "SubmissionSet": "Ampoot (2021, 34218820). Two decades of one health surveillance of Nipah virus in Thailand. 12 (2021), Bangkok 10330, Chulalongkorn University, Faculty of Medicine, King Chulalongkorn Memorial Hospital, One Health Outlook 3 (1), Payathai, Thai Red Cross Emerging Infectious Diseases - Health Science Centre and WHO Collaborating Centre for Research and Training on Viral Zoonoses, Thailand",
         "PubID": 6,
-        "Publication": "PMID: 34218820, Title: Two decades of one health surveillance of Nipah virus in Thailand., Authors: Wacharapluesadee S; Ghai S; Duengkae P; Manee-Orn P; Thanapongtharm W; Saraya AW; Yingsakmongkon S; Joyjinda Y; Suradhat S; Ampoot W; Nuansrichay B; Kaewpom T; Tantilertcharoen R; Rodpan A; Wongsathapornchai K; Ponpinit T; Buathong R; Bunprakob S; Damrongwatanapokin S; Ruchiseesarod C; Petcharat S; Kalpravidh W; Olival KJ; Stokes MM; Hemachudha T, Journal: One Health Outlook, Year: 2021",
+        "Publication": "Wacharapluesadee (2021, 34218820). Two decades of one health surveillance of Nipah virus in Thailand.. One Health Outlook",
         "ShortName": "Wacharapluesadee (2021, 34218820)"
     },
     {
         "RefID": 53,
-        "SubmissionSet": "PMID: 17184850, Title: Duplex nested RT-PCR for detection of Nipah virus RNA from urine specimens of bats, Authors: Hemachudha T., Wacharapluesadee S., Journal: 97-101 (2007), Bangkok 10330, Chulalongkorn University, J. Virol. Methods 141 (1), Medicine, Rama4, Thailand, Year: 2006, 2007",
+        "SubmissionSet": "Hemachudha (2007, 17184850). Duplex nested RT-PCR for detection of Nipah virus RNA from urine specimens of bats. 97-101 (2007), Bangkok 10330, Chulalongkorn University, J. Virol. Methods 141 (1), Medicine, Rama4, Thailand",
         "PubID": 22,
-        "Publication": "PMID: 17184850, Title: Duplex nested RT-PCR for detection of Nipah virus RNA from urine specimens of bats., Authors: Wacharapluesadee S; Hemachudha T, Journal: J Virol Methods, Year: 2007",
+        "Publication": "Wacharapluesadee (2007, 17184850). Duplex nested RT-PCR for detection of Nipah virus RNA from urine specimens of bats.. J Virol Methods",
         "ShortName": "Wacharapluesadee (2007, 17184850)"
     },
     {
         "RefID": 54,
-        "SubmissionSet": "PMID: 27016237, Title: Molecular characterization of Nipah virus from Pteropus hypomelanus in Southern Thailand, Authors: Hemachudha T., Kaewpom T., Kanchanasaka B., Maneeorn P., Phermpool M., Rodpan A., Samseeneam P., Srongmongkol P., Wacharapluesadee S., Journal: 53 (2016), Bangkok 10330, Chulalongkorn University, Faculty of Medicine, Pathumwan, Rama4 Road, Thailand, Virol. J. 13 (1), WHO Collaborating Centre for Research and Training on Viral Zoonoses, Year: 2015, 2016",
+        "SubmissionSet": "Hemachudha (2016, 27016237). Molecular characterization of Nipah virus from Pteropus hypomelanus in Southern Thailand. 53 (2016), Bangkok 10330, Chulalongkorn University, Faculty of Medicine, Pathumwan, Rama4 Road, Thailand, Virol. J. 13 (1), WHO Collaborating Centre for Research and Training on Viral Zoonoses",
         "PubID": 15,
-        "Publication": "PMID: 27016237, Title: Molecular characterization of Nipah virus from Pteropus hypomelanus in Southern Thailand., Authors: Wacharapluesadee S; Samseeneam P; Phermpool M; Kaewpom T; Rodpan A; Maneeorn P; Srongmongkol P; Kanchanasaka B; Hemachudha T, Journal: Virol J, Year: 2016",
+        "Publication": "Wacharapluesadee (2016, 27016237). Molecular characterization of Nipah virus from Pteropus hypomelanus in Southern Thailand.. Virol J",
         "ShortName": "Wacharapluesadee (2016, 27016237)"
     },
     {
         "RefID": 55,
-        "SubmissionSet": "Title: Survey for Nipah virus infection among bats in Thailand, Authors: Boongird K., Chanhome L., Hemachudha T., Ksiazek T., Lumlertdacha B., Rollin P., Rupprecht C., Stockton P., Wacharapluesadee S., Wanghongsa S., Journal: Bangkok 10330, Chulalongkorn University Hospital, Medicine, Rama 4, Thailand, Unpublished, Year: 2005, 2009",
+        "SubmissionSet": "Boongird (2009). Survey for Nipah virus infection among bats in Thailand. Bangkok 10330, Chulalongkorn University Hospital, Medicine, Rama 4, Thailand, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Boongird (2009)"
     },
     {
         "RefID": 56,
-        "SubmissionSet": "Title: Genetic Characterization of Nipah Virus in Pteropus lylei, Thailand, Authors: Boongird K., Hemachudha T., Ngamprasertwong T., Phumesin P., Ratanasetyuth N., Supavonwong P., Wacharapluesadee S., Wanghongsa S., Journal: Bangkok 10330, Chulalongkorn University Hospital, Medicine, Rama 4, Thailand, Unpublished, Year: 2009",
+        "SubmissionSet": "Boongird (2009). Genetic Characterization of Nipah Virus in Pteropus lylei, Thailand. Bangkok 10330, Chulalongkorn University Hospital, Medicine, Rama 4, Thailand, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Boongird (2009)"
     },
     {
         "RefID": 57,
-        "SubmissionSet": "Title: 1999-2015, Inference of Nipah virus evolution, Authors: Amman B., Doan S., Flora M., Gurley E., Klena J., Ladner J., Lo M., Montgomery J., Nichol S., Rahman M., Satter S., Sazzad H., Spiropoulou C., Sultana S., Whitmer S., Zufan S., Journal: 1600 Clifton Rd, Atlanta, Centers for Disease Control and Prevention, GA 30324, USA, Viral Special Pathogens, Virus Evol 7 (1), veaa062 (2021), Year: 2019, 2021",
+        "SubmissionSet": "Amman (2021). 1999-2015, Inference of Nipah virus evolution. 1600 Clifton Rd, Atlanta, Centers for Disease Control and Prevention, GA 30324, USA, Viral Special Pathogens, Virus Evol 7 (1), veaa062 (2021)",
         "PubID": 5,
-        "Publication": "PMID: 34422315, Title: Inference of Nipah virus evolution, 1999-2015., Authors: Whitmer SLM; Lo MK; Sazzad HMS; Zufan S; Gurley ES; Sultana S; Amman B; Ladner JT; Rahman MZ; Doan S; Satter SM; Flora MS; Montgomery JM; Nichol ST; Spiropoulou CF; Klena JD, Journal: Virus Evol, Year: 2021",
+        "Publication": "Whitmer (2021, 34422315). Inference of Nipah virus evolution, 1999-2015.. Virus Evol",
         "ShortName": "Whitmer (2021, 34422315)"
     },
     {
         "RefID": 58,
-        "SubmissionSet": "Title: Complete genome sequence of Nipah virus from patient sample of Kerala outbreak 2018, Transcriptional analysis of Nipah viral mRNA reveals differential expression of the P gene, Authors: Yadav P., Journal: Emerging Infect. Dis. (2019) In press, India, Maharashtra 411021, Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune, Unpublished, Year: 2018, 2019",
+        "SubmissionSet": "Yadav (2019). Complete genome sequence of Nipah virus from patient sample of Kerala outbreak 2018, Transcriptional analysis of Nipah viral mRNA reveals differential expression of the P gene. Emerging Infect. Dis. (2019) In press, India, Maharashtra 411021, Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune, Unpublished",
         "PubID": 10,
-        "Publication": "PMID: 31002049, Title: Nipah Virus Sequences from Humans and Bats during Nipah Outbreak, Kerala, India, 2018., Authors: Yadav PD; Shete AM; Kumar GA; Sarkale P; Sahay RR; Radhakrishnan C; Lakra R; Pardeshi P; Gupta N; Gangakhedkar RR; Rajendran VR; Sadanandan R; Mourya DT, Journal: Emerg Infect Dis, Year: 2019",
+        "Publication": "Yadav (2019, 31002049). Nipah Virus Sequences from Humans and Bats during Nipah Outbreak, Kerala, India, 2018.. Emerg Infect Dis",
         "ShortName": "Yadav (2019, 31002049)"
     },
     {
         "RefID": 59,
-        "SubmissionSet": "Title: The genome sequence of Nipah virus from patient sample of Kerala outbreak 2018, Authors: Yadav P., Journal: India, Maharashtra 411021, Maximum Containment Laboratory, National Institue of Virology, Pashan, Pune, Unpublished, Year: 2018",
+        "SubmissionSet": "Yadav (2018). The genome sequence of Nipah virus from patient sample of Kerala outbreak 2018. India, Maharashtra 411021, Maximum Containment Laboratory, National Institue of Virology, Pashan, Pune, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Yadav (2018)"
     },
     {
         "RefID": 60,
-        "SubmissionSet": "PMID: 35252095, Title: India Amidst of COVID-19 Pandemic, Nipah Virus Outbreak in Kerala State, Authors: Abraham P., Akash N., Balakrishnan A., Balasubramanian R., Baradkar S., Bodke P., Chopade G., Dhaigude S., Dighe H., Gawande P., Gayathri R., George K., Gokhale M., Gopale S., Gupta N., Holepannawar M., Jain R., Jayasree V., Jose B., Kadam M., Kalele K., Keerthi K., Khobragade R., Koshy J., Kumar A., Kumar P., Majumdar T., Mathapati B., Mohandas S., Nair S., Narayan J., Naveen A., Nyayanit D., Patil D., Patil S., Radhakrishnan C., Rahim A., Rajendran V., Ray S., Sahay R., Sarkale P., Shete A., Sivadas S., Sugunan A., Suryawanshi A., Thankappan U., Vijay V., Vimisha T., Viswanathan P., Waghmare A., Waghmare P., Yadav P., Yemul J., Journal: 818545 (2022), Front Public Health 10, India, Maharashtra 411021, Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune, Year: 2022",
+        "SubmissionSet": "Abraham (2022, 35252095). India Amidst of COVID-19 Pandemic, Nipah Virus Outbreak in Kerala State. 818545 (2022), Front Public Health 10, India, Maharashtra 411021, Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune",
         "PubID": 4,
-        "Publication": "PMID: 35252095, Title: Nipah Virus Outbreak in Kerala State, India Amidst of COVID-19 Pandemic., Authors: Yadav PD; Sahay RR; Balakrishnan A; Mohandas S; Radhakrishnan C; Gokhale MD; Balasubramanian R; Abraham P; Gupta N; Sugunan AP; Khobragade R; George K; Shete A; Patil S; Thankappan UP; Dighe H; Koshy J; Vijay V; Gayathri R; Kumar PJ; Rahim A; Naveen A; Nair S; Rajendran VR; Jayasree V; Majumdar T; Jain R; Viswanathan P; Patil DY; Kumar A; Nyayanit DA; Sarkale P; Waghmare A; Baradkar S; Gawande P; Bodke P; Kalele K; Yemul J; Dhaigude S; Holepannawar M; Gopale S; Chopade G; Ray S; Waghmare P; Narayan J; Mathapati B; Kadam M; Suryawanshi A; Jose BP; Sivadas S; Akash NP; Vimisha TV; Keerthi KV, Journal: Front Public Health, Year: 2022",
+        "Publication": "Yadav (2022, 35252095). Nipah Virus Outbreak in Kerala State, India Amidst of COVID-19 Pandemic.. Front Public Health",
         "ShortName": "Yadav (2022, 35252095)"
     },
     {
         "RefID": 61,
-        "SubmissionSet": "PMID: 22802440, Title: Detection of Nipah Virus RNA in Fruit Bat (Pteropus giganteus) from India, Authors: Mishra A., Mourya D., Nichol S., Raut C., Shete A., Towner J., Yadav P., Journal: 576-578 (2012), Am. J. Trop. Med. Hyg. 87 (3), India, Maharashtra 411021, Microbial Containment Complex, National Institute of Virology, Pashan, Pune, Sus Road, Virus Repository and High Containment Laboratory, Year: 2011, 2012",
+        "SubmissionSet": "Mishra (2012, 22802440). Detection of Nipah Virus RNA in Fruit Bat (Pteropus giganteus) from India. 576-578 (2012), Am. J. Trop. Med. Hyg. 87 (3), India, Maharashtra 411021, Microbial Containment Complex, National Institute of Virology, Pashan, Pune, Sus Road, Virus Repository and High Containment Laboratory",
         "PubID": 17,
-        "Publication": "PMID: 22802440, Title: Detection of Nipah virus RNA in fruit bat (Pteropus giganteus) from India., Authors: Yadav PD; Raut CG; Shete AM; Mishra AC; Towner JS; Nichol ST; Mourya DT, Journal: Am J Trop Med Hyg, Year: 2012",
+        "Publication": "Yadav (2012, 22802440). Detection of Nipah virus RNA in fruit bat (Pteropus giganteus) from India.. Am J Trop Med Hyg",
         "ShortName": "Yadav (2012, 22802440)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 7,
-        "Publication": "PMID: 33563231, Title: Detection of Nipah virus in Pteropus medius in 2019 outbreak from Ernakulam district, Kerala, India., Authors: Sudeep AB; Yadav PD; Gokhale MD; Balasubramanian R; Gupta N; Shete A; Jain R; Patil S; Sahay RR; Nyayanit DA; Gopale S; Pardeshi PG; Majumdar TD; Patil DR; Sugunan AP; Mourya DT, Journal: BMC Infect Dis, Year: 2021",
+        "Publication": "Sudeep (2021, 33563231). Detection of Nipah virus in Pteropus medius in 2019 outbreak from Ernakulam district, Kerala, India.. BMC Infect Dis",
         "ShortName": "Sudeep (2021, 33563231)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 8,
-        "Publication": "PMID: 33139552, Title: Nipah virus dynamics in bats and implications for spillover to humans., Authors: Epstein JH; Anthony SJ; Islam A; Kilpatrick AM; Ali Khan S; Balkey MD; Ross N; Smith I; Zambrana-Torrelio C; Tao Y; Quan PL; Olival KJ; Khan MSU; Gurley ES; Hossein MJ; Field HE; Fielder MD; Briese T; Rahman M; Broder CC; Crameri G; Wang LF; Luby SP; Lipkin WI; Daszak P, Journal: Proc Natl Acad Sci U S A, Year: 2020",
+        "Publication": "Epstein (2020, 33139552). Nipah virus dynamics in bats and implications for spillover to humans.. Proc Natl Acad Sci U S A",
         "ShortName": "Epstein (2020, 33139552)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 13,
-        "Publication": "PMID: 29923524, Title: Circulation of Nipah virus in Pteropus giganteus bats in northeast region of India, 2015., Authors: Yadav P; Sudeep A; Gokhale M; Pawar S; Shete A; Patil D; Kumar V; Lakra R; Sarkale P; Nichol S; Mourya D, Journal: Indian J Med Res, Year: 2018",
+        "Publication": "Yadav (2018, 29923524). Circulation of Nipah virus in Pteropus giganteus bats in northeast region of India, 2015.. Indian J Med Res",
         "ShortName": "Yadav (2018, 29923524)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 23,
-        "Publication": "PMID: 16494748, Title: Nipah virus-associated encephalitis outbreak, Siliguri, India., Authors: Chadha MS; Comer JA; Lowe L; Rota PA; Rollin PE; Bellini WJ; Ksiazek TG; Mishra A, Journal: Emerg Infect Dis, Year: 2006",
+        "Publication": "Chadha (2006, 16494748). Nipah virus-associated encephalitis outbreak, Siliguri, India.. Emerg Infect Dis",
         "ShortName": "Chadha (2006, 16494748)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 31,
-        "Publication": "PMID: 32108876, Title: Inhibition of Nipah Virus by Defective Interfering Particles., Authors: Welch SR; Tilston NL; Lo MK; Whitmer SLM; Harmon JR; Scholte FEM; Spengler JR; Duprex WP; Nichol ST; Spiropoulou CF, Journal: J Infect Dis, Year: 2020",
+        "Publication": "Welch (2020, 32108876). Inhibition of Nipah Virus by Defective Interfering Particles.. J Infect Dis",
         "ShortName": "Welch (2020, 32108876)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 33,
-        "Publication": "PMID: 31371748, Title: Establishment of an RNA polymerase II-driven reverse genetics system for Nipah virus strains from Malaysia and Bangladesh., Authors: Griffin BD; Leung A; Chan M; Warner BM; Ranadheera C; Tierney K; Audet J; Frost KL; Safronetz D; Embury-Hyatt C; Booth SA; Kobasa D, Journal: Sci Rep, Year: 2019",
+        "Publication": "Griffin (2019, 31371748). Establishment of an RNA polymerase II-driven reverse genetics system for Nipah virus strains from Malaysia and Bangladesh.. Sci Rep",
         "ShortName": "Griffin (2019, 31371748)"
     }
 ]

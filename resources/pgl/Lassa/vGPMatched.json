@@ -1,961 +1,758 @@
 [
     {
-        "RefID": 1,
-        "SubmissionSet": "Title: Direct Submission, Authors: Ashraf S., Love H., Burton C., Carmichael S., Davis C., Filipe A., Roddy S., Smollett K., Summers S., Tong L., Richards K., Thomson E., Journal:  MRC Centre for Virus Research, University of Glasgow, 464 Bearsden road, Glasgow G61 1QH, United Kingdom, Year: 2021",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Ashraf (2021)"
-    },
-    {
         "RefID": 2,
-        "SubmissionSet": "PMID: 2916333, Title: Nucleotide sequence of the Lassa virus (Josiah strain) S genome RNA and amino acid sequence comparison of the N and GPC proteins to other arenaviruses, Authors: Auperin D., Mccormick J., Journal: Virology 168 (2), 421-425 (1989), Year: 1989",
+        "SubmissionSet": "Auperin (1989, 2916333). Nucleotide sequence of the Lassa virus (Josiah strain) S genome RNA and amino acid sequence comparison of the N and GPC proteins to other arenaviruses. Virology 168 (2), 421-425 (1989)",
         "PubID": 45,
-        "Publication": "PMID: 2916333, Title: Nucleotide sequence of the Lassa virus (Josiah strain) S genome RNA and amino acid sequence comparison of the N and GPC proteins to other arenaviruses., Authors: Auperin DD; McCormick JB, Journal: Virology, Year: 1989",
+        "Publication": "Auperin (1989, 2916333). Nucleotide sequence of the Lassa virus (Josiah strain) S genome RNA and amino acid sequence comparison of the N and GPC proteins to other arenaviruses.. Virology",
         "ShortName": "Auperin (1989, 2916333)"
     },
     {
         "RefID": 3,
-        "SubmissionSet": "PMID: 3750844, Title: Nucleotide sequence of the glycoprotein gene and intergenic region of the Lassa virus S genome RNA, Authors: Auperin D., Sasso D., Mccormick J., Journal: Virology 154 (1), 155-167 (1986), Year: 1986",
+        "SubmissionSet": "Auperin (1986, 3750844). Nucleotide sequence of the glycoprotein gene and intergenic region of the Lassa virus S genome RNA. Virology 154 (1), 155-167 (1986)",
         "PubID": 46,
-        "Publication": "PMID: 3750844, Title: Nucleotide sequence of the glycoprotein gene and intergenic region of the Lassa virus S genome RNA., Authors: Auperin DD; Sasso DR; McCormick JB, Journal: Virology, Year: 1986",
+        "Publication": "Auperin (1986, 3750844). Nucleotide sequence of the glycoprotein gene and intergenic region of the Lassa virus S genome RNA.. Virology",
         "ShortName": "Auperin (1986, 3750844)"
     },
     {
-        "RefID": 4,
-        "SubmissionSet": "Title: Viral nucleic acid microarray and method of use, Authors: Baptista C., Wu X., Munroe D., Journal: Patent, Year: 2007",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Baptista (2007)"
-    },
-    {
-        "RefID": 5,
-        "SubmissionSet": "Title: Direct Submission, Authors: Bjornson-hooper Z., Gire S., Honko A., Sabeti P., Hensley L., Journal:  Virology, United States Army Medical Research Institute for Infectious Diseases, 1425 Porter St, Frederick, MD 21702, USA, Year: 2011",
-        "PubID": 5,
-        "Publication": "PMID: 36968239, Title: Identifying the genetic basis of viral spillover using Lassa virus as a test case., Authors: Whitlock AOB; Bird BH; Ghersi B; Davison AJ; Hughes J; Nichols J; Vu\u0192\u00e7ak M; Amara E; Bangura J; Lavalie EG; Kanu MC; Kanu OT; Sjodin A; Remien CH; Nuismer SL, Journal: R Soc Open Sci, Year: 2023",
-        "ShortName": "Whitlock (2023, 36968239)"
-    },
-    {
-        "RefID": 6,
-        "SubmissionSet": "Title: LASSA VIRUS-LIKE PARTICLES AND METHODS OF PRODUCTION THEREOF, Authors: Branco L., Garry R., Journal: Patent, Year: 2012",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Branco (2012)"
-    },
-    {
         "RefID": 7,
-        "SubmissionSet": "PMID: 3840620, Title: Molecular cloning of Lassa virus RNA: nucleotide sequence and expression of the nucleocapsid protein gene, Authors: Clegg J., Oram J., Journal: Virology 144 (2), 363-372 (1985), Year: 1985",
+        "SubmissionSet": "Clegg (1985, 3840620). Molecular cloning of Lassa virus RNA: nucleotide sequence and expression of the nucleocapsid protein gene. Virology 144 (2), 363-372 (1985)",
         "PubID": 47,
-        "Publication": "PMID: 3840620, Title: Molecular cloning of Lassa virus RNA: nucleotide sequence and expression of the nucleocapsid protein gene., Authors: Clegg JC; Oram JD, Journal: Virology, Year: 1985",
+        "Publication": "Clegg (1985, 3840620). Molecular cloning of Lassa virus RNA: nucleotide sequence and expression of the nucleocapsid protein gene.. Virology",
         "ShortName": "Clegg (1985, 3840620)"
     },
     {
-        "RefID": 8,
-        "SubmissionSet": "Title: Direct Submission, Authors: Gerhardt D., Sword J., Wohl S., Barnes K., Sabeti P., Hensley L., Olinger G., Jahrling P., Honko A., Journal:  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA, Year: 2017",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Gerhardt (2017)"
-    },
-    {
-        "RefID": 9,
-        "SubmissionSet": "Title: Direct Submission, Authors: Hain T., Journal:  Institute for Medical Microbiology, NGS core facility, Justus-Liebig-University, Institute for Medical Microbiology, Schuberttrasse 81, 35392 Giessen, Hessia, 35392, Germany, Year: 2016",
-        "PubID": 19,
-        "Publication": "PMID: 29460758, Title: New Lineage of Lassa Virus, Togo, 2016., Authors: Whitmer SLM; Strecker T; Cadar D; Dienes HP; Faber K; Patel K; Brown SM; Davis WG; Klena JD; Rollin PE; Schmidt-Chanasit J; Fichet-Calvet E; Noack B; Emmerich P; Rieger T; Wolff S; Fehling SK; Eickmann M; Mengel JP; Schultze T; Hain T; Ampofo W; Bonney K; Aryeequaye JND; Ribner B; Varkey JB; Mehta AK; Lyon GM 3rd; Kann G; De Leuw P; Schuettfort G; Stephan C; Wieland U; Fries JWU; Kochanek M; Kraft CS; Wolf T; Nichol ST; Becker S; Str\u221a\u2202her U; G\u221a\u00banther S, Journal: Emerg Infect Dis, Year: 2018",
-        "ShortName": "Whitmer (2018, 29460758)"
-    },
-    {
-        "RefID": 9,
-        "SubmissionSet": "Title: Direct Submission, Authors: Hain T., Journal:  Institute for Medical Microbiology, NGS core facility, Justus-Liebig-University, Institute for Medical Microbiology, Schuberttrasse 81, 35392 Giessen, Hessia, 35392, Germany, Year: 2016",
-        "PubID": 20,
-        "Publication": "PMID: 27660771, Title: Genome Sequence of Lassa Virus Isolated from the First Domestically Acquired Case in Germany., Authors: Wolff S; Schultze T; Fehling SK; Mengel JP; Kann G; Wolf T; Eickmann M; Becker S; Hain T; Strecker T, Journal: Genome Announc, Year: 2016",
-        "ShortName": "Wolff (2016, 27660771)"
-    },
-    {
-        "RefID": 10,
-        "SubmissionSet": "Title: COMPOSITIONS FOR USE IN IDENTIFICATION OF VIRAL HEMORRHAGIC FEVER VIRUSES, Authors: Hall T., Sampath R., Eshoo M., Journal: Patent, Year: 2008",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Hall (2008)"
-    },
-    {
-        "RefID": 11,
-        "SubmissionSet": "Title: Direct Submission, Authors: Happi A., Ogunsanya O., Sijuwola A., Saibu F., Akano K., Ayinla A., Nwofoke C., Daodu R., Adedokun O., Fadele J., Elias O., Ogundana K., Lawal O., Adelabu A., Nosamiefan I., Okolie J., Parker Z., Mccauley M., Lombardi K., Eller L., Broach E., Prins P., Parker E., Page B., Heeney J., Modjarrad K., Collins N., Vasan S., Happi C., Journal:  ACEGID, Redeemers University, Ede, Osun PMB230, Nigeria, Year: 2024",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Happi (2024)"
-    },
-    {
-        "RefID": 12,
-        "SubmissionSet": "Title: LASSA VIRUS ANTIGENIC COMPOSITION, Authors: Hewson R., Dowall S., Kennedy E., Journal: Patent, Year: 2019",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Hewson (2019)"
-    },
-    {
-        "RefID": 13,
-        "SubmissionSet": "Title: Direct Submission, Authors: Honko A., Gerhardt D., Wohl S., Barnes K., Sabeti P., Hensley L., Olinger G., Jahrling P., Sword J., Journal:  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA, Year: 2017",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Honko (2017)"
-    },
-    {
-        "RefID": 14,
-        "SubmissionSet": "Title: Direct Submission, Authors: Honko A., Hensley L., Wohl S., Barnes K., Sabeti P., Olinger G., Jahrling P., Sword J., Journal:  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA, Year: 2017",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Honko (2017)"
-    },
-    {
-        "RefID": 15,
-        "SubmissionSet": "Title: Method and means for high-throughput-screening of compounds that exhibit anti-arenavirus activity, Authors: Klewitz C., Ter meulen J., Journal: Patent, Year: 2007",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Klewitz (2007)"
-    },
-    {
-        "RefID": 16,
-        "SubmissionSet": "Title: Gene therapy of solid tumours by means of retroviral vectors pseudotyped with arenavirus glycoproteins, Authors: Laer D., Miletic H., Fischer Y., Journal: Patent, Year: 2006",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Laer (2006)"
-    },
-    {
-        "RefID": 17,
-        "SubmissionSet": "Title: Pseudotyping of foamy viruses, Authors: Lindemann D., Ho Y., Schnabel V., Journal: Patent, Year: 2013",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Lindemann (2013)"
-    },
-    {
-        "RefID": 18,
-        "SubmissionSet": "Title: ISOTHERMAL AMPLIFICATION ASSAY FOR RAPID AND ACCURATE DETECTION OF HEMORRHAGIC FEVER VIRUSES IN CLINICAL SAMPLES, Authors: Manuguerra J., Escadafal C., Kwasiborski A., Vanhomwegen J., Journal: Patent, Year: 2016",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Manuguerra (2016)"
-    },
-    {
-        "RefID": 19,
-        "SubmissionSet": "Title: Modified Microbial Nucleic Acid, Authors: Millar D., Meruki J., Journal: Patent, Year: 2009",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Millar (2009)"
-    },
-    {
-        "RefID": 20,
-        "SubmissionSet": "Title: Direct Submission, Authors: NCBI, Journal:  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA, Year: 2002",
-        "PubID": 5,
-        "Publication": "PMID: 36968239, Title: Identifying the genetic basis of viral spillover using Lassa virus as a test case., Authors: Whitlock AOB; Bird BH; Ghersi B; Davison AJ; Hughes J; Nichols J; Vu\u0192\u00e7ak M; Amara E; Bangura J; Lavalie EG; Kanu MC; Kanu OT; Sjodin A; Remien CH; Nuismer SL, Journal: R Soc Open Sci, Year: 2023",
-        "ShortName": "Whitlock (2023, 36968239)"
-    },
-    {
-        "RefID": 21,
-        "SubmissionSet": "Title: Direct Submission, Authors: NCBI, Journal:  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA, Year: 2007",
-        "PubID": 5,
-        "Publication": "PMID: 36968239, Title: Identifying the genetic basis of viral spillover using Lassa virus as a test case., Authors: Whitlock AOB; Bird BH; Ghersi B; Davison AJ; Hughes J; Nichols J; Vu\u0192\u00e7ak M; Amara E; Bangura J; Lavalie EG; Kanu MC; Kanu OT; Sjodin A; Remien CH; Nuismer SL, Journal: R Soc Open Sci, Year: 2023",
-        "ShortName": "Whitlock (2023, 36968239)"
-    },
-    {
-        "RefID": 22,
-        "SubmissionSet": "Title: Direct Submission, Authors: NCBI, Journal:  One Health Institute & Karen C Drayer Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, 1089 Veterinary Medicine Drive, Davis, CA 95616, USA, Year: 2020",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "NCBI (2020)"
-    },
-    {
-        "RefID": 23,
-        "SubmissionSet": "Title: Direct Submission, Authors: Qinghua X., Changqiang Z., Weilong T., Journal:  Huadong Research Institute for Medicine and Biotechniques, Jiangsu, China, Nanjing Bioengineering(Gene) Technology Center for Medicines, Jiangsu, China, 293 Zhongshan East Road, Nanjing, Jiangsu 210018, China, Year: 2022",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Qinghua (2022)"
-    },
-    {
-        "RefID": 24,
-        "SubmissionSet": "Title: Direct Submission, Authors: Rieger T., Cadar D., Schmidt-chanasit J., Gunther S., Journal:  WHO Collaborating Centre for Arboviruses and Hemorrhagic Fever Reference and Research, Bernhard Nocht Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Hamburg 20359, Germany, Year: 2016",
-        "PubID": 19,
-        "Publication": "PMID: 29460758, Title: New Lineage of Lassa Virus, Togo, 2016., Authors: Whitmer SLM; Strecker T; Cadar D; Dienes HP; Faber K; Patel K; Brown SM; Davis WG; Klena JD; Rollin PE; Schmidt-Chanasit J; Fichet-Calvet E; Noack B; Emmerich P; Rieger T; Wolff S; Fehling SK; Eickmann M; Mengel JP; Schultze T; Hain T; Ampofo W; Bonney K; Aryeequaye JND; Ribner B; Varkey JB; Mehta AK; Lyon GM 3rd; Kann G; De Leuw P; Schuettfort G; Stephan C; Wieland U; Fries JWU; Kochanek M; Kraft CS; Wolf T; Nichol ST; Becker S; Str\u221a\u2202her U; G\u221a\u00banther S, Journal: Emerg Infect Dis, Year: 2018",
-        "ShortName": "Whitmer (2018, 29460758)"
-    },
-    {
-        "RefID": 24,
-        "SubmissionSet": "Title: Direct Submission, Authors: Rieger T., Cadar D., Schmidt-chanasit J., Gunther S., Journal:  WHO Collaborating Centre for Arboviruses and Hemorrhagic Fever Reference and Research, Bernhard Nocht Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Hamburg 20359, Germany, Year: 2016",
-        "PubID": 56,
-        "Publication": "PMID: 30050872, Title: The S Genome Segment Is Sufficient to Maintain Pathogenicity in Intra-Clade Lassa Virus Reassortants in a Guinea Pig Model., Authors: Welch SR; Scholte FEM; Albari\u221a\u00b1o CG; Kainulainen MH; Coleman-McCray JD; Guerrero LW; Chakrabarti AK; Klena JD; Nichol ST; Spengler JR; Spiropoulou CF, Journal: Front Cell Infect Microbiol, Year: 2018",
-        "ShortName": "Welch (2018, 30050872)"
-    },
-    {
-        "RefID": 25,
-        "SubmissionSet": "Title: Direct Submission, Authors: Rossi S., Guerbois M., Forrester N., Ksiazek T., Lin D., Hari K., Weaver S., Journal:  Microbiology and Immunology, University of Texas Medical Branch, 301 University Boulevard, Galveston, TX 77555, USA, Year: 2016",
-        "PubID": 54,
-        "Publication": "PMID: 32174454, Title: Adaptive genetic diversification of Lassa virus associated with the epidemic split of north-central Nigerian and non-Nigerian lineages., Authors: Li Y; Tian H, Journal: Virology, Year: 2020",
-        "ShortName": "Li (2020, 32174454)"
-    },
-    {
-        "RefID": 25,
-        "SubmissionSet": "Title: Direct Submission, Authors: Rossi S., Guerbois M., Forrester N., Ksiazek T., Lin D., Hari K., Weaver S., Journal:  Microbiology and Immunology, University of Texas Medical Branch, 301 University Boulevard, Galveston, TX 77555, USA, Year: 2016",
-        "PubID": 56,
-        "Publication": "PMID: 30050872, Title: The S Genome Segment Is Sufficient to Maintain Pathogenicity in Intra-Clade Lassa Virus Reassortants in a Guinea Pig Model., Authors: Welch SR; Scholte FEM; Albari\u221a\u00b1o CG; Kainulainen MH; Coleman-McCray JD; Guerrero LW; Chakrabarti AK; Klena JD; Nichol ST; Spengler JR; Spiropoulou CF, Journal: Front Cell Infect Microbiol, Year: 2018",
-        "ShortName": "Welch (2018, 30050872)"
-    },
-    {
-        "RefID": 26,
-        "SubmissionSet": "Title: RNA CONSTRUCT, Authors: Shattock R., Mckay P., Watson M., Harper E., Journal: Patent, Year: 2023",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Shattock (2023)"
-    },
-    {
-        "RefID": 27,
-        "SubmissionSet": "Title: Direct Submission, Authors: Sword J., Johnson J., Wohl S., Barnes K., Sabeti P., Gerhardt D., Hensley L., Olinger G., Jahrling P., Honko A., Journal:  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA, Year: 2017",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Sword (2017)"
-    },
-    {
-        "RefID": 28,
-        "SubmissionSet": "Title: CHIMERIC VSV VIRUS COMPOSITIONS AND METHODS OF USE THEREOF FOR TREATMENT OF CANCER, Authors: Van D., Wollmann G., Journal: Patent, Year: 2015",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Van (2015)"
-    },
-    {
         "RefID": 29,
-        "SubmissionSet": "PMID: 37288752, Title: Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice, Authors: Abejegah C., Adesina A., Akhilomen P., Asogun D., Ayodeji O., Bangura U., Davis C., Fichet-calvet E., Gunther S., Igbokwe J., Obadare A., Olayemi A., Osoniyi O., Oyeyiola A., Pahlmann M., Thomson E., Tobin E., Journal: 2219350 (2023), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerg Microbes Infect 12 (1), Germany, Hamburg 20359, Virology, Year: 2023",
+        "SubmissionSet": "Abejegah (2023, 37288752). Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice. 2219350 (2023), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerg Microbes Infect 12 (1), Germany, Hamburg 20359, Virology",
         "PubID": 4,
-        "Publication": "PMID: 37288752, Title: Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice., Authors: Adesina AS; Oyeyiola A; Obadare A; Igbokwe J; Abejegah C; Akhilomen P; Bangura U; Asogun D; Tobin E; Ayodeji O; Osoniyi O; Davis C; Thomson EC; Pahlmann M; G\u221a\u00banther S; Fichet-Calvet E; Olayemi A, Journal: Emerg Microbes Infect, Year: 2023",
+        "Publication": "Adesina (2023, 37288752). Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice.. Emerg Microbes Infect",
         "ShortName": "Adesina (2023, 37288752)"
     },
     {
-        "RefID": 30,
-        "SubmissionSet": "Title: RESEQUENCING PATHOGEN MICROARRAY, Authors: Agan B., Hanson E., Kruzelock R., Kuruzerokku R., Lin B., Rowley R., Seto D., Stenger D., Thach D., Thomton J., Thornton J., Tibbetts C., Vora G., Walter E., Wang Z., Journal: Patent, Year: 2007, 2008, 2011",
-        "PubID": "",
-        "Publication": "",
-        "ShortName": "Agan (2008)"
-    },
-    {
         "RefID": 31,
-        "SubmissionSet": "PMID: 21307206, Title: Efficient rescue of recombinant lassa virus reveals the influence of s segment noncoding regions on virus replication and virulence, Authors: Albarino C., Bird B., Chakrabarti A., Dodd K., Erickson B., Nichol S., Journal: 1600 Clifton Rd., 4020-4024 (2011), Atlanta, Centers for Disease Control and Prevention, Division, GA 30333, J. Virol. 85 (8), USA, Viral Special Pathogens Branch, Year: 2010, 2011",
+        "SubmissionSet": "Albarino (2011, 21307206). Efficient rescue of recombinant lassa virus reveals the influence of s segment noncoding regions on virus replication and virulence. 1600 Clifton Rd., 4020-4024 (2011), Atlanta, Centers for Disease Control and Prevention, Division, GA 30333, J. Virol. 85 (8), USA, Viral Special Pathogens Branch",
         "PubID": 61,
-        "Publication": "PMID: 21307206, Title: Efficient rescue of recombinant Lassa virus reveals the influence of S segment noncoding regions on virus replication and virulence., Authors: Albari\u221a\u00b1o CG; Bird BH; Chakrabarti AK; Dodd KA; Erickson BR; Nichol ST, Journal: J Virol, Year: 2011",
+        "Publication": "Albari\u221a\u00b1o (2011, 21307206). Efficient rescue of recombinant Lassa virus reveals the influence of S segment noncoding regions on virus replication and virulence.. J Virol",
         "ShortName": "Albari\u221a\u00b1o (2011, 21307206)"
     },
     {
         "RefID": 32,
-        "SubmissionSet": "Title: Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus, Authors: Andersen K., Birren B., Ehiane P., England E., Folarin O., Garry R., Gire S., Gnirke A., Goba A., Happi C., Hensley L., Levin J., Matranga C., Momoh M., Moses L., Odia I., Sabeti P., Sealfon R., Shapiro B., Stremlau M., Winnicki S., Journal: 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished, Year: 2014",
+        "SubmissionSet": "Andersen (2014). Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus. 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished",
         "PubID": 2,
-        "Publication": "PMID: 38047354, Title: Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa., Authors: Bangura U; Davis C; Lamin J; Bangura J; Soropogui B; Davison AJ; Nichols J; Vucak M; Dawson M; Ansumana R; Sondufu D; Cadar D; Rieger T; Thomson E; Sahr F; Magassouba N; Ghersi B; Bird BH; Fichet-Calvet E, Journal: Emerg Microbes Infect, Year: 2024",
+        "Publication": "Bangura (2024, 38047354). Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa.. Emerg Microbes Infect",
         "ShortName": "Bangura (2024, 38047354)"
     },
     {
         "RefID": 32,
-        "SubmissionSet": "Title: Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus, Authors: Andersen K., Birren B., Ehiane P., England E., Folarin O., Garry R., Gire S., Gnirke A., Goba A., Happi C., Hensley L., Levin J., Matranga C., Momoh M., Moses L., Odia I., Sabeti P., Sealfon R., Shapiro B., Stremlau M., Winnicki S., Journal: 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished, Year: 2014",
+        "SubmissionSet": "Andersen (2014). Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus. 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished",
         "PubID": 5,
-        "Publication": "PMID: 36968239, Title: Identifying the genetic basis of viral spillover using Lassa virus as a test case., Authors: Whitlock AOB; Bird BH; Ghersi B; Davison AJ; Hughes J; Nichols J; Vu\u0192\u00e7ak M; Amara E; Bangura J; Lavalie EG; Kanu MC; Kanu OT; Sjodin A; Remien CH; Nuismer SL, Journal: R Soc Open Sci, Year: 2023",
+        "Publication": "Whitlock (2023, 36968239). Identifying the genetic basis of viral spillover using Lassa virus as a test case.. R Soc Open Sci",
         "ShortName": "Whitlock (2023, 36968239)"
     },
     {
         "RefID": 32,
-        "SubmissionSet": "Title: Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus, Authors: Andersen K., Birren B., Ehiane P., England E., Folarin O., Garry R., Gire S., Gnirke A., Goba A., Happi C., Hensley L., Levin J., Matranga C., Momoh M., Moses L., Odia I., Sabeti P., Sealfon R., Shapiro B., Stremlau M., Winnicki S., Journal: 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished, Year: 2014",
+        "SubmissionSet": "Andersen (2014). Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus. 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished",
         "PubID": 14,
-        "Publication": "PMID: 31413134, Title: Phylogeography of Lassa Virus in Nigeria., Authors: Ehichioya DU; Dellicour S; Pahlmann M; Rieger T; Oestereich L; Becker-Ziaja B; Cadar D; Ighodalo Y; Olokor T; Omomoh E; Oyakhilome J; Omiunu R; Agbukor J; Ebo B; Aiyepada J; Ebhodaghe P; Osiemi B; Ehikhametalor S; Akhilomen P; Airende M; Esumeh R; Muoebonam E; Giwa R; Ekanem A; Igenegbale G; Odigie G; Okonofua G; Enigbe R; Omonegho Yerumoh E; Pallasch E; Bockholt S; Kafetzopoulou LE; Duraffour S; Okokhere PO; Akpede GO; Okogbenin SA; Odia I; Aire C; Akpede N; Tobin E; Ogbaini-Emovon E; Lemey P; Adomeh DI; Asogun DA; G\u221a\u00banther S, Journal: J Virol, Year: 2019",
+        "Publication": "Ehichioya (2019, 31413134). Phylogeography of Lassa Virus in Nigeria.. J Virol",
         "ShortName": "Ehichioya (2019, 31413134)"
     },
     {
         "RefID": 32,
-        "SubmissionSet": "Title: Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus, Authors: Andersen K., Birren B., Ehiane P., England E., Folarin O., Garry R., Gire S., Gnirke A., Goba A., Happi C., Hensley L., Levin J., Matranga C., Momoh M., Moses L., Odia I., Sabeti P., Sealfon R., Shapiro B., Stremlau M., Winnicki S., Journal: 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished, Year: 2014",
+        "SubmissionSet": "Andersen (2014). Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus. 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished",
         "PubID": 25,
-        "Publication": "PMID: 26276630, Title: Clinical Sequencing Uncovers Origins and Evolution of Lassa Virus., Authors: Andersen KG; Shapiro BJ; Matranga CB; Sealfon R; Lin AE; Moses LM; Folarin OA; Goba A; Odia I; Ehiane PE; Momoh M; England EM; Winnicki S; Branco LM; Gire SK; Phelan E; Tariyal R; Tewhey R; Omoniwa O; Fullah M; Fonnie R; Fonnie M; Kanneh L; Jalloh S; Gbakie M; Saffa S; Karbo K; Gladden AD; Qu J; Stremlau M; Nekoui M; Finucane HK; Tabrizi S; Vitti JJ; Birren B; Fitzgerald M; McCowan C; Ireland A; Berlin AM; Bochicchio J; Tazon-Vega B; Lennon NJ; Ryan EM; Bjornson Z; Milner DA Jr; Lukens AK; Broodie N; Rowland M; Heinrich M; Akdag M; Schieffelin JS; Levy D; Akpan H; Bausch DG; Rubins K; McCormick JB; Lander ES; G\u221a\u00banther S; Hensley L; Okogbenin S; Schaffner SF; Okokhere PO; Khan SH; Grant DS; Akpede GO; Asogun DA; Gnirke A; Levin JZ; Happi CT; Garry RF; Sabeti PC, Journal: Cell, Year: 2015",
+        "Publication": "Andersen (2015, 26276630). Clinical Sequencing Uncovers Origins and Evolution of Lassa Virus.. Cell",
         "ShortName": "Andersen (2015, 26276630)"
     },
     {
         "RefID": 32,
-        "SubmissionSet": "Title: Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus, Authors: Andersen K., Birren B., Ehiane P., England E., Folarin O., Garry R., Gire S., Gnirke A., Goba A., Happi C., Hensley L., Levin J., Matranga C., Momoh M., Moses L., Odia I., Sabeti P., Sealfon R., Shapiro B., Stremlau M., Winnicki S., Journal: 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished, Year: 2014",
+        "SubmissionSet": "Andersen (2014). Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus. 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished",
         "PubID": 54,
-        "Publication": "PMID: 32174454, Title: Adaptive genetic diversification of Lassa virus associated with the epidemic split of north-central Nigerian and non-Nigerian lineages., Authors: Li Y; Tian H, Journal: Virology, Year: 2020",
+        "Publication": "Li (2020, 32174454). Adaptive genetic diversification of Lassa virus associated with the epidemic split of north-central Nigerian and non-Nigerian lineages.. Virology",
         "ShortName": "Li (2020, 32174454)"
     },
     {
         "RefID": 32,
-        "SubmissionSet": "Title: Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus, Authors: Andersen K., Birren B., Ehiane P., England E., Folarin O., Garry R., Gire S., Gnirke A., Goba A., Happi C., Hensley L., Levin J., Matranga C., Momoh M., Moses L., Odia I., Sabeti P., Sealfon R., Shapiro B., Stremlau M., Winnicki S., Journal: 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished, Year: 2014",
+        "SubmissionSet": "Andersen (2014). Whole genome-sequencing from clinical and field samples uncovers ancient origins and intra-host evolution of Lassa virus. 75 Ames St, Broad Institute, Cambridge, MA 02142, USA, Unpublished",
         "PubID": 56,
-        "Publication": "PMID: 30050872, Title: The S Genome Segment Is Sufficient to Maintain Pathogenicity in Intra-Clade Lassa Virus Reassortants in a Guinea Pig Model., Authors: Welch SR; Scholte FEM; Albari\u221a\u00b1o CG; Kainulainen MH; Coleman-McCray JD; Guerrero LW; Chakrabarti AK; Klena JD; Nichol ST; Spengler JR; Spiropoulou CF, Journal: Front Cell Infect Microbiol, Year: 2018",
+        "Publication": "Welch (2018, 30050872). The S Genome Segment Is Sufficient to Maintain Pathogenicity in Intra-Clade Lassa Virus Reassortants in a Guinea Pig Model.. Front Cell Infect Microbiol",
         "ShortName": "Welch (2018, 30050872)"
     },
     {
         "RefID": 33,
-        "SubmissionSet": "PMID: 23029594, Title: Molecular diagnostics for lassa Fever at irrua specialist teaching hospital, Nigeria: lessons learnt from two years of laboratory operation, Authors: Adomeh D., Akhuemokhan O., Akpede G., Alikah S., Andersen K., Asogun D., Becker-ziaja B., Dongo A., Ehiane P., Ehimuan J., Folarin O., Gabriel M., Gire S., Gunther S., Happi C., Hass M., Ifeh V., Imomeh P., Momoh M., Muoebonam E., Odia I., Odike M., Okogbenin S., Okokhere P., Oladapo Y., Olschlager S., Osunde O., Phelan E., Sabeti P., Uyigue E., Journal: Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, E1839 (2012), Germany, Hamburg 20359, PLoS Negl Trop Dis 6 (9), Year: 2011, 2012",
+        "SubmissionSet": "Adomeh (2012, 23029594). Molecular diagnostics for lassa Fever at irrua specialist teaching hospital, Nigeria: lessons learnt from two years of laboratory operation. Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, E1839 (2012), Germany, Hamburg 20359, PLoS Negl Trop Dis 6 (9)",
         "PubID": 59,
-        "Publication": "PMID: 23029594, Title: Molecular diagnostics for lassa fever at Irrua specialist teaching hospital, Nigeria: lessons learnt from two years of laboratory operation., Authors: Asogun DA; Adomeh DI; Ehimuan J; Odia I; Hass M; Gabriel M; Olschl\u221a\u00a7ger S; Becker-Ziaja B; Folarin O; Phelan E; Ehiane PE; Ifeh VE; Uyigue EA; Oladapo YT; Muoebonam EB; Osunde O; Dongo A; Okokhere PO; Okogbenin SA; Momoh M; Alikah SO; Akhuemokhan OC; Imomeh P; Odike MA; Gire S; Andersen K; Sabeti PC; Happi CT; Akpede GO; G\u221a\u00banther S, Journal: PLoS Negl Trop Dis, Year: 2012",
+        "Publication": "Asogun (2012, 23029594). Molecular diagnostics for lassa fever at Irrua specialist teaching hospital, Nigeria: lessons learnt from two years of laboratory operation.. PLoS Negl Trop Dis",
         "ShortName": "Asogun (2012, 23029594)"
     },
     {
         "RefID": 34,
-        "SubmissionSet": "Title: A Case of Imported Lassa Fever from Mali, Authors: Anaraki S., Atkin S., Brown D., Gopal R., Gothard P., Hand J., Morgan D., Walsh A., Journal: 61 Colindale Avenue, Colindale, Euro Surveill. (2009) In press, HPA Centre for Infections, London NW9 5HT, United Kingdom, Virus Reference Department, Year: 2009",
+        "SubmissionSet": "Anaraki (2009). A Case of Imported Lassa Fever from Mali. 61 Colindale Avenue, Colindale, Euro Surveill. (2009) In press, HPA Centre for Infections, London NW9 5HT, United Kingdom, Virus Reference Department",
         "PubID": "",
         "Publication": "",
         "ShortName": "Anaraki (2009)"
     },
     {
         "RefID": 35,
-        "SubmissionSet": "Title: Differential pathogenesis in closely related 2018 Nigerian outbreak clade III Lassa virus isolates, Authors: Ahmad A., Akinpelu A., Albietz A., Audet J., Griffin B., Grolla A., Ihekweazu C., Kobasa D., Leung A., Mba N., Musa A., Qiu X., Safronetz D., Soule G., Sroga P., Stein D., Tierney K., Warner B., Journal: 1015 Arlington street, Canada, Manitoba R3E 3R2, Public Health Agency of Canada, Special Pathogens, Unpublished, Winnipeg, Year: 2021",
+        "SubmissionSet": "Ahmad (2021). Differential pathogenesis in closely related 2018 Nigerian outbreak clade III Lassa virus isolates. 1015 Arlington street, Canada, Manitoba R3E 3R2, Public Health Agency of Canada, Special Pathogens, Unpublished, Winnipeg",
         "PubID": 51,
-        "Publication": "PMID: 36992478, Title: An Outbred Guinea Pig Disease Model for Lassa Fever Using a Host-Adapted Clade III Nigerian Lassa Virus., Authors: Deschambault Y; Soule G; Klassen L; Sloan A; Audet J; Azaransky K; Musa AS; Ahmad A; Akinpelu AM; Mba N; Stein DR; Ranson M; Almiski M; Tierney K; Fischer G; Chan M; Safronetz D, Journal: Viruses, Year: 2023",
+        "Publication": "Deschambault (2023, 36992478). An Outbred Guinea Pig Disease Model for Lassa Fever Using a Host-Adapted Clade III Nigerian Lassa Virus.. Viruses",
         "ShortName": "Deschambault (2023, 36992478)"
     },
     {
         "RefID": 35,
-        "SubmissionSet": "Title: Differential pathogenesis in closely related 2018 Nigerian outbreak clade III Lassa virus isolates, Authors: Ahmad A., Akinpelu A., Albietz A., Audet J., Griffin B., Grolla A., Ihekweazu C., Kobasa D., Leung A., Mba N., Musa A., Qiu X., Safronetz D., Soule G., Sroga P., Stein D., Tierney K., Warner B., Journal: 1015 Arlington street, Canada, Manitoba R3E 3R2, Public Health Agency of Canada, Special Pathogens, Unpublished, Winnipeg, Year: 2021",
+        "SubmissionSet": "Ahmad (2021). Differential pathogenesis in closely related 2018 Nigerian outbreak clade III Lassa virus isolates. 1015 Arlington street, Canada, Manitoba R3E 3R2, Public Health Agency of Canada, Special Pathogens, Unpublished, Winnipeg",
         "PubID": 52,
-        "Publication": "PMID: 34634087, Title: Differential pathogenesis of closely related 2018 Nigerian outbreak clade III Lassa virus isolates., Authors: Stein DR; Warner BM; Audet J; Soule G; Siragam V; Sroga P; Griffin BD; Leung A; Grolla A; Tierney K; Albietz A; Kobasa D; Musa AS; Ahmad A; Akinpelu AM; Mba N; Rosenke R; Scott DP; Saturday G; Ihekweazu C; Safronetz D, Journal: PLoS Pathog, Year: 2021",
+        "Publication": "Stein (2021, 34634087). Differential pathogenesis of closely related 2018 Nigerian outbreak clade III Lassa virus isolates.. PLoS Pathog",
         "ShortName": "Stein (2021, 34634087)"
     },
     {
         "RefID": 36,
-        "SubmissionSet": "PMID: 33466234, Title: Lassa Virus Circulation in Small Mammal Populations in Bo District, Sierra Leone, Authors: Ansumana R., Bangura U., Bongo G., Buanie J., Davis C., Dawson M., Fichet-calvet E., Lamin J., Sahr F., Sondufu D., Thomson E., Journal: Bernhard-Nocht Institute for Tropical Medicine, Bernhard-Nocht Strasse 74, Biology (Basel) 10 (1), E28 (2021), Germany, Hamburg 20359, Virology, Year: 2020, 2021",
+        "SubmissionSet": "Ansumana (2021, 33466234). Lassa Virus Circulation in Small Mammal Populations in Bo District, Sierra Leone. Bernhard-Nocht Institute for Tropical Medicine, Bernhard-Nocht Strasse 74, Biology (Basel) 10 (1), E28 (2021), Germany, Hamburg 20359, Virology",
         "PubID": 7,
-        "Publication": "PMID: 33466234, Title: Lassa Virus Circulation in Small Mammal Populations in Bo District, Sierra Leone., Authors: Bangura U; Buanie J; Lamin J; Davis C; Bongo GN; Dawson M; Ansumana R; Sondufu D; Thomson EC; Sahr F; Fichet-Calvet E, Journal: Biology (Basel), Year: 2021",
+        "Publication": "Bangura (2021, 33466234). Lassa Virus Circulation in Small Mammal Populations in Bo District, Sierra Leone.. Biology (Basel)",
         "ShortName": "Bangura (2021, 33466234)"
     },
     {
         "RefID": 37,
-        "SubmissionSet": "PMID: 38047354, Title: Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa, Authors: Ansumana R., Bangura J., Bangura U., Bird B., Cadar D., Davis C., Davison A., Dawson M., Fichet-calvet E., Ghersi B., Lamin J., Magassouba N., Nichols J., Rieger T., Sahr F., Sondufu D., Soropogui B., Thomson E., Vucak M., Journal: 2290834 (2023) In press, Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerg Microbes Infect, Germany, Hamburg 20359, Virology, Year: 2023",
+        "SubmissionSet": "Ansumana (2023, 38047354). Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa. 2290834 (2023) In press, Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerg Microbes Infect, Germany, Hamburg 20359, Virology",
         "PubID": 2,
-        "Publication": "PMID: 38047354, Title: Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa., Authors: Bangura U; Davis C; Lamin J; Bangura J; Soropogui B; Davison AJ; Nichols J; Vucak M; Dawson M; Ansumana R; Sondufu D; Cadar D; Rieger T; Thomson E; Sahr F; Magassouba N; Ghersi B; Bird BH; Fichet-Calvet E, Journal: Emerg Microbes Infect, Year: 2024",
+        "Publication": "Bangura (2024, 38047354). Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa.. Emerg Microbes Infect",
         "ShortName": "Bangura (2024, 38047354)"
     },
     {
         "RefID": 38,
-        "SubmissionSet": "Title: Bamako, Recent detection of Lassa and Crimean-Congo haemorrhagic fever virus infections in the capital of Mali, Authors: Baumann J., Mandy K., Journal: Bavaria 80937, Bundeswehr Institute of Microbiology, Germany, Munich, Neuherbergstr. 11, Unpublished, Year: 2018",
+        "SubmissionSet": "Baumann (2018). Bamako, Recent detection of Lassa and Crimean-Congo haemorrhagic fever virus infections in the capital of Mali. Bavaria 80937, Bundeswehr Institute of Microbiology, Germany, Munich, Neuherbergstr. 11, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Baumann (2018)"
     },
     {
         "RefID": 39,
-        "SubmissionSet": "Title: Molecular confirmation of imported Lassa fever cases into Ghana, Authors: Adjabeng M., Agbenohevi P., Amankwa J., Ametepi R., Ampofo W., Bonney J., Kyei N., Nimo paintsil S., Nyarko E., Ohene S., Sarkodie B., Journal: Accra, Ghana, Greater Accra, Noguchi Memorial Institute for Medical Research, Off Noguchi Circle, University of Ghana, Unpublished, Virology Department, Year: 2013",
+        "SubmissionSet": "Adjabeng (2013). Molecular confirmation of imported Lassa fever cases into Ghana. Accra, Ghana, Greater Accra, Noguchi Memorial Institute for Medical Research, Off Noguchi Circle, University of Ghana, Unpublished, Virology Department",
         "PubID": 22,
-        "Publication": "PMID: 28879105, Title: Molecular confirmation of Lassa fever imported into Ghana., Authors: Bonney JHK; Nyarko EO; Ohene SA; Amankwa J; Ametepi RK; Nimo-Paintsil SC; Sarkodie B; Agbenohevi P; Adjabeng M; Kyei NNA; Bel-Nono S; Ampofo WK, Journal: Afr J Lab Med, Year: 2016",
+        "Publication": "Bonney (2016, 28879105). Molecular confirmation of Lassa fever imported into Ghana.. Afr J Lab Med",
         "ShortName": "Bonney (2016, 28879105)"
     },
     {
         "RefID": 40,
-        "SubmissionSet": "PMID: 9417890, Title: Phylogenetic analysis of the Arenaviridae: patterns of virus evolution and evidence for cospeciation between arenaviruses and their rodent hosts, Authors: Bowen M., Nichol S., Peters C., Journal: 1600 Clifton Rd, 301-316 (1997), Atlanta, Centers for Disease Control and Prevention, GA 30333, Mol. Phylogenet. Evol. 8 (3), N.E., Special Pathogens Branch, USA, Year: 1996, 1997",
+        "SubmissionSet": "Bowen (1997, 9417890). Phylogenetic analysis of the Arenaviridae: patterns of virus evolution and evidence for cospeciation between arenaviruses and their rodent hosts. 1600 Clifton Rd, 301-316 (1997), Atlanta, Centers for Disease Control and Prevention, GA 30333, Mol. Phylogenet. Evol. 8 (3), N.E., Special Pathogens Branch, USA",
         "PubID": 76,
-        "Publication": "PMID: 9417890, Title: Phylogenetic analysis of the Arenaviridae: patterns of virus evolution and evidence for cospeciation between arenaviruses and their rodent hosts, Authors: Bowen MD, Peters CJ, Nichol ST., Journal: Mol Phylogenet Evol. 1997 Dec;8(3):301-16. doi: 10.1006/mpev.1997.0436., Year: 1997",
+        "Publication": "Bowen (1997, 9417890). Phylogenetic analysis of the Arenaviridae: patterns of virus evolution and evidence for cospeciation between arenaviruses and their rodent hosts. Mol Phylogenet Evol. 1997 Dec;8(3):301-16. doi: 10.1006/mpev.1997.0436.",
         "ShortName": "Bowen (1997, 9417890)"
     },
     {
         "RefID": 41,
-        "SubmissionSet": "PMID: 10888638, Title: Genetic diversity among Lassa virus strains, Authors: Bajani M., Bausch D., Bowen M., Demby A., Hustad H., Ksiazek T., Nichol S., Peters C., Rollin P., Journal: 1600 Clifton Rd. N.E., 6992-7004 (2000), Atlanta, Centers for Disease Control and Prevention, GA 30333, J. Virol. 74 (15), MS G14, Special Pathogens Branch, USA, Year: 1999, 2000",
+        "SubmissionSet": "Bajani (2000, 10888638). Genetic diversity among Lassa virus strains. 1600 Clifton Rd. N.E., 6992-7004 (2000), Atlanta, Centers for Disease Control and Prevention, GA 30333, J. Virol. 74 (15), MS G14, Special Pathogens Branch, USA",
         "PubID": 41,
-        "Publication": "PMID: 10888638, Title: Genetic diversity among Lassa virus strains., Authors: Bowen MD; Rollin PE; Ksiazek TG; Hustad HL; Bausch DG; Demby AH; Bajani MD; Peters CJ; Nichol ST, Journal: J Virol, Year: 2000",
+        "Publication": "Bowen (2000, 10888638). Genetic diversity among Lassa virus strains.. J Virol",
         "ShortName": "Bowen (2000, 10888638)"
     },
     {
         "RefID": 42,
-        "SubmissionSet": "PMID: 26196447, Title: 2013, Cote d'Ivoire, Lassa Virus in Multimammate Rats, Authors: Akoua-koffi C., Allali B., Calvignac-spencer S., Couacy-hymann E., Kouadio L., Kruger D., Leendertz F., Nowak K., Weiss S., Witkowski P., Journal: 13353, 1481-1483 (2015), Emerging Infect. Dis. 21 (8), Epidemiology of Highly Pathogenic, GERMANY, Microorganisms, Nordufer 20, ROBERT KOCH INSTITUT, Robert-Koch Institut, Year: 2015",
+        "SubmissionSet": "Akoua-koffi (2015, 26196447). 2013, Cote d'Ivoire, Lassa Virus in Multimammate Rats. 13353, 1481-1483 (2015), Emerging Infect. Dis. 21 (8), Epidemiology of Highly Pathogenic, GERMANY, Microorganisms, Nordufer 20, ROBERT KOCH INSTITUT, Robert-Koch Institut",
         "PubID": 26,
-        "Publication": "PMID: 26196447, Title: Lassa Virus in Multimammate Rats, C\u00f4te d\u2019Ivoire, 2013., Authors: Kouadio L; Nowak K; Akoua-Koffi C; Weiss S; Allali BK; Witkowski PT; Kr\u221a\u00bager DH; Couacy-Hymann E; Calvignac-Spencer S; Leendertz FH, Journal: Emerg Infect Dis, Year: 2015",
+        "Publication": "Kouadio (2015, 26196447). Lassa Virus in Multimammate Rats, C\u00f4te d\u2019Ivoire, 2013.. Emerg Infect Dis",
         "ShortName": "Kouadio (2015, 26196447)"
     },
     {
         "RefID": 43,
-        "SubmissionSet": "Title: A Lassa virus live attenuated vaccine candidate that is safe and efficacious in guinea pigs, Authors: Carey B., Carlos de la torre J., Cubitt B., Geiger J., Hirsch S., Kuhn J., Martinez-sobrido L., Mehta M., Ye C., Yu S., Journal: 8200 Research Plaza, Frederick, IRF, MD 21702, NIH/NIAID, USA, Unpublished, Year: 2024",
+        "SubmissionSet": "Carey (2024). A Lassa virus live attenuated vaccine candidate that is safe and efficacious in guinea pigs. 8200 Research Plaza, Frederick, IRF, MD 21702, NIH/NIAID, USA, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Carey (2024)"
     },
     {
         "RefID": 44,
-        "SubmissionSet": "PMID: 21880754, Title: Lassa virus nucleoprotein mutants generated by reverse genetics induce a robust type I interferon response in human dendritic cells and macrophages, Authors: Baize S., Bouloy M., Carnec X., Caro V., Diancourt L., Reynard S., Tordo N., Journal: 12093-12097 (2011), 28 rue du docteur Roux, 75015, FRANCE, Genotyping of Pathogens and Public Health, Institut Pasteur, J. Virol. 85 (22), Paris, to the INSDC. Caro V., Year: 2011",
+        "SubmissionSet": "Baize (2011, 21880754). Lassa virus nucleoprotein mutants generated by reverse genetics induce a robust type I interferon response in human dendritic cells and macrophages. 12093-12097 (2011), 28 rue du docteur Roux, 75015, FRANCE, Genotyping of Pathogens and Public Health, Institut Pasteur, J. Virol. 85 (22), Paris, to the INSDC. Caro V.",
         "PubID": 67,
-        "Publication": "PMID: 21880754, Title: Lassa virus nucleoprotein mutants generated by reverse genetics induce a robust type I interferon response in human dendritic cells and macrophages., Authors: Carnec X; Baize S; Reynard S; Diancourt L; Caro V; Tordo N; Bouloy M, Journal: J Virol, Year: 2011",
+        "Publication": "Carnec (2011, 21880754). Lassa virus nucleoprotein mutants generated by reverse genetics induce a robust type I interferon response in human dendritic cells and macrophages.. J Virol",
         "ShortName": "Carnec (2011, 21880754)"
     },
     {
         "RefID": 45,
-        "SubmissionSet": "PMID: 14698659, Title: New insights into the evolutionary relationships between arenaviruses provided by comparative analysis of small and large segment sequences, Authors: Charrel R., De lamballerie X., De micco P., Feldmann H., Garbutt M., Khelifa R., Lemasson J., Journal: 191-196 (2003), 27 Blvd Jean Moulin, Faculte de Medecine, France, IFR48, IRD UR034), Marseille 13005, Unite des Virus Emergents (EA3292, Universite de la Mediterranee, Virology 317 (2), Year: 2003",
+        "SubmissionSet": "Charrel (2003, 14698659). New insights into the evolutionary relationships between arenaviruses provided by comparative analysis of small and large segment sequences. 191-196 (2003), 27 Blvd Jean Moulin, Faculte de Medecine, France, IFR48, IRD UR034), Marseille 13005, Unite des Virus Emergents (EA3292, Universite de la Mediterranee, Virology 317 (2)",
         "PubID": 77,
-        "Publication": "PMID: 14698659, Title: New insights into the evolutionary relationships between arenaviruses provided by comparative analysis of small and large segment sequences, Authors: Charrel RN, Lemasson JJ, Garbutt M, Khelifa R, De Micco P, Feldmann H, de Lamballerie X., Journal: Virology. 2003 Dec 20;317(2):191-6. doi: 10.1016/j.virol.2003.08.016., Year: 2003",
+        "Publication": "Charrel (2003, 14698659). New insights into the evolutionary relationships between arenaviruses provided by comparative analysis of small and large segment sequences. Virology. 2003 Dec 20;317(2):191-6. doi: 10.1016/j.virol.2003.08.016.",
         "ShortName": "Charrel (2003, 14698659)"
     },
     {
         "RefID": 46,
-        "SubmissionSet": "Title: Geographical dependence of genetic variability among Lassa virus isolates, Authors: Burton J., Clegg C., Lloyd G., Silman N., Tolley H., Journal: Centre for Applied Microbiology and Research, Clegg C.S., Porton Down, SP4 0JG, Salisbury, Special Pathogens Programme, UNITED KINGDOM, Unpublished, Year: 2001",
+        "SubmissionSet": "Burton (2001). Geographical dependence of genetic variability among Lassa virus isolates. Centre for Applied Microbiology and Research, Clegg C.S., Porton Down, SP4 0JG, Salisbury, Special Pathogens Programme, UNITED KINGDOM, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Burton (2001)"
     },
     {
         "RefID": 47,
-        "SubmissionSet": "PMID: 7883875, Title: Early diagnosis of Lassa fever by reverse transcription-PCR, Authors: Brown D., Chamberlain J., Clegg C., Demby A., Journal: 2898-2903 (1994), Clegg C.S., Health Protection Agency CEPR, J. Clin. Microbiol. 32 (12), Porton Down, SP4 0JG, Salisbury, Special Pathogens Reference Unit, UNITED KINGDOM, Year: 1994, 2005",
+        "SubmissionSet": "Brown (2005, 7883875). Early diagnosis of Lassa fever by reverse transcription-PCR. 2898-2903 (1994), Clegg C.S., Health Protection Agency CEPR, J. Clin. Microbiol. 32 (12), Porton Down, SP4 0JG, Salisbury, Special Pathogens Reference Unit, UNITED KINGDOM",
         "PubID": 68,
-        "Publication": "PMID: 7883875, Title: Early diagnosis of Lassa fever by reverse transcription-PCR., Authors: Demby AH; Chamberlain J; Brown DW; Clegg CS, Journal: J Clin Microbiol, Year: 1994",
+        "Publication": "Demby (1994, 7883875). Early diagnosis of Lassa fever by reverse transcription-PCR.. J Clin Microbiol",
         "ShortName": "Demby (1994, 7883875)"
     },
     {
         "RefID": 48,
-        "SubmissionSet": "PMID: 11987802, Title: Molecular phylogeny of the arenaviruses, Authors: Clegg J., Journal: Curr. Top. Microbiol. Immunol. 262, 1-24 (2002), Year: 2002",
+        "SubmissionSet": "Clegg (2002, 11987802). Molecular phylogeny of the arenaviruses. Curr. Top. Microbiol. Immunol. 262, 1-24 (2002)",
         "PubID": 78,
-        "Publication": "PMID: 11987802, Title: Molecular phylogeny of the arenaviruses, Authors: Clegg JC., Journal: Curr Top Microbiol Immunol. 2002;262:1-24. doi: 10.1007/978-3-642-56029-3_1., Year: 2002",
+        "Publication": "Clegg (2002, 11987802). Molecular phylogeny of the arenaviruses. Curr Top Microbiol Immunol. 2002;262:1-24. doi: 10.1007/978-3-642-56029-3_1.",
         "ShortName": "Clegg (2002, 11987802)"
     },
     {
         "RefID": 49,
-        "SubmissionSet": "PMID: 2042397, Title: Nucleotide sequence of the S RNA of Lassa virus (Nigerian strain) and comparative analysis of arenavirus gene products, Authors: Clegg J., Oram J., Wilson S., Journal: 151-164 (1991), Clegg J.C.S., PHLS Centre for Applied Microbiology and Research, Porton Down, Salisbury SP4 OJG, UK, Virus Res. 18 (2-3), Year: 1990, 1991",
+        "SubmissionSet": "Clegg (1991, 2042397). Nucleotide sequence of the S RNA of Lassa virus (Nigerian strain) and comparative analysis of arenavirus gene products. 151-164 (1991), Clegg J.C.S., PHLS Centre for Applied Microbiology and Research, Porton Down, Salisbury SP4 OJG, UK, Virus Res. 18 (2-3)",
         "PubID": 44,
-        "Publication": "PMID: 2042397, Title: Nucleotide sequence of the S RNA of Lassa virus (Nigerian strain) and comparative analysis of arenavirus gene products., Authors: Clegg JC; Wilson SM; Oram JD, Journal: Virus Res, Year: 1991",
+        "Publication": "Clegg (1991, 2042397). Nucleotide sequence of the S RNA of Lassa virus (Nigerian strain) and comparative analysis of arenavirus gene products.. Virus Res",
         "ShortName": "Clegg (1991, 2042397)"
     },
     {
         "RefID": 50,
-        "SubmissionSet": "PMID: 9281522, Title: Completion of the Lassa fever virus sequence and identification of a RING finger open reading frame at the L RNA 5' End, Authors: Djavani M., Lukashevich I., Nichol S., Salvato M., Sanchez A., Journal: 1300 University Ave, 1300 University Ave., 414-418 (1997), 512 SMI, Madison, Pathology, Pathology and Laboratory Medicine, Rm.#512, SMI, USA, University of Wisconsin, University of Wisconsin-Madison, Virology 235 (2), WI 53706, Year: 1996, 1997, 1999",
+        "SubmissionSet": "Djavani (1997, 9281522). Completion of the Lassa fever virus sequence and identification of a RING finger open reading frame at the L RNA 5' End. 1300 University Ave, 1300 University Ave., 414-418 (1997), 512 SMI, Madison, Pathology, Pathology and Laboratory Medicine, Rm.#512, SMI, USA, University of Wisconsin, University of Wisconsin-Madison, Virology 235 (2), WI 53706",
         "PubID": 42,
-        "Publication": "PMID: 9281522, Title: Completion of the Lassa fever virus sequence and identification of a RING finger open reading frame at the L RNA 5' End., Authors: Djavani M; Lukashevich IS; Sanchez A; Nichol ST; Salvato MS, Journal: Virology, Year: 1997",
+        "Publication": "Djavani (1997, 9281522). Completion of the Lassa fever virus sequence and identification of a RING finger open reading frame at the L RNA 5' End.. Virology",
         "ShortName": "Djavani (1997, 9281522)"
     },
     {
         "RefID": 51,
-        "SubmissionSet": "PMID: 22594713, Title: 2005-2008, Hospital-based surveillance for Lassa fever in Edo State, Nigeria, Authors: Asogun D., Becker-ziaja B., Ehichioya D., Ehimuan J., Gunther S., Okokhere P., Olschlager S., Omilabu S., Pahlmann M., Journal: 1001-1004 (2012), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Trop. Med. Int. Health 17 (8), Year: 2012",
+        "SubmissionSet": "Asogun (2012, 22594713). 2005-2008, Hospital-based surveillance for Lassa fever in Edo State, Nigeria. 1001-1004 (2012), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Trop. Med. Int. Health 17 (8)",
         "PubID": 69,
-        "Publication": "PMID: 22594713, Title: Hospital-based surveillance for Lassa fever in Edo State, Nigeria, 2005-2008., Authors: Ehichioya DU; Asogun DA; Ehimuan J; Okokhere PO; Pahlmann M; Olschl\u221a\u00a7ger S; Becker-Ziaja B; G\u221a\u00banther S; Omilabu SA, Journal: Trop Med Int Health, Year: 2012",
+        "Publication": "Ehichioya (2012, 22594713). Hospital-based surveillance for Lassa fever in Edo State, Nigeria, 2005-2008.. Trop Med Int Health",
         "ShortName": "Ehichioya (2012, 22594713)"
     },
     {
         "RefID": 52,
-        "SubmissionSet": "PMID: 21191050, Title: Current molecular epidemiology of lassa virus in Nigeria, Authors: Akpede G., Asogun D., Becker-ziaja B., Ehichioya D., Ehimuan J., Fichet-calvet E., Gunther S., Hass M., Kleinsteuber K., Lelke M., Olschlager S., Omilabu S., Ter meulen J., Journal: 1157-1161 (2011), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, J. Clin. Microbiol. 49 (3), Virology, Year: 2010, 2011",
+        "SubmissionSet": "Akpede (2011, 21191050). Current molecular epidemiology of lassa virus in Nigeria. 1157-1161 (2011), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, J. Clin. Microbiol. 49 (3), Virology",
         "PubID": 31,
-        "Publication": "PMID: 21191050, Title: Current molecular epidemiology of Lassa virus in Nigeria., Authors: Ehichioya DU; Hass M; Becker-Ziaja B; Ehimuan J; Asogun DA; Fichet-Calvet E; Kleinsteuber K; Lelke M; ter Meulen J; Akpede GO; Omilabu SA; G\u221a\u00banther S; Olschl\u221a\u00a7ger S, Journal: J Clin Microbiol, Year: 2011",
+        "Publication": "Ehichioya (2011, 21191050). Current molecular epidemiology of Lassa virus in Nigeria.. J Clin Microbiol",
         "ShortName": "Ehichioya (2011, 21191050)"
     },
     {
         "RefID": 53,
-        "SubmissionSet": "PMID: 20507773, Title: Lassa fever, Nigeria, 2005-2008, Authors: Ehichioya D., Hass M., Olschlager S., Becker-ziaja B., Onyebuchi chukwu C., Coker J., Nasidi A., Ogugua O., Gunther S., Omilabu S., Journal: Emerging Infect. Dis. 16 (6), 1040-1041 (2010), Year: 2010",
+        "SubmissionSet": "Ehichioya (2010, 20507773). Lassa fever, Nigeria, 2005-2008. Emerging Infect. Dis. 16 (6), 1040-1041 (2010)",
         "PubID": 34,
-        "Publication": "PMID: 20507773, Title: Lassa fever, Nigeria, 2005-2008., Authors: Ehichioya DU; Hass M; Olschl\u221a\u00a7ger S; Becker-Ziaja B; Onyebuchi Chukwu CO; Coker J; Nasidi A; Ogugua OO; G\u221a\u00banther S; Omilabu SA, Journal: Emerg Infect Dis, Year: 2010",
+        "Publication": "Ehichioya (2010, 20507773). Lassa fever, Nigeria, 2005-2008.. Emerg Infect Dis",
         "ShortName": "Ehichioya (2010, 20507773)"
     },
     {
         "RefID": 54,
-        "SubmissionSet": "Title: Phylogeography of Lassa virus in Nigeria, Authors: Asogun D., Cadar D., Duraffour S., Ehichioya D., Gunther S., Kafetzopoulou L., Lemey P., Ogbaini-emovon E., Okogbenin S., Rieger T., Journal: Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished, Year: 2018",
+        "SubmissionSet": "Asogun (2018). Phylogeography of Lassa virus in Nigeria. Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished",
         "PubID": 4,
-        "Publication": "PMID: 37288752, Title: Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice., Authors: Adesina AS; Oyeyiola A; Obadare A; Igbokwe J; Abejegah C; Akhilomen P; Bangura U; Asogun D; Tobin E; Ayodeji O; Osoniyi O; Davis C; Thomson EC; Pahlmann M; G\u221a\u00banther S; Fichet-Calvet E; Olayemi A, Journal: Emerg Microbes Infect, Year: 2023",
+        "Publication": "Adesina (2023, 37288752). Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice.. Emerg Microbes Infect",
         "ShortName": "Adesina (2023, 37288752)"
     },
     {
         "RefID": 54,
-        "SubmissionSet": "Title: Phylogeography of Lassa virus in Nigeria, Authors: Asogun D., Cadar D., Duraffour S., Ehichioya D., Gunther S., Kafetzopoulou L., Lemey P., Ogbaini-emovon E., Okogbenin S., Rieger T., Journal: Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished, Year: 2018",
+        "SubmissionSet": "Asogun (2018). Phylogeography of Lassa virus in Nigeria. Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished",
         "PubID": 14,
-        "Publication": "PMID: 31413134, Title: Phylogeography of Lassa Virus in Nigeria., Authors: Ehichioya DU; Dellicour S; Pahlmann M; Rieger T; Oestereich L; Becker-Ziaja B; Cadar D; Ighodalo Y; Olokor T; Omomoh E; Oyakhilome J; Omiunu R; Agbukor J; Ebo B; Aiyepada J; Ebhodaghe P; Osiemi B; Ehikhametalor S; Akhilomen P; Airende M; Esumeh R; Muoebonam E; Giwa R; Ekanem A; Igenegbale G; Odigie G; Okonofua G; Enigbe R; Omonegho Yerumoh E; Pallasch E; Bockholt S; Kafetzopoulou LE; Duraffour S; Okokhere PO; Akpede GO; Okogbenin SA; Odia I; Aire C; Akpede N; Tobin E; Ogbaini-Emovon E; Lemey P; Adomeh DI; Asogun DA; G\u221a\u00banther S, Journal: J Virol, Year: 2019",
+        "Publication": "Ehichioya (2019, 31413134). Phylogeography of Lassa Virus in Nigeria.. J Virol",
         "ShortName": "Ehichioya (2019, 31413134)"
     },
     {
         "RefID": 54,
-        "SubmissionSet": "Title: Phylogeography of Lassa virus in Nigeria, Authors: Asogun D., Cadar D., Duraffour S., Ehichioya D., Gunther S., Kafetzopoulou L., Lemey P., Ogbaini-emovon E., Okogbenin S., Rieger T., Journal: Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished, Year: 2018",
+        "SubmissionSet": "Asogun (2018). Phylogeography of Lassa virus in Nigeria. Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished",
         "PubID": 16,
-        "Publication": "PMID: 30606844, Title: Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak., Authors: Kafetzopoulou LE; Pullan ST; Lemey P; Suchard MA; Ehichioya DU; Pahlmann M; Thielebein A; Hinzmann J; Oestereich L; Wozniak DM; Efthymiadis K; Schachten D; Koenig F; Matjeschk J; Lorenzen S; Lumley S; Ighodalo Y; Adomeh DI; Olokor T; Omomoh E; Omiunu R; Agbukor J; Ebo B; Aiyepada J; Ebhodaghe P; Osiemi B; Ehikhametalor S; Akhilomen P; Airende M; Esumeh R; Muoebonam E; Giwa R; Ekanem A; Igenegbale G; Odigie G; Okonofua G; Enigbe R; Oyakhilome J; Yerumoh EO; Odia I; Aire C; Okonofua M; Atafo R; Tobin E; Asogun D; Akpede N; Okokhere PO; Rafiu MO; Iraoyah KO; Iruolagbe CO; Akhideno P; Erameh C; Akpede G; Isibor E; Naidoo D; Hewson R; Hiscox JA; Vipond R; Carroll MW; Ihekweazu C; Formenty P; Okogbenin S; Ogbaini-Emovon E; G\u221a\u00banther S; Duraffour S, Journal: Science, Year: 2019",
+        "Publication": "Kafetzopoulou (2019, 30606844). Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak.. Science",
         "ShortName": "Kafetzopoulou (2019, 30606844)"
     },
     {
         "RefID": 55,
-        "SubmissionSet": "Title: Zoonotic surveillance of Lassa fever virus in Nigeria, Authors: Eromon P., Happi A., Happi C., Ogunsanya O., Oguzie J., Olumade T., Oluniyi P., Journal: Akoda, Biological Sciences, Ede, Nigeria, Osun 234001, Redeemer's University, Unpublished, Year: 2022",
+        "SubmissionSet": "Eromon (2022). Zoonotic surveillance of Lassa fever virus in Nigeria. Akoda, Biological Sciences, Ede, Nigeria, Osun 234001, Redeemer's University, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Eromon (2022)"
     },
     {
         "RefID": 56,
-        "SubmissionSet": "Title: Lassa Virus from Cote d'Ivoire: insights into the cryptic circulation of LASV in West Africa, Authors: Calvignac-spencer S., Du plessis L., Escalera-zamudio M., Kouadio L., Leendertz F., Matranga C., Pybus O., Theze J., Journal: Oxford, Oxfordshire OX1 3SY, S Parks Rd, The University of Oxford, United Kingdom, Unpublished, Zoology, Year: 2019",
+        "SubmissionSet": "Calvignac-spencer (2019). Lassa Virus from Cote d'Ivoire: insights into the cryptic circulation of LASV in West Africa. Oxford, Oxfordshire OX1 3SY, S Parks Rd, The University of Oxford, United Kingdom, Unpublished, Zoology",
         "PubID": "",
         "Publication": "",
         "ShortName": "Calvignac-spencer (2019)"
     },
     {
         "RefID": 57,
-        "SubmissionSet": "PMID: 26911443, Title: Spatial and temporal evolution of Lassa virus in the natural host population in Upper Guinea, Authors: Beate B., Becker-ziaja B., Camara A., Fichet-calvet E., Gunther S., Koivogui L., Lamine K., Magassouba N., N'faly M., Olschlager S., Soropogui B., Stephan G., Stephan O., Strecker T., Thomas S., Journal: 21977 (2016), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, Sci Rep 6, Virology, Year: 2015, 2016",
+        "SubmissionSet": "Beate (2016, 26911443). Spatial and temporal evolution of Lassa virus in the natural host population in Upper Guinea. 21977 (2016), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, Sci Rep 6, Virology",
         "PubID": 24,
-        "Publication": "PMID: 26911443, Title: Spatial and temporal evolution of Lassa virus in the natural host population in Upper Guinea., Authors: Fichet-Calvet E; \u221a\u00f1lschl\u221a\u00a7ger S; Strecker T; Koivogui L; Becker-Ziaja B; Camara AB; Soropogui B; Magassouba N; G\u221a\u00banther S, Journal: Sci Rep, Year: 2016",
+        "Publication": "Fichet-Calvet (2016, 26911443). Spatial and temporal evolution of Lassa virus in the natural host population in Upper Guinea.. Sci Rep",
         "ShortName": "Fichet-Calvet (2016, 26911443)"
     },
     {
         "RefID": 58,
-        "SubmissionSet": "PMID: 33654106, Title: ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge, Authors: Cordova K., Cross R., Feldmann F., Feldmann H., Fischer R., Geisbert J., Geisbert T., Gilbert S., Haddock E., Jeremiah matson M., Lacasse R., Lambe T., Letko M., Meade-white K., Munster V., Purushotham J., Safronetz D., Saturday G., Sebastian S., Van doremalen N., Journal: 301 University Parkway, 32 (2021), Galveston, Microbiology and Immunology, NPJ Vaccines 6 (1), TX 77555, USA, University of Texas Medical Branch, Year: 2020, 2021",
+        "SubmissionSet": "Cordova (2021, 33654106). ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge. 301 University Parkway, 32 (2021), Galveston, Microbiology and Immunology, NPJ Vaccines 6 (1), TX 77555, USA, University of Texas Medical Branch",
         "PubID": 70,
-        "Publication": "PMID: 33654106, Title: ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge., Authors: Fischer RJ; Purushotham JN; van Doremalen N; Sebastian S; Meade-White K; Cordova K; Letko M; Jeremiah Matson M; Feldmann F; Haddock E; LaCasse R; Saturday G; Lambe T; Gilbert SC; Munster VJ, Journal: NPJ Vaccines, Year: 2021",
+        "Publication": "Fischer (2021, 33654106). ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge.. NPJ Vaccines",
         "ShortName": "Fischer (2021, 33654106)"
     },
     {
         "RefID": 59,
-        "SubmissionSet": "Title: Ecological investigations of the genomic diversity of Lassa virus in Sierra Leone, Authors: Bangura J., Bird B., Davison A., Ghersi B., Nichols J., Vucak M., Journal: 464 Bearsden Rd, Bearsden, Centre for Virus Research, GLC G61 1QH, Glasgow, United Kingdom, University of Glasgow, Unpublished, Year: 2022",
+        "SubmissionSet": "Bangura (2022). Ecological investigations of the genomic diversity of Lassa virus in Sierra Leone. 464 Bearsden Rd, Bearsden, Centre for Virus Research, GLC G61 1QH, Glasgow, United Kingdom, University of Glasgow, Unpublished",
         "PubID": 2,
-        "Publication": "PMID: 38047354, Title: Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa., Authors: Bangura U; Davis C; Lamin J; Bangura J; Soropogui B; Davison AJ; Nichols J; Vucak M; Dawson M; Ansumana R; Sondufu D; Cadar D; Rieger T; Thomson E; Sahr F; Magassouba N; Ghersi B; Bird BH; Fichet-Calvet E, Journal: Emerg Microbes Infect, Year: 2024",
+        "Publication": "Bangura (2024, 38047354). Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa.. Emerg Microbes Infect",
         "ShortName": "Bangura (2024, 38047354)"
     },
     {
         "RefID": 59,
-        "SubmissionSet": "Title: Ecological investigations of the genomic diversity of Lassa virus in Sierra Leone, Authors: Bangura J., Bird B., Davison A., Ghersi B., Nichols J., Vucak M., Journal: 464 Bearsden Rd, Bearsden, Centre for Virus Research, GLC G61 1QH, Glasgow, United Kingdom, University of Glasgow, Unpublished, Year: 2022",
+        "SubmissionSet": "Bangura (2022). Ecological investigations of the genomic diversity of Lassa virus in Sierra Leone. 464 Bearsden Rd, Bearsden, Centre for Virus Research, GLC G61 1QH, Glasgow, United Kingdom, University of Glasgow, Unpublished",
         "PubID": 5,
-        "Publication": "PMID: 36968239, Title: Identifying the genetic basis of viral spillover using Lassa virus as a test case., Authors: Whitlock AOB; Bird BH; Ghersi B; Davison AJ; Hughes J; Nichols J; Vu\u0192\u00e7ak M; Amara E; Bangura J; Lavalie EG; Kanu MC; Kanu OT; Sjodin A; Remien CH; Nuismer SL, Journal: R Soc Open Sci, Year: 2023",
+        "Publication": "Whitlock (2023, 36968239). Identifying the genetic basis of viral spillover using Lassa virus as a test case.. R Soc Open Sci",
         "ShortName": "Whitlock (2023, 36968239)"
     },
     {
         "RefID": 60,
-        "SubmissionSet": "PMID: 17905372, Title: RT-PCR assay for detection of Lassa virus and related Old World arenaviruses targeting the L gene, Authors: Becker-ziaja B., Drosten C., Gunther S., Hass M., Lenz O., Nichol S., Omilabu S., Schmitz H., Ter meulen J., Vieth S., Vincent M., Journal: 1253-1264 (2007), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, Trans. R. Soc. Trop. Med. Hyg. 101 (12), Virology, Year: 2003, 2004, 2007",
+        "SubmissionSet": "Becker-ziaja (2004, 17905372). RT-PCR assay for detection of Lassa virus and related Old World arenaviruses targeting the L gene. 1253-1264 (2007), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, Trans. R. Soc. Trop. Med. Hyg. 101 (12), Virology",
         "PubID": 64,
-        "Publication": "PMID: 17905372, Title: RT-PCR assay for detection of Lassa virus and related Old World arenaviruses targeting the L gene., Authors: Vieth S; Drosten C; Lenz O; Vincent M; Omilabu S; Hass M; Becker-Ziaja B; ter Meulen J; Nichol ST; Schmitz H; G\u221a\u00banther S, Journal: Trans R Soc Trop Med Hyg, Year: 2007",
+        "Publication": "Vieth (2007, 17905372). RT-PCR assay for detection of Lassa virus and related Old World arenaviruses targeting the L gene.. Trans R Soc Trop Med Hyg",
         "ShortName": "Vieth (2007, 17905372)"
     },
     {
         "RefID": 61,
-        "SubmissionSet": "PMID: 11443561, Title: Lassa fever encephalopathy: Lassa virus in cerebrospinal fluid but not in serum, Authors: Asper M., Drosten C., Emmerich P., Grewing T., Gunther S., Petersen J., Roth A., Schmitz H., Weisner B., Wilczek M., Journal: 345-349 (2001), Bernhard-Nocht-Institute, Bernhard-Nocht-Strasse 74, Germany, Hamburg 20359, J. Infect. Dis. 184 (3), Virology, Year: 2001",
+        "SubmissionSet": "Asper (2001, 11443561). Lassa fever encephalopathy: Lassa virus in cerebrospinal fluid but not in serum. 345-349 (2001), Bernhard-Nocht-Institute, Bernhard-Nocht-Strasse 74, Germany, Hamburg 20359, J. Infect. Dis. 184 (3), Virology",
         "PubID": 39,
-        "Publication": "PMID: 11443561, Title: Lassa fever encephalopathy: Lassa virus in cerebrospinal fluid but not in serum., Authors: G\u221a\u00banther S; Weisner B; Roth A; Grewing T; Asper M; Drosten C; Emmerich P; Petersen J; Wilczek M; Schmitz H, Journal: J Infect Dis, Year: 2001",
+        "Publication": "G\u221a\u00banther (2001, 11443561). Lassa fever encephalopathy: Lassa virus in cerebrospinal fluid but not in serum.. J Infect Dis",
         "ShortName": "G\u221a\u00banther (2001, 11443561)"
     },
     {
         "RefID": 62,
-        "SubmissionSet": "PMID: 10998376, Title: A reverse genetics system for Lassa virus, Imported lassa fever in Germany: molecular characterization of a new lassa virus strain, Authors: Asper M., Becker-ziaja B., Emmerich P., Golnitz U., Grewing T., Gunther S., Hass M., Jung A., Kuhle O., Laue T., Muller S., Schmitz H., Ter meulen J., Journal: 466-476 (2000), Bernhard-Nocht-Institut, Bernhard-Nocht-Strasse 74, Emerging Infect. Dis. 6 (5), Germany, Hamburg D-20359, Unpublished, Virology, Year: 2000, 2004",
+        "SubmissionSet": "Asper (2004, 10998376). A reverse genetics system for Lassa virus, Imported lassa fever in Germany: molecular characterization of a new lassa virus strain. 466-476 (2000), Bernhard-Nocht-Institut, Bernhard-Nocht-Strasse 74, Emerging Infect. Dis. 6 (5), Germany, Hamburg D-20359, Unpublished, Virology",
         "PubID": 40,
-        "Publication": "PMID: 10998376, Title: Imported lassa fever in Germany: molecular characterization of a new lassa virus strain., Authors: G\u221a\u00banther S; Emmerich P; Laue T; K\u221a\u00bahle O; Asper M; Jung A; Grewing T; ter Meulen J; Schmitz H, Journal: Emerg Infect Dis, Year: 2000",
+        "Publication": "G\u221a\u00banther (2000, 10998376). Imported lassa fever in Germany: molecular characterization of a new lassa virus strain.. Emerg Infect Dis",
         "ShortName": "G\u221a\u00banther (2000, 10998376)"
     },
     {
         "RefID": 63,
-        "SubmissionSet": "PMID: 16355508, Title: 2003 and 2004, Lassa Fever Activity in the North of Edo State, Lassa fever, Nigeria, in 2003 and 2004, Authors: Asogun D., Badaru S., Becker-ziaja B., Drosten C., Emmerich P., Gunther S., Okokhere P., Omilabu S., Schmitz H., Journal: 1642-1644 (2005), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Emerging Infect. Dis. 11 (10), Germany, Hamburg 20359, Unpublished, Virology, Year: 2005",
+        "SubmissionSet": "Asogun (2005, 16355508). 2003 and 2004, Lassa Fever Activity in the North of Edo State, Lassa fever, Nigeria, in 2003 and 2004. 1642-1644 (2005), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Emerging Infect. Dis. 11 (10), Germany, Hamburg 20359, Unpublished, Virology",
         "PubID": 37,
-        "Publication": "PMID: 16355508, Title: Lassa fever, Nigeria, 2003 and 2004., Authors: Omilabu SA; Badaru SO; Okokhere P; Asogun D; Drosten C; Emmerich P; Becker-Ziaja B; Schmitz H; G\u221a\u00banther S, Journal: Emerg Infect Dis, Year: 2005",
+        "Publication": "Omilabu (2005, 16355508). Lassa fever, Nigeria, 2003 and 2004.. Emerg Infect Dis",
         "ShortName": "Omilabu (2005, 16355508)"
     },
     {
         "RefID": 64,
-        "SubmissionSet": "Title: Biochemical characterization of the Lassa virus L protein, Authors: Gunther S., Rosenthal M., Journal: Bernhard Nocht Institute for Tropical Medicine (BNITM), Bernhard-Nocht-Strasse 74, Department of Virology, Germany, Hamburg 20359, Unpublished, Year: 2018",
+        "SubmissionSet": "Gunther (2018). Biochemical characterization of the Lassa virus L protein. Bernhard Nocht Institute for Tropical Medicine (BNITM), Bernhard-Nocht-Strasse 74, Department of Virology, Germany, Hamburg 20359, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Gunther (2018)"
     },
     {
         "RefID": 65,
-        "SubmissionSet": "Title: , Authors: Chain P., Do L., Geisbert J., Hajjaj A., Ibrahim M., Imbro P., Jahrling P., Malfatti S., Smith K., Journal: 7000 East Avenue, CA 94550, Fort Detrick, Lawrence Livermore National Laboratory, Livermore, MD 21702, USA, USAMRIID, Viral Genomics Group, Viral Sequencing Group, Year: 2004",
+        "SubmissionSet": "Chain (2004). . 7000 East Avenue, CA 94550, Fort Detrick, Lawrence Livermore National Laboratory, Livermore, MD 21702, USA, USAMRIID, Viral Genomics Group, Viral Sequencing Group",
         "PubID": "",
         "Publication": "",
         "ShortName": "Chain (2004)"
     },
     {
         "RefID": 66,
-        "SubmissionSet": "Title: Lassa virus infection of non-rodent hosts in Nigeria, Authors: Achonduh-atijegbe O., Adedokun O., Adeyemo A., Akano K., Akinwale E., Amare M., Ayinla A., Broach E., Collins N., Daodu R., Eller L., Fouapon A., Happi A., Happi C., Iroezindu M., Lay J., Lombardi K., Mccauley M., Mebrahtu T., Modjarrad K., Nosamiefan I., Nwofoke C., Ogunsanya O., Okolie J., Parker E., Parker Z., Prins P., Print P., Saibu F., Sharon D., Sharon S., Sijuwola A., Tiamiyu A., Tucker C., Vasan S., Journal: African Center of Excellence for Genomics of Infectious Diseases, Ede, Nigeria, Osun PMB230, Redeemer's University, Unpublished, Year: 2023",
+        "SubmissionSet": "Achonduh-atijegbe (2023). Lassa virus infection of non-rodent hosts in Nigeria. African Center of Excellence for Genomics of Infectious Diseases, Ede, Nigeria, Osun PMB230, Redeemer's University, Unpublished",
         "PubID": 1,
-        "Publication": "PMID: 38088796, Title: Lassa virus in novel hosts: insights into the epidemiology of lassa virus infections in southern Nigeria., Authors: Happi AN; Ogunsanya OA; Ayinla AO; Sijuwola AE; Saibu FM; Akano K; Nwofoke C; Elias OT; Achonduh-Atijegbe O; Daodu RO; Adedokun OA; Adeyemo A; Ogundana KE; Lawal OZ; Parker E; Nosamiefan I; Okolie J; Parker ZF; McCauley MD; Eller LA; Lombardi K; Tiamiyu AB; Iroezindu M; Akinwale E; Njatou TLFA; Mebrahtu T; Broach E; Zuppe A; Prins P; Lay J; Amare M; Modjarrad K; Collins ND; Vasan S; Tucker C; Daye S; Happi CT, Journal: Emerg Microbes Infect, Year: 2024",
+        "Publication": "Happi (2024, 38088796). Lassa virus in novel hosts: insights into the epidemiology of lassa virus infections in southern Nigeria.. Emerg Microbes Infect",
         "ShortName": "Happi (2024, 38088796)"
     },
     {
         "RefID": 67,
-        "SubmissionSet": "Title: Arenaviruses in southern African rodents, Authors: Burt F., Grobbelaar A., Jardine J., Swanepoel R., Journal: 1 Modderfontein Road, Centre for Zoonotic and Emerging Diseases (Special Viral Pathogens Laboratory), Gauteng 2131, Johannesburg, NICD, South Africa, Unpublished, Year: 2013",
+        "SubmissionSet": "Burt (2013). Arenaviruses in southern African rodents. 1 Modderfontein Road, Centre for Zoonotic and Emerging Diseases (Special Viral Pathogens Laboratory), Gauteng 2131, Johannesburg, NICD, South Africa, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Burt (2013)"
     },
     {
         "RefID": 68,
-        "SubmissionSet": "Title: Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak, Authors: Adomeh D., Agbukor J., Aire C., Airende M., Aiyepada J., Akhideno P., Akhilomen P., Akpede G., Akpede N., Asogun D., Atafo R., Carroll M., Duraffour S., Ebhodaghe P., Ebo B., Efthymiadis K., Ehichioya D., Ehikhametalor S., Ekanem A., Erameh C., Esumeh R., Formenty P., Giwa R., Gunther S., Hewson R., Hinzmann J., Hiscox J., Igenegbale G., Ighodalo Y., Ihekweazu C., Iraoyah K., Iruolagbe C., Isibor E., Kafetzopoulou L., Koenig F., Lemey P., Lorenzen S., Lumley S., Matjeschk J., Muoebonam E., Naidoo D., Odia I., Odigie G., Oestereich L., Ogbaini-emovon E., Okogbenin S., Okokhere P., Okonofua G., Okonofua M., Olokor T., Omiumu R., Omomoh E., Osiemi B., Oyakhilome J., Pahlmann M., Pullan S., Rafiu M., Schachten D., Suchard M., Thielebein A., Tobin E., Ukpetena R., Vipond R., Wozniak D., Yerumoh E., Journal: Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished, Year: 2018",
+        "SubmissionSet": "Adomeh (2018). Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak. Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished",
         "PubID": 4,
-        "Publication": "PMID: 37288752, Title: Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice., Authors: Adesina AS; Oyeyiola A; Obadare A; Igbokwe J; Abejegah C; Akhilomen P; Bangura U; Asogun D; Tobin E; Ayodeji O; Osoniyi O; Davis C; Thomson EC; Pahlmann M; G\u221a\u00banther S; Fichet-Calvet E; Olayemi A, Journal: Emerg Microbes Infect, Year: 2023",
+        "Publication": "Adesina (2023, 37288752). Circulation of Lassa virus across the endemic Edo-Ondo axis, Nigeria, with cross-species transmission between multimammate mice.. Emerg Microbes Infect",
         "ShortName": "Adesina (2023, 37288752)"
     },
     {
         "RefID": 68,
-        "SubmissionSet": "Title: Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak, Authors: Adomeh D., Agbukor J., Aire C., Airende M., Aiyepada J., Akhideno P., Akhilomen P., Akpede G., Akpede N., Asogun D., Atafo R., Carroll M., Duraffour S., Ebhodaghe P., Ebo B., Efthymiadis K., Ehichioya D., Ehikhametalor S., Ekanem A., Erameh C., Esumeh R., Formenty P., Giwa R., Gunther S., Hewson R., Hinzmann J., Hiscox J., Igenegbale G., Ighodalo Y., Ihekweazu C., Iraoyah K., Iruolagbe C., Isibor E., Kafetzopoulou L., Koenig F., Lemey P., Lorenzen S., Lumley S., Matjeschk J., Muoebonam E., Naidoo D., Odia I., Odigie G., Oestereich L., Ogbaini-emovon E., Okogbenin S., Okokhere P., Okonofua G., Okonofua M., Olokor T., Omiumu R., Omomoh E., Osiemi B., Oyakhilome J., Pahlmann M., Pullan S., Rafiu M., Schachten D., Suchard M., Thielebein A., Tobin E., Ukpetena R., Vipond R., Wozniak D., Yerumoh E., Journal: Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished, Year: 2018",
+        "SubmissionSet": "Adomeh (2018). Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak. Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished",
         "PubID": 14,
-        "Publication": "PMID: 31413134, Title: Phylogeography of Lassa Virus in Nigeria., Authors: Ehichioya DU; Dellicour S; Pahlmann M; Rieger T; Oestereich L; Becker-Ziaja B; Cadar D; Ighodalo Y; Olokor T; Omomoh E; Oyakhilome J; Omiunu R; Agbukor J; Ebo B; Aiyepada J; Ebhodaghe P; Osiemi B; Ehikhametalor S; Akhilomen P; Airende M; Esumeh R; Muoebonam E; Giwa R; Ekanem A; Igenegbale G; Odigie G; Okonofua G; Enigbe R; Omonegho Yerumoh E; Pallasch E; Bockholt S; Kafetzopoulou LE; Duraffour S; Okokhere PO; Akpede GO; Okogbenin SA; Odia I; Aire C; Akpede N; Tobin E; Ogbaini-Emovon E; Lemey P; Adomeh DI; Asogun DA; G\u221a\u00banther S, Journal: J Virol, Year: 2019",
+        "Publication": "Ehichioya (2019, 31413134). Phylogeography of Lassa Virus in Nigeria.. J Virol",
         "ShortName": "Ehichioya (2019, 31413134)"
     },
     {
         "RefID": 68,
-        "SubmissionSet": "Title: Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak, Authors: Adomeh D., Agbukor J., Aire C., Airende M., Aiyepada J., Akhideno P., Akhilomen P., Akpede G., Akpede N., Asogun D., Atafo R., Carroll M., Duraffour S., Ebhodaghe P., Ebo B., Efthymiadis K., Ehichioya D., Ehikhametalor S., Ekanem A., Erameh C., Esumeh R., Formenty P., Giwa R., Gunther S., Hewson R., Hinzmann J., Hiscox J., Igenegbale G., Ighodalo Y., Ihekweazu C., Iraoyah K., Iruolagbe C., Isibor E., Kafetzopoulou L., Koenig F., Lemey P., Lorenzen S., Lumley S., Matjeschk J., Muoebonam E., Naidoo D., Odia I., Odigie G., Oestereich L., Ogbaini-emovon E., Okogbenin S., Okokhere P., Okonofua G., Okonofua M., Olokor T., Omiumu R., Omomoh E., Osiemi B., Oyakhilome J., Pahlmann M., Pullan S., Rafiu M., Schachten D., Suchard M., Thielebein A., Tobin E., Ukpetena R., Vipond R., Wozniak D., Yerumoh E., Journal: Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished, Year: 2018",
+        "SubmissionSet": "Adomeh (2018). Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak. Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Department of Virology, Germany, Hamburg 20359, Unpublished",
         "PubID": 16,
-        "Publication": "PMID: 30606844, Title: Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak., Authors: Kafetzopoulou LE; Pullan ST; Lemey P; Suchard MA; Ehichioya DU; Pahlmann M; Thielebein A; Hinzmann J; Oestereich L; Wozniak DM; Efthymiadis K; Schachten D; Koenig F; Matjeschk J; Lorenzen S; Lumley S; Ighodalo Y; Adomeh DI; Olokor T; Omomoh E; Omiunu R; Agbukor J; Ebo B; Aiyepada J; Ebhodaghe P; Osiemi B; Ehikhametalor S; Akhilomen P; Airende M; Esumeh R; Muoebonam E; Giwa R; Ekanem A; Igenegbale G; Odigie G; Okonofua G; Enigbe R; Oyakhilome J; Yerumoh EO; Odia I; Aire C; Okonofua M; Atafo R; Tobin E; Asogun D; Akpede N; Okokhere PO; Rafiu MO; Iraoyah KO; Iruolagbe CO; Akhideno P; Erameh C; Akpede G; Isibor E; Naidoo D; Hewson R; Hiscox JA; Vipond R; Carroll MW; Ihekweazu C; Formenty P; Okogbenin S; Ogbaini-Emovon E; G\u221a\u00banther S; Duraffour S, Journal: Science, Year: 2019",
+        "Publication": "Kafetzopoulou (2019, 30606844). Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak.. Science",
         "ShortName": "Kafetzopoulou (2019, 30606844)"
     },
     {
         "RefID": 69,
-        "SubmissionSet": "PMID: 35099012, Title: Lassa virus replicon particle vaccine protects strain 13/N guinea pigs against challenge with geographically and genetically diverse viral strains, Authors: Albarino C., Coleman-mccray J., Condrey J., Harmon J., Kainulainen M., Montgomery J., Nichol S., Scholte F., Spengler J., Spiropoulou C., Welch S., Journal: 1600 Clifton Rd. NE, Atlanta, Centers for Disease Control and Prevention, GA 30329, J Infect Dis (2022) In press, USA, Viral Special Pathogens Branch, Year: 2022",
+        "SubmissionSet": "Albarino (2022, 35099012). Lassa virus replicon particle vaccine protects strain 13/N guinea pigs against challenge with geographically and genetically diverse viral strains. 1600 Clifton Rd. NE, Atlanta, Centers for Disease Control and Prevention, GA 30329, J Infect Dis (2022) In press, USA, Viral Special Pathogens Branch",
         "PubID": 71,
-        "Publication": "PMID: 35099012, Title: Lassa Virus Replicon Particle Vaccine Protects Strain 13/N Guinea Pigs Against Challenge With Geographically and Genetically Diverse Viral Strains., Authors: Spengler JR; Kainulainen MH; Welch SR; Coleman-McCray JD; Harmon JR; Condrey JA; Scholte FEM; Nichol ST; Montgomery JM; Albari\u221a\u00b1o CG; Spiropoulou CF, Journal: J Infect Dis, Year: 2022",
+        "Publication": "Spengler (2022, 35099012). Lassa Virus Replicon Particle Vaccine Protects Strain 13/N Guinea Pigs Against Challenge With Geographically and Genetically Diverse Viral Strains.. J Infect Dis",
         "ShortName": "Spengler (2022, 35099012)"
     },
     {
         "RefID": 70,
-        "SubmissionSet": "Title: Guinea, Lassa virus in host rodent Mastomys natalensis within urban area N'Zerekore, Authors: Bayandin R., Boiro M., Boumbaly S., Gladysheva A., Karan L., Korneev M., Kourouma K., Makenov M., Sako S., Shipovalov A., Journal: 3A, Central Research Institute of Epidemiology, Department of Molecular diagnostic and Epidemiology, Moscow 111123, Novogireevskaya Str, Russia, Unpublished, Year: 2018",
+        "SubmissionSet": "Bayandin (2018). Guinea, Lassa virus in host rodent Mastomys natalensis within urban area N'Zerekore. 3A, Central Research Institute of Epidemiology, Department of Molecular diagnostic and Epidemiology, Moscow 111123, Novogireevskaya Str, Russia, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Bayandin (2018)"
     },
     {
         "RefID": 71,
-        "SubmissionSet": "PMID: 34857749, Title: Conformational changes in Lassa virus L protein associated with promoter binding and RNA synthesis activity, Authors: Busch C., Cusack S., G&#xfc;nther S., Gr&#xfc;newald K., Grunewald K., Gunther S., Kouba T., Milewski M., Quemin E., Rosenthal M., Thorkelsson S., Vogel D., Williams H., Journal: 7018 (2021), Nat Commun 12 (1), Year: 2021",
+        "SubmissionSet": "Busch (2021, 34857749). Conformational changes in Lassa virus L protein associated with promoter binding and RNA synthesis activity. 7018 (2021), Nat Commun 12 (1)",
         "PubID": 72,
-        "Publication": "PMID: 34857749, Title: Conformational changes in Lassa virus L protein associated with promoter binding and RNA synthesis activity., Authors: Kouba T; Vogel D; Thorkelsson SR; Quemin ERJ; Williams HM; Milewski M; Busch C; G\u221a\u00banther S; Gr\u221a\u00banewald K; Rosenthal M; Cusack S, Journal: Nat Commun, Year: 2021",
+        "Publication": "Kouba (2021, 34857749). Conformational changes in Lassa virus L protein associated with promoter binding and RNA synthesis activity.. Nat Commun",
         "ShortName": "Kouba (2021, 34857749)"
     },
     {
         "RefID": 72,
-        "SubmissionSet": "PMID: 24188212, Title: Two novel arenaviruses detected in pygmy mice, ghana, Authors: Ampofo W., Bonney K., Fichet-calvet E., Guirguis F., Kronmann K., Kronmann L., Nimo paintsil S., Nimo-paintsil S., Obiri-danso K., Journal: 1832-1835 (2013), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerging Infect. Dis. 19 (11), Germany, Hamburg 20359, Virology, Year: 2012, 2013",
+        "SubmissionSet": "Ampofo (2013, 24188212). Two novel arenaviruses detected in pygmy mice, ghana. 1832-1835 (2013), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerging Infect. Dis. 19 (11), Germany, Hamburg 20359, Virology",
         "PubID": 73,
-        "Publication": "PMID: 24188212, Title: Two novel arenaviruses detected in pygmy mice, Ghana., Authors: Kronmann KC; Nimo-Paintsil S; Guirguis F; Kronmann LC; Bonney K; Obiri-Danso K; Ampofo W; Fichet-Calvet E, Journal: Emerg Infect Dis, Year: 2013",
+        "Publication": "Kronmann (2013, 24188212). Two novel arenaviruses detected in pygmy mice, Ghana.. Emerg Infect Dis",
         "ShortName": "Kronmann (2013, 24188212)"
     },
     {
         "RefID": 73,
-        "SubmissionSet": "PMID: 17326956, Title: Mastomys natalensis and Lassa fever, West Africa, Authors: Allali B., Aniskin V., Aniskine V., Daffis S., Denys C., Dore A., Fichet-calvet E., Gunther S., Koivogui L., Kouassi kan S., Koulemou K., Kourouma F., Lalis A., Lecompte E., Soropogui B., Sylla O., Ter meulen J., Journal: 1971-1974 (2006), Emerging Infect. Dis. 12 (12), Germany, Hans-Meerweinstrasse, Institut for Virology, Marburg 35043, Philipps University, Year: 2006",
+        "SubmissionSet": "Allali (2006, 17326956). Mastomys natalensis and Lassa fever, West Africa. 1971-1974 (2006), Emerging Infect. Dis. 12 (12), Germany, Hans-Meerweinstrasse, Institut for Virology, Marburg 35043, Philipps University",
         "PubID": 35,
-        "Publication": "PMID: 17326956, Title: Mastomys natalensis and Lassa fever, West Africa., Authors: Lecompte E; Fichet-Calvet E; Daffis S; Koul\u221a\u00a9mou K; Sylla O; Kourouma F; Dor\u221a\u00a9 A; Soropogui B; Aniskin V; Allali B; Kouassi Kan S; Lalis A; Koivogui L; G\u221a\u00banther S; Denys C; ter Meulen J, Journal: Emerg Infect Dis, Year: 2006",
+        "Publication": "Lecompte (2006, 17326956). Mastomys natalensis and Lassa fever, West Africa.. Emerg Infect Dis",
         "ShortName": "Lecompte (2006, 17326956)"
     },
     {
         "RefID": 74,
-        "SubmissionSet": "Title: Sequence Variability and Geographic Distribution of Lassa Virus in Sierra Leone, Authors: Leski T., Lin B., Moses L., Park M., Stockelman M., Journal: 4555 Overlook Ave, Center for Bio/Molecular Science and Engineering, DC 20375, Naval Research Laboratory, USA, Unpublished, Washington, Year: 2014",
+        "SubmissionSet": "Leski (2014). Sequence Variability and Geographic Distribution of Lassa Virus in Sierra Leone. 4555 Overlook Ave, Center for Bio/Molecular Science and Engineering, DC 20375, Naval Research Laboratory, USA, Unpublished, Washington",
         "PubID": 27,
-        "Publication": "PMID: 25811712, Title: Sequence variability and geographic distribution of Lassa virus, Sierra Leone., Authors: Leski TA; Stockelman MG; Moses LM; Park M; Stenger DA; Ansumana R; Bausch DG; Lin B, Journal: Emerg Infect Dis, Year: 2015",
+        "Publication": "Leski (2015, 25811712). Sequence variability and geographic distribution of Lassa virus, Sierra Leone.. Emerg Infect Dis",
         "ShortName": "Leski (2015, 25811712)"
     },
     {
         "RefID": 75,
-        "SubmissionSet": "PMID: 9049403, Title: The Lassa fever virus L gene: nucleotide sequence, and precipitation of a predicted 250 kDa protein with monospecific antiserum, comparison, Authors: Djavani M., Lukashevich I., Nichol S., Ravkov E., Salvato M., Sanchez A., Shapiro K., Journal: 1300 University Avenue, 547-551 (1997), J. Gen. Virol. 78 (PT 3), Madison, Pathology and Laboratory Medicine, USA, University of Wisconsin, WI 53706, Year: 1996, 1997",
+        "SubmissionSet": "Djavani (1997, 9049403). The Lassa fever virus L gene: nucleotide sequence, and precipitation of a predicted 250 kDa protein with monospecific antiserum, comparison. 1300 University Avenue, 547-551 (1997), J. Gen. Virol. 78 (PT 3), Madison, Pathology and Laboratory Medicine, USA, University of Wisconsin, WI 53706",
         "PubID": 43,
-        "Publication": "PMID: 9049403, Title: The Lassa fever virus L gene: nucleotide sequence, comparison, and precipitation of a predicted 250 kDa protein with monospecific antiserum., Authors: Lukashevich IS; Djavani M; Shapiro K; Sanchez A; Ravkov E; Nichol ST; Salvato MS, Journal: J Gen Virol, Year: 1997",
+        "Publication": "Lukashevich (1997, 9049403). The Lassa fever virus L gene: nucleotide sequence, comparison, and precipitation of a predicted 250 kDa protein with monospecific antiserum.. J Gen Virol",
         "ShortName": "Lukashevich (1997, 9049403)"
     },
     {
         "RefID": 76,
-        "SubmissionSet": "Title: 2019, A Sporadic and Lethal Lassa Fever Case in Forest Guinea, Authors: Conde S., Duraffour S., Fichet-calve E., Fichet-calvet E., Guenther S., Hinzmann J., Keita S., Kekoura I., Koivogui E., Kone M., Koropogui M., Magassouba N., N'faly magassouba N., Soropogui B., Journal: 1062 (2020), Bernhard Nocht Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, Virology dpt., Viruses 12 (10), Year: 2020",
+        "SubmissionSet": "Conde (2020). 2019, A Sporadic and Lethal Lassa Fever Case in Forest Guinea. 1062 (2020), Bernhard Nocht Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, Virology dpt., Viruses 12 (10)",
         "PubID": 53,
-        "Publication": "PMID: 32977629, Title: A Sporadic and Lethal Lassa Fever Case in Forest Guinea, 2019., Authors: Magassouba N; Koivogui E; Conde S; Kone M; Koropogui M; Soropogui B; Kekoura I; Hinzmann J; G\u221a\u00banther S; Keita S; Duraffour S; Fichet-Calvet E, Journal: Viruses, Year: 2020",
+        "Publication": "Magassouba (2020, 32977629). A Sporadic and Lethal Lassa Fever Case in Forest Guinea, 2019.. Viruses",
         "ShortName": "Magassouba (2020, 32977629)"
     },
     {
         "RefID": 77,
-        "SubmissionSet": "PMID: 32459576, Title: Households as hotspots of Lassa fever? Assessing the spatial distribution of Lassa virus-infected rodents in rural villages of Guinea, Authors: Fichet-calvet E., Gunther S., Lo iacono G., Magassouba N., Marien J., Rieger T., Journal: 1055-1064 (2020), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerg Microbes Infect 9 (1), Germany, Hamburg 20359, Virology, Year: 2020",
+        "SubmissionSet": "Fichet-calvet (2020, 32459576). Households as hotspots of Lassa fever? Assessing the spatial distribution of Lassa virus-infected rodents in rural villages of Guinea. 1055-1064 (2020), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerg Microbes Infect 9 (1), Germany, Hamburg 20359, Virology",
         "PubID": 9,
-        "Publication": "PMID: 32459576, Title: Households as hotspots of Lassa fever? Assessing the spatial distribution of Lassa virus-infected rodents in rural villages of Guinea., Authors: Mari\u221a\u00b4n J; Lo Iacono G; Rieger T; Magassouba N; G\u221a\u00banther S; Fichet-Calvet E, Journal: Emerg Microbes Infect, Year: 2020",
+        "Publication": "Mari\u221a\u00b4n (2020, 32459576). Households as hotspots of Lassa fever? Assessing the spatial distribution of Lassa virus-infected rodents in rural villages of Guinea.. Emerg Microbes Infect",
         "ShortName": "Mari\u221a\u00b4n (2020, 32459576)"
     },
     {
         "RefID": 78,
-        "SubmissionSet": "Title: Lethal infection of Lassa virus isolated from a human clinical sample in outbred guinea pigs without adaptation, Authors: Bukreyeva N., Huang C., Manning J., Maruyama J., Mateer E., Paessler S., Sattler R., Journal: 301 university blvd, GALVESTON, Pthology, TX 77555, USA, University of Texas Medical Branch, mSphere (2019) In press, Year: 2019",
+        "SubmissionSet": "Bukreyeva (2019). Lethal infection of Lassa virus isolated from a human clinical sample in outbred guinea pigs without adaptation. 301 university blvd, GALVESTON, Pthology, TX 77555, USA, University of Texas Medical Branch, mSphere (2019) In press",
         "PubID": "",
         "Publication": "",
         "ShortName": "Bukreyeva (2019)"
     },
     {
         "RefID": 79,
-        "SubmissionSet": "PMID: 31441759, Title: 2015, Bangolo District, Cote d'Ivoire, Fatal Case of Lassa Fever, Authors: Adjogoua E., Akran V., Baize S., Coulibaly D., Dosso M., Journeaux A., Kadjo H., Kakou S., Kamo E., Kan S., Koffi E., Mateo M., Meite S., Money M., Odegue D., Picard C., Sylla Y., Journal: 1753-1756 (2019), 21 avenue Tony Garnier, Emerging Infect. Dis. 25 (9), France, Institut Pasteur, Lyon 69007, Virologie, Year: 2019",
+        "SubmissionSet": "Adjogoua (2019, 31441759). 2015, Bangolo District, Cote d'Ivoire, Fatal Case of Lassa Fever. 1753-1756 (2019), 21 avenue Tony Garnier, Emerging Infect. Dis. 25 (9), France, Institut Pasteur, Lyon 69007, Virologie",
         "PubID": 74,
-        "Publication": "PMID: 31441759, Title: Fatal Case of Lassa Fever, Bangolo District, C\u00f4te d'Ivoire, 2015., Authors: Mateo M; Picard C; Sylla Y; Kamo E; Odegue D; Journeaux A; Kan SK; Money M; Coulibaly DN; Koffi E; Meite S; Akran V; Kadjo H; Adjogoua E; Kakou SN; Baize S; Dosso M, Journal: Emerg Infect Dis, Year: 2019",
+        "Publication": "Mateo (2019, 31441759). Fatal Case of Lassa Fever, Bangolo District, C\u00f4te d'Ivoire, 2015.. Emerg Infect Dis",
         "ShortName": "Mateo (2019, 31441759)"
     },
     {
         "RefID": 80,
-        "SubmissionSet": "Title: Capturing diverse microbial sequence with comprehensive and scalable probe design, Authors: Allen T., Balmaseda A., Barbosa-lima G., Barnes K., Bosch I., Bozza F., Brehio P., Carter A., Corleis B., Ebel G., Eromon P., Folarin O., Garcia K., Gehrke L., Gladden-young A., Gnirke A., Goba A., Goldfarb A., Grant D., Happi C., Harris E., Hennigan S., Hensley L., Isern S., Kwon D., Lin A., Lorenzana I., Matranga C., Metsky H., Michael S., Odia I., Parham L., Park D., Paul L., Piantadosi A., Qu J., Runstadler J., Sabeti P., Siddle K., Simon-loriere E., Smole S., Souza T., Tan A., Tully D., Vieira Y., Wohl S., Yang D., Journal: 75 Ames Street, Broad Institute, Cambridge, IDMP, MA 02142, USA, Unpublished, Viral Genomics, Year: 2018",
+        "SubmissionSet": "Allen (2018). Capturing diverse microbial sequence with comprehensive and scalable probe design. 75 Ames Street, Broad Institute, Cambridge, IDMP, MA 02142, USA, Unpublished, Viral Genomics",
         "PubID": "",
         "Publication": "",
         "ShortName": "Allen (2018)"
     },
     {
         "RefID": 81,
-        "SubmissionSet": "Title: Lassa virus outbreak genomics and epidemiology from Nigeria, Authors: Amao A., Barnes K., Birren B., Brehio P., Chak B., Ehaine P., Folarin O., Happi C., Mehta S., Nosamiefan I., Odia I., Oguzie J., Okokhere P., Park D., Sabeti P., Shah R., Siddle K., Winnicki S., Yozwiak N., Journal: 75 Ames St, Broad Institute of Harvard and MIT, Cambridge, Infectious Disease Program, MA 02142, USA, Unpublished, Year: 2018",
+        "SubmissionSet": "Amao (2018). Lassa virus outbreak genomics and epidemiology from Nigeria. 75 Ames St, Broad Institute of Harvard and MIT, Cambridge, Infectious Disease Program, MA 02142, USA, Unpublished",
         "PubID": 18,
-        "Publication": "PMID: 30332564, Title: Genomic Analysis of Lassa Virus during an Increase in Cases in Nigeria in 2018., Authors: Siddle KJ; Eromon P; Barnes KG; Mehta S; Oguzie JU; Odia I; Schaffner SF; Winnicki SM; Shah RR; Qu J; Wohl S; Brehio P; Iruolagbe C; Aiyepada J; Uyigue E; Akhilomen P; Okonofua G; Ye S; Kayode T; Ajogbasile F; Uwanibe J; Gaye A; Momoh M; Chak B; Kotliar D; Carter A; Gladden-Young A; Freije CA; Omoregie O; Osiemi B; Muoebonam EB; Airende M; Enigbe R; Ebo B; Nosamiefan I; Oluniyi P; Nekoui M; Ogbaini-Emovon E; Garry RF; Andersen KG; Park DJ; Yozwiak NL; Akpede G; Ihekweazu C; Tomori O; Okogbenin S; Folarin OA; Okokhere PO; MacInnis BL; Sabeti PC; Happi CT, Journal: N Engl J Med, Year: 2018",
+        "Publication": "Siddle (2018, 30332564). Genomic Analysis of Lassa Virus during an Increase in Cases in Nigeria in 2018.. N Engl J Med",
         "ShortName": "Siddle (2018, 30332564)"
     },
     {
         "RefID": 82,
-        "SubmissionSet": "Title: Metagenomics identifies emerging and re-emerging viruses in Nigerian cohorts with acute febrile illnesses, including pathogens of global concern, Authors: Abejegah C., Adedosu N., Adewale-fasoro O., Airende M., Aiyepada J., Ajayi N., Ayodeji O., Blessing O., Edamhande A., Eromon P., Folarin O., Frost S., Gbemisola O., Happi C., Ifoga P., Ihekweazu C., Jackson E., Komolafe I., Mehta S., Nair P., Odia I., Ogah O., Oguzie J., Ojide K., Okogbenin S., Okokhere P., Oluniyi P., Oyejide N., Pastusiak A., Petros B., Qu J., Sabeti P., Siddle K., Stenson L., Tomkins-tinch C., Uyigue E., Journal: African Centre of Excellence for Genomics of Infectious Diseases(ACEGID), Akoda, Akoda junction, Biological Sciences, Ede, Nigeria, Osun 23401, Redeemer's University, Unpublished, Year: 2023",
+        "SubmissionSet": "Abejegah (2023). Metagenomics identifies emerging and re-emerging viruses in Nigerian cohorts with acute febrile illnesses, including pathogens of global concern. African Centre of Excellence for Genomics of Infectious Diseases(ACEGID), Akoda, Akoda junction, Biological Sciences, Ede, Nigeria, Osun 23401, Redeemer's University, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Abejegah (2023)"
     },
     {
         "RefID": 83,
-        "SubmissionSet": "PMID: 32046182, Title: Determining Ancestry between Rodent- and Human-Derived Virus Sequences in Endemic Foci: Towards a More Integral Molecular Epidemiology of Lassa Fever within West Africa, Authors: Adesina A., Fichet-calvet E., Magassouba N., Olayemi A., Strecker T., Journal: Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Biology (Basel) 9 (2), E26 (2020), Germany, Hamburg 20359, Virology, Year: 2019, 2020",
+        "SubmissionSet": "Adesina (2020, 32046182). Determining Ancestry between Rodent- and Human-Derived Virus Sequences in Endemic Foci: Towards a More Integral Molecular Epidemiology of Lassa Fever within West Africa. Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Biology (Basel) 9 (2), E26 (2020), Germany, Hamburg 20359, Virology",
         "PubID": 11,
-        "Publication": "PMID: 32046182, Title: Determining Ancestry between Rodent- and Human-Derived Virus Sequences in Endemic Foci: Towards a More Integral Molecular Epidemiology of Lassa Fever within West Africa., Authors: Olayemi A; Adesina AS; Strecker T; Magassouba N; Fichet-Calvet E, Journal: Biology (Basel), Year: 2020",
+        "Publication": "Olayemi (2020, 32046182). Determining Ancestry between Rodent- and Human-Derived Virus Sequences in Endemic Foci: Towards a More Integral Molecular Epidemiology of Lassa Fever within West Africa.. Biology (Basel)",
         "ShortName": "Olayemi (2020, 32046182)"
     },
     {
         "RefID": 84,
-        "SubmissionSet": "PMID: 27140942, Title: New Hosts of The Lassa Virus, Authors: Becker-ziaja B., Bockholt S., Cadar D., Fasogbon A., Fasogbon S., Fichet J., Fichet-calvet E., Garigliany M., Gunther S., Igbahenah F., Igbokwe J., Jerome H., Kourouma F., Lorenzen S., Magassouba N., Obadare A., Olayemi A., Omilabu S., Ortsega D., Oyeyiola A., Pahlman M., Rieger T., Schmidt-chanasit J., Journal: 25280 (2016), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, Sci Rep 6, Virology, Year: 2014, 2015, 2016",
+        "SubmissionSet": "Becker-ziaja (2015, 27140942). New Hosts of The Lassa Virus. 25280 (2016), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, Sci Rep 6, Virology",
         "PubID": 21,
-        "Publication": "PMID: 27140942, Title: New Hosts of The Lassa Virus., Authors: Olayemi A; Cadar D; Magassouba N; Obadare A; Kourouma F; Oyeyiola A; Fasogbon S; Igbokwe J; Rieger T; Bockholt S; J\u221a\u00a9r\u221a\u00a5me H; Schmidt-Chanasit J; Garigliany M; Lorenzen S; Igbahenah F; Fichet JN; Ortsega D; Omilabu S; G\u221a\u00banther S; Fichet-Calvet E, Journal: Sci Rep, Year: 2016",
+        "Publication": "Olayemi (2016, 27140942). New Hosts of The Lassa Virus.. Sci Rep",
         "ShortName": "Olayemi (2016, 27140942)"
     },
     {
         "RefID": 85,
-        "SubmissionSet": "PMID: 26982388, Title: Arenavirus Diversity and Phylogeography of Mastomys natalensis Rodents, Nigeria, Authors: Abejegah C., Asogun D., Becker-ziaja B., Fasogbon A., Fichet-calvet E., Gunther S., Igbahenah F., Igbokwe J., Obadare A., Olayemi A., Ortsega D., Oyeyiola A., Pahlman M., Umeh P., Vakkai I., Journal: 687-690 (2016), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerging Infect. Dis. 22 (4), Germany, Hamburg 20359, Virology, Year: 2015, 2016",
+        "SubmissionSet": "Abejegah (2016, 26982388). Arenavirus Diversity and Phylogeography of Mastomys natalensis Rodents, Nigeria. 687-690 (2016), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Emerging Infect. Dis. 22 (4), Germany, Hamburg 20359, Virology",
         "PubID": 23,
-        "Publication": "PMID: 26982388, Title: Arenavirus Diversity and Phylogeography of Mastomys natalensis Rodents, Nigeria., Authors: Olayemi A; Obadare A; Oyeyiola A; Igbokwe J; Fasogbon A; Igbahenah F; Ortsega D; Asogun D; Umeh P; Vakkai I; Abejegah C; Pahlman M; Becker-Ziaja B; G\u221a\u00banther S; Fichet-Calvet E, Journal: Emerg Infect Dis, Year: 2016",
+        "Publication": "Olayemi (2016, 26982388). Arenavirus Diversity and Phylogeography of Mastomys natalensis Rodents, Nigeria.. Emerg Infect Dis",
         "ShortName": "Olayemi (2016, 26982388)"
     },
     {
         "RefID": 86,
-        "SubmissionSet": "PMID: 30500827, Title: Genetic characterization of Lassa virus strains isolated from 2012 to 2016 in southeastern Nigeria, Authors: Abe H., Ajayi N., Chika-igwenyi N., Chukwubike C., Iroezindu M., Kimura M., Koyano S., Kurosaki Y., Miyazaki Y., Ndu A., Nwidi D., Okada S., Oloniniyi O., Unigwe U., Urata S., Yasuda J., Journal: Contact:Yohei Kurosaki Institute of Tropical Medicine, Department of Emerging Infectious Diseases; 1-12-4 Sakamoto, Japan, Nagasaki, Nagasaki 852-8523, Nagasaki University, PLoS Negl Trop Dis 12 (11), e0006971 (2018), Year: 2018",
+        "SubmissionSet": "Abe (2018, 30500827). Genetic characterization of Lassa virus strains isolated from 2012 to 2016 in southeastern Nigeria. Contact:Yohei Kurosaki Institute of Tropical Medicine, Department of Emerging Infectious Diseases; 1-12-4 Sakamoto, Japan, Nagasaki, Nagasaki 852-8523, Nagasaki University, PLoS Negl Trop Dis 12 (11), e0006971 (2018)",
         "PubID": 17,
-        "Publication": "PMID: 30500827, Title: Genetic characterization of Lassa virus strains isolated from 2012 to 2016 in southeastern Nigeria., Authors: Oloniniyi OK; Unigwe US; Okada S; Kimura M; Koyano S; Miyazaki Y; Iroezindu MO; Ajayi NA; Chukwubike CM; Chika-Igwenyi NM; Ndu AC; Nwidi DU; Abe H; Urata S; Kurosaki Y; Yasuda J, Journal: PLoS Negl Trop Dis, Year: 2018",
+        "Publication": "Oloniniyi (2018, 30500827). Genetic characterization of Lassa virus strains isolated from 2012 to 2016 in southeastern Nigeria.. PLoS Negl Trop Dis",
         "ShortName": "Oloniniyi (2018, 30500827)"
     },
     {
         "RefID": 87,
-        "SubmissionSet": "PMID: 20351210, Title: Improved detection of Lassa virus by reverse transcription-PCR targeting the 5' region of S RNA, Authors: Asogun D., Drosten C., Ehichioya D., Emmerich P., Gunther S., Hass M., Lelke M., Olschlager S., Omilabu S., Panning M., Journal: 2009-2013 (2010), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, J. Clin. Microbiol. 48 (6), Virology, Year: 2010",
+        "SubmissionSet": "Asogun (2010, 20351210). Improved detection of Lassa virus by reverse transcription-PCR targeting the 5' region of S RNA. 2009-2013 (2010), Bernhard-Nocht-Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, J. Clin. Microbiol. 48 (6), Virology",
         "PubID": 63,
-        "Publication": "PMID: 20351210, Title: Improved detection of Lassa virus by reverse transcription-PCR targeting the 5' region of S RNA., Authors: Olschl\u221a\u00a7ger S; Lelke M; Emmerich P; Panning M; Drosten C; Hass M; Asogun D; Ehichioya D; Omilabu S; G\u221a\u00banther S, Journal: J Clin Microbiol, Year: 2010",
+        "Publication": "Olschl\u221a\u00a7ger (2010, 20351210). Improved detection of Lassa virus by reverse transcription-PCR targeting the 5' region of S RNA.. J Clin Microbiol",
         "ShortName": "Olschl\u221a\u00a7ger (2010, 20351210)"
     },
     {
         "RefID": 88,
-        "SubmissionSet": "Title: A Case of Lassa Fever Virus Outbreak in Ebonyi and Lagos States, A Case of Lassa Fever Virus Outbreak in Enugu State, Nigeria, Nigeria. 2013, Authors: James A., Omilabu S., Orenolu M., Journal: Block F, College of Medicine-University of Lagos, Department of Biochemistry/Virology Unit- Central Research Lab, Idi-araba, Lagos State 234-100254, Nigeria, Surulere, Unpublished, Year: 2014",
+        "SubmissionSet": "James (2014). A Case of Lassa Fever Virus Outbreak in Ebonyi and Lagos States, A Case of Lassa Fever Virus Outbreak in Enugu State, Nigeria, Nigeria. 2013. Block F, College of Medicine-University of Lagos, Department of Biochemistry/Virology Unit- Central Research Lab, Idi-araba, Lagos State 234-100254, Nigeria, Surulere, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "James (2014)"
     },
     {
         "RefID": 89,
-        "SubmissionSet": "Title: Nucleotide Sequence Variability of GPC Region of Lassa Fever Virus in 2015/2016 Outbreak in Nigeria, Authors: James A., Omilabu S., Salu O., Journal: Block F, College of Medicine-University of Lagos, Department of Biochemistry/Virology Unit- Central Research Lab., Idi-araba, Lagos State 234-100254, Nigeria, Surulere, Unpublished, Year: 2017",
+        "SubmissionSet": "James (2017). Nucleotide Sequence Variability of GPC Region of Lassa Fever Virus in 2015/2016 Outbreak in Nigeria. Block F, College of Medicine-University of Lagos, Department of Biochemistry/Virology Unit- Central Research Lab., Idi-araba, Lagos State 234-100254, Nigeria, Surulere, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "James (2017)"
     },
     {
         "RefID": 90,
-        "SubmissionSet": "PMID: 32723007, Title: Lassa fever in Benin: description of the 2014 and 2016 epidemics and genetic characterization of a new Lassa virus, Authors: Baize S., Bankole H., Becker-ziaja B., Cadar D., Da silva M., Fichet-calvet E., Gbaguidi F., Gunther S., Job E., Journeaux A., Kakai C., Kakonku A., Kohossi L., Kossoubedie S., Kouthon E., Loko F., M'pele P., Mely S., Mundweiler S., Oestereich L., Pahlman M., Pannetier D., Picard C., Rieger T., Saizonou R., Thomas D., Yadouleton A., Journal: 1761-1770 (2020), 21 av Tony Garnier, Emerg Microbes Infect 9 (1), France, Lyon 69007, UBIVE, Virology, Year: 2020",
+        "SubmissionSet": "Baize (2020, 32723007). Lassa fever in Benin: description of the 2014 and 2016 epidemics and genetic characterization of a new Lassa virus. 1761-1770 (2020), 21 av Tony Garnier, Emerg Microbes Infect 9 (1), France, Lyon 69007, UBIVE, Virology",
         "PubID": 8,
-        "Publication": "PMID: 32723007, Title: Lassa fever in Benin: description of the 2014 and 2016 epidemics and genetic characterization of a new Lassa virus., Authors: Yadouleton A; Picard C; Rieger T; Loko F; Cadar D; Kouthon EC; Job EO; Bankol\u221a\u00a9 H; Oestereich L; Gbaguidi F; Pahlman M; Becker-Ziaja B; Journeaux A; Pannetier D; M\u221a\u00a9ly S; Mundweiler S; Thomas D; Kohossi L; Saizonou R; Kaka\u221a\u00d8 CG; Da Silva M; Kossoubedie S; Kakonku AL; M'Pel\u221a\u00a9 P; Gunther S; Baize S; Fichet-Calvet E, Journal: Emerg Microbes Infect, Year: 2020",
+        "Publication": "Yadouleton (2020, 32723007). Lassa fever in Benin: description of the 2014 and 2016 epidemics and genetic characterization of a new Lassa virus.. Emerg Microbes Infect",
         "ShortName": "Yadouleton (2020, 32723007)"
     },
     {
         "RefID": 91,
-        "SubmissionSet": "Title: 2014, Guinea, Uncovering the Etiology of Fevers of Unknown Origin: a laboratory-based observational study in patients with suspected Ebola, Authors: Drexler J., Postigo hidalgo I., Journal: Berlin, Berlin 10117, Charite Universitatsmedizin Berlin, Chariteplatz 1, Germany, Institute of virology, Unpublished, Year: 2023",
+        "SubmissionSet": "Drexler (2023). 2014, Guinea, Uncovering the Etiology of Fevers of Unknown Origin: a laboratory-based observational study in patients with suspected Ebola. Berlin, Berlin 10117, Charite Universitatsmedizin Berlin, Chariteplatz 1, Germany, Institute of virology, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Drexler (2023)"
     },
     {
         "RefID": 92,
-        "SubmissionSet": "PMID: 24340119, Title: Geographic distribution and genetic characterization of Lassa virus in sub-Saharan Mali, Authors: Anderson J., Branco L., Dahlstrom E., Feldmann F., Feldmann H., Fischer R., Garry R., Haddock E., Lopez J., Maiga O., Munster V., Porcella S., Safronetz D., Schwan T., Sogoba N., Zivcec M., Journal: 903 South 4th Street, E2582 (2013), Hamilton, MT 59840, NIAID - Rocky Mountain Labs, NIH, PLoS Negl Trop Dis 7 (12), USA, Year: 2013",
+        "SubmissionSet": "Anderson (2013, 24340119). Geographic distribution and genetic characterization of Lassa virus in sub-Saharan Mali. 903 South 4th Street, E2582 (2013), Hamilton, MT 59840, NIAID - Rocky Mountain Labs, NIH, PLoS Negl Trop Dis 7 (12), USA",
         "PubID": 58,
-        "Publication": "PMID: 24340119, Title: Geographic distribution and genetic characterization of Lassa virus in sub-Saharan Mali., Authors: Safronetz D; Sogoba N; Lopez JE; Maiga O; Dahlstrom E; Zivcec M; Feldmann F; Haddock E; Fischer RJ; Anderson JM; Munster VJ; Branco L; Garry R; Porcella SF; Schwan TG; Feldmann H, Journal: PLoS Negl Trop Dis, Year: 2013",
+        "Publication": "Safronetz (2013, 24340119). Geographic distribution and genetic characterization of Lassa virus in sub-Saharan Mali.. PLoS Negl Trop Dis",
         "ShortName": "Safronetz (2013, 24340119)"
     },
     {
         "RefID": 93,
-        "SubmissionSet": "PMID: 20587185, Title: Detection of Lassa virus, Mali, Authors: Branco L., Ebihara H., Feldmann H., Fischer E., Garry R., Lopez J., Raffel S., Safronetz D., Schwan T., Sogoba N., Traore S., Journal: 1123-1126 (2010), 903 S 4th St., Emerging Infect. Dis. 16 (7), Hamilton, Intramural Research, LV/RML/NIAID/NIH, MT 59840, USA, Year: 2010",
+        "SubmissionSet": "Branco (2010, 20587185). Detection of Lassa virus, Mali. 1123-1126 (2010), 903 S 4th St., Emerging Infect. Dis. 16 (7), Hamilton, Intramural Research, LV/RML/NIAID/NIH, MT 59840, USA",
         "PubID": 33,
-        "Publication": "PMID: 20587185, Title: Detection of Lassa virus, Mali., Authors: Safronetz D; Lopez JE; Sogoba N; Traore' SF; Raffel SJ; Fischer ER; Ebihara H; Branco L; Garry RF; Schwan TG; Feldmann H, Journal: Emerg Infect Dis, Year: 2010",
+        "Publication": "Safronetz (2010, 20587185). Detection of Lassa virus, Mali.. Emerg Infect Dis",
         "ShortName": "Safronetz (2010, 20587185)"
     },
     {
         "RefID": 94,
-        "SubmissionSet": "Title: Genomic characterization of clinical Lassa virus isolates from 2017-2023 transmission seasons in Sierra Leone, Authors: Alhasan F., Andersen K., Baimba F., Francis B., Garry R., Grant D., Happi C., Jalloh A., Kallon T., Kamara M., Kanneh L., Momoh M., Park D., Sabeti P., Samuels R., Sandi J., Schefflien J., Schieffelin J., Siddle K., Tomkins-tinch C., Wohl S., Journal: Combema Road, Combema road, Eastern Province, Eastern Regon, Kenema, Kenema Government Hospital, Laboratory, Sierra Leone, Unpublished, Viral Hemorrhagic Fever (VHF) Laborarory, Viral Hemorrhagic Fever (Vhf) Laborarory, viral hemorrhagic fever (VHF) Laborarory, Year: 2023",
+        "SubmissionSet": "Alhasan (2023). Genomic characterization of clinical Lassa virus isolates from 2017-2023 transmission seasons in Sierra Leone. Combema Road, Combema road, Eastern Province, Eastern Regon, Kenema, Kenema Government Hospital, Laboratory, Sierra Leone, Unpublished, Viral Hemorrhagic Fever (VHF) Laborarory, Viral Hemorrhagic Fever (Vhf) Laborarory, viral hemorrhagic fever (VHF) Laborarory",
         "PubID": "",
         "Publication": "",
         "ShortName": "Alhasan (2023)"
     },
     {
         "RefID": 95,
-        "SubmissionSet": "PMID: 30332564, Title: Genomic Analysis of Lassa Virus during an Increase in Cases in Nigeria in 2018, Authors: Adebayo A., Airende M., Aiyepada J., Ajogbasile F., Akhilomen P., Akpede G., Andersen K., Barnes K., Birren B., Brehio P., Carter A., Chak B., Ebo B., Enigbe R., Eromon P., Folarin O., Freije C., Garry R., Gaye A., Gladden-young A., Happi C., Ihekweazu C., Iruolagbe C., Kayode T., Kotliar D., Macinnis B., Mehta S., Momoh M., Muoebonam E., Nekoui M., Nosamiefan I., Odia I., Ogbaini-emovon E., Oguzie J., Okogbenin S., Okokhere P., Okonofua G., Oluniyi P., Omoregie O., Osiemi B., Park D., Qu J., Sabeti P., Schaffner S., Shah R., Siddle K., Tomori O., Uwanibe J., Uyigue E., Winnicki S., Wohl S., Ye S., Yozwiak N., Journal: 75 Ames Street, Broad Institute, Cambridge, Infectious Disease Program, MA 02142, N. Engl. J. Med. (2018) In press, USA, Year: 2018",
+        "SubmissionSet": "Adebayo (2018, 30332564). Genomic Analysis of Lassa Virus during an Increase in Cases in Nigeria in 2018. 75 Ames Street, Broad Institute, Cambridge, Infectious Disease Program, MA 02142, N. Engl. J. Med. (2018) In press, USA",
         "PubID": 18,
-        "Publication": "PMID: 30332564, Title: Genomic Analysis of Lassa Virus during an Increase in Cases in Nigeria in 2018., Authors: Siddle KJ; Eromon P; Barnes KG; Mehta S; Oguzie JU; Odia I; Schaffner SF; Winnicki SM; Shah RR; Qu J; Wohl S; Brehio P; Iruolagbe C; Aiyepada J; Uyigue E; Akhilomen P; Okonofua G; Ye S; Kayode T; Ajogbasile F; Uwanibe J; Gaye A; Momoh M; Chak B; Kotliar D; Carter A; Gladden-Young A; Freije CA; Omoregie O; Osiemi B; Muoebonam EB; Airende M; Enigbe R; Ebo B; Nosamiefan I; Oluniyi P; Nekoui M; Ogbaini-Emovon E; Garry RF; Andersen KG; Park DJ; Yozwiak NL; Akpede G; Ihekweazu C; Tomori O; Okogbenin S; Folarin OA; Okokhere PO; MacInnis BL; Sabeti PC; Happi CT, Journal: N Engl J Med, Year: 2018",
+        "Publication": "Siddle (2018, 30332564). Genomic Analysis of Lassa Virus during an Increase in Cases in Nigeria in 2018.. N Engl J Med",
         "ShortName": "Siddle (2018, 30332564)"
     },
     {
         "RefID": 96,
-        "SubmissionSet": "Title: FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS): Supporting development and validation of Infectious Disease Dx tests, Authors: Aluvathingal J., Mehta A., Myers T., Nadendla S., Sadzewicz L., Sichtig H., Tallon L., Vavikolanu K., Yan Y., Journal: 10903 New Hampshire Avenue, Center for Devices and Radiological Health, MD 20903, US Food and Drug Administration, USA, Unpublished, White Oak, Year: 2021",
+        "SubmissionSet": "Aluvathingal (2021). FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS): Supporting development and validation of Infectious Disease Dx tests. 10903 New Hampshire Avenue, Center for Devices and Radiological Health, MD 20903, US Food and Drug Administration, USA, Unpublished, White Oak",
         "PubID": "",
         "Publication": "",
         "ShortName": "Aluvathingal (2021)"
     },
     {
         "RefID": 97,
-        "SubmissionSet": "Title: The pathogenic factor of Lassa virus infection in guinea pigs, Authors: Huang C., Manning J., Maruyama J., Paessler S., Paroha R., Saito T., Taniguchi S., Journal: 301 university blvd, Galveston, Pathology, TX 77555, The University of Texas Medical Branch, USA, Unpublished, Year: 2024",
+        "SubmissionSet": "Huang (2024). The pathogenic factor of Lassa virus infection in guinea pigs. 301 university blvd, Galveston, Pathology, TX 77555, The University of Texas Medical Branch, USA, Unpublished",
         "PubID": "",
         "Publication": "",
         "ShortName": "Huang (2024)"
     },
     {
         "RefID": 98,
-        "SubmissionSet": "PMID: 14972544, Title: Sequence analysis of L RNA of Lassa virus, Authors: Asper M., Gunther S., Schmitz H., Torda A., Vieth S., Journal: 153-168 (2004), Bernhard-Nocht-Institute of Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, Virology, Virology 318 (1), Year: 2002, 2004",
+        "SubmissionSet": "Asper (2004, 14972544). Sequence analysis of L RNA of Lassa virus. 153-168 (2004), Bernhard-Nocht-Institute of Tropical Medicine, Bernhard-Nocht-Str. 74, Germany, Hamburg 20359, Virology, Virology 318 (1)",
         "PubID": 38,
-        "Publication": "PMID: 14972544, Title: Sequence analysis of L RNA of Lassa virus., Authors: Vieth S; Torda AE; Asper M; Schmitz H; G\u221a\u00banther S, Journal: Virology, Year: 2004",
+        "Publication": "Vieth (2004, 14972544). Sequence analysis of L RNA of Lassa virus.. Virology",
         "ShortName": "Vieth (2004, 14972544)"
     },
     {
         "RefID": 99,
-        "SubmissionSet": "Title: Lassa virus diversity in Liberia, Authors: Albarino C., Bolay F., Chitty J., Davis W., Fakoli L., Palacios G., Patel K., Prieto K., Reyes D., Stroher U., Welch S., Wiley M., Journal: 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch, Year: 2018",
+        "SubmissionSet": "Albarino (2018). Lassa virus diversity in Liberia. 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch",
         "PubID": 2,
-        "Publication": "PMID: 38047354, Title: Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa., Authors: Bangura U; Davis C; Lamin J; Bangura J; Soropogui B; Davison AJ; Nichols J; Vucak M; Dawson M; Ansumana R; Sondufu D; Cadar D; Rieger T; Thomson E; Sahr F; Magassouba N; Ghersi B; Bird BH; Fichet-Calvet E, Journal: Emerg Microbes Infect, Year: 2024",
+        "Publication": "Bangura (2024, 38047354). Spatio-temporal spread of Lassa virus and a new rodent host in the Mano River Union area, West Africa.. Emerg Microbes Infect",
         "ShortName": "Bangura (2024, 38047354)"
     },
     {
         "RefID": 99,
-        "SubmissionSet": "Title: Lassa virus diversity in Liberia, Authors: Albarino C., Bolay F., Chitty J., Davis W., Fakoli L., Palacios G., Patel K., Prieto K., Reyes D., Stroher U., Welch S., Wiley M., Journal: 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch, Year: 2018",
+        "SubmissionSet": "Albarino (2018). Lassa virus diversity in Liberia. 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch",
         "PubID": 12,
-        "Publication": "PMID: 31588039, Title: Lassa virus circulating in Liberia: a retrospective genomic characterisation., Authors: Wiley MR; Fakoli L; Letizia AG; Welch SR; Ladner JT; Prieto K; Reyes D; Espy N; Chitty JA; Pratt CB; Di Paola N; Taweh F; Williams D; Saindon J; Davis WG; Patel K; Holland M; Negr\u221a\u2265n D; Str\u221a\u2202her U; Nichol ST; Sozhamannan S; Rollin PE; Dogba J; Nyenswah T; Bolay F; Albari\u221a\u00b1o CG; Fallah M; Palacios G, Journal: Lancet Infect Dis, Year: 2019",
+        "Publication": "Wiley (2019, 31588039). Lassa virus circulating in Liberia: a retrospective genomic characterisation.. Lancet Infect Dis",
         "ShortName": "Wiley (2019, 31588039)"
     },
     {
         "RefID": 99,
-        "SubmissionSet": "Title: Lassa virus diversity in Liberia, Authors: Albarino C., Bolay F., Chitty J., Davis W., Fakoli L., Palacios G., Patel K., Prieto K., Reyes D., Stroher U., Welch S., Wiley M., Journal: 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch, Year: 2018",
+        "SubmissionSet": "Albarino (2018). Lassa virus diversity in Liberia. 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch",
         "PubID": 54,
-        "Publication": "PMID: 32174454, Title: Adaptive genetic diversification of Lassa virus associated with the epidemic split of north-central Nigerian and non-Nigerian lineages., Authors: Li Y; Tian H, Journal: Virology, Year: 2020",
+        "Publication": "Li (2020, 32174454). Adaptive genetic diversification of Lassa virus associated with the epidemic split of north-central Nigerian and non-Nigerian lineages.. Virology",
         "ShortName": "Li (2020, 32174454)"
     },
     {
         "RefID": 99,
-        "SubmissionSet": "Title: Lassa virus diversity in Liberia, Authors: Albarino C., Bolay F., Chitty J., Davis W., Fakoli L., Palacios G., Patel K., Prieto K., Reyes D., Stroher U., Welch S., Wiley M., Journal: 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch, Year: 2018",
+        "SubmissionSet": "Albarino (2018). Lassa virus diversity in Liberia. 1425 Porter Street, 1600 Clifton Rd. NE, Atlanta, Center for Genome Sciences, Centers for Disease Control and Prevention, Ft Detrick, GA 30333, MD 21702, USA, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Unpublished, Viral Special Pathogens Branch",
         "PubID": 56,
-        "Publication": "PMID: 30050872, Title: The S Genome Segment Is Sufficient to Maintain Pathogenicity in Intra-Clade Lassa Virus Reassortants in a Guinea Pig Model., Authors: Welch SR; Scholte FEM; Albari\u221a\u00b1o CG; Kainulainen MH; Coleman-McCray JD; Guerrero LW; Chakrabarti AK; Klena JD; Nichol ST; Spengler JR; Spiropoulou CF, Journal: Front Cell Infect Microbiol, Year: 2018",
+        "Publication": "Welch (2018, 30050872). The S Genome Segment Is Sufficient to Maintain Pathogenicity in Intra-Clade Lassa Virus Reassortants in a Guinea Pig Model.. Front Cell Infect Microbiol",
         "ShortName": "Welch (2018, 30050872)"
     },
     {
         "RefID": 100,
-        "SubmissionSet": "PMID: 29460758, Title: 2016, New Lineage of Lassa Virus, Togo, Authors: Ampofo W., Aryeequaye J., Becker S., Bonney K., Brown S., Cadar D., Davis W., De leuw P., Dienes H., Eickmann M., Emmerich P., Faber K., Fehling S., Fichet-calvet E., Fries J., Gunther S., Hain T., Klena J., Kochanek M., Kraft C., Lyon G., Mehta A., Mengel J., Nichol S., Noack B., Patel K., Ribner B., Rieger T., Rollin P., Schmidt-chanasit J., Schuettfort G., Schultze T., Stephan C., Strecker T., Stroeher U., Stroher U., Varkey J., Whitmer S., Wieland U., Wolf T., Wolff S., Journal: 1600 Clifton Rd. NE, 599-602 (2018), Atlanta, Emerging Infect. Dis. 24 (3), GA 30333, The Centers for Disease Control and Prevention, United States of America, Viral Special Pathogens Branch, Year: 2017, 2018",
+        "SubmissionSet": "Ampofo (2018, 29460758). 2016, New Lineage of Lassa Virus, Togo. 1600 Clifton Rd. NE, 599-602 (2018), Atlanta, Emerging Infect. Dis. 24 (3), GA 30333, The Centers for Disease Control and Prevention, United States of America, Viral Special Pathogens Branch",
         "PubID": 19,
-        "Publication": "PMID: 29460758, Title: New Lineage of Lassa Virus, Togo, 2016., Authors: Whitmer SLM; Strecker T; Cadar D; Dienes HP; Faber K; Patel K; Brown SM; Davis WG; Klena JD; Rollin PE; Schmidt-Chanasit J; Fichet-Calvet E; Noack B; Emmerich P; Rieger T; Wolff S; Fehling SK; Eickmann M; Mengel JP; Schultze T; Hain T; Ampofo W; Bonney K; Aryeequaye JND; Ribner B; Varkey JB; Mehta AK; Lyon GM 3rd; Kann G; De Leuw P; Schuettfort G; Stephan C; Wieland U; Fries JWU; Kochanek M; Kraft CS; Wolf T; Nichol ST; Becker S; Str\u221a\u2202her U; G\u221a\u00banther S, Journal: Emerg Infect Dis, Year: 2018",
+        "Publication": "Whitmer (2018, 29460758). New Lineage of Lassa Virus, Togo, 2016.. Emerg Infect Dis",
         "ShortName": "Whitmer (2018, 29460758)"
     },
     {
         "RefID": 101,
-        "SubmissionSet": "PMID: 34522759, Title: Detection of Lassa virus in wild rodent feces: Implications for Lassa fever burden within households in the endemic region of Faranah, Guinea, Authors: Bangura U., Douno M., Fichet-calvet E., Marien J., Wood R., Journal: 100317 (2021), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, One Health 13, Virology, Year: 2021",
+        "SubmissionSet": "Bangura (2021, 34522759). Detection of Lassa virus in wild rodent feces: Implications for Lassa fever burden within households in the endemic region of Faranah, Guinea. 100317 (2021), Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, One Health 13, Virology",
         "PubID": 6,
-        "Publication": "PMID: 34522759, Title: Detection of Lassa virus in wild rodent feces: Implications for Lassa fever burden within households in the endemic region of Faranah, Guinea., Authors: Wood R; Bangura U; Mari\u221a\u00b4n J; Douno M; Fichet-Calvet E, Journal: One Health, Year: 2021",
+        "Publication": "Wood (2021, 34522759). Detection of Lassa virus in wild rodent feces: Implications for Lassa fever burden within households in the endemic region of Faranah, Guinea.. One Health",
         "ShortName": "Wood (2021, 34522759)"
     },
     {
         "RefID": 102,
-        "SubmissionSet": "PMID: 34127846, Title: Cryo-EM structures of Lassa and Machupo virus polymerases complexed with cognate regulatory Z proteins identify targets for antivirals, Authors: Deng H., Gao G., Hu X., Liu S., Peng Q., Peng R., Qi J., Shi Y., Tian X., Tong Y., Wang M., Wang P., Xu X., Xu Y., Zhong J., Journal: 921-931 (2021), Nat Microbiol 6 (7), Year: 2021",
+        "SubmissionSet": "Deng (2021, 34127846). Cryo-EM structures of Lassa and Machupo virus polymerases complexed with cognate regulatory Z proteins identify targets for antivirals. 921-931 (2021), Nat Microbiol 6 (7)",
         "PubID": 75,
-        "Publication": "PMID: 34127846, Title: Cryo-EM structures of Lassa and Machupo virus polymerases complexed with cognate regulatory Z proteins identify targets for antivirals., Authors: Xu X; Peng R; Peng Q; Wang M; Xu Y; Liu S; Tian X; Deng H; Tong Y; Hu X; Zhong J; Wang P; Qi J; Gao GF; Shi Y, Journal: Nat Microbiol, Year: 2021",
+        "Publication": "Xu (2021, 34127846). Cryo-EM structures of Lassa and Machupo virus polymerases complexed with cognate regulatory Z proteins identify targets for antivirals.. Nat Microbiol",
         "ShortName": "Xu (2021, 34127846)"
     },
     {
         "RefID": 103,
-        "SubmissionSet": "Title: Benin, Lassa virus in pygmy mice, Authors: Achaz A., Baptiste J., Fichet-calvet E., Gunther S., Kourouma F., Saizounou R., Yadouleton A., Journal: Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, Unpublished, Virology, Year: 2018",
+        "SubmissionSet": "Achaz (2018). Benin, Lassa virus in pygmy mice. Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Germany, Hamburg 20359, Unpublished, Virology",
         "PubID": 15,
-        "Publication": "PMID: 31365854, Title: Lassa Virus in Pygmy Mice, Benin, 2016-2017., Authors: Yadouleton A; Agolinou A; Kourouma F; Saizonou R; Pahlmann M; Bedi\u221a\u00a9 SK; Bankol\u221a\u00a9 H; Becker-Ziaja B; Gbaguidi F; Thielebein A; Magassouba N; Duraffour S; Baptiste JP; G\u221a\u00banther S; Fichet-Calvet E, Journal: Emerg Infect Dis, Year: 2019",
+        "Publication": "Yadouleton (2019, 31365854). Lassa Virus in Pygmy Mice, Benin, 2016-2017.. Emerg Infect Dis",
         "ShortName": "Yadouleton (2019, 31365854)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 3,
-        "Publication": "PMID: 37542071, Title: Metagenomic surveillance uncovers diverse and novel viral taxa in febrile patients from Nigeria., Authors: Oguzie JU; Petros BA; Oluniyi PE; Mehta SB; Eromon PE; Nair P; Adewale-Fasoro O; Ifoga PD; Odia I; Pastusiak A; Gbemisola OS; Aiyepada JO; Uyigue EA; Edamhande AP; Blessing O; Airende M; Tomkins-Tinch C; Qu J; Stenson L; Schaffner SF; Oyejide N; Ajayi NA; Ojide K; Ogah O; Abejegah C; Adedosu N; Ayodeji O; Liasu AA; Okogbenin S; Okokhere PO; Park DJ; Folarin OA; Komolafe I; Ihekweazu C; Frost SDW; Jackson EK; Siddle KJ; Sabeti PC; Happi CT, Journal: Nat Commun, Year: 2023",
+        "Publication": "Oguzie (2023, 37542071). Metagenomic surveillance uncovers diverse and novel viral taxa in febrile patients from Nigeria.. Nat Commun",
         "ShortName": "Oguzie (2023, 37542071)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 10,
-        "Publication": "PMID: 32457420, Title: Field evaluation of a Pan-Lassa rapid diagnostic test during the 2018 Nigerian Lassa fever outbreak., Authors: Boisen ML; Uyigue E; Aiyepada J; Siddle KJ; Oestereich L; Nelson DKS; Bush DJ; Rowland MM; Heinrich ML; Eromon P; Kayode AT; Odia I; Adomeh DI; Muoebonam EB; Akhilomen P; Okonofua G; Osiemi B; Omoregie O; Airende M; Agbukor J; Ehikhametalor S; Aire CO; Duraffour S; Pahlmann M; B\u221a\u2202hm W; Barnes KG; Mehta S; Momoh M; Sandi JD; Goba A; Folarin OA; Ogbaini-Emovan E; Asogun DA; Tobin EA; Akpede GO; Okogbenin SA; Okokhere PO; Grant DS; Schieffelin JS; Sabeti PC; G\u221a\u00banther S; Happi CT; Branco LM; Garry RF, Journal: Sci Rep, Year: 2020",
+        "Publication": "Boisen (2020, 32457420). Field evaluation of a Pan-Lassa rapid diagnostic test during the 2018 Nigerian Lassa fever outbreak.. Sci Rep",
         "ShortName": "Boisen (2020, 32457420)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 13,
-        "Publication": "PMID: 31534915, Title: Molecular confirmation and phylogeny of Lassa fever virus in Benin Republic 2014-2016., Authors: Salu OB; James AB; Bankol\u221a\u00a9 HS; Agbla JM; Da Silva M; Gbaguidi F; Loko CF; Omilabu SA, Journal: Afr J Lab Med, Year: 2019",
+        "Publication": "Salu (2019, 31534915). Molecular confirmation and phylogeny of Lassa fever virus in Benin Republic 2014-2016.. Afr J Lab Med",
         "ShortName": "Salu (2019, 31534915)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 28,
-        "Publication": "PMID: 25403361, Title: Enhanced methods for unbiased deep sequencing of Lassa and Ebola RNA viruses from clinical and biological samples., Authors: Matranga CB; Andersen KG; Winnicki S; Busby M; Gladden AD; Tewhey R; Stremlau M; Berlin A; Gire SK; England E; Moses LM; Mikkelsen TS; Odia I; Ehiane PE; Folarin O; Goba A; Kahn SH; Grant DS; Honko A; Hensley L; Happi C; Garry RF; Malboeuf CM; Birren BW; Gnirke A; Levin JZ; Sabeti PC, Journal: Genome Biol, Year: 2014",
+        "Publication": "Matranga (2014, 25403361). Enhanced methods for unbiased deep sequencing of Lassa and Ebola RNA viruses from clinical and biological samples.. Genome Biol",
         "ShortName": "Matranga (2014, 25403361)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 29,
-        "Publication": "PMID: 24335292, Title: Genetic variation in vitro and in vivo of an attenuated Lassa vaccine candidate., Authors: Zapata JC; Goicochea M; Nadai Y; Eyzaguirre LM; Carr JK; Tallon LJ; Sadzewicz L; Myers G; Fraser CM; Su Q; Djavani M; Lukashevich IS; Salvato MS, Journal: J Virol, Year: 2014",
+        "Publication": "Zapata (2014, 24335292). Genetic variation in vitro and in vivo of an attenuated Lassa vaccine candidate.. J Virol",
         "ShortName": "Zapata (2014, 24335292)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 30,
-        "Publication": "PMID: 22615894, Title: The impact of human conflict on the genetics of Mastomys natalensis and Lassa virus in West Africa., Authors: Lalis A; Leblois R; Lecompte E; Denys C; Ter Meulen J; Wirth T, Journal: PLoS One, Year: 2012",
+        "Publication": "Lalis (2012, 22615894). The impact of human conflict on the genetics of Mastomys natalensis and Lassa virus in West Africa.. PLoS One",
         "ShortName": "Lalis (2012, 22615894)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 32,
-        "Publication": "PMID: 20875288, Title: Imported Lassa fever, Pennsylvania, USA, 2010., Authors: Amorosa V; MacNeil A; McConnell R; Patel A; Dillon KE; Hamilton K; Erickson BR; Campbell S; Knust B; Cannon D; Miller D; Manning C; Rollin PE; Nichol ST, Journal: Emerg Infect Dis, Year: 2010",
+        "Publication": "Amorosa (2010, 20875288). Imported Lassa fever, Pennsylvania, USA, 2010.. Emerg Infect Dis",
         "ShortName": "Amorosa (2010, 20875288)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 36,
-        "Publication": "PMID: 17143722, Title: Molecular characterization of a reassortant virus derived from Lassa and Mopeia viruses., Authors: Moshkoff DA; Salvato MS; Lukashevich IS, Journal: Virus Genes, Year: 2007",
+        "Publication": "Moshkoff (2007, 17143722). Molecular characterization of a reassortant virus derived from Lassa and Mopeia viruses.. Virus Genes",
         "ShortName": "Moshkoff (2007, 17143722)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 48,
-        "Publication": "PMID: 38832113, Title: Intrasegmental recombination as an evolutionary force of Lassa fever virus., Authors: He CQ; Kong C; He M; Chen GX; Liu SM; Ding NZ, Journal: Front Microbiol, Year: 2024",
+        "Publication": "He (2024, 38832113). Intrasegmental recombination as an evolutionary force of Lassa fever virus.. Front Microbiol",
         "ShortName": "He (2024, 38832113)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 49,
-        "Publication": "PMID: 38826374, Title: Unraveling factors responsible for pathogenic differences in Lassa virus strains., Authors: Taniguchi S; Saito T; Paroha R; Huang C; Paessler S; Maruyama J, Journal: bioRxiv, Year: 2024",
+        "Publication": "Taniguchi (2024, 38826374). Unraveling factors responsible for pathogenic differences in Lassa virus strains.. bioRxiv",
         "ShortName": "Taniguchi (2024, 38826374)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 50,
-        "Publication": "PMID: 37090668, Title: Lassa virus NP DEDDh 3'-5' exoribonuclease activity is required for optimal viral RNA replication and mutation control., Authors: Huang C; Mantlo E; Paessler S, Journal: bioRxiv, Year: 2023",
+        "Publication": "Huang (2023, 37090668). Lassa virus NP DEDDh 3'-5' exoribonuclease activity is required for optimal viral RNA replication and mutation control.. bioRxiv",
         "ShortName": "Huang (2023, 37090668)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 55,
-        "Publication": "PMID: 32098811, Title: A Lassa Fever Live-Attenuated Vaccine Based on Codon Deoptimization of the Viral Glycoprotein Gene., Authors: Cai Y; Ye C; Cheng B; Nogales A; Iwasaki M; Yu S; Cooper K; Liu DX; Hart R; Adams R; Brady T; Postnikova EN; Kurtz J; St Claire M; Kuhn JH; de la Torre JC; Mart\u221a\u2260nez-Sobrido L, Journal: mBio, Year: 2020",
+        "Publication": "Cai (2020, 32098811). A Lassa Fever Live-Attenuated Vaccine Based on Codon Deoptimization of the Viral Glycoprotein Gene.. mBio",
         "ShortName": "Cai (2020, 32098811)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 57,
-        "Publication": "PMID: 27403729, Title: Unbiased Deep Sequencing of RNA Viruses from Clinical Samples., Authors: Matranga CB; Gladden-Young A; Qu J; Winnicki S; Nosamiefan D; Levin JZ; Sabeti PC, Journal: J Vis Exp, Year: 2016",
+        "Publication": "Matranga (2016, 27403729). Unbiased Deep Sequencing of RNA Viruses from Clinical Samples.. J Vis Exp",
         "ShortName": "Matranga (2016, 27403729)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 60,
-        "Publication": "PMID: 21843352, Title: Lassa hemorrhagic fever in a late term pregnancy from northern Sierra Leone with a positive maternal outcome: case report., Authors: Branco LM; Boisen ML; Andersen KG; Grove JN; Moses LM; Muncy IJ; Henderson LA; Schieffellin JS; Robinson JE; Bangura JJ; Grant DS; Raabe VN; Fonnie M; Zaitsev EM; Sabeti PC; Garry RF, Journal: Virol J, Year: 2011",
+        "Publication": "Branco (2011, 21843352). Lassa hemorrhagic fever in a late term pregnancy from northern Sierra Leone with a positive maternal outcome: case report.. Virol J",
         "ShortName": "Branco (2011, 21843352)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 62,
-        "Publication": "PMID: 20980515, Title: Reverse genetics generation of chimeric infectious Junin/Lassa virus is dependent on interaction of homologous glycoprotein stable signal peptide and G2 cytoplasmic domains., Authors: Albari\u221a\u00b1o CG; Bird BH; Chakrabarti AK; Dodd KA; White DM; Bergeron E; Shrivastava-Ranjan P; Nichol ST, Journal: J Virol, Year: 2011",
+        "Publication": "Albari\u221a\u00b1o (2011, 20980515). Reverse genetics generation of chimeric infectious Junin/Lassa virus is dependent on interaction of homologous glycoprotein stable signal peptide and G2 cytoplasmic domains.. J Virol",
         "ShortName": "Albari\u221a\u00b1o (2011, 20980515)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 65,
-        "Publication": "PMID: 3724662, Title: Evolutionary biology of a Lassa virus complex., Authors: Gonzalez JP; Georges AJ; Kiley MP; Meunier DM; Peters CJ; McCormick JB, Journal: Med Microbiol Immunol, Year: 1986",
+        "Publication": "Gonzalez (1986, 3724662). Evolutionary biology of a Lassa virus complex.. Med Microbiol Immunol",
         "ShortName": "Gonzalez (1986, 3724662)"
     },
     {
         "RefID": "",
         "SubmissionSet": "",
         "PubID": 66,
-        "Publication": "PMID: 3898483, Title: Endemic Lassa fever in Liberia. III. Characterization of Lassa virus isolates., Authors: Jahrling PB; Frame JD; Smith SB; Monson MH, Journal: Trans R Soc Trop Med Hyg, Year: 1985",
+        "Publication": "Jahrling (1985, 3898483). Endemic Lassa fever in Liberia. III. Characterization of Lassa virus isolates.. Trans R Soc Trop Med Hyg",
         "ShortName": "Jahrling (1985, 3898483)"
     }
 ]
