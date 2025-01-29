@@ -8,8 +8,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2010, 19402762)",
         "#": 39,
-        "Total": 313,
-        "%": 12.46
+        "Total": 353,
+        "%": 11.05
     },
     {
         "Host": "Bat",
@@ -20,11 +20,11 @@
         "NumPublications": 1,
         "Publications": "Cortes-Azuero (2024, 38682164)",
         "#": 26,
-        "Total": 313,
-        "%": 8.31
+        "Total": 353,
+        "%": 7.37
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2011,
         "IsolateYr": "2011-2020",
@@ -32,11 +32,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 23,
-        "Total": 313,
-        "%": 7.35
+        "Total": 353,
+        "%": 6.52
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2011,
         "IsolateYr": "2011-2020",
@@ -44,11 +44,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 23,
-        "Total": 313,
-        "%": 7.35
+        "Total": 353,
+        "%": 6.52
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2011,
         "IsolateYr": "2011-2020",
@@ -56,11 +56,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 23,
-        "Total": 313,
-        "%": 7.35
+        "Total": 353,
+        "%": 6.52
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2011,
         "IsolateYr": "2011-2020",
@@ -68,11 +68,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 23,
-        "Total": 313,
-        "%": 7.35
+        "Total": 353,
+        "%": 6.52
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2011,
         "IsolateYr": "2011-2020",
@@ -80,11 +80,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 23,
-        "Total": 313,
-        "%": 7.35
+        "Total": 353,
+        "%": 6.52
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2011,
         "IsolateYr": "2011-2020",
@@ -92,11 +92,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 23,
-        "Total": 313,
-        "%": 7.35
+        "Total": 353,
+        "%": 6.52
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2013,
         "IsolateYr": "2011-2020",
@@ -104,8 +104,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2021, 33129964)",
         "#": 21,
-        "Total": 313,
-        "%": 6.71
+        "Total": 353,
+        "%": 5.95
     },
     {
         "Host": "Bat",
@@ -116,8 +116,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
         "#": 20,
-        "Total": 313,
-        "%": 6.39
+        "Total": 353,
+        "%": 5.67
     },
     {
         "Host": "Bat",
@@ -128,23 +128,47 @@
         "NumPublications": 1,
         "Publications": "Amato (2019, 31652377)",
         "#": 19,
-        "Total": 313,
-        "%": 6.07
+        "Total": 353,
+        "%": 5.38
     },
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2002,
+        "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Boongird (2009)",
         "#": 16,
-        "Total": 313,
-        "%": 5.11
+        "Total": 353,
+        "%": 4.53
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Yadav (2019, 31002049)",
+        "#": 15,
+        "Total": 353,
+        "%": 4.25
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "P",
+        "NumPublications": 1,
+        "Publications": "Yadav (2019, 31002049)",
+        "#": 14,
+        "Total": 353,
+        "%": 3.97
+    },
+    {
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2022,
         "IsolateYr": "2021-2025",
@@ -152,11 +176,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 14,
-        "Total": 313,
-        "%": 4.47
+        "Total": 353,
+        "%": 3.97
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2022,
         "IsolateYr": "2021-2025",
@@ -164,11 +188,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 14,
-        "Total": 313,
-        "%": 4.47
+        "Total": 353,
+        "%": 3.97
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2022,
         "IsolateYr": "2021-2025",
@@ -176,11 +200,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 14,
-        "Total": 313,
-        "%": 4.47
+        "Total": 353,
+        "%": 3.97
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2022,
         "IsolateYr": "2021-2025",
@@ -188,11 +212,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 14,
-        "Total": 313,
-        "%": 4.47
+        "Total": 353,
+        "%": 3.97
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2022,
         "IsolateYr": "2021-2025",
@@ -200,11 +224,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 14,
-        "Total": 313,
-        "%": 4.47
+        "Total": 353,
+        "%": 3.97
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2022,
         "IsolateYr": "2021-2025",
@@ -212,8 +236,20 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 14,
-        "Total": 313,
-        "%": 4.47
+        "Total": 353,
+        "%": 3.97
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "NumPublications": 1,
+        "Publications": "Yadav (2019, 31002049)",
+        "#": 13,
+        "Total": 353,
+        "%": 3.68
     },
     {
         "Host": "Bat",
@@ -224,8 +260,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
         "#": 11,
-        "Total": 313,
-        "%": 3.51
+        "Total": 353,
+        "%": 3.12
     },
     {
         "Host": "Bat",
@@ -236,8 +272,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
         "#": 11,
-        "Total": 313,
-        "%": 3.51
+        "Total": 353,
+        "%": 3.12
     },
     {
         "Host": "Bat",
@@ -248,8 +284,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
         "#": 11,
-        "Total": 313,
-        "%": 3.51
+        "Total": 353,
+        "%": 3.12
     },
     {
         "Host": "Bat",
@@ -260,8 +296,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
         "#": 11,
-        "Total": 313,
-        "%": 3.51
+        "Total": 353,
+        "%": 3.12
     },
     {
         "Host": "Bat",
@@ -272,8 +308,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
         "#": 11,
-        "Total": 313,
-        "%": 3.51
+        "Total": 353,
+        "%": 3.12
     },
     {
         "Host": "Bat",
@@ -284,8 +320,44 @@
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
         "#": 11,
-        "Total": 313,
-        "%": 3.51
+        "Total": 353,
+        "%": 3.12
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2018,
+        "IsolateYr": "2011-2020",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Yadav (2019, 31002049)",
+        "#": 11,
+        "Total": 353,
+        "%": 3.12
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Yadav (2019, 31002049)",
+        "#": 10,
+        "Total": 353,
+        "%": 2.83
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "NumPublications": 1,
+        "Publications": "Yadav (2019, 31002049)",
+        "#": 10,
+        "Total": 353,
+        "%": 2.83
     },
     {
         "Host": "Bat",
@@ -296,8 +368,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2021, 33129964)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
         "Host": "Bat",
@@ -308,11 +380,11 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2007, 17184850)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2017,
         "IsolateYr": "2011-2020",
@@ -320,11 +392,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2017,
         "IsolateYr": "2011-2020",
@@ -332,11 +404,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2017,
         "IsolateYr": "2011-2020",
@@ -344,11 +416,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2017,
         "IsolateYr": "2011-2020",
@@ -356,11 +428,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2017,
         "IsolateYr": "2011-2020",
@@ -368,11 +440,11 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2017,
         "IsolateYr": "2011-2020",
@@ -380,11 +452,23 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 9,
-        "Total": 313,
-        "%": 2.88
+        "Total": 353,
+        "%": 2.55
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "L",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 9,
+        "Total": 353,
+        "%": 2.55
+    },
+    {
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2008,
         "IsolateYr": "2001-2010",
@@ -392,20 +476,32 @@
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
         "#": 8,
-        "Total": 313,
-        "%": 2.56
+        "Total": 353,
+        "%": 2.27
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "#": 8,
+        "Total": 353,
+        "%": 2.27
+    },
+    {
+        "Host": "Bat",
+        "Country": "India",
+        "IsolateYear": 2023,
+        "IsolateYr": "2021-2025",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
         "#": 7,
-        "Total": 313,
-        "%": 2.24
+        "Total": 353,
+        "%": 1.98
     },
     {
         "Host": "Bat",
@@ -416,11 +512,11 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2016, 27016237)",
         "#": 6,
-        "Total": 313,
-        "%": 1.92
+        "Total": 353,
+        "%": 1.7
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -428,11 +524,11 @@
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
         "#": 6,
-        "Total": 313,
-        "%": 1.92
+        "Total": 353,
+        "%": 1.7
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -440,11 +536,11 @@
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
         "#": 6,
-        "Total": 313,
-        "%": 1.92
+        "Total": 353,
+        "%": 1.7
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -452,11 +548,11 @@
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
         "#": 6,
-        "Total": 313,
-        "%": 1.92
+        "Total": 353,
+        "%": 1.7
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -464,11 +560,11 @@
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
         "#": 6,
-        "Total": 313,
-        "%": 1.92
+        "Total": 353,
+        "%": 1.7
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -476,8 +572,20 @@
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
         "#": 6,
-        "Total": 313,
-        "%": 1.92
+        "Total": 353,
+        "%": 1.7
+    },
+    {
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 6,
+        "Total": 353,
+        "%": 1.7
     },
     {
         "Host": "Bat",
@@ -488,8 +596,8 @@
         "NumPublications": 1,
         "Publications": "Sendow (2013, 23894501)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
         "Host": "Bat",
@@ -500,11 +608,11 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2016, 27016237)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -512,11 +620,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -524,11 +632,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -536,11 +644,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -548,11 +656,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -560,11 +668,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -572,11 +680,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2014,
         "IsolateYr": "2011-2020",
@@ -584,11 +692,35 @@
         "NumPublications": 1,
         "Publications": "Hassan (2018, 29260663)",
         "#": 5,
-        "Total": 313,
-        "%": 1.6
+        "Total": 353,
+        "%": 1.42
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 5,
+        "Total": 353,
+        "%": 1.42
+    },
+    {
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "P",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 5,
+        "Total": 353,
+        "%": 1.42
+    },
+    {
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2007,
         "IsolateYr": "2001-2010",
@@ -596,8 +728,32 @@
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
         "#": 4,
-        "Total": 313,
-        "%": 1.28
+        "Total": 353,
+        "%": 1.13
+    },
+    {
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 4,
+        "Total": 353,
+        "%": 1.13
+    },
+    {
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2021,
+        "IsolateYr": "2021-2025",
+        "Gene": "M",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 4,
+        "Total": 353,
+        "%": 1.13
     },
     {
         "Host": "Pig",
@@ -608,8 +764,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 4,
-        "Total": 313,
-        "%": 1.28
+        "Total": 353,
+        "%": 1.13
     },
     {
         "Host": "Pig",
@@ -620,8 +776,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 4,
-        "Total": 313,
-        "%": 1.28
+        "Total": 353,
+        "%": 1.13
     },
     {
         "Host": "Pig",
@@ -632,8 +788,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 4,
-        "Total": 313,
-        "%": 1.28
+        "Total": 353,
+        "%": 1.13
     },
     {
         "Host": "Pig",
@@ -644,8 +800,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 4,
-        "Total": 313,
-        "%": 1.28
+        "Total": 353,
+        "%": 1.13
     },
     {
         "Host": "Pig",
@@ -656,8 +812,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 4,
-        "Total": 313,
-        "%": 1.28
+        "Total": 353,
+        "%": 1.13
     },
     {
         "Host": "Pig",
@@ -668,8 +824,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 4,
-        "Total": 313,
-        "%": 1.28
+        "Total": 353,
+        "%": 1.13
     },
     {
         "Host": "Bat",
@@ -680,8 +836,8 @@
         "NumPublications": 1,
         "Publications": "Buchy (2014)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Bat",
@@ -692,20 +848,8 @@
         "NumPublications": 1,
         "Publications": "Cortes-Azuero (2024, 38682164)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
-    },
-    {
-        "Host": "Bat",
-        "Country": "India",
-        "IsolateYear": 2018,
-        "IsolateYr": "2011-2020",
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Yadav (2019, 31002049)",
-        "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Bat",
@@ -716,8 +860,8 @@
         "NumPublications": 1,
         "Publications": "Bas (2024)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Bat",
@@ -728,11 +872,11 @@
         "NumPublications": 1,
         "Publications": "Bas (2024)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2008,
         "IsolateYr": "2001-2010",
@@ -740,11 +884,11 @@
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2008,
         "IsolateYr": "2001-2010",
@@ -752,11 +896,11 @@
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2008,
         "IsolateYr": "2001-2010",
@@ -764,11 +908,11 @@
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2008,
         "IsolateYr": "2001-2010",
@@ -776,11 +920,11 @@
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2008,
         "IsolateYr": "2001-2010",
@@ -788,8 +932,8 @@
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Not Available",
@@ -800,8 +944,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Not Available",
@@ -812,8 +956,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Not Available",
@@ -824,8 +968,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Not Available",
@@ -836,8 +980,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Not Available",
@@ -848,8 +992,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Not Available",
@@ -860,8 +1004,32 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 3,
-        "Total": 313,
-        "%": 0.96
+        "Total": 353,
+        "%": 0.85
+    },
+    {
+        "Host": "Not Available",
+        "Country": "Not Available",
+        "IsolateYear": "Not Available",
+        "IsolateYr": "",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Anderson (2000, 10827955)",
+        "#": 3,
+        "Total": 353,
+        "%": 0.85
+    },
+    {
+        "Host": "Not Available",
+        "Country": "Not Available",
+        "IsolateYear": "Not Available",
+        "IsolateYr": "",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Anderson (2000, 10827955)",
+        "#": 3,
+        "Total": 353,
+        "%": 0.85
     },
     {
         "Host": "Bat",
@@ -872,8 +1040,8 @@
         "NumPublications": 1,
         "Publications": "Bas (2024)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Bat",
@@ -884,8 +1052,8 @@
         "NumPublications": 1,
         "Publications": "Bas (2024)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Bat",
@@ -896,8 +1064,8 @@
         "NumPublications": 1,
         "Publications": "Bas (2024)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Bat",
@@ -908,8 +1076,8 @@
         "NumPublications": 1,
         "Publications": "Bas (2024)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Bat",
@@ -920,20 +1088,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
-    },
-    {
-        "Host": "Homo sapiens",
-        "Country": "India",
-        "IsolateYear": 2018,
-        "IsolateYr": "2011-2020",
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Yadav (2018)",
-        "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -944,8 +1100,8 @@
         "NumPublications": 1,
         "Publications": "Hassan (2018, 29260663)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -956,8 +1112,8 @@
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -968,8 +1124,8 @@
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -980,8 +1136,8 @@
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -992,8 +1148,8 @@
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1004,8 +1160,8 @@
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1016,20 +1172,8 @@
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
-    },
-    {
-        "Host": "Not Available",
-        "Country": "Not Available",
-        "IsolateYear": "Not Available",
-        "IsolateYr": "",
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Anderson (2000, 10827955)",
-        "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1040,20 +1184,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
-    },
-    {
-        "Host": "Not Available",
-        "Country": "Not Available",
-        "IsolateYear": "Not Available",
-        "IsolateYr": "",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Anderson (2000, 10827955)",
-        "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1064,8 +1196,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1076,8 +1208,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1088,8 +1220,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1100,8 +1232,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1112,8 +1244,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1124,8 +1256,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1136,8 +1268,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1148,8 +1280,8 @@
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Not Available",
@@ -1160,8 +1292,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
         "#": 2,
-        "Total": 313,
-        "%": 0.64
+        "Total": 353,
+        "%": 0.57
     },
     {
         "Host": "Bat",
@@ -1172,8 +1304,8 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1184,8 +1316,8 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1196,8 +1328,8 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1208,8 +1340,8 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1220,8 +1352,8 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1232,8 +1364,8 @@
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1244,8 +1376,8 @@
         "NumPublications": 1,
         "Publications": "Reynes (2005, 16022778)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1256,8 +1388,8 @@
         "NumPublications": 1,
         "Publications": "Reynes (2005, 16022778)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1268,8 +1400,8 @@
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1280,8 +1412,8 @@
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1292,8 +1424,8 @@
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1304,8 +1436,8 @@
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1316,8 +1448,8 @@
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1328,8 +1460,8 @@
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1340,8 +1472,8 @@
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1352,8 +1484,8 @@
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1364,8 +1496,8 @@
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1376,8 +1508,8 @@
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1388,8 +1520,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1400,8 +1532,8 @@
         "NumPublications": 1,
         "Publications": "Chang (2010)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1412,8 +1544,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1424,8 +1556,8 @@
         "NumPublications": 1,
         "Publications": "Chang (2010)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1436,8 +1568,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1448,8 +1580,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1460,8 +1592,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1472,8 +1604,8 @@
         "NumPublications": 1,
         "Publications": "Chang (2010)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1484,8 +1616,8 @@
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1496,8 +1628,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1508,8 +1640,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1520,8 +1652,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1532,8 +1664,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Bat",
@@ -1544,8 +1676,8 @@
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Dog",
@@ -1556,8 +1688,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Dog",
@@ -1568,8 +1700,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Dog",
@@ -1580,8 +1712,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Dog",
@@ -1592,8 +1724,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Dog",
@@ -1604,8 +1736,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Dog",
@@ -1616,11 +1748,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -1628,11 +1760,11 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -1640,11 +1772,11 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -1652,11 +1784,11 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -1664,11 +1796,11 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -1676,11 +1808,11 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Bangladesh",
         "IsolateYear": 2004,
         "IsolateYr": "2001-2010",
@@ -1688,11 +1820,11 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2007,
         "IsolateYr": "2001-2010",
@@ -1700,11 +1832,11 @@
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2007,
         "IsolateYr": "2001-2010",
@@ -1712,11 +1844,11 @@
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2007,
         "IsolateYr": "2001-2010",
@@ -1724,11 +1856,11 @@
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2007,
         "IsolateYr": "2001-2010",
@@ -1736,11 +1868,11 @@
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2007,
         "IsolateYr": "2001-2010",
@@ -1748,11 +1880,11 @@
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -1760,11 +1892,23 @@
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 1,
+        "Total": 353,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -1772,11 +1916,23 @@
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 1,
+        "Total": 353,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -1784,11 +1940,23 @@
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "L",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 1,
+        "Total": 353,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -1796,11 +1964,23 @@
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "M",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 1,
+        "Total": 353,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -1808,11 +1988,23 @@
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
+        "Country": "India",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Yadav (2022, 35252095)",
+        "#": 1,
+        "Total": 353,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
         "Country": "India",
         "IsolateYear": 2018,
         "IsolateYr": "2011-2020",
@@ -1820,83 +2012,23 @@
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
-        "IsolateYr": "2021-2025",
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Yadav (2022, 35252095)",
-        "#": 1,
-        "Total": 313,
-        "%": 0.32
-    },
-    {
-        "Host": "Homo sapiens",
-        "Country": "India",
-        "IsolateYear": 2021,
-        "IsolateYr": "2021-2025",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Yadav (2022, 35252095)",
-        "#": 1,
-        "Total": 313,
-        "%": 0.32
-    },
-    {
-        "Host": "Homo sapiens",
-        "Country": "India",
-        "IsolateYear": 2021,
-        "IsolateYr": "2021-2025",
-        "Gene": "L",
-        "NumPublications": 1,
-        "Publications": "Yadav (2022, 35252095)",
-        "#": 1,
-        "Total": 313,
-        "%": 0.32
-    },
-    {
-        "Host": "Homo sapiens",
-        "Country": "India",
-        "IsolateYear": 2021,
-        "IsolateYr": "2021-2025",
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Yadav (2022, 35252095)",
-        "#": 1,
-        "Total": 313,
-        "%": 0.32
-    },
-    {
-        "Host": "Homo sapiens",
-        "Country": "India",
-        "IsolateYear": 2021,
-        "IsolateYr": "2021-2025",
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Yadav (2022, 35252095)",
-        "#": 1,
-        "Total": 313,
-        "%": 0.32
-    },
-    {
-        "Host": "Homo sapiens",
-        "Country": "India",
-        "IsolateYear": 2021,
-        "IsolateYr": "2021-2025",
+        "IsolateYear": 2019,
+        "IsolateYr": "2011-2020",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Malaysia",
         "IsolateYear": 1999,
         "IsolateYr": "1991-2000",
@@ -1904,11 +2036,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Malaysia",
         "IsolateYear": 1999,
         "IsolateYr": "1991-2000",
@@ -1916,11 +2048,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Malaysia",
         "IsolateYear": 1999,
         "IsolateYr": "1991-2000",
@@ -1928,11 +2060,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Malaysia",
         "IsolateYear": 1999,
         "IsolateYr": "1991-2000",
@@ -1940,11 +2072,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Malaysia",
         "IsolateYear": 1999,
         "IsolateYr": "1991-2000",
@@ -1952,11 +2084,11 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
-        "Host": "Homo sapiens",
+        "Host": "Human",
         "Country": "Malaysia",
         "IsolateYear": 1999,
         "IsolateYr": "1991-2000",
@@ -1964,8 +2096,8 @@
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -1976,8 +2108,8 @@
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -1988,8 +2120,8 @@
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2000,8 +2132,8 @@
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2012,8 +2144,8 @@
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2024,8 +2156,8 @@
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2036,8 +2168,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2000, 10860887)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2048,8 +2180,8 @@
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2060,8 +2192,8 @@
         "NumPublications": 1,
         "Publications": "Harcourt (2000, 10860887)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2072,8 +2204,8 @@
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2084,8 +2216,8 @@
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2096,8 +2228,8 @@
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2108,8 +2240,8 @@
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Not Available",
@@ -2120,8 +2252,8 @@
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Pig",
@@ -2132,8 +2264,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Pig",
@@ -2144,8 +2276,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Pig",
@@ -2156,8 +2288,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Pig",
@@ -2168,8 +2300,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Pig",
@@ -2180,8 +2312,8 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     },
     {
         "Host": "Pig",
@@ -2192,7 +2324,7 @@
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
         "#": 1,
-        "Total": 313,
-        "%": 0.32
+        "Total": 353,
+        "%": 0.28
     }
 ]
