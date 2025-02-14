@@ -3,7 +3,7 @@ pageTitle: Nipah database summary
 introHeader: |-
   # Nipah database summary
 content:
-  _resource: pubmed-genbank-tables.md
+  _resource: pubmed-genbank-tables-Nipah.md
 toc: false
 tables:
   submissionsets:

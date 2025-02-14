@@ -8,7 +8,7 @@
         "Specimen": "Not available",
         "IsolateName": "c0141-1",
         "SeqLength": 7112,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OR147789",
@@ -19,7 +19,7 @@
         "Specimen": "Not available",
         "IsolateName": "c0091-1",
         "SeqLength": 7054,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OR147788",
@@ -30,7 +30,7 @@
         "Specimen": "Not available",
         "IsolateName": "c0044-1",
         "SeqLength": 7230,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON569379",
@@ -38,10 +38,10 @@
         "RecordYear": 2023,
         "IsolateYear": "Not available",
         "Host": "Rodent",
-        "Specimen": "Not available",
+        "Specimen": "Rodent",
         "IsolateName": "63K-2",
         "SeqLength": 3332,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON569377",
@@ -49,10 +49,10 @@
         "RecordYear": 2023,
         "IsolateYear": "Not available",
         "Host": "Rodent",
-        "Specimen": "Not available",
+        "Specimen": "Rodent",
         "IsolateName": "61K-2",
         "SeqLength": 3202,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON569375",
@@ -60,10 +60,10 @@
         "RecordYear": 2023,
         "IsolateYear": "Not available",
         "Host": "Rodent",
-        "Specimen": "Not available",
+        "Specimen": "Rodent",
         "IsolateName": "57K-2",
         "SeqLength": 3334,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON569373",
@@ -71,10 +71,10 @@
         "RecordYear": 2023,
         "IsolateYear": "Not available",
         "Host": "Rodent",
-        "Specimen": "Not available",
+        "Specimen": "Rodent",
         "IsolateName": "25K-2",
         "SeqLength": 3137,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON569371",
@@ -82,10 +82,10 @@
         "RecordYear": 2023,
         "IsolateYear": "Not available",
         "Host": "Rodent",
-        "Specimen": "Not available",
+        "Specimen": "Rodent",
         "IsolateName": "OW15K-2",
         "SeqLength": 3304,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON569369",
@@ -93,76 +93,10 @@
         "RecordYear": 2023,
         "IsolateYear": "Not available",
         "Host": "Rodent",
-        "Specimen": "Not available",
+        "Specimen": "Rodent",
         "IsolateName": "6K-2",
         "SeqLength": 3302,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "ON569378",
-        "Country": "Nigeria",
-        "RecordYear": 2023,
-        "IsolateYear": "Not available",
-        "Host": "Rodent",
-        "Specimen": "Not available",
-        "IsolateName": "63K-1",
-        "SeqLength": 7134,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "ON569376",
-        "Country": "Nigeria",
-        "RecordYear": 2023,
-        "IsolateYear": "Not available",
-        "Host": "Rodent",
-        "Specimen": "Not available",
-        "IsolateName": "61K-1",
-        "SeqLength": 6427,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "ON569374",
-        "Country": "Nigeria",
-        "RecordYear": 2023,
-        "IsolateYear": "Not available",
-        "Host": "Rodent",
-        "Specimen": "Not available",
-        "IsolateName": "57K-1",
-        "SeqLength": 7167,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "ON569372",
-        "Country": "Nigeria",
-        "RecordYear": 2023,
-        "IsolateYear": "Not available",
-        "Host": "Rodent",
-        "Specimen": "Not available",
-        "IsolateName": "25K-1",
-        "SeqLength": 6543,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "ON569370",
-        "Country": "Nigeria",
-        "RecordYear": 2023,
-        "IsolateYear": "Not available",
-        "Host": "Rodent",
-        "Specimen": "Not available",
-        "IsolateName": "OW15K-1",
-        "SeqLength": 7040,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "ON569368",
-        "Country": "Nigeria",
-        "RecordYear": 2023,
-        "IsolateYear": "Not available",
-        "Host": "Rodent",
-        "Specimen": "Not available",
-        "IsolateName": "6K-1",
-        "SeqLength": 7180,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MW004547",
@@ -171,9 +105,9 @@
         "IsolateYear": 2011,
         "Host": "Other",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Josiah-GPA",
         "SeqLength": 3416,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MW004546",
@@ -182,9 +116,31 @@
         "IsolateYear": 2011,
         "Host": "Other",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Josiah-GPA",
         "SeqLength": 7265,
-        "IsolateType": ""
+        "NonClinical": ""
+    },
+    {
+        "Accession": "KU978807",
+        "Country": "Guinea",
+        "RecordYear": 2017,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "Guinea Faranah",
+        "SeqLength": 3395,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "KU978808",
+        "Country": "Guinea",
+        "RecordYear": 2017,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "Guinea Faranah",
+        "SeqLength": 7252,
+        "NonClinical": ""
     },
     {
         "Accession": "KY425642",
@@ -192,10 +148,10 @@
         "RecordYear": 2017,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "IRF0185",
         "SeqLength": 3389,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "KY425635",
@@ -203,10 +159,10 @@
         "RecordYear": 2017,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "IRF0194",
         "SeqLength": 3398,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "KY425628",
@@ -214,10 +170,10 @@
         "RecordYear": 2017,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "IRF0185",
         "SeqLength": 7262,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "KY425626",
@@ -225,54 +181,10 @@
         "RecordYear": 2017,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "IRF0194",
         "SeqLength": 7234,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "7OJK_D",
-        "Country": "Not available",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Not available",
-        "Specimen": "Not available",
-        "IsolateName": "",
-        "SeqLength": 12,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "7OJK_E",
-        "Country": "Not available",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Not available",
-        "Specimen": "Not available",
-        "IsolateName": "",
-        "SeqLength": 9,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "7OEB_E",
-        "Country": "Not available",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Not available",
-        "Specimen": "Not available",
-        "IsolateName": "",
-        "SeqLength": 16,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "7OEA_E",
-        "Country": "Not available",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Not available",
-        "Specimen": "Not available",
-        "IsolateName": "",
-        "SeqLength": 16,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791510",
@@ -283,7 +195,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0164",
         "SeqLength": 3364,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791509",
@@ -294,7 +206,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0211",
         "SeqLength": 3307,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791508",
@@ -305,7 +217,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0180",
         "SeqLength": 3387,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791507",
@@ -316,7 +228,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0209",
         "SeqLength": 3315,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791506",
@@ -327,7 +239,7 @@
         "Specimen": "Blood",
         "IsolateName": "a0423",
         "SeqLength": 3384,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791505",
@@ -338,7 +250,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0178",
         "SeqLength": 3313,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791504",
@@ -349,7 +261,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0222",
         "SeqLength": 3304,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791503",
@@ -360,7 +272,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0210",
         "SeqLength": 3343,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791502",
@@ -371,7 +283,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0218",
         "SeqLength": 3265,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791501",
@@ -382,7 +294,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0177",
         "SeqLength": 3340,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791500",
@@ -393,7 +305,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0195",
         "SeqLength": 3285,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791499",
@@ -404,7 +316,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0212",
         "SeqLength": 3254,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791498",
@@ -415,7 +327,7 @@
         "Specimen": "Blood",
         "IsolateName": "a0393",
         "SeqLength": 3366,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791497",
@@ -426,7 +338,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0169",
         "SeqLength": 3332,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791496",
@@ -437,7 +349,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0167",
         "SeqLength": 3295,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791495",
@@ -448,7 +360,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0227",
         "SeqLength": 3277,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791494",
@@ -459,7 +371,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0201",
         "SeqLength": 3264,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791493",
@@ -470,7 +382,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0227",
         "SeqLength": 7107,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791492",
@@ -481,40 +393,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0209",
         "SeqLength": 6973,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791491",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2019,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "c0178",
-        "SeqLength": 7127,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791490",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2019,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "c0180",
-        "SeqLength": 7155,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791489",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2018,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "a0393",
-        "SeqLength": 7115,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791488",
@@ -525,7 +404,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0195",
         "SeqLength": 6784,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791487",
@@ -536,7 +415,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0218",
         "SeqLength": 7033,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791486",
@@ -547,18 +426,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0211",
         "SeqLength": 6722,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791485",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2018,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "a0423",
-        "SeqLength": 7121,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791484",
@@ -569,18 +437,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0177",
         "SeqLength": 7122,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791483",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2019,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "c0164",
-        "SeqLength": 7113,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791482",
@@ -591,29 +448,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0210",
         "SeqLength": 6723,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791481",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2019,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "c0201",
-        "SeqLength": 6979,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791480",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2019,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "c0169",
-        "SeqLength": 7147,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OQ791479",
@@ -624,40 +459,7 @@
         "Specimen": "Blood",
         "IsolateName": "c0167",
         "SeqLength": 6974,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791478",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2019,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "c0222",
-        "SeqLength": 6723,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "OQ791477",
-        "Country": "Not available",
-        "RecordYear": 2023,
-        "IsolateYear": 2020,
-        "Host": "Human",
-        "Specimen": "Blood",
-        "IsolateName": "c0212",
-        "SeqLength": 7082,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "7ELA_C",
-        "Country": "Not available",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Not available",
-        "Specimen": "Not available",
-        "IsolateName": "",
-        "SeqLength": 19,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "NC_004297",
@@ -666,9 +468,9 @@
         "IsolateYear": "1997 *",
         "Host": "Not available",
         "Specimen": "cell cultures *",
-        "IsolateName": "",
+        "IsolateName": "Josiah",
         "SeqLength": 7279,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY216508",
@@ -677,9 +479,9 @@
         "IsolateYear": "Not available",
         "Host": "Rodent *",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Josiah",
         "SeqLength": 309,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U80004",
@@ -688,9 +490,9 @@
         "IsolateYear": "Not available",
         "Host": "Rodent *",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "LP",
         "SeqLength": 626,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "FR832711",
@@ -699,9 +501,9 @@
         "IsolateYear": "Not available",
         "Host": "Rodent *",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "AV",
         "SeqLength": 3392,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "FR832710",
@@ -710,53 +512,9 @@
         "IsolateYear": "Not available",
         "Host": "Rodent *",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "AV",
         "SeqLength": 7267,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "HQ688675",
-        "Country": "Sierra Leone *",
-        "RecordYear": 2011,
-        "IsolateYear": "Not available",
-        "Host": "recombinant *",
-        "Specimen": "cell cultures *",
-        "IsolateName": "",
-        "SeqLength": 7285,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "HQ688674",
-        "Country": "Sierra Leone *",
-        "RecordYear": 2011,
-        "IsolateYear": "Not available",
-        "Host": "recombinant *",
-        "Specimen": "cell cultures *",
-        "IsolateName": "",
-        "SeqLength": 7285,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "HQ688673",
-        "Country": "Sierra Leone *",
-        "RecordYear": 2011,
-        "IsolateYear": "Not available",
-        "Host": "recombinant *",
-        "Specimen": "cell cultures *",
-        "IsolateName": "",
-        "SeqLength": 3401,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "HQ688672",
-        "Country": "Sierra Leone *",
-        "RecordYear": 2011,
-        "IsolateYear": "Not available",
-        "Host": "recombinant *",
-        "Specimen": "cell cultures *",
-        "IsolateName": "",
-        "SeqLength": 3401,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U73035",
@@ -767,7 +525,7 @@
         "Specimen": "cell cultures *",
         "IsolateName": "",
         "SeqLength": 5465,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U73034",
@@ -778,7 +536,7 @@
         "Specimen": "cell cultures *",
         "IsolateName": "",
         "SeqLength": 7279,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628208",
@@ -787,9 +545,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Acar 3080",
         "SeqLength": 3427,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628207",
@@ -798,9 +556,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Pinneo",
         "SeqLength": 3428,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628206",
@@ -809,9 +567,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Weller",
         "SeqLength": 3420,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628205",
@@ -820,9 +578,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Z148",
         "SeqLength": 3396,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628204",
@@ -831,9 +589,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Z148",
         "SeqLength": 7280,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628203",
@@ -842,9 +600,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Josiah",
         "SeqLength": 3402,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628202",
@@ -853,9 +611,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Josiah",
         "SeqLength": 7285,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628201",
@@ -864,9 +622,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Macenta",
         "SeqLength": 3399,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY628200",
@@ -875,9 +633,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Macenta",
         "SeqLength": 7280,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AJ310764",
@@ -888,6 +646,6 @@
         "Specimen": "Not available",
         "IsolateName": "IJ531",
         "SeqLength": 286,
-        "IsolateType": ""
+        "NonClinical": ""
     }
 ]

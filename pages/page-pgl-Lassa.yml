@@ -3,7 +3,7 @@ pageTitle: Lassa database summary
 introHeader: |-
   # Lassa database summary
 content:
-  _resource: pubmed-genbank-tables.md
+  _resource: pubmed-genbank-tables-Lassa.md
 toc: false
 tables:
   submissionsets:

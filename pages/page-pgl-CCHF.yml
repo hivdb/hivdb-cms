@@ -3,7 +3,7 @@ pageTitle: CCHF database summary
 introHeader: |-
   # CCHF database summary
 content:
-  _resource: pubmed-genbank-tables.md
+  _resource: pubmed-genbank-tables-CCHF.md
 toc: false
 tables:
   submissionsets:

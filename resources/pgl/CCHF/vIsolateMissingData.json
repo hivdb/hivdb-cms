@@ -4,33 +4,33 @@
         "Country": "Spain",
         "RecordYear": 2024,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "VC7_1",
         "SeqLength": 200,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OP951068",
         "Country": "Spain",
         "RecordYear": 2024,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "VC6_10",
         "SeqLength": 200,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "OP951067",
         "Country": "Spain",
         "RecordYear": 2024,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "VC6_3",
         "SeqLength": 200,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697888",
@@ -39,9 +39,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-2963",
         "SeqLength": 516,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697887",
@@ -50,9 +50,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-2956",
         "SeqLength": 510,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697886",
@@ -61,9 +61,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-2962",
         "SeqLength": 515,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697885",
@@ -72,9 +72,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-2790",
         "SeqLength": 516,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697884",
@@ -83,9 +83,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-1808",
         "SeqLength": 501,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697883",
@@ -94,9 +94,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-1807",
         "SeqLength": 498,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697882",
@@ -105,9 +105,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-1806",
         "SeqLength": 522,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697881",
@@ -116,9 +116,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-1804",
         "SeqLength": 465,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697880",
@@ -127,9 +127,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-1698",
         "SeqLength": 498,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697879",
@@ -138,9 +138,9 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-1621",
         "SeqLength": 507,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "MH697878",
@@ -149,42 +149,42 @@
         "IsolateYear": "Not available",
         "Host": "Human",
         "Specimen": "Blood",
-        "IsolateName": "",
+        "IsolateName": "Iran-875",
         "SeqLength": 501,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON500502",
         "Country": "Not available",
         "RecordYear": 2022,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "JMN01/CCHFV/CHINA/2021",
         "SeqLength": 12123,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON500501",
         "Country": "Not available",
         "RecordYear": 2022,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "JMN01/CCHFV/CHINA/2021",
         "SeqLength": 5341,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "ON500500",
         "Country": "Not available",
         "RecordYear": 2022,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "JMN01/CCHFV/CHINA/2021",
         "SeqLength": 1717,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "NC_005301",
@@ -193,9 +193,9 @@
         "IsolateYear": "Not available",
         "Host": "sw13 cells *",
         "Specimen": "SW13 cell *",
-        "IsolateName": "",
+        "IsolateName": "IbAr10200",
         "SeqLength": 12108,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY062027",
@@ -203,10 +203,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "V-01-VIS",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY062026",
@@ -214,10 +214,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "R-01-KOR",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AF432121",
@@ -225,10 +225,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "S-01-IDR",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AF432120",
@@ -236,10 +236,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "R-01-SED",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AF432119",
@@ -247,10 +247,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "R-01-PRU",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AF432118",
@@ -258,10 +258,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "R-01-CHE",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AF432117",
@@ -269,10 +269,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "V-01-MAT",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AF432116",
@@ -280,10 +280,10 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "V-00-SHT",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AF432115",
@@ -291,120 +291,54 @@
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "V-00-KON",
         "SeqLength": 215,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "DQ301505",
         "Country": "China",
         "RecordYear": 2016,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "CFUB/TI90009",
         "SeqLength": 424,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "DQ301504",
         "Country": "China",
         "RecordYear": 2016,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "CYL/TI05035",
         "SeqLength": 424,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "DQ301503",
         "Country": "China",
         "RecordYear": 2016,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "CYL/TI04041",
         "SeqLength": 424,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "DQ301502",
         "Country": "China",
         "RecordYear": 2016,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "CYT/TI05099",
         "SeqLength": 424,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481807",
-        "Country": "Russia",
-        "RecordYear": 2016,
-        "IsolateYear": "Not available",
-        "Host": "Human",
-        "Specimen": "Not available",
-        "IsolateName": "VLG/HU29662",
-        "SeqLength": 436,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481805",
-        "Country": "Russia",
-        "RecordYear": 2016,
-        "IsolateYear": "Not available",
-        "Host": "Human",
-        "Specimen": "Not available",
-        "IsolateName": "TADJ/HU8966",
-        "SeqLength": 220,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481804",
-        "Country": "Russia",
-        "RecordYear": 2016,
-        "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "ASTR/TI28870",
-        "SeqLength": 220,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481803",
-        "Country": "Russia",
-        "RecordYear": 2016,
-        "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "ASTR/TI28832",
-        "SeqLength": 220,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481801",
-        "Country": "Russia",
-        "RecordYear": 2016,
-        "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "ASTR/TI28870",
-        "SeqLength": 467,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481800",
-        "Country": "Russia",
-        "RecordYear": 2016,
-        "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "ASTR/TI28832",
-        "SeqLength": 467,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "KC880335",
@@ -412,10 +346,10 @@
         "RecordYear": 2013,
         "IsolateYear": "Not available",
         "Host": "Human",
-        "Specimen": "Not available",
+        "Specimen": "Human",
         "IsolateName": "SPU 92/01",
         "SeqLength": 1449,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15093",
@@ -426,7 +360,7 @@
         "Specimen": "Not available",
         "IsolateName": "HD 38562",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15092",
@@ -437,7 +371,7 @@
         "Specimen": "Not available",
         "IsolateName": "ArB 604",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15091",
@@ -448,7 +382,7 @@
         "Specimen": "Not available",
         "IsolateName": "ArD 97268",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15090",
@@ -459,7 +393,7 @@
         "Specimen": "Not available",
         "IsolateName": "ArD 97264",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15089",
@@ -470,7 +404,7 @@
         "Specimen": "Not available",
         "IsolateName": "ArD 39554",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15024",
@@ -481,7 +415,7 @@
         "Specimen": "Not available",
         "IsolateName": "ArMg 951",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15023",
@@ -492,7 +426,7 @@
         "Specimen": "Not available",
         "IsolateName": "HD 49199",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15022",
@@ -503,7 +437,7 @@
         "Specimen": "Not available",
         "IsolateName": "ArTeh 193-3",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15021",
@@ -514,7 +448,7 @@
         "Specimen": "Not available",
         "IsolateName": "ArD 8194",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "U15020",
@@ -525,7 +459,7 @@
         "Specimen": "Not available",
         "IsolateName": "AnD 15786",
         "SeqLength": 499,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY422209",
@@ -534,9 +468,9 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "IbAr10200",
         "SeqLength": 12122,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY389361",
@@ -545,20 +479,20 @@
         "IsolateYear": "Not available",
         "Host": "sw13 cells *",
         "Specimen": "SW13 cell *",
-        "IsolateName": "",
+        "IsolateName": "IbAr10200",
         "SeqLength": 12108,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
-        "Accession": "AY277672",
-        "Country": "Russia",
-        "RecordYear": 2003,
+        "Accession": "U39455",
+        "Country": "Not available",
+        "RecordYear": 2001,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
+        "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "ROS/TI28044",
-        "SeqLength": 1673,
-        "IsolateType": ""
+        "IsolateName": "10200",
+        "SeqLength": 5123,
+        "NonClinical": ""
     },
     {
         "Accession": "AF527810",
@@ -567,42 +501,31 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Matin",
         "SeqLength": 1671,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481802",
-        "Country": "Russia",
-        "RecordYear": 2004,
-        "IsolateYear": "Not available",
-        "Host": "Human",
-        "Specimen": "Not available",
-        "IsolateName": "STV/HU29223",
-        "SeqLength": 1674,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "DQ227496",
         "Country": "China",
         "RecordYear": 2005,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "CLT/TI05146",
         "SeqLength": 1673,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "DQ227495",
         "Country": "China",
         "RecordYear": 2005,
         "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
         "IsolateName": "CYT/TI05099",
         "SeqLength": 1673,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "DQ217602",
@@ -613,7 +536,7 @@
         "Specimen": "Not available",
         "IsolateName": "CYL/TI05035",
         "SeqLength": 1673,
-        "IsolateType": ""
+        "NonClinical": ""
     },
     {
         "Accession": "AY422208",
@@ -622,30 +545,8 @@
         "IsolateYear": "Not available",
         "Host": "Not available",
         "Specimen": "Not available",
-        "IsolateName": "",
+        "IsolateName": "Matin",
         "SeqLength": 12168,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AF481799",
-        "Country": "Russia",
-        "RecordYear": 2004,
-        "IsolateYear": "Not available",
-        "Host": "Ticks",
-        "Specimen": "Not available",
-        "IsolateName": "Uzbek/TI10145",
-        "SeqLength": 1672,
-        "IsolateType": ""
-    },
-    {
-        "Accession": "AY277676",
-        "Country": "Bulgaria",
-        "RecordYear": 2004,
-        "IsolateYear": "Not available",
-        "Host": "Human",
-        "Specimen": "Not available",
-        "IsolateName": "Bul/HU517",
-        "SeqLength": 1673,
-        "IsolateType": ""
+        "NonClinical": ""
     }
 ]
