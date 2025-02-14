@@ -13,21 +13,21 @@ This document outlines the methodology and results of creating and analyzing dat
 ## CCHFV
 
 - [Download CCHFV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/CCHF.db)
-- [Database Summary and Tables](/page/pgl-CCHF)
+- [Database Overview: Tables, Matches, and Phylogenetic Insights](/page/pgl-CCHF)
 
 ### Database Statistics
 
-- **Number of GenBank Submission Sets**: 310
-- **Number of Clinical GenBank Submission Sets**: 303
-- **Number of Publications**: 196
+- **Total GenBank Submission Sets**: 225
+- **GenBank Submission Sets After Filtering Out Non-Clinical and No-Gene Entries**: 217
+- **Total Publications with Sequence Data**: 233
 
-- **Number of Matched Submission Sets**: 198
-- **Number of Matched Publications**: 169
+- **Number of Matched Submission Sets**: 184
+- **Number of Matched Publications**: 184
 
-- **Number of Clinical GenBank Submission Sets without Matched Publication**: 105
-- **Number of Publications without Matched GenBank Submission**: 27
+- **GenBank Submission Sets without Matched Publication**: 33
+- **Publications without Matched GenBank Submission**: 49
 
-- **Number of Submission Sets & Publications Matched via our Algorithm (not by PMID)**: 67
+- **Number of Submission Sets & Publications Matched Manually (Excluding PMID Matches)**: 62
 
 
 ### Related literatures - Phylogenetic studies
@@ -40,21 +40,21 @@ This document outlines the methodology and results of creating and analyzing dat
 ## Nipah
 
 - [Download Nipah Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Nipah.db)
-- [Database Summary and Tables](/page/pgl-Nipah)
+- [Database Overview: Tables, Matches, and Phylogenetic Insights](/page/pgl-Nipah)
 
 ### Database Statistics
 
-- **Number of GenBank Submission Sets**: 61
-- **Number of Clinical GenBank Submission Sets**: 48
-- **Number of Publications**: 33
+- **Total GenBank Submission Sets**: 53
+- **GenBank Submission Sets After Filtering Out Non-Clinical and No-Gene Entries**: 45
+- **Total Publications with Sequence Data**: 37
 
-- **Number of Matched Submission Sets**: 30
-- **Number of Matched Publications**: 30
+- **Number of Matched Submission Sets**: 34
+- **Number of Matched Publications**: 34
 
-- **Number of Clinical GenBank Submission Sets without Matched Publication**: 31
-- **Number of Publications without Matched GenBank Submission**: 3
+- **Clinical GenBank Submission Sets without Matched Publication**: 11
+- **Publications without Matched GenBank Submission**: 3
 
-- **Number of Submission Sets & Publications Matched via our Algorithm (not by PMID)**: 8
+- **Number of Submission Sets & Publications Matched Manually (Excluding PMID Matches)**: 8
 
 
 ### Related literatures - Phylogenetic studies
@@ -69,21 +69,21 @@ This document outlines the methodology and results of creating and analyzing dat
 ## LASV
 
 - [Download LASV Database](https://github.com/hivdb/GenBankRefs/releases/latest/download/Lassa.db)
-- [Database Summary and Tables](/page/pgl-Lassa)
+- [Database Overview: Tables, Matches, and Phylogenetic Insights](/page/pgl-Lassa)
 
 ### Database Statistics
 
-- **Number of GenBank Submission Sets**: 103
-- **Number of Clinical GenBank Submission Sets**: 89
-- **Number of Publications**: 66
+- **Total GenBank Submission Sets**: 105
+- **GenBank Submission Sets After Filtering Out Non-Clinical and No-Gene Entries**: 88
+- **Total Publications with Sequence Data**: 72
 
-- **Number of Matched Submission Sets**: 64
-- **Number of Matched Publications**: 61
+- **Number of Matched Submission Sets**: 68
+- **Number of Matched Publications**: 66
 
-- **Number of Clinical GenBank Submission Sets without Matched Publication**: 39
-- **Number of Publications without Matched GenBank Submission**: 5
+- **GenBank Submission Sets without Matched Publication**: 20
+- **Publications without Matched GenBank Submission**: 6
 
-- **Number of Submission Sets & Publications Matched via our Algorithm (not by PMID)**: 19
+- **Number of Submission Sets & Publications Matched Manually (Excluding PMID Matches)**: 24
 
 
 ### Related literatures - Phylogenetic studies
