@@ -1,38 +1,5 @@
 [
     {
-        "Accession": "OP951069",
-        "Country": "Spain",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Tick",
-        "Specimen": "Tick",
-        "IsolateName": "VC7_1",
-        "SeqLength": 200,
-        "NonClinical": ""
-    },
-    {
-        "Accession": "OP951068",
-        "Country": "Spain",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Tick",
-        "Specimen": "Tick",
-        "IsolateName": "VC6_10",
-        "SeqLength": 200,
-        "NonClinical": ""
-    },
-    {
-        "Accession": "OP951067",
-        "Country": "Spain",
-        "RecordYear": 2024,
-        "IsolateYear": "Not available",
-        "Host": "Tick",
-        "Specimen": "Tick",
-        "IsolateName": "VC6_3",
-        "SeqLength": 200,
-        "NonClinical": ""
-    },
-    {
         "Accession": "MH697888",
         "Country": "Iran",
         "RecordYear": 2019,
@@ -492,17 +459,6 @@
         "Specimen": "Not available",
         "IsolateName": "10200",
         "SeqLength": 5123,
-        "NonClinical": ""
-    },
-    {
-        "Accession": "AF527810",
-        "Country": "Not available",
-        "RecordYear": 2002,
-        "IsolateYear": "Not available",
-        "Host": "Not available",
-        "Specimen": "Not available",
-        "IsolateName": "Matin",
-        "SeqLength": 1671,
         "NonClinical": ""
     },
     {

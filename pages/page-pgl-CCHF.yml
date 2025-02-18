@@ -4,16 +4,28 @@ introHeader: |-
   # CCHF database summary
 content:
   _resource: pubmed-genbank-tables-CCHF.md
-toc: false
+toc: true
 tables:
-  submissionsets:
+  matched:
     columnDefs:
     - name: SubmissionSet
       label: SubmissionSet
     - name: Publication
       label: Publication
     data:
-      _resource: pgl/CCHF/vGPMatched.json
+      _resource: pgl/CCHF/vGPMatchedMatch.json
+  nopub:
+    columnDefs:
+    - name: SubmissionSet
+      label: SubmissionSet
+    data:
+      _resource: pgl/CCHF/vGPMatchedNoPub.json
+  noref:
+    columnDefs:
+    - name: Publication
+      label: Publication
+    data:
+      _resource: pgl/CCHF/vGPMatchedNoRef.json
   metadata_summary:
     columnDefs:
     - name: Host

@@ -4,16 +4,28 @@ introHeader: |-
   # Nipah database summary
 content:
   _resource: pubmed-genbank-tables-Nipah.md
-toc: false
+toc: true
 tables:
-  submissionsets:
+  matched:
     columnDefs:
     - name: SubmissionSet
       label: SubmissionSet
     - name: Publication
       label: Publication
     data:
-      _resource: pgl/Nipah/vGPMatched.json
+      _resource: pgl/Nipah/vGPMatchedMatch.json
+  nopub:
+    columnDefs:
+    - name: SubmissionSet
+      label: SubmissionSet
+    data:
+      _resource: pgl/Nipah/vGPMatchedNoPub.json
+  noref:
+    columnDefs:
+    - name: Publication
+      label: Publication
+    data:
+      _resource: pgl/Nipah/vGPMatchedNoRef.json
   metadata_summary:
     columnDefs:
     - name: Host

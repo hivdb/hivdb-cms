@@ -4,16 +4,28 @@ introHeader: |-
   # Lassa database summary
 content:
   _resource: pubmed-genbank-tables-Lassa.md
-toc: false
+toc: true
 tables:
-  submissionsets:
+  matched:
     columnDefs:
     - name: SubmissionSet
       label: SubmissionSet
     - name: Publication
       label: Publication
     data:
-      _resource: pgl/Lassa/vGPMatched.json
+      _resource: pgl/Lassa/vGPMatchedMatch.json
+  nopub:
+    columnDefs:
+    - name: SubmissionSet
+      label: SubmissionSet
+    data:
+      _resource: pgl/Lassa/vGPMatchedNoPub.json
+  noref:
+    columnDefs:
+    - name: Publication
+      label: Publication
+    data:
+      _resource: pgl/Lassa/vGPMatchedNoRef.json
   metadata_summary:
     columnDefs:
     - name: Host
