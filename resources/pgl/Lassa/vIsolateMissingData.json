@@ -104,7 +104,7 @@
         "RecordYear": 2021,
         "IsolateYear": 2011,
         "Host": "Other",
-        "Specimen": "Not available",
+        "Specimen": "Clinical Sample *",
         "IsolateName": "Josiah-GPA",
         "SeqLength": 3416,
         "NonClinical": ""
@@ -115,7 +115,7 @@
         "RecordYear": 2021,
         "IsolateYear": 2011,
         "Host": "Other",
-        "Specimen": "Not available",
+        "Specimen": "Clinical Sample *",
         "IsolateName": "Josiah-GPA",
         "SeqLength": 7265,
         "NonClinical": ""
@@ -462,19 +462,8 @@
         "NonClinical": ""
     },
     {
-        "Accession": "NC_004297",
-        "Country": "Sierra Leone *",
-        "RecordYear": 2018,
-        "IsolateYear": "1997 *",
-        "Host": "Not available",
-        "Specimen": "cell cultures *",
-        "IsolateName": "Josiah",
-        "SeqLength": 7279,
-        "NonClinical": ""
-    },
-    {
         "Accession": "AY216508",
-        "Country": "Argentina\nBolivia\nBrazil\nVenezuela\nPanama\nColombia\nPeru\nUSA\nMozambique\nNigeria *",
+        "Country": "Sierra Leone *",
         "RecordYear": 2016,
         "IsolateYear": "Not available",
         "Host": "Rodent *",
@@ -499,8 +488,8 @@
         "Country": "West Africa *",
         "RecordYear": 2011,
         "IsolateYear": "Not available",
-        "Host": "Rodent *",
-        "Specimen": "Not available",
+        "Host": "human dendritic cell and macrophage *",
+        "Specimen": "Dendritic cells and macrophages *",
         "IsolateName": "AV",
         "SeqLength": 3392,
         "NonClinical": ""
@@ -510,32 +499,10 @@
         "Country": "West Africa *",
         "RecordYear": 2011,
         "IsolateYear": "Not available",
-        "Host": "Rodent *",
-        "Specimen": "Not available",
+        "Host": "human dendritic cell and macrophage *",
+        "Specimen": "Dendritic cells and macrophages *",
         "IsolateName": "AV",
         "SeqLength": 7267,
-        "NonClinical": ""
-    },
-    {
-        "Accession": "U73035",
-        "Country": "Sierra Leone *",
-        "RecordYear": 1999,
-        "IsolateYear": "1997 *",
-        "Host": "Not available",
-        "Specimen": "cell cultures *",
-        "IsolateName": "",
-        "SeqLength": 5465,
-        "NonClinical": ""
-    },
-    {
-        "Accession": "U73034",
-        "Country": "Sierra Leone *",
-        "RecordYear": 1999,
-        "IsolateYear": "1997 *",
-        "Host": "Not available",
-        "Specimen": "cell cultures *",
-        "IsolateName": "",
-        "SeqLength": 7279,
         "NonClinical": ""
     },
     {

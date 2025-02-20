@@ -1,5 +1,68 @@
 [
     {
+        "RefID": 1,
+        "SubmissionSet": "Ashraf (2021). Direct Submission; Ashraf S., Love H., Burton C., Carmichael S., Davis C., Filipe A., Roddy S., Smollett K., Summers S., Tong L., Richards K., Thomson E.;  MRC Centre for Virus Research, University of Glasgow, 464 Bearsden road, Glasgow G61 1QH, United Kingdom; [G (4), L (4), N (4), Z (4)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"OL774856\"%5BACCN%5D%20OR%20\"OL774856\"%5BACCN%5D%20OR%20\"OL774857\"%5BACCN%5D%20OR%20\"OL774857\"%5BACCN%5D%20OR%20\"OL774858\"%5BACCN%5D%20OR%20\"OL774858\"%5BACCN%5D%20OR%20\"OL774859\"%5BACCN%5D%20OR%20\"OL774859\"%5BACCN%5D%20OR%20\"OL774860\"%5BACCN%5D%20OR%20\"OL774860\"%5BACCN%5D%20OR%20\"OL774861\"%5BACCN%5D%20OR%20\"OL774861\"%5BACCN%5D%20OR%20\"OL774862\"%5BACCN%5D%20OR%20\"OL774862\"%5BACCN%5D%20OR%20\"OL774863\"%5BACCN%5D%20OR%20\"OL774863\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Ashraf (2021)"
+    },
+    {
+        "RefID": 5,
+        "SubmissionSet": "Bjornson-hooper (2011). Direct Submission; Bjornson-hooper Z., Gire S., Honko A., Sabeti P., Hensley L.;  Virology, United States Army Medical Research Institute for Infectious Diseases, 1425 Porter St, Frederick, MD 21702, USA; [G (1), L (1), N (1), Z (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"JN650517\"%5BACCN%5D%20OR%20\"JN650517\"%5BACCN%5D%20OR%20\"JN650518\"%5BACCN%5D%20OR%20\"JN650518\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Bjornson-hooper (2011)"
+    },
+    {
+        "RefID": 7,
+        "SubmissionSet": "Clegg (2005). Direct Submission; Clegg C.;  Clegg C.S., Special Pathogens Reference Unit, Health Protection Agency CEPR, Porton Down, Salisbury, SP4 0JG, UNITED KINGDOM; [G (6)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AJ969404\"%5BACCN%5D%20OR%20\"AJ969405\"%5BACCN%5D%20OR%20\"AJ969406\"%5BACCN%5D%20OR%20\"AJ969407\"%5BACCN%5D%20OR%20\"AJ969408\"%5BACCN%5D%20OR%20\"AJ969409\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Clegg (2005)"
+    },
+    {
+        "RefID": 16,
+        "SubmissionSet": "Hajjaj (2004). Direct Submission; Hajjaj A., Chain P., Do L., Smith K., Imbro P., Malfatti S.;  Viral Sequencing Group, Lawrence Livermore National Laboratory, 7000 East Avenue, Livermore, CA 94550, USA; [G (6), L (3), N (6), Z (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY628200\"%5BACCN%5D%20OR%20\"AY628200\"%5BACCN%5D%20OR%20\"AY628201\"%5BACCN%5D%20OR%20\"AY628201\"%5BACCN%5D%20OR%20\"AY628202\"%5BACCN%5D%20OR%20\"AY628202\"%5BACCN%5D%20OR%20\"AY628203\"%5BACCN%5D%20OR%20\"AY628203\"%5BACCN%5D%20OR%20\"AY628204\"%5BACCN%5D%20OR%20\"AY628204\"%5BACCN%5D%20OR%20\"AY628205\"%5BACCN%5D%20OR%20\"AY628205\"%5BACCN%5D%20OR%20\"AY628206\"%5BACCN%5D%20OR%20\"AY628206\"%5BACCN%5D%20OR%20\"AY628207\"%5BACCN%5D%20OR%20\"AY628207\"%5BACCN%5D%20OR%20\"AY628208\"%5BACCN%5D%20OR%20\"AY628208\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Hajjaj (2004)"
+    },
+    {
+        "RefID": 20,
+        "SubmissionSet": "Jahrling (2004). Direct Submission; Jahrling P., Geisbert J., Ibrahim M.;  Viral Genomics Group, USAMRIID, Fort Detrick, MD 21702, USA; [G (6), L (3), N (6), Z (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY628200\"%5BACCN%5D%20OR%20\"AY628200\"%5BACCN%5D%20OR%20\"AY628201\"%5BACCN%5D%20OR%20\"AY628201\"%5BACCN%5D%20OR%20\"AY628202\"%5BACCN%5D%20OR%20\"AY628202\"%5BACCN%5D%20OR%20\"AY628203\"%5BACCN%5D%20OR%20\"AY628203\"%5BACCN%5D%20OR%20\"AY628204\"%5BACCN%5D%20OR%20\"AY628204\"%5BACCN%5D%20OR%20\"AY628205\"%5BACCN%5D%20OR%20\"AY628205\"%5BACCN%5D%20OR%20\"AY628206\"%5BACCN%5D%20OR%20\"AY628206\"%5BACCN%5D%20OR%20\"AY628207\"%5BACCN%5D%20OR%20\"AY628207\"%5BACCN%5D%20OR%20\"AY628208\"%5BACCN%5D%20OR%20\"AY628208\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Jahrling (2004)"
+    },
+    {
+        "RefID": 26,
+        "SubmissionSet": "NCBI (2002). Direct Submission; NCBI;  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA; [G (1), N (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"NC_004296\"%5BACCN%5D%20OR%20\"NC_004296\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "NCBI (2002)"
+    },
+    {
+        "RefID": 27,
+        "SubmissionSet": "NCBI (2007). Direct Submission; NCBI;  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA; [L (1), Z (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"NC_004297\"%5BACCN%5D%20OR%20\"NC_004297\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "NCBI (2007)"
+    },
+    {
+        "RefID": 28,
+        "SubmissionSet": "NCBI (2020). Direct Submission; NCBI;  One Health Institute & Karen C Drayer Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, 1089 Veterinary Medicine Drive, Davis, CA 95616, USA; [N (5)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW007351\"%5BACCN%5D%20OR%20\"MW007352\"%5BACCN%5D%20OR%20\"MW007353\"%5BACCN%5D%20OR%20\"MW007354\"%5BACCN%5D%20OR%20\"MW007355\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "NCBI (2020)"
+    },
+    {
+        "RefID": 31,
+        "SubmissionSet": "Rossi (2016). Direct Submission; Rossi S., Guerbois M., Forrester N., Ksiazek T., Lin D., Hari K., Weaver S.;  Microbiology and Immunology, University of Texas Medical Branch, 301 University Boulevard, Galveston, TX 77555, USA; [G (3), L (3), N (3), Z (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KU978807\"%5BACCN%5D%20OR%20\"KU978807\"%5BACCN%5D%20OR%20\"KU978808\"%5BACCN%5D%20OR%20\"KU978808\"%5BACCN%5D%20OR%20\"KU978809\"%5BACCN%5D%20OR%20\"KU978809\"%5BACCN%5D%20OR%20\"KU978810\"%5BACCN%5D%20OR%20\"KU978810\"%5BACCN%5D%20OR%20\"KU978811\"%5BACCN%5D%20OR%20\"KU978811\"%5BACCN%5D%20OR%20\"KU978812\"%5BACCN%5D%20OR%20\"KU978812\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Rossi (2016)"
+    },
+    {
         "RefID": 52,
         "SubmissionSet": "Burton (2001). Geographical dependence of genetic variability among lassa virus isolates; Burton J., Clegg C., Lloyd G., Silman N., Tolley H.;  Clegg C.S., Special Pathogens Programme, Centre for Applied Microbiology and Research, Porton Down, Salisbury, SP4 0JG, UNITED KINGDOM, Unpublished; [G (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AJ310764\"%5BACCN%5D)",
         "PubID": "",
@@ -35,6 +98,13 @@
         "ShortName": "Drexler (2023)"
     },
     {
+        "RefID": 96,
+        "SubmissionSet": "Barnes (2017). Direct Submission; Barnes K., Gerhardt D., Hensley L., Honko A., Jahrling P., Johnson J., Olinger G., Sabeti P., Sword J., Wohl S.;  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA; [G (6), L (6), N (6), Z (6)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KY425626\"%5BACCN%5D%20OR%20\"KY425626\"%5BACCN%5D%20OR%20\"KY425628\"%5BACCN%5D%20OR%20\"KY425628\"%5BACCN%5D%20OR%20\"KY425632\"%5BACCN%5D%20OR%20\"KY425632\"%5BACCN%5D%20OR%20\"KY425634\"%5BACCN%5D%20OR%20\"KY425634\"%5BACCN%5D%20OR%20\"KY425635\"%5BACCN%5D%20OR%20\"KY425635\"%5BACCN%5D%20OR%20\"KY425638\"%5BACCN%5D%20OR%20\"KY425638\"%5BACCN%5D%20OR%20\"KY425640\"%5BACCN%5D%20OR%20\"KY425640\"%5BACCN%5D%20OR%20\"KY425641\"%5BACCN%5D%20OR%20\"KY425641\"%5BACCN%5D%20OR%20\"KY425642\"%5BACCN%5D%20OR%20\"KY425642\"%5BACCN%5D%20OR%20\"KY425643\"%5BACCN%5D%20OR%20\"KY425643\"%5BACCN%5D%20OR%20\"KY425650\"%5BACCN%5D%20OR%20\"KY425650\"%5BACCN%5D%20OR%20\"KY425651\"%5BACCN%5D%20OR%20\"KY425651\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Barnes (2017)"
+    },
+    {
         "RefID": 102,
         "SubmissionSet": "James (2014). A case of lassa fever virus outbreak in ebonyi and lagos states, nigeria. 2013, A case of lassa fever virus outbreak in enugu state, nigeria; James A., Omilabu S., Orenolu M.;  Department of Biochemistry/Virology Unit- Central Research Lab, College of Medicine-University of Lagos, Block F, Idi-araba, Surulere, Lagos State 234-100254, Nigeria, Unpublished; [G (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KJ944259\"%5BACCN%5D%20OR%20\"KJ944260\"%5BACCN%5D%20OR%20\"KJ944261\"%5BACCN%5D)",
         "PubID": "",
@@ -47,6 +117,13 @@
         "PubID": "",
         "Publication": "",
         "ShortName": "Alhasan (2023)"
+    },
+    {
+        "RefID": 106,
+        "SubmissionSet": "Happi (2024). Direct Submission; Happi A., Ogunsanya O., Sijuwola A., Saibu F., Akano K., Ayinla A., Nwofoke C., Daodu R., Adedokun O., Fadele J., Elias O., Ogundana K., Lawal O., Adelabu A., Nosamiefan I., Okolie J., Parker Z., Mccauley M., Lombardi K., Eller L., Broach E., Prins P., Parker E., Page B., Heeney J., Modjarrad K., Collins N., Vasan S., Happi C.;  ACEGID, Redeemers University, Ede, Osun PMB230, Nigeria; [L (6), N (17)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PP431155\"%5BACCN%5D%20OR%20\"PP431156\"%5BACCN%5D%20OR%20\"PP431160\"%5BACCN%5D%20OR%20\"PP431162\"%5BACCN%5D%20OR%20\"PP431165\"%5BACCN%5D%20OR%20\"PP431167\"%5BACCN%5D%20OR%20\"PP431173\"%5BACCN%5D%20OR%20\"PP431176\"%5BACCN%5D%20OR%20\"PP431181\"%5BACCN%5D%20OR%20\"PP431183\"%5BACCN%5D%20OR%20\"PP431185\"%5BACCN%5D%20OR%20\"PP431187\"%5BACCN%5D%20OR%20\"PP431194\"%5BACCN%5D%20OR%20\"PP431195\"%5BACCN%5D%20OR%20\"PP431196\"%5BACCN%5D%20OR%20\"PP431198\"%5BACCN%5D%20OR%20\"PP431200\"%5BACCN%5D%20OR%20\"PP431203\"%5BACCN%5D%20OR%20\"PP431204\"%5BACCN%5D%20OR%20\"PP431205\"%5BACCN%5D%20OR%20\"PP431208\"%5BACCN%5D%20OR%20\"PP431209\"%5BACCN%5D%20OR%20\"PP431211\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Happi (2024)"
     },
     {
         "RefID": 107,

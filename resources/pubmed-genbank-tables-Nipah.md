@@ -1,3 +1,13 @@
+- [Paired submissionsets and publications](#paired.submissionsets.and.publications)
+- [Submissionsets without publications](#submissionsets.without.publications)
+- [Publications without submissionsets](#publications.without.submissionsets)
+- [Isolate Metadata Summary](#isolate.metadata.summary)
+- [Phylogenetic tree](#phylogenetic.tree)
+    - [L gene](#l.gene)
+    - [N gene](#n.gene)
+    - [Phylogenetic studies](#phylogenetic.studies)
+
+
 ## Paired submissionsets and publications
 
 [table compact, lastCompact]
@@ -5,13 +15,13 @@ matched
 [/table]
 
 
-## Submissionsets without paired publications
+## Submissionsets without publications
 
 [table compact, lastCompact]
 nopub
 [/table]
 
-## Publications without paired submissionset
+## Publications without submissionsets
 
 [table compact, lastCompact]
 noref
@@ -28,10 +38,18 @@ metadata_summary
 
 ## Phylogenetic tree
 
-### L Gene
+### L gene
 
 ![](https://cms.hivdb.org/prod/downloads/pgl/Nipah/L_gene-1.png#!maxWidth=80rem)
 
-### N Gene
+### N gene
 
 ![](https://cms.hivdb.org/prod/downloads/pgl/Nipah/N_gene-1.png#!maxWidth=80rem)
+
+
+#### Phylogenetic studies
+
+
+-  de Campos, G.M.; Cella, E.; Kashima, S.; Alcântara, L.C.J.; Sampaio, S.C.; Elias, M.C.; Giovanetti, M.; Slavov, S.N. Updated Insights into the Phylogenetics, Phylodynamics, and Genetic Diversity of Nipah Virus (NiV). Viruses 2024, 16, 171, doi:10.3390/v16020171.
+-  Hauser, N.; Gushiken, A.C.; Narayanan, S.; Kottilil, S.; Chua, J.V. Evolution of Nipah Virus Infection: Past, Present, and Future Considerations. Tropical Medicine and Infectious Disease 2021, 6, 24, doi:10.3390/tropicalmed6010024.
+-  Lo Presti, A.; Cella, E.; Giovanetti, M.; Lai, A.; Angeletti, S.; Zehender, G.; Ciccozzi, M. Origin and Evolution of Nipah Virus. Journal of Medical Virology 2016, 88, 380–388, doi:10.1002/jmv.24345.

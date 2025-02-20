@@ -1,5 +1,19 @@
 [
     {
+        "RefID": 1,
+        "SubmissionSet": "Akyildiz (2019). Direct Submission; Akyildiz G.;  Microbiology & Immunology, University of Texas Medical Branch, 301 University Blvd, Galveston, TX 77555-610, USA; [S (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN864494\"%5BACCN%5D%20OR%20\"MN864495\"%5BACCN%5D)",
+        "PubID": 138,
+        "Publication": "Kar (2020, 32307010). Crimean-Congo hemorrhagic fever virus in tortoises and Hyalomma aegyptium ticks in East Thrace, Turkey: potential of a cryptic transmission cycle.; Kar S; Rodriguez SE; Akyildiz G; Cajimat MNB; Bircan R; Mears MC; Bente DA; Keles AG; Parasit Vectors",
+        "ShortName": "Kar (2020, 32307010)"
+    },
+    {
+        "RefID": 4,
+        "SubmissionSet": "Chitimia-dobler (2019). Direct Submission; Chitimia-dobler L.;  Parasitology, University of Hohenheim, Schloss Hohenheim 1, Stuttgart, BW 70593, Germany; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN097144\"%5BACCN%5D)",
+        "PubID": 134,
+        "Publication": "Chitimia-Dobler (2019, 31521854). Crimean-Congo haemorrhagic fever virus in Hyalomma impeltatum ticks from North Kordofan, the Sudan.; Chitimia-Dobler L; Issa MH; Ezalden ME; Yagoub IA; Abdalla MA; Bakhiet AO; Schaper S; Rie\u00df R; Vollmar P; Grumbach A; Bestehorn M; Antwerpen M; Dobler G; Shuaib YA; Int J Infect Dis",
+        "ShortName": "Chitimia-Dobler (2019, 31521854)"
+    },
+    {
         "RefID": 6,
         "SubmissionSet": "Christova (2015, 25420643). Fatal outcome of coinfection of crimean-congo hemorrhagic Fever and malaria; Christova I., Petrov A., Papa A., Vutchev D., Kalvatchev N., Vatev N., Stoycheva M.; Jpn. J. Infect. Dis. 68 (2), 131-134 (2015); [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KJ000206\"%5BACCN%5D)",
         "PubID": 88,
@@ -12,6 +26,20 @@
         "PubID": 93,
         "Publication": "Papa (2016, 26455333). Molecular epidemiology of Crimean-Congo hemorrhagic fever in Bulgaria--An update.; Papa A; Pappa S; Panayotova E; Papadopoulou E; Christova I; J Med Virol",
         "ShortName": "Papa (2016, 26455333)"
+    },
+    {
+        "RefID": 7,
+        "SubmissionSet": "Ergunay (2019). Direct Submission; Ergunay C.;  Department of Medical Microbiology Virology Unit, Hacettepe University Faculty of Medicine, Morphology Building 3rd floor, Ankara 06420, Turkey; [L (7), M (3), S (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN811030\"%5BACCN%5D%20OR%20\"MN811031\"%5BACCN%5D%20OR%20\"MN811032\"%5BACCN%5D%20OR%20\"MN811033\"%5BACCN%5D%20OR%20\"MN811034\"%5BACCN%5D%20OR%20\"MN811035\"%5BACCN%5D%20OR%20\"MN811036\"%5BACCN%5D%20OR%20\"MN811037\"%5BACCN%5D%20OR%20\"MN811038\"%5BACCN%5D%20OR%20\"MN811039\"%5BACCN%5D%20OR%20\"MN811040\"%5BACCN%5D%20OR%20\"MN811041\"%5BACCN%5D%20OR%20\"MN811042\"%5BACCN%5D)",
+        "PubID": 142,
+        "Publication": "Erg\u00fcnay (2020, 32723637). Multiple orthonairoviruses including Crimean-Congo hemorrhagic fever virus, Tamdy virus and the novel Meram virus in Anatolia.; Erg\u00fcnay K; Din\u00e7er E; Kar S; Emanet N; Yal\u00e7\u0131nkaya D; Polat Din\u00e7er PF; Brinkmann A; Hac\u0131o\u011flu S; Nitsche A; \u00d6zkul A; Linton YM; Ticks Tick Borne Dis",
+        "ShortName": "Erg\u00fcnay (2020, 32723637)"
+    },
+    {
+        "RefID": 7,
+        "SubmissionSet": "Ergunay (2019). Direct Submission; Ergunay C.;  Department of Medical Microbiology Virology Unit, Hacettepe University Faculty of Medicine, Morphology Building 3rd floor, Ankara 06420, Turkey; [L (7), M (3), S (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN811030\"%5BACCN%5D%20OR%20\"MN811031\"%5BACCN%5D%20OR%20\"MN811032\"%5BACCN%5D%20OR%20\"MN811033\"%5BACCN%5D%20OR%20\"MN811034\"%5BACCN%5D%20OR%20\"MN811035\"%5BACCN%5D%20OR%20\"MN811036\"%5BACCN%5D%20OR%20\"MN811037\"%5BACCN%5D%20OR%20\"MN811038\"%5BACCN%5D%20OR%20\"MN811039\"%5BACCN%5D%20OR%20\"MN811040\"%5BACCN%5D%20OR%20\"MN811041\"%5BACCN%5D%20OR%20\"MN811042\"%5BACCN%5D)",
+        "PubID": 150,
+        "Publication": "Brinkmann (2021, 33572847). Utility of a Sequence-Independent, Single-Primer-Amplification (SISPA) and Nanopore Sequencing Approach for Detection and Characterization of Tick-Borne Viral Pathogens.; Brinkmann A; Uddin S; Krause E; Surtees R; Din\u00e7er E; Kar S; Hac\u0131o\u011flu S; \u00d6zkul A; Erg\u00fcnay K; Nitsche A; Viruses",
+        "ShortName": "Brinkmann (2021, 33572847)"
     },
     {
         "RefID": 8,
@@ -28,8 +56,22 @@
         "ShortName": "Brinkmann (2021, 33572847)"
     },
     {
+        "RefID": 9,
+        "SubmissionSet": "Febrer sendra (2022). Direct Submission; Febrer sendra B., Fernandez-soto P.;  Parasitology Department, University of Salamanca, Campus Miguel de Unamuno Calle licenciado mendez, Salamanca, Salamanca 37007, Espana; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"OP889253\"%5BACCN%5D)",
+        "PubID": 217,
+        "Publication": "Belhassen-garcia (2023, 37047384). A Novel RT-LAMP for the Detection of Different Genotypes of Crimean-Congo Haemorrhagic Fever Virus in Patients from Spain; Belhassen-garcia M., Crego-vicente B., Febrer sendra B., Febrer-sendra B., Fernandez-soto P., Garcia-bernalt diego J., Munor-bellido J., Muro A., Negredo A., Sanchez-seco M.; 6411 (2023), Campus Miguel de Unamuno Calle licenciado mendez, Espana, Int J Mol Sci 24 (7), Parasitology Department, Salamanca, Salamanca 37007, University of Salamanca",
+        "ShortName": "Belhassen-garcia (2023, 37047384)"
+    },
+    {
         "RefID": 10,
         "SubmissionSet": "Fernandez de mera (2017, 28736753). Combination of RT-PCR and proteomics for the identification of Crimean-Congo hemorrhagic fever virus in ticks; Fernandez de mera I., Chaligiannis I., Hernandez-jarguin A., Villar M., Mateos-hernandez L., Papa A., Sotiraki S., Ruiz-fons F., Cabezas-cruz A., Gortazar C., De la fuente J.; Heliyon 3 (7), E00353 (2017); [S (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KU365757\"%5BACCN%5D%20OR%20\"KU365758\"%5BACCN%5D)",
+        "PubID": 111,
+        "Publication": "Fern\u00e1ndez de Mera (2017, 28736753). Combination of RT-PCR and proteomics for the identification of Crimean-Congo hemorrhagic fever virus in ticks.; Fern\u00e1ndez de Mera IG; Chaligiannis I; Hern\u00e1ndez-Jargu\u00edn A; Villar M; Mateos-Hern\u00e1ndez L; Papa A; Sotiraki S; Ruiz-Fons F; Cabezas-Cruz A; Gort\u00e1zar C; de la Fuente J; Heliyon",
+        "ShortName": "Fern\u00e1ndez de Mera (2017, 28736753)"
+    },
+    {
+        "RefID": 11,
+        "SubmissionSet": "Fernandez de mera (2015). Direct Submission; Fernandez de mera I., Chaligiannis I., Papa A., Ruiz fons F., Gortazar C., De la fuente J.;  Sanidad Animal, Instituto de Investigacion en Recursos Cinegeticos, Ronda de Toledo s/n, Ciudad Real, Ciudad Real 13071, Spain; [S (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KU365757\"%5BACCN%5D%20OR%20\"KU365758\"%5BACCN%5D)",
         "PubID": 111,
         "Publication": "Fern\u00e1ndez de Mera (2017, 28736753). Combination of RT-PCR and proteomics for the identification of Crimean-Congo hemorrhagic fever virus in ticks.; Fern\u00e1ndez de Mera IG; Chaligiannis I; Hern\u00e1ndez-Jargu\u00edn A; Villar M; Mateos-Hern\u00e1ndez L; Papa A; Sotiraki S; Ruiz-Fons F; Cabezas-Cruz A; Gort\u00e1zar C; de la Fuente J; Heliyon",
         "ShortName": "Fern\u00e1ndez de Mera (2017, 28736753)"
@@ -44,6 +86,13 @@
     {
         "RefID": 13,
         "SubmissionSet": "Hawman (2021). Immunocompetent Mouse Model for Crimean-Congo Hemorrhagic Fever Virus; Hawman D., Meade-white K., Leventhal S., Feldmann F., Okumura A., Smith B., Scott D., Feldmann H.; bioRxiv (2021) In press; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW058028\"%5BACCN%5D%20OR%20\"MW058029\"%5BACCN%5D%20OR%20\"MW058030\"%5BACCN%5D)",
+        "PubID": 226,
+        "Publication": "Hawman (2021, 33416494). Immunocompetent mouse model for Crimean-Congo hemorrhagic fever virus; Hawman DW, Meade-White K, Leventhal S, Feldmann F, Okumura A, Smith B, Scott D, Feldmann H; Elife",
+        "ShortName": "Hawman (2021, 33416494)"
+    },
+    {
+        "RefID": 14,
+        "SubmissionSet": "Hawman (2020). Direct Submission; Hawman D., Sturdevant D., Martens C., Babian K., Feldmann H.;  Laboratory of Virology, Rocky Mountain Labs NIH/NIAD, 903 S 4th St, Hamilton, MT 59840, USA; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW058028\"%5BACCN%5D%20OR%20\"MW058029\"%5BACCN%5D%20OR%20\"MW058030\"%5BACCN%5D)",
         "PubID": 226,
         "Publication": "Hawman (2021, 33416494). Immunocompetent mouse model for Crimean-Congo hemorrhagic fever virus; Hawman DW, Meade-White K, Leventhal S, Feldmann F, Okumura A, Smith B, Scott D, Feldmann H; Elife",
         "ShortName": "Hawman (2021, 33416494)"
@@ -98,6 +147,13 @@
         "ShortName": "Meissner (2006, 16195783)"
     },
     {
+        "RefID": 23,
+        "SubmissionSet": "Meissner (2004). Direct Submission; Meissner J., Seregin S., Yakimenko N., Vyshemirski O., Seregin S., Netesov S., Petrov V.;  Laboratory of Virology, State Research Center of Virology and Biotechnology 'VECTOR', Koltsovo, Novosibirsk 630559, Russia; [L (4)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY675240\"%5BACCN%5D%20OR%20\"AY675240\"%5BACCN%5D%20OR%20\"AY720893\"%5BACCN%5D%20OR%20\"AY720893\"%5BACCN%5D)",
+        "PubID": 29,
+        "Publication": "Meissner (2006, 16195783). Complete L segment coding-region sequences of Crimean Congo hemorrhagic fever virus strains from the Russian Federation and Tajikistan.; Meissner JD; Seregin SS; Seregin SV; Yakimenko NV; Vyshemirskii OI; Netesov SV; Petrov VS; Arch Virol",
+        "ShortName": "Meissner (2006, 16195783)"
+    },
+    {
         "RefID": 24,
         "SubmissionSet": "Midilli (2009, 19515251). The first clinical case due to AP92 like strain of Crimean-Congo Hemorrhagic Fever virus and a field survey; Midilli K., Gargili A., Ergonul O., Elevli M., Ergin S., Turan N., Sengoz G., Ozturk R., Bakar M.; BMC Infect. Dis. 9, 90 (2009); [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EU057975\"%5BACCN%5D)",
         "PubID": 40,
@@ -112,11 +168,67 @@
         "ShortName": "Elevli (2010, 20005760)"
     },
     {
+        "RefID": 27,
+        "SubmissionSet": "Negredo (2019). Direct Submission; Negredo A., Vazquez A., Hernandez L., Sanchez-seco M.;  Arbovirus and Imported Viral diseases, National Center of Microbiology, Institute of Health Carlos III, Ctra. Majadahonda-Pozuelo, km2, Majadahonda, Madrid 28220, Spain; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN689739\"%5BACCN%5D%20OR%20\"MN689740\"%5BACCN%5D%20OR%20\"MN689741\"%5BACCN%5D)",
+        "PubID": 155,
+        "Publication": "Negredo (2021, 33754998). Fatal Case of Crimean-Congo Hemorrhagic Fever Caused by Reassortant Virus, Spain, 2018.; Negredo A; S\u00e1nchez-Arroyo R; D\u00edez-Fuertes F; de Ory F; Budi\u00f1o MA; V\u00e1zquez A; Garcinu\u00f1o \u00c1; Hern\u00e1ndez L; la Hoz Gonz\u00e1lez C; Guti\u00e9rrez-Arroyo A; Grande C; S\u00e1nchez-Seco P; Emerg Infect Dis",
+        "ShortName": "Negredo (2021, 33754998)"
+    },
+    {
+        "RefID": 27,
+        "SubmissionSet": "Negredo (2019). Direct Submission; Negredo A., Vazquez A., Hernandez L., Sanchez-seco M.;  Arbovirus and Imported Viral diseases, National Center of Microbiology, Institute of Health Carlos III, Ctra. Majadahonda-Pozuelo, km2, Majadahonda, Madrid 28220, Spain; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN689739\"%5BACCN%5D%20OR%20\"MN689740\"%5BACCN%5D%20OR%20\"MN689741\"%5BACCN%5D)",
+        "PubID": 175,
+        "Publication": "Lorenzo Juanes (2023, 36692301). Crimean-Congo Hemorrhagic Fever, Spain, 2013-2021.; Lorenzo Juanes HM; Carbonell C; Sendra BF; L\u00f3pez-Bernus A; Bahamonde A; Orfao A; Lista CV; Ledesma MS; Negredo AI; Rodr\u00edguez-Alonso B; Bua BR; S\u00e1nchez-Seco MP; Mu\u00f1oz Bellido JL; Muro A; Belhassen-Garc\u00eda M; Emerg Infect Dis",
+        "ShortName": "Lorenzo Juanes (2023, 36692301)"
+    },
+    {
+        "RefID": 28,
+        "SubmissionSet": "Ohlendorf (2018). Direct Submission; Ohlendorf V., Kopp A., Marklewitz M., Drosten C., Junglen S.;  Charite Universitatsmedizin Berlin, Institute of Virology, Chariteplatz 1, Berlin 10117, Germany; [L (3), M (3), S (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MK299338\"%5BACCN%5D%20OR%20\"MK299339\"%5BACCN%5D%20OR%20\"MK299340\"%5BACCN%5D%20OR%20\"MK299341\"%5BACCN%5D%20OR%20\"MK299342\"%5BACCN%5D%20OR%20\"MK299343\"%5BACCN%5D%20OR%20\"MK299344\"%5BACCN%5D%20OR%20\"MK299345\"%5BACCN%5D%20OR%20\"MK299346\"%5BACCN%5D)",
+        "PubID": 144,
+        "Publication": "Hua (2020, 33084573). A single mutation in Crimean-Congo hemorrhagic fever virus discovered in ticks impairs infectivity in human cells.; Hua BL; Scholte FE; Ohlendorf V; Kopp A; Marklewitz M; Drosten C; Nichol ST; Spiropoulou C; Junglen S; Bergeron \u00c9; Elife",
+        "ShortName": "Hua (2020, 33084573)"
+    },
+    {
         "RefID": 29,
         "SubmissionSet": "Ozdarendeli (2008, 17955162). Genetic analysis of the M RNA segment of Crimean-Congo hemorrhagic fever virus strains in Turkey; Ozdarendeli A., Aydin K., Tonbak S., Aktas M., Altay K., Koksal I., Bolat Y., Dumanli N., Kalkan A.; Arch. Virol. 153 (1), 37-44 (2008); [M (14)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EF189740\"%5BACCN%5D%20OR%20\"EF189741\"%5BACCN%5D%20OR%20\"EF189742\"%5BACCN%5D%20OR%20\"EF189743\"%5BACCN%5D%20OR%20\"EF189744\"%5BACCN%5D%20OR%20\"EF189745\"%5BACCN%5D%20OR%20\"EF189746\"%5BACCN%5D%20OR%20\"EF189747\"%5BACCN%5D%20OR%20\"EF189748\"%5BACCN%5D%20OR%20\"EF189749\"%5BACCN%5D%20OR%20\"EF189750\"%5BACCN%5D%20OR%20\"EF189751\"%5BACCN%5D%20OR%20\"EF189752\"%5BACCN%5D%20OR%20\"EF189753\"%5BACCN%5D)",
         "PubID": 36,
         "Publication": "Ozdarendeli (2008, 17955162). Genetic analysis of the M RNA segment of Crimean-Congo hemorrhagic fever virus strains in Turkey.; Ozdarendeli A; Aydin K; Tonbak S; Aktas M; Altay K; Koksal I; Bolat Y; Dumanli N; Kalkan A; Arch Virol",
         "ShortName": "Ozdarendeli (2008, 17955162)"
+    },
+    {
+        "RefID": 30,
+        "SubmissionSet": "Ozkul (2010). Direct Submission; Ozkul A., Mahzounieh M., Dincer E.;  Virology Department, Ankara University, Faculty of Veterinary Medicine, Irfan Bastug Cad. Diskapi, Ankara, None 06110, Turkey; [M (3), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"HM853679\"%5BACCN%5D%20OR%20\"HM853680\"%5BACCN%5D%20OR%20\"HM853681\"%5BACCN%5D%20OR%20\"HM853682\"%5BACCN%5D)",
+        "PubID": 64,
+        "Publication": "Mahzounieh (2012, 22925023). Relationship between Crimean-Congo hemorrhagic fever virus strains circulating in Iran and Turkey: possibilities for transborder transmission.; Mahzounieh M; Dincer E; Faraji A; Akin H; Akkutay AZ; Ozkul A; Vector Borne Zoonotic Dis",
+        "ShortName": "Mahzounieh (2012, 22925023)"
+    },
+    {
+        "RefID": 31,
+        "SubmissionSet": "Ozkul (2009). Direct Submission; Ozkul A., Uyar Y., Korukluoglu G., Ayranci sucakli I., Dincer E.;  Department of Virology, Ankara University, Faculty of Veterinary Medicine, Irfan Bastug Cad. Diskapi, Ankara 06110, Turkey; [S (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"GU084161\"%5BACCN%5D%20OR%20\"GU084162\"%5BACCN%5D)",
+        "PubID": 201,
+        "Publication": "Tezer (2011, 21083375). Concurrent Crimean-Congo hemorrhagic fever and visceral leishmaniasis in a Turkish girl.; Tezer H; Tavil B; Sucakl\u0131 IA; Korukluo\u011flu G; Uyar Y; Din\u00e7er E; Tun\u00e7 B; \u00d6zkul A; Vector Borne Zoonotic Dis",
+        "ShortName": "Tezer (2011, 21083375)"
+    },
+    {
+        "RefID": 32,
+        "SubmissionSet": "Papa (2013). Direct Submission; Papa A., Kalvatchev N., Christova I.;  Dept. of Microbiology, Aristotle University of Thessaloniki, Medical School, Thessaloniki 54124, Greece; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KJ000206\"%5BACCN%5D)",
+        "PubID": 88,
+        "Publication": "Christova (2015, 25420643). Fatal outcome of coinfection of Crimean-Congo hemorrhagic fever and malaria.; Christova I; Petrov A; Papa A; Vutchev D; Kalvatchev N; Vatev N; Stoycheva M; Jpn J Infect Dis",
+        "ShortName": "Christova (2015, 25420643)"
+    },
+    {
+        "RefID": 32,
+        "SubmissionSet": "Papa (2013). Direct Submission; Papa A., Kalvatchev N., Christova I.;  Dept. of Microbiology, Aristotle University of Thessaloniki, Medical School, Thessaloniki 54124, Greece; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KJ000206\"%5BACCN%5D)",
+        "PubID": 93,
+        "Publication": "Papa (2016, 26455333). Molecular epidemiology of Crimean-Congo hemorrhagic fever in Bulgaria--An update.; Papa A; Pappa S; Panayotova E; Papadopoulou E; Christova I; J Med Virol",
+        "ShortName": "Papa (2016, 26455333)"
+    },
+    {
+        "RefID": 38,
+        "SubmissionSet": "Sado yousseu (2022). Direct Submission; Sado yousseu F.;  Microbiology and Parasitology, Centre of Research in Infectious Diseases, Street 1.606 Yaounde 5, Yaounde, Centre POBOX 13591, Yaounde, Cameroon; [L (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"ON564456\"%5BACCN%5D)",
+        "PubID": 178,
+        "Publication": "Simo Tchetgna (2023, 37056704). Molecular and serological evidence of Crimean-Congo hemorrhagic fever orthonairovirus prevalence in livestock and ticks in Cameroon.; Simo Tchetgna H; Yousseu FS; Cosset FL; de Freitas NB; Kamgang B; McCall PJ; Ndip RN; Legros V; Wondji CS; Front Cell Infect Microbiol",
+        "ShortName": "Simo Tchetgna (2023, 37056704)"
     },
     {
         "RefID": 39,
@@ -138,6 +250,13 @@
         "PubID": 2,
         "Publication": "Schwarz (1996, 8780459). Polymerase chain reaction for diagnosis and identification of distinct variants of Crimean-Congo hemorrhagic fever virus in the United Arab Emirates.; Schwarz TF; Nsanze H; Longson M; Nitschko H; Gilch S; Shurie H; Ameen A; Zahir AR; Acharya UG; Jager G; Am J Trop Med Hyg",
         "ShortName": "Schwarz (1996, 8780459)"
+    },
+    {
+        "RefID": 41,
+        "SubmissionSet": "Seregin (2002). Direct Submission; Seregin S., Samokhvalov E., Petrova I., Vyshemirski O., Gutorov V., Tyunnikov G., Lvov D., Netesov S., Petrov V.;  Biochemistry of Viruses, State Research Center of Virology and Biotechnology, Koltsovo, Novosibirsk 630559, Russia; [M (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY179961\"%5BACCN%5D%20OR%20\"AY179962\"%5BACCN%5D%20OR%20\"AY179963\"%5BACCN%5D)",
+        "PubID": 14,
+        "Publication": "Seregin (2004, 14976418). Genetic characterization of the M RNA segment of Crimean-Congo hemorrhagic fever virus strains isolated in Russia and Tajikistan.; Seregin SV; Samokhvalov EI; Petrova ID; Vyshemirskii OI; Samokhvalova EG; Lvov DK; Gutorov VV; Tyunnikov GI; Shchelkunov SN; Netesov SV; Petrov VS; Virus Genes",
+        "ShortName": "Seregin (2004, 14976418)"
     },
     {
         "RefID": 42,
@@ -166,6 +285,34 @@
         "PubID": 201,
         "Publication": "Tezer (2011, 21083375). Concurrent Crimean-Congo hemorrhagic fever and visceral leishmaniasis in a Turkish girl.; Tezer H; Tavil B; Sucakl\u0131 IA; Korukluo\u011flu G; Uyar Y; Din\u00e7er E; Tun\u00e7 B; \u00d6zkul A; Vector Borne Zoonotic Dis",
         "ShortName": "Tezer (2011, 21083375)"
+    },
+    {
+        "RefID": 47,
+        "SubmissionSet": "Tumanova (2007). Direct Submission; Tumanova I., Seregin S., Vyshemirski O., Petrova I., Tyunnikov G., Gutorov V., Seregin S., Netesov S., Petrov V.;  Biochemistry of Viruses, State Research Center of Virology and Biotechnology 'Vector', Koltsovo, Novosibirsk 630559, Russia; [S (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY049083\"%5BACCN%5D%20OR%20\"AY297691\"%5BACCN%5D%20OR%20\"AY297692\"%5BACCN%5D)",
+        "PubID": 12,
+        "Publication": "Yashina (2003, 12692285). Genetic variability of Crimean-Congo haemorrhagic fever virus in Russia and Central Asia.; Yashina L; Petrova I; Seregin S; Vyshemirskii O; Lvov D; Aristova V; Kuhn J; Morzunov S; Gutorov V; Kuzina I; Tyunnikov G; Netesov S; Petrov V; J Gen Virol",
+        "ShortName": "Yashina (2003, 12692285)"
+    },
+    {
+        "RefID": 47,
+        "SubmissionSet": "Tumanova (2007). Direct Submission; Tumanova I., Seregin S., Vyshemirski O., Petrova I., Tyunnikov G., Gutorov V., Seregin S., Netesov S., Petrov V.;  Biochemistry of Viruses, State Research Center of Virology and Biotechnology 'Vector', Koltsovo, Novosibirsk 630559, Russia; [S (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY049083\"%5BACCN%5D%20OR%20\"AY297691\"%5BACCN%5D%20OR%20\"AY297692\"%5BACCN%5D)",
+        "PubID": 24,
+        "Publication": "Seregin (2004, 15584517). Study of the genetic variability of Crimean-Congo hemorrhagic fever virus in Central Asia.; Seregin SV; Tumanova IY; Vyshemirski OI; Petrova ID; Lvov DK; Gromashevski VL; Samokhvalov EI; Tiunnikov GI; Gutorov VV; Tishkova FH; Daniyarov OA; Netesov SV; Petrov VS; Dokl Biochem Biophys",
+        "ShortName": "Seregin (2004, 15584517)"
+    },
+    {
+        "RefID": 47,
+        "SubmissionSet": "Tumanova (2007). Direct Submission; Tumanova I., Seregin S., Vyshemirski O., Petrova I., Tyunnikov G., Gutorov V., Seregin S., Netesov S., Petrov V.;  Biochemistry of Viruses, State Research Center of Virology and Biotechnology 'Vector', Koltsovo, Novosibirsk 630559, Russia; [S (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY049083\"%5BACCN%5D%20OR%20\"AY297691\"%5BACCN%5D%20OR%20\"AY297692\"%5BACCN%5D)",
+        "PubID": 189,
+        "Publication": "Iashina (2002, 12173427). [Characteristics of Crimean-Congo hemorrhagic fever virus circulating in Russia and Central Asia].; Iashina LN; Petrov VS; Vyshemirski\u012d OI; Aristova VA; Moskvina TM; L'vov DK; Petrova ID; Gutorov VV; Tiunnikov GI; Kuzina II; Samokhvlov EI; Seregin SV; Netesov SV; Vopr Virusol",
+        "ShortName": "Iashina (2002, 12173427)"
+    },
+    {
+        "RefID": 48,
+        "SubmissionSet": "Wang (2023). Direct Submission; Wang J., Wang B., Xia X., Zhou J., Wang Y., Wang Y.;  Faculty of Life Science and Technology, Kunming University of Science and Technology, 727 Jingming South Road, Kunming, Yunnan 650000, China; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"OQ633002\"%5BACCN%5D%20OR%20\"OQ633003\"%5BACCN%5D%20OR%20\"OQ633004\"%5BACCN%5D)",
+        "PubID": 187,
+        "Publication": "Wang (2024, 39065234). Identification, Characterization, and Homology Analysis of a Novel Strain of the Crimean-Congo Hemorrhagic Fever Virus from Yunnan, China.; Wang J; Shah T; Zhou J; Long X; Wang Y; Chen J; Shi M; Shah Z; Wang B; Xia X; Microorganisms",
+        "ShortName": "Wang (2024, 39065234)"
     },
     {
         "RefID": 49,
@@ -406,6 +553,13 @@
         "ShortName": "Camp (2021, 34424177)"
     },
     {
+        "RefID": 82,
+        "SubmissionSet": "Bordi (2008). Direct Submission; Bordi L., Capobianchi M., Carletti F., Castilletti C., Chiappini R., Di caro A., Ippolito G., Lalle E.;  Biorepository, National Institute for Infectious Diseases, Via Portuense 292, Rome, RM 00149, Italy,  Virology, Laboratory, Via Portuense 292, Rome 00149, Italy; [S (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"FJ445749\"%5BACCN%5D%20OR%20\"FJ472634\"%5BACCN%5D)",
+        "PubID": 41,
+        "Publication": "Christova (2009, 19523314). Crimean-Congo hemorrhagic fever, southwestern Bulgaria.; Christova I; Di Caro A; Papa A; Castilletti C; Andonova L; Kalvatchev N; Papadimitriou E; Carletti F; Mohareb E; Capobianchi MR; Ippolito G; Rezza G; Emerg Infect Dis",
+        "ShortName": "Christova (2009, 19523314)"
+    },
+    {
         "RefID": 83,
         "SubmissionSet": "Ahmadnia (2015, 25742932). First phylogenetic analysis of a crimean-congo hemorrhagic fever virus genome in naturally infected rhipicephalus appendiculatus ticks (acari: ixodidae); Ahmadnia S., Azizi K., Chinikar S., Fakoorziba M., Jalali T., Khakifirouz S., Moemenbellah-fard M., Naddaf-sani A., Shah-hosseini N.;  Laboratory of Arboviruses and Viral Hemorrhagic Fevers, Pasteur Institute of Iran, #69 Pasteur Ave, Tehran 1316943551, Iran, Arch. Virol. (2015) In press; [S (4)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KP223318\"%5BACCN%5D%20OR%20\"KP223319\"%5BACCN%5D%20OR%20\"KP223320\"%5BACCN%5D%20OR%20\"KP223321\"%5BACCN%5D)",
         "PubID": 90,
@@ -588,6 +742,13 @@
         "ShortName": "Chinikar (2013, 23271164)"
     },
     {
+        "RefID": 109,
+        "SubmissionSet": "Li (2019). Direct Submission; Li Y., Yan C.;  Key Laboratory of Jilin Province for Zoonosis Prevention and Control, Military Veterinary Institute, Rd. Liuying West 666, Changchun, Jilin 130122, China; [L (1), M (1), S (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN832721\"%5BACCN%5D%20OR%20\"MN832722\"%5BACCN%5D%20OR%20\"MN832723\"%5BACCN%5D%20OR%20\"MN832724\"%5BACCN%5D)",
+        "PubID": 164,
+        "Publication": "Kong (2022, 34763306). Phylogenetic analysis of Crimean-Congo hemorrhagic fever virus in inner Mongolia, China.; Kong Y; Yan C; Liu D; Jiang L; Zhang G; He B; Li Y; Ticks Tick Borne Dis",
+        "ShortName": "Kong (2022, 34763306)"
+    },
+    {
         "RefID": 110,
         "SubmissionSet": "Al hammadi (2017). Identification of diverse viruses in upper respiratory samples in dromedary camels from united arab emirates; Al hammadi Z., Al hosani F., Al muhairi S., Eltahir Y., Gerber S., Hall A., Khalafalla A., Li Y., Paden C., Queen K., Tao Y., Tong S., Yusof M.;  Division of Viral Diseases, Centers for Disease Control and Prevention, 1600 Clifton Rd, Atlanta, GA 30333, USA, Unpublished; [L (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MF593474\"%5BACCN%5D)",
         "PubID": 224,
@@ -735,6 +896,13 @@
         "ShortName": "Orkun (2016, 27692336)"
     },
     {
+        "RefID": 131,
+        "SubmissionSet": "Aktas (2006). Direct Submission; Aktas M., Altay K., Aydin K., Koksal I., Ozdarendeli A., Tonbak S.;  Virology, Firat University, Veterinary Medicine, Elazig 23119, Turkey; [M (14)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EF189740\"%5BACCN%5D%20OR%20\"EF189741\"%5BACCN%5D%20OR%20\"EF189742\"%5BACCN%5D%20OR%20\"EF189743\"%5BACCN%5D%20OR%20\"EF189744\"%5BACCN%5D%20OR%20\"EF189745\"%5BACCN%5D%20OR%20\"EF189746\"%5BACCN%5D%20OR%20\"EF189747\"%5BACCN%5D%20OR%20\"EF189748\"%5BACCN%5D%20OR%20\"EF189749\"%5BACCN%5D%20OR%20\"EF189750\"%5BACCN%5D%20OR%20\"EF189751\"%5BACCN%5D%20OR%20\"EF189752\"%5BACCN%5D%20OR%20\"EF189753\"%5BACCN%5D)",
+        "PubID": 36,
+        "Publication": "Ozdarendeli (2008, 17955162). Genetic analysis of the M RNA segment of Crimean-Congo hemorrhagic fever virus strains in Turkey.; Ozdarendeli A; Aydin K; Tonbak S; Aktas M; Altay K; Koksal I; Bolat Y; Dumanli N; Kalkan A; Arch Virol",
+        "ShortName": "Ozdarendeli (2008, 17955162)"
+    },
+    {
         "RefID": 132,
         "SubmissionSet": "Aydin (2007). Genetic analysis of s gene of cchfv in humans in turkey; Aydin K., Koksal I., Ozdarendeli A., Tonbak S.;  Virology, Firat University, Firat, Elazig 23119, Turkey, Unpublished; [S (15)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EF432639\"%5BACCN%5D%20OR%20\"EF432640\"%5BACCN%5D%20OR%20\"EF432641\"%5BACCN%5D%20OR%20\"EF432642\"%5BACCN%5D%20OR%20\"EF432643\"%5BACCN%5D%20OR%20\"EF432644\"%5BACCN%5D%20OR%20\"EF432645\"%5BACCN%5D%20OR%20\"EF432646\"%5BACCN%5D%20OR%20\"EF432647\"%5BACCN%5D%20OR%20\"EF432648\"%5BACCN%5D%20OR%20\"EF432649\"%5BACCN%5D%20OR%20\"EF432650\"%5BACCN%5D%20OR%20\"EF432651\"%5BACCN%5D%20OR%20\"EF432652\"%5BACCN%5D%20OR%20\"EF432653\"%5BACCN%5D)",
         "PubID": 127,
@@ -817,6 +985,13 @@
         "PubID": 114,
         "Publication": "Papa (2017, 28920177). Molecular detection of Crimean-Congo hemorrhagic fever virus in ticks, Greece, 2012-2014.; Papa A; Kontana A; Tsioka K; Chaligiannis I; Sotiraki S; Parasitol Res",
         "ShortName": "Papa (2017, 28920177)"
+    },
+    {
+        "RefID": 140,
+        "SubmissionSet": "Antoniadis (2013). Direct Submission; Antoniadis A., Papa A., Papadimitriou E.;  Dept. of Microbiology, Medical School, Aristotle University of Thessaloniki, Thessaloniki 54124, Greece; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EU871766\"%5BACCN%5D)",
+        "PubID": 43,
+        "Publication": "Papa (2010, 19845692). Emergence of Crimean-Congo haemorrhagic fever in Greece.; Papa A; Dalla V; Papadimitriou E; Kartalis GN; Antoniadis A; Clin Microbiol Infect",
+        "ShortName": "Papa (2010, 19845692)"
     },
     {
         "RefID": 141,
@@ -903,6 +1078,13 @@
         "ShortName": "Umair (2020, 32598383)"
     },
     {
+        "RefID": 157,
+        "SubmissionSet": "Kolosov (2019). Direct Submission; Kolosov A., Kotenev E., Volynkina A.;  Laboratory on Natural Focal Infections, Stavropol State Research Anti-Plague Institute, Sovetskaya str. 13-15, Stavropol, Stavropol Region 355035, Russian Federation,  Laboratory on Natural Focal Infections, Stavropol State Research Anti-Plague Institute, Sovetskaya str. 13-15, Stavropol, Stavropol region 355017, Russian Federation; [L (238), M (238), S (239)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MN004855\"%5BACCN%5D%20OR%20\"MN004856\"%5BACCN%5D%20OR%20\"MN004857\"%5BACCN%5D%20OR%20\"MN004858\"%5BACCN%5D%20OR%20\"MN004859\"%5BACCN%5D%20OR%20\"MN004860\"%5BACCN%5D%20OR%20\"MN004861\"%5BACCN%5D%20OR%20\"MN004862\"%5BACCN%5D%20OR%20\"MN004863\"%5BACCN%5D%20OR%20\"MN004864\"%5BACCN%5D%20OR%20\"MN004865\"%5BACCN%5D%20OR%20\"MN004866\"%5BACCN%5D%20OR%20\"MN004867\"%5BACCN%5D%20OR%20\"MN004868\"%5BACCN%5D%20OR%20\"MN004869\"%5BACCN%5D%20OR%20\"MN004870\"%5BACCN%5D%20OR%20\"MN004871\"%5BACCN%5D%20OR%20\"MN004872\"%5BACCN%5D%20OR%20\"MN004873\"%5BACCN%5D%20OR%20\"MN004874\"%5BACCN%5D%20OR%20\"MN004875\"%5BACCN%5D%20OR%20\"MN624267\"%5BACCN%5D%20OR%20\"MN624268\"%5BACCN%5D%20OR%20\"MN624269\"%5BACCN%5D%20OR%20\"MN624270\"%5BACCN%5D%20OR%20\"MN624271\"%5BACCN%5D%20OR%20\"MN624272\"%5BACCN%5D%20OR%20\"MN624273\"%5BACCN%5D%20OR%20\"MN624274\"%5BACCN%5D%20OR%20\"MN624275\"%5BACCN%5D%20OR%20\"MN624276\"%5BACCN%5D%20OR%20\"MN624277\"%5BACCN%5D%20OR%20\"MN624278\"%5BACCN%5D%20OR%20\"MN624279\"%5BACCN%5D%20OR%20\"MN624280\"%5BACCN%5D%20OR%20\"MN624281\"%5BACCN%5D%20OR%20\"MN624282\"%5BACCN%5D%20OR%20\"MN624283\"%5BACCN%5D%20OR%20\"MN624284\"%5BACCN%5D%20OR%20\"MN624285\"%5BACCN%5D%20OR%20\"MN624286\"%5BACCN%5D%20OR%20\"MN624287\"%5BACCN%5D%20OR%20\"MN624288\"%5BACCN%5D%20OR%20\"MN624289\"%5BACCN%5D%20OR%20\"MN624290\"%5BACCN%5D%20OR%20\"MN624291\"%5BACCN%5D%20OR%20\"MN624292\"%5BACCN%5D%20OR%20\"MN624293\"%5BACCN%5D%20OR%20\"MN624294\"%5BACCN%5D%20OR%20\"MN624295\"%5BACCN%5D%20OR%20\"MN624296\"%5BACCN%5D%20OR%20\"MN624297\"%5BACCN%5D%20OR%20\"MN624298\"%5BACCN%5D%20OR%20\"MN624299\"%5BACCN%5D%20OR%20\"MN624300\"%5BACCN%5D%20OR%20\"MN624301\"%5BACCN%5D%20OR%20\"MN624302\"%5BACCN%5D%20OR%20\"MN624303\"%5BACCN%5D%20OR%20\"MN624304\"%5BACCN%5D%20OR%20\"MN624305\"%5BACCN%5D%20OR%20\"MN624306\"%5BACCN%5D%20OR%20\"MN624307\"%5BACCN%5D%20OR%20\"MN624308\"%5BACCN%5D%20OR%20\"MN624309\"%5BACCN%5D%20OR%20\"MN624310\"%5BACCN%5D%20OR%20\"MN624311\"%5BACCN%5D%20OR%20\"MN624312\"%5BACCN%5D%20OR%20\"MN624313\"%5BACCN%5D%20OR%20\"MN624314\"%5BACCN%5D%20OR%20\"MN624315\"%5BACCN%5D%20OR%20\"MN624316\"%5BACCN%5D%20OR%20\"MN624317\"%5BACCN%5D%20OR%20\"MN624318\"%5BACCN%5D%20OR%20\"MN624319\"%5BACCN%5D%20OR%20\"MN624320\"%5BACCN%5D%20OR%20\"MN624321\"%5BACCN%5D%20OR%20\"MN624322\"%5BACCN%5D%20OR%20\"MN624323\"%5BACCN%5D%20OR%20\"MN624324\"%5BACCN%5D%20OR%20\"MN624325\"%5BACCN%5D%20OR%20\"MN624326\"%5BACCN%5D%20OR%20\"MN624327\"%5BACCN%5D%20OR%20\"MN624328\"%5BACCN%5D%20OR%20\"MN624329\"%5BACCN%5D%20OR%20\"MN624330\"%5BACCN%5D%20OR%20\"MN624331\"%5BACCN%5D%20OR%20\"MN624332\"%5BACCN%5D%20OR%20\"MN624333\"%5BACCN%5D%20OR%20\"MN624334\"%5BACCN%5D%20OR%20\"MN624335\"%5BACCN%5D%20OR%20\"MN624336\"%5BACCN%5D%20OR%20\"MN624337\"%5BACCN%5D%20OR%20\"MN624338\"%5BACCN%5D%20OR%20\"MN624339\"%5BACCN%5D%20OR%20\"MN624340\"%5BACCN%5D%20OR%20\"MN624341\"%5BACCN%5D%20OR%20\"MN624342\"%5BACCN%5D%20OR%20\"MN624343\"%5BACCN%5D%20OR%20\"MN624344\"%5BACCN%5D%20OR%20\"MN624345\"%5BACCN%5D%20OR%20\"MN624346\"%5BACCN%5D%20OR%20\"MN624347\"%5BACCN%5D%20OR%20\"MN624348\"%5BACCN%5D%20OR%20\"MN624349\"%5BACCN%5D%20OR%20\"MN624350\"%5BACCN%5D%20OR%20\"MN624351\"%5BACCN%5D%20OR%20\"MN624352\"%5BACCN%5D%20OR%20\"MN624353\"%5BACCN%5D%20OR%20\"MN624354\"%5BACCN%5D%20OR%20\"MN624355\"%5BACCN%5D%20OR%20\"MN624356\"%5BACCN%5D%20OR%20\"MN624357\"%5BACCN%5D%20OR%20\"MN624358\"%5BACCN%5D%20OR%20\"MN624359\"%5BACCN%5D%20OR%20\"MN624360\"%5BACCN%5D%20OR%20\"MN624361\"%5BACCN%5D%20OR%20\"MN624362\"%5BACCN%5D%20OR%20\"MN624363\"%5BACCN%5D%20OR%20\"MN624364\"%5BACCN%5D%20OR%20\"MN624365\"%5BACCN%5D%20OR%20\"MN624366\"%5BACCN%5D%20OR%20\"MN624367\"%5BACCN%5D%20OR%20\"MN624368\"%5BACCN%5D%20OR%20\"MN624369\"%5BACCN%5D%20OR%20\"MN624370\"%5BACCN%5D%20OR%20\"MN624371\"%5BACCN%5D%20OR%20\"MN624372\"%5BACCN%5D%20OR%20\"MN624373\"%5BACCN%5D%20OR%20\"MN624374\"%5BACCN%5D%20OR%20\"MN624375\"%5BACCN%5D%20OR%20\"MN624376\"%5BACCN%5D%20OR%20\"MN624377\"%5BACCN%5D%20OR%20\"MN624378\"%5BACCN%5D%20OR%20\"MN624379\"%5BACCN%5D%20OR%20\"MN624380\"%5BACCN%5D%20OR%20\"MN624381\"%5BACCN%5D%20OR%20\"MN624382\"%5BACCN%5D%20OR%20\"MN624383\"%5BACCN%5D%20OR%20\"MN624384\"%5BACCN%5D%20OR%20\"MN624385\"%5BACCN%5D%20OR%20\"MN624386\"%5BACCN%5D%20OR%20\"MN624387\"%5BACCN%5D%20OR%20\"MN624388\"%5BACCN%5D%20OR%20\"MN624389\"%5BACCN%5D%20OR%20\"MN624390\"%5BACCN%5D%20OR%20\"MN624391\"%5BACCN%5D%20OR%20\"MN624392\"%5BACCN%5D%20OR%20\"MN624393\"%5BACCN%5D%20OR%20\"MN624394\"%5BACCN%5D%20OR%20\"MN624395\"%5BACCN%5D%20OR%20\"MN624396\"%5BACCN%5D%20OR%20\"MN624397\"%5BACCN%5D%20OR%20\"MN624398\"%5BACCN%5D%20OR%20\"MN624399\"%5BACCN%5D%20OR%20\"MN624400\"%5BACCN%5D%20OR%20\"MN624401\"%5BACCN%5D%20OR%20\"MN624402\"%5BACCN%5D%20OR%20\"MN624403\"%5BACCN%5D%20OR%20\"MN624404\"%5BACCN%5D%20OR%20\"MN624405\"%5BACCN%5D%20OR%20\"MN624406\"%5BACCN%5D%20OR%20\"MN624407\"%5BACCN%5D%20OR%20\"MN624408\"%5BACCN%5D%20OR%20\"MN624409\"%5BACCN%5D%20OR%20\"MN624410\"%5BACCN%5D%20OR%20\"MN624411\"%5BACCN%5D%20OR%20\"MN624412\"%5BACCN%5D%20OR%20\"MN624413\"%5BACCN%5D%20OR%20\"MN624414\"%5BACCN%5D%20OR%20\"MN624415\"%5BACCN%5D%20OR%20\"MN624416\"%5BACCN%5D%20OR%20\"MN624417\"%5BACCN%5D%20OR%20\"MN624418\"%5BACCN%5D%20OR%20\"MN624419\"%5BACCN%5D%20OR%20\"MN624420\"%5BACCN%5D%20OR%20\"MN624421\"%5BACCN%5D%20OR%20\"MN624422\"%5BACCN%5D%20OR%20\"MN624423\"%5BACCN%5D%20OR%20\"MN624424\"%5BACCN%5D%20OR%20\"MN624425\"%5BACCN%5D%20OR%20\"MN624426\"%5BACCN%5D%20OR%20\"MN624427\"%5BACCN%5D%20OR%20\"MN624428\"%5BACCN%5D%20OR%20\"MN624429\"%5BACCN%5D%20OR%20\"MN624430\"%5BACCN%5D%20OR%20\"MN624431\"%5BACCN%5D%20OR%20\"MN624432\"%5BACCN%5D%20OR%20\"MN624433\"%5BACCN%5D%20OR%20\"MN624434\"%5BACCN%5D%20OR%20\"MN624435\"%5BACCN%5D%20OR%20\"MN624436\"%5BACCN%5D%20OR%20\"MN624437\"%5BACCN%5D%20OR%20\"MN624438\"%5BACCN%5D%20OR%20\"MN624439\"%5BACCN%5D%20OR%20\"MN624440\"%5BACCN%5D%20OR%20\"MN624441\"%5BACCN%5D%20OR%20\"MN624442\"%5BACCN%5D%20OR%20\"MN624443\"%5BACCN%5D%20OR%20\"MN624444\"%5BACCN%5D%20OR%20\"MN624445\"%5BACCN%5D%20OR%20\"MN624446\"%5BACCN%5D%20OR%20\"MN624447\"%5BACCN%5D%20OR%20\"MN624448\"%5BACCN%5D%20OR%20\"MN624449\"%5BACCN%5D%20OR%20\"MN624450\"%5BACCN%5D%20OR%20\"MN624451\"%5BACCN%5D%20OR%20\"MN624452\"%5BACCN%5D%20OR%20\"MN624453\"%5BACCN%5D%20OR%20\"MN624454\"%5BACCN%5D%20OR%20\"MN624455\"%5BACCN%5D%20OR%20\"MN624456\"%5BACCN%5D%20OR%20\"MN624457\"%5BACCN%5D%20OR%20\"MN624458\"%5BACCN%5D%20OR%20\"MN624459\"%5BACCN%5D%20OR%20\"MN624460\"%5BACCN%5D%20OR%20\"MN624461\"%5BACCN%5D%20OR%20\"MN624462\"%5BACCN%5D%20OR%20\"MN624463\"%5BACCN%5D%20OR%20\"MN624464\"%5BACCN%5D%20OR%20\"MN624465\"%5BACCN%5D%20OR%20\"MN624466\"%5BACCN%5D%20OR%20\"MN624467\"%5BACCN%5D%20OR%20\"MN624468\"%5BACCN%5D%20OR%20\"MN624469\"%5BACCN%5D%20OR%20\"MN624470\"%5BACCN%5D%20OR%20\"MN624471\"%5BACCN%5D%20OR%20\"MN624472\"%5BACCN%5D%20OR%20\"MN624473\"%5BACCN%5D%20OR%20\"MN624474\"%5BACCN%5D%20OR%20\"MN624475\"%5BACCN%5D%20OR%20\"MN624476\"%5BACCN%5D%20OR%20\"MN624477\"%5BACCN%5D%20OR%20\"MN624478\"%5BACCN%5D%20OR%20\"MN624479\"%5BACCN%5D%20OR%20\"MN624480\"%5BACCN%5D%20OR%20\"MN624481\"%5BACCN%5D%20OR%20\"MN624482\"%5BACCN%5D%20OR%20\"MN624483\"%5BACCN%5D%20OR%20\"MN624484\"%5BACCN%5D%20OR%20\"MN624485\"%5BACCN%5D%20OR%20\"MN624486\"%5BACCN%5D%20OR%20\"MN624487\"%5BACCN%5D%20OR%20\"MN624488\"%5BACCN%5D%20OR%20\"MN624489\"%5BACCN%5D%20OR%20\"MN624490\"%5BACCN%5D%20OR%20\"MN624491\"%5BACCN%5D%20OR%20\"MN624492\"%5BACCN%5D%20OR%20\"MN624493\"%5BACCN%5D%20OR%20\"MN624494\"%5BACCN%5D%20OR%20\"MN624495\"%5BACCN%5D%20OR%20\"MN624496\"%5BACCN%5D%20OR%20\"MN624497\"%5BACCN%5D%20OR%20\"MN624498\"%5BACCN%5D%20OR%20\"MN624499\"%5BACCN%5D%20OR%20\"MN624500\"%5BACCN%5D%20OR%20\"MN624501\"%5BACCN%5D%20OR%20\"MN624502\"%5BACCN%5D%20OR%20\"MN624503\"%5BACCN%5D%20OR%20\"MN624504\"%5BACCN%5D%20OR%20\"MN624505\"%5BACCN%5D%20OR%20\"MN624506\"%5BACCN%5D%20OR%20\"MN624507\"%5BACCN%5D%20OR%20\"MN624508\"%5BACCN%5D%20OR%20\"MN624509\"%5BACCN%5D%20OR%20\"MN624510\"%5BACCN%5D%20OR%20\"MN624511\"%5BACCN%5D%20OR%20\"MN624512\"%5BACCN%5D%20OR%20\"MN624513\"%5BACCN%5D%20OR%20\"MN624514\"%5BACCN%5D%20OR%20\"MN624515\"%5BACCN%5D%20OR%20\"MN624516\"%5BACCN%5D%20OR%20\"MN624517\"%5BACCN%5D%20OR%20\"MN624518\"%5BACCN%5D%20OR%20\"MN624519\"%5BACCN%5D%20OR%20\"MN624520\"%5BACCN%5D%20OR%20\"MN624521\"%5BACCN%5D%20OR%20\"MN624522\"%5BACCN%5D%20OR%20\"MN624523\"%5BACCN%5D%20OR%20\"MN624524\"%5BACCN%5D%20OR%20\"MN624525\"%5BACCN%5D%20OR%20\"MN624526\"%5BACCN%5D%20OR%20\"MN624527\"%5BACCN%5D%20OR%20\"MN624528\"%5BACCN%5D%20OR%20\"MN624529\"%5BACCN%5D%20OR%20\"MN624530\"%5BACCN%5D%20OR%20\"MN624531\"%5BACCN%5D%20OR%20\"MN624532\"%5BACCN%5D%20OR%20\"MN624533\"%5BACCN%5D%20OR%20\"MN624534\"%5BACCN%5D%20OR%20\"MN624535\"%5BACCN%5D%20OR%20\"MN624536\"%5BACCN%5D%20OR%20\"MN624537\"%5BACCN%5D%20OR%20\"MN624538\"%5BACCN%5D%20OR%20\"MN624539\"%5BACCN%5D%20OR%20\"MN624540\"%5BACCN%5D%20OR%20\"MN624541\"%5BACCN%5D%20OR%20\"MN624542\"%5BACCN%5D%20OR%20\"MN624543\"%5BACCN%5D%20OR%20\"MN624544\"%5BACCN%5D%20OR%20\"MN624545\"%5BACCN%5D%20OR%20\"MN624546\"%5BACCN%5D%20OR%20\"MN624547\"%5BACCN%5D%20OR%20\"MN624548\"%5BACCN%5D%20OR%20\"MN624549\"%5BACCN%5D%20OR%20\"MN624550\"%5BACCN%5D%20OR%20\"MN624551\"%5BACCN%5D%20OR%20\"MN624552\"%5BACCN%5D%20OR%20\"MN624553\"%5BACCN%5D%20OR%20\"MN624554\"%5BACCN%5D%20OR%20\"MN624555\"%5BACCN%5D%20OR%20\"MN624556\"%5BACCN%5D%20OR%20\"MN624557\"%5BACCN%5D%20OR%20\"MN624558\"%5BACCN%5D%20OR%20\"MN624559\"%5BACCN%5D%20OR%20\"MN624560\"%5BACCN%5D%20OR%20\"MN624561\"%5BACCN%5D%20OR%20\"MN624562\"%5BACCN%5D%20OR%20\"MN624563\"%5BACCN%5D%20OR%20\"MN624564\"%5BACCN%5D%20OR%20\"MN624565\"%5BACCN%5D%20OR%20\"MN624566\"%5BACCN%5D%20OR%20\"MN624567\"%5BACCN%5D%20OR%20\"MN624568\"%5BACCN%5D%20OR%20\"MN624569\"%5BACCN%5D%20OR%20\"MN624570\"%5BACCN%5D%20OR%20\"MN624571\"%5BACCN%5D%20OR%20\"MN624572\"%5BACCN%5D%20OR%20\"MN624573\"%5BACCN%5D%20OR%20\"MN624574\"%5BACCN%5D%20OR%20\"MN624575\"%5BACCN%5D%20OR%20\"MN624576\"%5BACCN%5D%20OR%20\"MN624577\"%5BACCN%5D%20OR%20\"MN624578\"%5BACCN%5D%20OR%20\"MN624579\"%5BACCN%5D%20OR%20\"MN624580\"%5BACCN%5D%20OR%20\"MN624581\"%5BACCN%5D%20OR%20\"MN624582\"%5BACCN%5D%20OR%20\"MN624583\"%5BACCN%5D%20OR%20\"MN624584\"%5BACCN%5D%20OR%20\"MN624585\"%5BACCN%5D%20OR%20\"MN624586\"%5BACCN%5D%20OR%20\"MN624587\"%5BACCN%5D%20OR%20\"MN624588\"%5BACCN%5D%20OR%20\"MN624589\"%5BACCN%5D%20OR%20\"MN624590\"%5BACCN%5D%20OR%20\"MN624591\"%5BACCN%5D%20OR%20\"MN624592\"%5BACCN%5D%20OR%20\"MN624593\"%5BACCN%5D%20OR%20\"MN624594\"%5BACCN%5D%20OR%20\"MN624595\"%5BACCN%5D%20OR%20\"MN624596\"%5BACCN%5D%20OR%20\"MN624597\"%5BACCN%5D%20OR%20\"MN624598\"%5BACCN%5D%20OR%20\"MN624599\"%5BACCN%5D%20OR%20\"MN624600\"%5BACCN%5D%20OR%20\"MN624601\"%5BACCN%5D%20OR%20\"MN624602\"%5BACCN%5D%20OR%20\"MN624603\"%5BACCN%5D%20OR%20\"MN624604\"%5BACCN%5D%20OR%20\"MN624605\"%5BACCN%5D%20OR%20\"MN624606\"%5BACCN%5D%20OR%20\"MN624607\"%5BACCN%5D%20OR%20\"MN624608\"%5BACCN%5D%20OR%20\"MN624609\"%5BACCN%5D%20OR%20\"MN624610\"%5BACCN%5D%20OR%20\"MN624611\"%5BACCN%5D%20OR%20\"MN624612\"%5BACCN%5D%20OR%20\"MN624613\"%5BACCN%5D%20OR%20\"MN624614\"%5BACCN%5D%20OR%20\"MN624615\"%5BACCN%5D%20OR%20\"MN624616\"%5BACCN%5D%20OR%20\"MN624617\"%5BACCN%5D%20OR%20\"MN624618\"%5BACCN%5D%20OR%20\"MN624619\"%5BACCN%5D%20OR%20\"MN624620\"%5BACCN%5D%20OR%20\"MN624621\"%5BACCN%5D%20OR%20\"MN624622\"%5BACCN%5D%20OR%20\"MN624623\"%5BACCN%5D%20OR%20\"MN624624\"%5BACCN%5D%20OR%20\"MN624625\"%5BACCN%5D%20OR%20\"MN624626\"%5BACCN%5D%20OR%20\"MN624627\"%5BACCN%5D%20OR%20\"MN624628\"%5BACCN%5D%20OR%20\"MN624629\"%5BACCN%5D%20OR%20\"MN624630\"%5BACCN%5D%20OR%20\"MN624631\"%5BACCN%5D%20OR%20\"MN624632\"%5BACCN%5D%20OR%20\"MN624633\"%5BACCN%5D%20OR%20\"MN624634\"%5BACCN%5D%20OR%20\"MN624635\"%5BACCN%5D%20OR%20\"MN624636\"%5BACCN%5D%20OR%20\"MN624637\"%5BACCN%5D%20OR%20\"MN624638\"%5BACCN%5D%20OR%20\"MN624639\"%5BACCN%5D%20OR%20\"MN624640\"%5BACCN%5D%20OR%20\"MN624641\"%5BACCN%5D%20OR%20\"MN624642\"%5BACCN%5D%20OR%20\"MN624643\"%5BACCN%5D%20OR%20\"MN624644\"%5BACCN%5D%20OR%20\"MN624645\"%5BACCN%5D%20OR%20\"MN624646\"%5BACCN%5D%20OR%20\"MN624647\"%5BACCN%5D%20OR%20\"MN624648\"%5BACCN%5D%20OR%20\"MN624649\"%5BACCN%5D%20OR%20\"MN624650\"%5BACCN%5D%20OR%20\"MN624651\"%5BACCN%5D%20OR%20\"MN624652\"%5BACCN%5D%20OR%20\"MN624653\"%5BACCN%5D%20OR%20\"MN624654\"%5BACCN%5D%20OR%20\"MN624655\"%5BACCN%5D%20OR%20\"MN624656\"%5BACCN%5D%20OR%20\"MN624657\"%5BACCN%5D%20OR%20\"MN624658\"%5BACCN%5D%20OR%20\"MN624659\"%5BACCN%5D%20OR%20\"MN624660\"%5BACCN%5D%20OR%20\"MN624661\"%5BACCN%5D%20OR%20\"MN624662\"%5BACCN%5D%20OR%20\"MN624663\"%5BACCN%5D%20OR%20\"MN624664\"%5BACCN%5D%20OR%20\"MN624665\"%5BACCN%5D%20OR%20\"MN624666\"%5BACCN%5D%20OR%20\"MN624667\"%5BACCN%5D%20OR%20\"MN624668\"%5BACCN%5D%20OR%20\"MN624669\"%5BACCN%5D%20OR%20\"MN624670\"%5BACCN%5D%20OR%20\"MN624671\"%5BACCN%5D%20OR%20\"MN624672\"%5BACCN%5D%20OR%20\"MN624673\"%5BACCN%5D%20OR%20\"MN624674\"%5BACCN%5D%20OR%20\"MN624675\"%5BACCN%5D%20OR%20\"MN624676\"%5BACCN%5D%20OR%20\"MN624677\"%5BACCN%5D%20OR%20\"MN624678\"%5BACCN%5D%20OR%20\"MN624679\"%5BACCN%5D%20OR%20\"MN624680\"%5BACCN%5D%20OR%20\"MN624681\"%5BACCN%5D%20OR%20\"MN624682\"%5BACCN%5D%20OR%20\"MN624683\"%5BACCN%5D%20OR%20\"MN624684\"%5BACCN%5D%20OR%20\"MN624685\"%5BACCN%5D%20OR%20\"MN624686\"%5BACCN%5D%20OR%20\"MN624687\"%5BACCN%5D%20OR%20\"MN624688\"%5BACCN%5D%20OR%20\"MN624689\"%5BACCN%5D%20OR%20\"MN624690\"%5BACCN%5D%20OR%20\"MN624691\"%5BACCN%5D%20OR%20\"MN624692\"%5BACCN%5D%20OR%20\"MN624693\"%5BACCN%5D%20OR%20\"MN624694\"%5BACCN%5D%20OR%20\"MN624695\"%5BACCN%5D%20OR%20\"MN624696\"%5BACCN%5D%20OR%20\"MN624697\"%5BACCN%5D%20OR%20\"MN624698\"%5BACCN%5D%20OR%20\"MN624699\"%5BACCN%5D%20OR%20\"MN624700\"%5BACCN%5D%20OR%20\"MN624701\"%5BACCN%5D%20OR%20\"MN624702\"%5BACCN%5D%20OR%20\"MN624703\"%5BACCN%5D%20OR%20\"MN624704\"%5BACCN%5D%20OR%20\"MN624705\"%5BACCN%5D%20OR%20\"MN624706\"%5BACCN%5D%20OR%20\"MN624707\"%5BACCN%5D%20OR%20\"MN624708\"%5BACCN%5D%20OR%20\"MN624709\"%5BACCN%5D%20OR%20\"MN624710\"%5BACCN%5D%20OR%20\"MN624711\"%5BACCN%5D%20OR%20\"MN624712\"%5BACCN%5D%20OR%20\"MN624713\"%5BACCN%5D%20OR%20\"MN624714\"%5BACCN%5D%20OR%20\"MN624715\"%5BACCN%5D%20OR%20\"MN624716\"%5BACCN%5D%20OR%20\"MN624717\"%5BACCN%5D%20OR%20\"MN624718\"%5BACCN%5D%20OR%20\"MN624719\"%5BACCN%5D%20OR%20\"MN624720\"%5BACCN%5D%20OR%20\"MN624721\"%5BACCN%5D%20OR%20\"MN624722\"%5BACCN%5D%20OR%20\"MN624723\"%5BACCN%5D%20OR%20\"MN624724\"%5BACCN%5D%20OR%20\"MN624725\"%5BACCN%5D%20OR%20\"MN624726\"%5BACCN%5D%20OR%20\"MN624727\"%5BACCN%5D%20OR%20\"MN624728\"%5BACCN%5D%20OR%20\"MN624729\"%5BACCN%5D%20OR%20\"MN624730\"%5BACCN%5D%20OR%20\"MN624731\"%5BACCN%5D%20OR%20\"MN624732\"%5BACCN%5D%20OR%20\"MN624733\"%5BACCN%5D%20OR%20\"MN624734\"%5BACCN%5D%20OR%20\"MN624735\"%5BACCN%5D%20OR%20\"MN624736\"%5BACCN%5D%20OR%20\"MN624737\"%5BACCN%5D%20OR%20\"MN624738\"%5BACCN%5D%20OR%20\"MN624739\"%5BACCN%5D%20OR%20\"MN624740\"%5BACCN%5D%20OR%20\"MN624741\"%5BACCN%5D%20OR%20\"MN624742\"%5BACCN%5D%20OR%20\"MN624743\"%5BACCN%5D%20OR%20\"MN624744\"%5BACCN%5D%20OR%20\"MN624745\"%5BACCN%5D%20OR%20\"MN624746\"%5BACCN%5D%20OR%20\"MN624747\"%5BACCN%5D%20OR%20\"MN624748\"%5BACCN%5D%20OR%20\"MN624749\"%5BACCN%5D%20OR%20\"MN624750\"%5BACCN%5D%20OR%20\"MN624751\"%5BACCN%5D%20OR%20\"MN624752\"%5BACCN%5D%20OR%20\"MN624753\"%5BACCN%5D%20OR%20\"MN624754\"%5BACCN%5D%20OR%20\"MN624755\"%5BACCN%5D%20OR%20\"MN624756\"%5BACCN%5D%20OR%20\"MN624757\"%5BACCN%5D%20OR%20\"MN624758\"%5BACCN%5D%20OR%20\"MN624759\"%5BACCN%5D%20OR%20\"MN624760\"%5BACCN%5D%20OR%20\"MN624761\"%5BACCN%5D%20OR%20\"MN624762\"%5BACCN%5D%20OR%20\"MN624763\"%5BACCN%5D%20OR%20\"MN624764\"%5BACCN%5D%20OR%20\"MN624765\"%5BACCN%5D%20OR%20\"MN624766\"%5BACCN%5D%20OR%20\"MN624767\"%5BACCN%5D%20OR%20\"MN624768\"%5BACCN%5D%20OR%20\"MN624769\"%5BACCN%5D%20OR%20\"MN624770\"%5BACCN%5D%20OR%20\"MN624771\"%5BACCN%5D%20OR%20\"MN624772\"%5BACCN%5D%20OR%20\"MN624773\"%5BACCN%5D%20OR%20\"MN624774\"%5BACCN%5D%20OR%20\"MN624775\"%5BACCN%5D%20OR%20\"MN624776\"%5BACCN%5D%20OR%20\"MN624777\"%5BACCN%5D%20OR%20\"MN624778\"%5BACCN%5D%20OR%20\"MN624779\"%5BACCN%5D%20OR%20\"MN624780\"%5BACCN%5D%20OR%20\"MN624781\"%5BACCN%5D%20OR%20\"MN624782\"%5BACCN%5D%20OR%20\"MN624783\"%5BACCN%5D%20OR%20\"MN624784\"%5BACCN%5D%20OR%20\"MN624785\"%5BACCN%5D%20OR%20\"MN624786\"%5BACCN%5D%20OR%20\"MN624787\"%5BACCN%5D%20OR%20\"MN624788\"%5BACCN%5D%20OR%20\"MN624789\"%5BACCN%5D%20OR%20\"MN624790\"%5BACCN%5D%20OR%20\"MN624791\"%5BACCN%5D%20OR%20\"MN624792\"%5BACCN%5D%20OR%20\"MN624793\"%5BACCN%5D%20OR%20\"MN624794\"%5BACCN%5D%20OR%20\"MN624795\"%5BACCN%5D%20OR%20\"MN624796\"%5BACCN%5D%20OR%20\"MN624797\"%5BACCN%5D%20OR%20\"MN624798\"%5BACCN%5D%20OR%20\"MN624799\"%5BACCN%5D%20OR%20\"MN624800\"%5BACCN%5D%20OR%20\"MN624801\"%5BACCN%5D%20OR%20\"MN624802\"%5BACCN%5D%20OR%20\"MN624803\"%5BACCN%5D%20OR%20\"MN624804\"%5BACCN%5D%20OR%20\"MN624805\"%5BACCN%5D%20OR%20\"MN624806\"%5BACCN%5D%20OR%20\"MN624807\"%5BACCN%5D%20OR%20\"MN624808\"%5BACCN%5D%20OR%20\"MN624809\"%5BACCN%5D%20OR%20\"MN624810\"%5BACCN%5D%20OR%20\"MN624811\"%5BACCN%5D%20OR%20\"MN624812\"%5BACCN%5D%20OR%20\"MN624813\"%5BACCN%5D%20OR%20\"MN624814\"%5BACCN%5D%20OR%20\"MN624815\"%5BACCN%5D%20OR%20\"MN624816\"%5BACCN%5D%20OR%20\"MN624817\"%5BACCN%5D%20OR%20\"MN624818\"%5BACCN%5D%20OR%20\"MN624819\"%5BACCN%5D%20OR%20\"MN624820\"%5BACCN%5D%20OR%20\"MN624821\"%5BACCN%5D%20OR%20\"MN624822\"%5BACCN%5D%20OR%20\"MN624823\"%5BACCN%5D%20OR%20\"MN624824\"%5BACCN%5D%20OR%20\"MN624825\"%5BACCN%5D%20OR%20\"MN624826\"%5BACCN%5D%20OR%20\"MN624827\"%5BACCN%5D%20OR%20\"MN624828\"%5BACCN%5D%20OR%20\"MN624829\"%5BACCN%5D%20OR%20\"MN624830\"%5BACCN%5D%20OR%20\"MN624831\"%5BACCN%5D%20OR%20\"MN624832\"%5BACCN%5D%20OR%20\"MN624833\"%5BACCN%5D%20OR%20\"MN624834\"%5BACCN%5D%20OR%20\"MN624835\"%5BACCN%5D%20OR%20\"MN624836\"%5BACCN%5D%20OR%20\"MN624837\"%5BACCN%5D%20OR%20\"MN624838\"%5BACCN%5D%20OR%20\"MN624839\"%5BACCN%5D%20OR%20\"MN624840\"%5BACCN%5D%20OR%20\"MN624841\"%5BACCN%5D%20OR%20\"MN624842\"%5BACCN%5D%20OR%20\"MN624843\"%5BACCN%5D%20OR%20\"MN624844\"%5BACCN%5D%20OR%20\"MN624845\"%5BACCN%5D%20OR%20\"MN624846\"%5BACCN%5D%20OR%20\"MN624847\"%5BACCN%5D%20OR%20\"MN624848\"%5BACCN%5D%20OR%20\"MN624849\"%5BACCN%5D%20OR%20\"MN624850\"%5BACCN%5D%20OR%20\"MN624851\"%5BACCN%5D%20OR%20\"MN624852\"%5BACCN%5D%20OR%20\"MN624853\"%5BACCN%5D%20OR%20\"MN624854\"%5BACCN%5D%20OR%20\"MN624855\"%5BACCN%5D%20OR%20\"MN624856\"%5BACCN%5D%20OR%20\"MN624857\"%5BACCN%5D%20OR%20\"MN624858\"%5BACCN%5D%20OR%20\"MN624859\"%5BACCN%5D%20OR%20\"MN624860\"%5BACCN%5D%20OR%20\"MN624861\"%5BACCN%5D%20OR%20\"MN624862\"%5BACCN%5D%20OR%20\"MN624863\"%5BACCN%5D%20OR%20\"MN624864\"%5BACCN%5D%20OR%20\"MN624865\"%5BACCN%5D%20OR%20\"MN624866\"%5BACCN%5D%20OR%20\"MN624867\"%5BACCN%5D%20OR%20\"MN624868\"%5BACCN%5D%20OR%20\"MN624869\"%5BACCN%5D%20OR%20\"MN624870\"%5BACCN%5D%20OR%20\"MN624871\"%5BACCN%5D%20OR%20\"MN624872\"%5BACCN%5D%20OR%20\"MN624873\"%5BACCN%5D%20OR%20\"MN624874\"%5BACCN%5D%20OR%20\"MN624875\"%5BACCN%5D%20OR%20\"MN624876\"%5BACCN%5D%20OR%20\"MN624877\"%5BACCN%5D%20OR%20\"MN624878\"%5BACCN%5D%20OR%20\"MN624879\"%5BACCN%5D%20OR%20\"MN624880\"%5BACCN%5D%20OR%20\"MN624881\"%5BACCN%5D%20OR%20\"MN624882\"%5BACCN%5D%20OR%20\"MN624883\"%5BACCN%5D%20OR%20\"MN624884\"%5BACCN%5D%20OR%20\"MN624885\"%5BACCN%5D%20OR%20\"MN624886\"%5BACCN%5D%20OR%20\"MN624887\"%5BACCN%5D%20OR%20\"MN624888\"%5BACCN%5D%20OR%20\"MN624889\"%5BACCN%5D%20OR%20\"MN624890\"%5BACCN%5D%20OR%20\"MN624891\"%5BACCN%5D%20OR%20\"MN624892\"%5BACCN%5D%20OR%20\"MN624893\"%5BACCN%5D%20OR%20\"MN624894\"%5BACCN%5D%20OR%20\"MN624895\"%5BACCN%5D%20OR%20\"MN624896\"%5BACCN%5D%20OR%20\"MN624897\"%5BACCN%5D%20OR%20\"MN624898\"%5BACCN%5D%20OR%20\"MN624899\"%5BACCN%5D%20OR%20\"MN624900\"%5BACCN%5D%20OR%20\"MN624901\"%5BACCN%5D%20OR%20\"MN624902\"%5BACCN%5D%20OR%20\"MN624903\"%5BACCN%5D%20OR%20\"MN624904\"%5BACCN%5D%20OR%20\"MN624905\"%5BACCN%5D%20OR%20\"MN624906\"%5BACCN%5D%20OR%20\"MN624907\"%5BACCN%5D%20OR%20\"MN624908\"%5BACCN%5D%20OR%20\"MN624909\"%5BACCN%5D%20OR%20\"MN624910\"%5BACCN%5D%20OR%20\"MN624911\"%5BACCN%5D%20OR%20\"MN624912\"%5BACCN%5D%20OR%20\"MN624913\"%5BACCN%5D%20OR%20\"MN624914\"%5BACCN%5D%20OR%20\"MN624915\"%5BACCN%5D%20OR%20\"MN624916\"%5BACCN%5D%20OR%20\"MN624917\"%5BACCN%5D%20OR%20\"MN624918\"%5BACCN%5D%20OR%20\"MN624919\"%5BACCN%5D%20OR%20\"MN624920\"%5BACCN%5D%20OR%20\"MN624921\"%5BACCN%5D%20OR%20\"MN624922\"%5BACCN%5D%20OR%20\"MN624923\"%5BACCN%5D%20OR%20\"MN624924\"%5BACCN%5D%20OR%20\"MN624925\"%5BACCN%5D%20OR%20\"MN624926\"%5BACCN%5D%20OR%20\"MN624927\"%5BACCN%5D%20OR%20\"MN624928\"%5BACCN%5D%20OR%20\"MN624929\"%5BACCN%5D%20OR%20\"MN624930\"%5BACCN%5D%20OR%20\"MN624931\"%5BACCN%5D%20OR%20\"MN624932\"%5BACCN%5D%20OR%20\"MN624933\"%5BACCN%5D%20OR%20\"MN624934\"%5BACCN%5D%20OR%20\"MN624935\"%5BACCN%5D%20OR%20\"MN624936\"%5BACCN%5D%20OR%20\"MN624937\"%5BACCN%5D%20OR%20\"MN624938\"%5BACCN%5D%20OR%20\"MN624939\"%5BACCN%5D%20OR%20\"MN624940\"%5BACCN%5D%20OR%20\"MN624941\"%5BACCN%5D%20OR%20\"MN624942\"%5BACCN%5D%20OR%20\"MN624943\"%5BACCN%5D%20OR%20\"MN624944\"%5BACCN%5D%20OR%20\"MN624945\"%5BACCN%5D%20OR%20\"MN624946\"%5BACCN%5D%20OR%20\"MN624947\"%5BACCN%5D%20OR%20\"MN624948\"%5BACCN%5D%20OR%20\"MN624949\"%5BACCN%5D%20OR%20\"MN624950\"%5BACCN%5D%20OR%20\"MN624951\"%5BACCN%5D%20OR%20\"MN624952\"%5BACCN%5D%20OR%20\"MN624953\"%5BACCN%5D%20OR%20\"MN624954\"%5BACCN%5D%20OR%20\"MN624955\"%5BACCN%5D%20OR%20\"MN624956\"%5BACCN%5D%20OR%20\"MN624957\"%5BACCN%5D%20OR%20\"MN624958\"%5BACCN%5D%20OR%20\"MN624959\"%5BACCN%5D%20OR%20\"MN624960\"%5BACCN%5D)",
+        "PubID": 168,
+        "Publication": "Volynkina (2022, 35551538). Molecular epidemiology of Crimean-Congo hemorrhagic fever virus in Russia.; Volynkina A; Lisitskaya Y; Kolosov A; Shaposhnikova L; Pisarenko S; Dedkov V; Dolgova A; Platonov A; Kulichenko A; PLoS One",
+        "ShortName": "Volynkina (2022, 35551538)"
+    },
+    {
         "RefID": 158,
         "SubmissionSet": "Allen (2021). Phylogenetic characterisation of crimean-congo hemorrhagic fever virus detected in african blue ticks feeding on cattle in a ugandan abattoir; Allen D., Frost S., Hewson R., Stubbs S., Waiswa P., Wampande E.;  Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, Keppel Street, London WC1E 7HT, UK, Preprints (Basel) (2021) In press; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW452933\"%5BACCN%5D%20OR%20\"MW452934\"%5BACCN%5D%20OR%20\"MW452935\"%5BACCN%5D)",
         "PubID": 153,
@@ -973,6 +1155,13 @@
         "ShortName": "Aradaib (2011, 21655310)"
     },
     {
+        "RefID": 166,
+        "SubmissionSet": "Abdulall (2021). Direct Submission; Abdulall A., Bendary H., Rasslan F., Zaki A.;  Microbiology and Immunology, Faculty of Pharmacy (Girls), Al-Azhar University, Dr Abd El-Shennawy, Nasr City, Cairo 11765, Egypt,  Microbiology and Immunology, Faculty of Pharmacy (Girls), Al-Azhar University, Dr Abd El-Shennawy, Nasr city, Cairo 11765, Egypt; [S (8)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW424419\"%5BACCN%5D%20OR%20\"MW467897\"%5BACCN%5D%20OR%20\"MW467898\"%5BACCN%5D%20OR%20\"MZ322095\"%5BACCN%5D%20OR%20\"MZ326698\"%5BACCN%5D%20OR%20\"MZ330127\"%5BACCN%5D%20OR%20\"MZ342904\"%5BACCN%5D%20OR%20\"MZ361738\"%5BACCN%5D)",
+        "PubID": 167,
+        "Publication": "Bendary (2022, 35531170). Crimean-Congo hemorrhagic fever virus in ticks collected from imported camels in Egypt.; Bendary HA; Rasslan F; Wainwright M; Alfarraj S; Zaki AM; Abdulall AK; Saudi J Biol Sci",
+        "ShortName": "Bendary (2022, 35531170)"
+    },
+    {
         "RefID": 167,
         "SubmissionSet": "Belqeiszadeh (2016, 27491289). Phylogeny of tick-derived crimean-congo hemorrhagic fever virus strains in iran; Belqeiszadeh H., Biglari P., Chinikar S., Fooks A., Ghaffari M., Javaherizadeh S., Mostafavi E., Nowotny N., Shahhosseini N., Telmadarraiy Z.;  Bernhard Nocht Institute for Tropical Medicine, Germany,  Pasteur Institute of Iran, Iran, Ticks Tick Borne Dis (2016) In press; [S (11)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KT931948\"%5BACCN%5D%20OR%20\"KT931949\"%5BACCN%5D%20OR%20\"KT931950\"%5BACCN%5D%20OR%20\"KT931951\"%5BACCN%5D%20OR%20\"KT931952\"%5BACCN%5D%20OR%20\"KT931953\"%5BACCN%5D%20OR%20\"KT931954\"%5BACCN%5D%20OR%20\"KT931955\"%5BACCN%5D%20OR%20\"KT931956\"%5BACCN%5D%20OR%20\"KT931957\"%5BACCN%5D%20OR%20\"KT931958\"%5BACCN%5D)",
         "PubID": 101,
@@ -1029,6 +1218,13 @@
         "ShortName": "Zhang (2018, 29520745)"
     },
     {
+        "RefID": 173,
+        "SubmissionSet": "Dai (2008). Direct Submission; Dai X., Feng C., Hang C., Meng W., Sun S., Wang X., Zhang Y.;  The Center for Disease Control and Prevention of Xinjiang Uygur Autonomous Region, Xinjiang Key Lab of Biological Resources and Genetic Engineering, College of Life Science and Technology, Xinjiang University, Urumuqi 830046, P.R. China; [S (26)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EU715257\"%5BACCN%5D%20OR%20\"EU715258\"%5BACCN%5D%20OR%20\"EU715259\"%5BACCN%5D%20OR%20\"EU715260\"%5BACCN%5D%20OR%20\"EU715261\"%5BACCN%5D%20OR%20\"EU715262\"%5BACCN%5D%20OR%20\"EU715263\"%5BACCN%5D%20OR%20\"EU715264\"%5BACCN%5D%20OR%20\"EU715265\"%5BACCN%5D%20OR%20\"EU715266\"%5BACCN%5D%20OR%20\"EU715267\"%5BACCN%5D%20OR%20\"EU715269\"%5BACCN%5D%20OR%20\"EU715270\"%5BACCN%5D%20OR%20\"EU715271\"%5BACCN%5D%20OR%20\"EU715272\"%5BACCN%5D%20OR%20\"EU715273\"%5BACCN%5D%20OR%20\"EU715274\"%5BACCN%5D%20OR%20\"EU715275\"%5BACCN%5D%20OR%20\"EU715276\"%5BACCN%5D%20OR%20\"EU715277\"%5BACCN%5D%20OR%20\"EU715279\"%5BACCN%5D%20OR%20\"EU715280\"%5BACCN%5D%20OR%20\"EU715281\"%5BACCN%5D%20OR%20\"EU715282\"%5BACCN%5D%20OR%20\"EU715284\"%5BACCN%5D%20OR%20\"EU715286\"%5BACCN%5D)",
+        "PubID": 42,
+        "Publication": "Sun (2009, 19553586). Epidemiology and phylogenetic analysis of crimean-congo hemorrhagic fever viruses in xinjiang, china.; Sun S; Dai X; Aishan M; Wang X; Meng W; Feng C; Zhang F; Hang C; Hu Z; Zhang Y; J Clin Microbiol",
+        "ShortName": "Sun (2009, 19553586)"
+    },
+    {
         "RefID": 175,
         "SubmissionSet": "Czub (2004, 15033561). Sequence determination of the crimean-congo hemorrhagic fever virus l segment; Czub M., Feldmann H., Flick R., Grolla A., Kinsella E., Martin S.;  Special Pathogens, Canadian Science Center for Human and Animal Health, 1015 Arlington Street, Winnipeg, MB R3E 3R2, Canada, Virology 321 (1), 23-28 (2004); [L (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY389361\"%5BACCN%5D%20OR%20\"NC_005301\"%5BACCN%5D)",
         "PubID": 15,
@@ -1083,6 +1279,20 @@
         "PubID": 33,
         "Publication": "Meissner (2006, 16791423). The complete genomic sequence of strain ROS/HUVLV-100, a representative Russian Crimean Congo hemorrhagic fever virus strain.; Meissner JD; Seregin SS; Seregin SV; Vyshemirskii OI; Yakimenko NV; Netesov SV; Petrov VS; Virus Genes",
         "ShortName": "Meissner (2006, 16791423)"
+    },
+    {
+        "RefID": 180,
+        "SubmissionSet": "Aktas (2007). Direct Submission; Aktas M., Altas K., Ergin S., Gargili A., Midilli K., Ozturk R., Sengoz G., Vatansever Z., Yilmaz G.;  Microbiology and Clinical Microbiology, Cerrahpasa Medical Faculty of Istanbul University, Temel Bilimler Binasi, Fatih - Istanbul 34303, Turkey,  Microbiology and Clinical Microbiology, Cerrahpasa Medical Fakulty of Istanbul University, Temel Bilimler Binasi, Fatih - Istanbul 34303, Turkey; [S (7)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"DQ983741\"%5BACCN%5D%20OR%20\"DQ983742\"%5BACCN%5D%20OR%20\"DQ983743\"%5BACCN%5D%20OR%20\"DQ983744\"%5BACCN%5D%20OR%20\"DQ983745\"%5BACCN%5D%20OR%20\"DQ983785\"%5BACCN%5D%20OR%20\"EU057975\"%5BACCN%5D)",
+        "PubID": 40,
+        "Publication": "Midilli (2009, 19515251). The first clinical case due to AP92 like strain of Crimean-Congo Hemorrhagic Fever virus and a field survey.; Midilli K; Gargili A; Ergonul O; Elevli M; Ergin S; Turan N; Seng\u00f6z G; Ozturk R; Bakar M; BMC Infect Dis",
+        "ShortName": "Midilli (2009, 19515251)"
+    },
+    {
+        "RefID": 180,
+        "SubmissionSet": "Aktas (2007). Direct Submission; Aktas M., Altas K., Ergin S., Gargili A., Midilli K., Ozturk R., Sengoz G., Vatansever Z., Yilmaz G.;  Microbiology and Clinical Microbiology, Cerrahpasa Medical Faculty of Istanbul University, Temel Bilimler Binasi, Fatih - Istanbul 34303, Turkey,  Microbiology and Clinical Microbiology, Cerrahpasa Medical Fakulty of Istanbul University, Temel Bilimler Binasi, Fatih - Istanbul 34303, Turkey; [S (7)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"DQ983741\"%5BACCN%5D%20OR%20\"DQ983742\"%5BACCN%5D%20OR%20\"DQ983743\"%5BACCN%5D%20OR%20\"DQ983744\"%5BACCN%5D%20OR%20\"DQ983745\"%5BACCN%5D%20OR%20\"DQ983785\"%5BACCN%5D%20OR%20\"EU057975\"%5BACCN%5D)",
+        "PubID": 45,
+        "Publication": "Elevli (2010, 20005760). A newly identified Crimean-Congo hemorrhagic fever virus strain in Turkey.; Elevli M; Ozkul AA; Civilibal M; Midilli K; Gargili A; Duru NS; Int J Infect Dis",
+        "ShortName": "Elevli (2010, 20005760)"
     },
     {
         "RefID": 181,
@@ -1300,6 +1510,13 @@
         "PubID": 24,
         "Publication": "Seregin (2004, 15584517). Study of the genetic variability of Crimean-Congo hemorrhagic fever virus in Central Asia.; Seregin SV; Tumanova IY; Vyshemirski OI; Petrova ID; Lvov DK; Gromashevski VL; Samokhvalov EI; Tiunnikov GI; Gutorov VV; Tishkova FH; Daniyarov OA; Netesov SV; Petrov VS; Dokl Biochem Biophys",
         "ShortName": "Seregin (2004, 15584517)"
+    },
+    {
+        "RefID": 208,
+        "SubmissionSet": "Ali (2023). Direct Submission; Ali Q., Ammar M., Ansari S., Haider S., Hakim R., Ikram A., Jamal Z., Rehman Z., Salman M., Umair M.;  Department of Virology, National Institute of Health, Park Road, Chak Shahzad, Islamabad, Islamabad 44000, Pakistan; [L (18), M (17), S (24)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MZ287856\"%5BACCN%5D%20OR%20\"MZ287857\"%5BACCN%5D%20OR%20\"MZ287858\"%5BACCN%5D%20OR%20\"MZ287859\"%5BACCN%5D%20OR%20\"MZ287860\"%5BACCN%5D%20OR%20\"MZ287861\"%5BACCN%5D%20OR%20\"OP345188\"%5BACCN%5D%20OR%20\"OP345189\"%5BACCN%5D%20OR%20\"OP345190\"%5BACCN%5D%20OR%20\"OP345191\"%5BACCN%5D%20OR%20\"OP345192\"%5BACCN%5D%20OR%20\"OP345193\"%5BACCN%5D%20OR%20\"OP345194\"%5BACCN%5D%20OR%20\"OP345195\"%5BACCN%5D%20OR%20\"OP345196\"%5BACCN%5D%20OR%20\"OR964910\"%5BACCN%5D%20OR%20\"OR964911\"%5BACCN%5D%20OR%20\"OR964912\"%5BACCN%5D%20OR%20\"OR964913\"%5BACCN%5D%20OR%20\"OR964914\"%5BACCN%5D%20OR%20\"OR964915\"%5BACCN%5D%20OR%20\"OR964916\"%5BACCN%5D%20OR%20\"OR964917\"%5BACCN%5D%20OR%20\"OR964918\"%5BACCN%5D%20OR%20\"OR964919\"%5BACCN%5D%20OR%20\"OR964920\"%5BACCN%5D%20OR%20\"OR964921\"%5BACCN%5D%20OR%20\"OR964922\"%5BACCN%5D%20OR%20\"OR964923\"%5BACCN%5D%20OR%20\"OR964924\"%5BACCN%5D%20OR%20\"OR964925\"%5BACCN%5D%20OR%20\"OR964926\"%5BACCN%5D%20OR%20\"OR964927\"%5BACCN%5D%20OR%20\"OR964928\"%5BACCN%5D%20OR%20\"OR964929\"%5BACCN%5D%20OR%20\"OR964930\"%5BACCN%5D%20OR%20\"OR964931\"%5BACCN%5D%20OR%20\"OR964932\"%5BACCN%5D%20OR%20\"OR964933\"%5BACCN%5D%20OR%20\"OR964934\"%5BACCN%5D%20OR%20\"OR964935\"%5BACCN%5D%20OR%20\"OR964936\"%5BACCN%5D%20OR%20\"OR964937\"%5BACCN%5D%20OR%20\"OR964938\"%5BACCN%5D%20OR%20\"OR964939\"%5BACCN%5D%20OR%20\"OR964940\"%5BACCN%5D%20OR%20\"OR964941\"%5BACCN%5D%20OR%20\"OR964942\"%5BACCN%5D%20OR%20\"PQ523720\"%5BACCN%5D%20OR%20\"PQ523721\"%5BACCN%5D%20OR%20\"PQ523722\"%5BACCN%5D%20OR%20\"PQ523723\"%5BACCN%5D%20OR%20\"PQ523724\"%5BACCN%5D%20OR%20\"PQ523725\"%5BACCN%5D%20OR%20\"PQ523726\"%5BACCN%5D%20OR%20\"PQ523727\"%5BACCN%5D%20OR%20\"PQ523728\"%5BACCN%5D%20OR%20\"PQ523729\"%5BACCN%5D%20OR%20\"PQ523730\"%5BACCN%5D)",
+        "PubID": 177,
+        "Publication": "Umair (2023, 36815488). Whole-genome sequencing of Crimean-Congo hemorrhagic fever virus circulating in Pakistan during 2022.; Umair M; Rehman Z; Haider SA; Ali Q; Hakim R; Bibi S; Salman M; Ikram A; J Med Virol",
+        "ShortName": "Umair (2023, 36815488)"
     },
     {
         "RefID": 209,

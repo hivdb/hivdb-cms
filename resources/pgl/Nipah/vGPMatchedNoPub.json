@@ -1,10 +1,38 @@
 [
     {
+        "RefID": 10,
+        "SubmissionSet": "NCBI (2004). Direct Submission; NCBI;  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA; [F (1), G (1), L (1), M (1), N (1), P (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "NCBI (2004)"
+    },
+    {
+        "RefID": 11,
+        "SubmissionSet": "NCBI (2020). Direct Submission; NCBI;  One Health Institute & Karen C Drayer Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, 1089 Veterinary Medicine Drive, Davis, CA 95616, USA; [N (6)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MT125112\"%5BACCN%5D%20OR%20\"MT125113\"%5BACCN%5D%20OR%20\"MT125114\"%5BACCN%5D%20OR%20\"MT125115\"%5BACCN%5D%20OR%20\"MT125116\"%5BACCN%5D%20OR%20\"MT125117\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "NCBI (2020)"
+    },
+    {
+        "RefID": 13,
+        "SubmissionSet": "Peng (2024). Direct Submission; Peng L., Hirsch S., Kocher G., Mehta M., Holbrook M.;  IRF, NIH/NIAID, 8200 Research Plaza, Frederick, MD 21702, USA; [F (1), G (1), L (1), M (1), N (1), P (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PQ463988\"%5BACCN%5D%20OR%20\"PQ463988\"%5BACCN%5D%20OR%20\"PQ463988\"%5BACCN%5D%20OR%20\"PQ463988\"%5BACCN%5D%20OR%20\"PQ463988\"%5BACCN%5D%20OR%20\"PQ463988\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Peng (2024)"
+    },
+    {
         "RefID": 25,
         "SubmissionSet": "Buchy (2014). Detection of different strains of nipah virus through ecologically targeted surveillance of pteropid bats, cambodia; Buchy P., Cappelle J., Duong V., Hul V.;  Virology, Institut Pasteur in Cambodia, 5, Monivong Blvd, Phnom Penh 12201, Cambodia, Unpublished; [N (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KM034753\"%5BACCN%5D%20OR%20\"KM034754\"%5BACCN%5D%20OR%20\"KM034755\"%5BACCN%5D)",
         "PubID": "",
         "Publication": "",
         "ShortName": "Buchy (2014)"
+    },
+    {
+        "RefID": 31,
+        "SubmissionSet": "Barnes (2017). Direct Submission; Barnes K., Hensley L., Honko A., Jahrling P., Johnson J., Olinger G., Sabeti P., Sword J., Wohl S.;  Integrated Research Facility - Frederick, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 8200 Research Plaza, Fort Detrick, MD 21702, USA; [F (2), G (2), L (2), M (2), N (2), P (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KY425646\"%5BACCN%5D%20OR%20\"KY425646\"%5BACCN%5D%20OR%20\"KY425646\"%5BACCN%5D%20OR%20\"KY425646\"%5BACCN%5D%20OR%20\"KY425646\"%5BACCN%5D%20OR%20\"KY425646\"%5BACCN%5D%20OR%20\"KY425655\"%5BACCN%5D%20OR%20\"KY425655\"%5BACCN%5D%20OR%20\"KY425655\"%5BACCN%5D%20OR%20\"KY425655\"%5BACCN%5D%20OR%20\"KY425655\"%5BACCN%5D%20OR%20\"KY425655\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Barnes (2017)"
     },
     {
         "RefID": 47,

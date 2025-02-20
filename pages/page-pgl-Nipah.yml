@@ -1,10 +1,10 @@
 ---
-pageTitle: Nipah database summary
+pageTitle: Nipah
 introHeader: |-
-  # Nipah database summary
+  # Nipah
 content:
   _resource: pubmed-genbank-tables-Nipah.md
-toc: true
+toc: false
 tables:
   matched:
     columnDefs:

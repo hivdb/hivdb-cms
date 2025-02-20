@@ -1,10 +1,24 @@
 [
     {
+        "RefID": 1,
+        "SubmissionSet": "Arankalle (2008). Direct Submission; Arankalle V.;  Hepatitis, National Institute of Virology, 20-A, Dr. Ambedkar Road, Pune, Maharashtra 411001, India; [F (1), G (1), L (1), M (1), N (4), P (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513079\"%5BACCN%5D%20OR%20\"FJ513080\"%5BACCN%5D%20OR%20\"FJ513081\"%5BACCN%5D)",
+        "PubID": 19,
+        "Publication": "Arankalle (2011, 21529409). Genomic characterization of Nipah virus, West Bengal, India.; Arankalle VA; Bandyopadhyay BT; Ramdasi AY; Jadi R; Patil DR; Rahman M; Majumdar M; Banerjee PS; Hati AK; Goswami RP; Neogi DK; Mishra AC; Emerg Infect Dis",
+        "ShortName": "Arankalle (2011, 21529409)"
+    },
+    {
         "RefID": 2,
         "SubmissionSet": "Arankalle (2011, 21529409). Genomic characterization of Nipah virus, West Bengal, India; Arankalle V., Bandyopadhyay B., Ramdasi A., Jadi R., Patil D., Rahman M., Majumdar M., Banerjee P., Hati A., Goswami R., Neogi D., Mishra A.; Emerging Infect. Dis. 17 (5), 907-909 (2011); [F (1), G (1), L (1), M (1), N (4), P (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513078\"%5BACCN%5D%20OR%20\"FJ513079\"%5BACCN%5D%20OR%20\"FJ513080\"%5BACCN%5D%20OR%20\"FJ513081\"%5BACCN%5D)",
         "PubID": 19,
         "Publication": "Arankalle (2011, 21529409). Genomic characterization of Nipah virus, West Bengal, India.; Arankalle VA; Bandyopadhyay BT; Ramdasi AY; Jadi R; Patil DR; Rahman M; Majumdar M; Banerjee PS; Hati AK; Goswami RP; Neogi DK; Mishra AC; Emerg Infect Dis",
         "ShortName": "Arankalle (2011, 21529409)"
+    },
+    {
+        "RefID": 4,
+        "SubmissionSet": "Epstein (2019). Direct Submission; Epstein J., Anthony S., Islam A., Kilpatrick A., Khan S., Sanchez M., Ross N., Smith I., Zambrana-torrelio C., Tao Y., Islam A., Quan P., Olival K., Khan M., Gurley E., Hossein M., Field H., Fielder M., Briese T., Rahman M., Broder C., Crameri G., Wang L., Luby S., Lipkin W., Daszak P.;  EcoHealth Alliance, 460 West 34th street, New York, NY 10001, USA; [N (19)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MK995284\"%5BACCN%5D%20OR%20\"MK995285\"%5BACCN%5D%20OR%20\"MK995286\"%5BACCN%5D%20OR%20\"MK995287\"%5BACCN%5D%20OR%20\"MK995288\"%5BACCN%5D%20OR%20\"MK995289\"%5BACCN%5D%20OR%20\"MK995290\"%5BACCN%5D%20OR%20\"MK995291\"%5BACCN%5D%20OR%20\"MK995292\"%5BACCN%5D%20OR%20\"MK995293\"%5BACCN%5D%20OR%20\"MK995294\"%5BACCN%5D%20OR%20\"MK995295\"%5BACCN%5D%20OR%20\"MK995296\"%5BACCN%5D%20OR%20\"MK995297\"%5BACCN%5D%20OR%20\"MK995298\"%5BACCN%5D%20OR%20\"MK995299\"%5BACCN%5D%20OR%20\"MK995300\"%5BACCN%5D%20OR%20\"MK995301\"%5BACCN%5D%20OR%20\"MK995302\"%5BACCN%5D)",
+        "PubID": 8,
+        "Publication": "Epstein (2020, 33139552). Nipah virus dynamics in bats and implications for spillover to humans.; Epstein JH; Anthony SJ; Islam A; Kilpatrick AM; Ali Khan S; Balkey MD; Ross N; Smith I; Zambrana-Torrelio C; Tao Y; Quan PL; Olival KJ; Khan MSU; Gurley ES; Hossein MJ; Field HE; Fielder MD; Briese T; Rahman M; Broder CC; Crameri G; Wang LF; Luby SP; Lipkin WI; Daszak P; Proc Natl Acad Sci U S A",
+        "ShortName": "Epstein (2020, 33139552)"
     },
     {
         "RefID": 7,

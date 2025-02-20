@@ -1,5 +1,19 @@
 [
     {
+        "RefID": 2,
+        "SubmissionSet": "Bayrakdar (2015). Direct Submission; Bayrakdar F., Yagci caglayik D.;  Virology, Public Health Institution of Turkey, Saglik Mahallesi Prof. Dr. Nusret Fisek Cad, Ankara, Sihhiye 06100, Turkey; [M (17)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KT266832\"%5BACCN%5D%20OR%20\"KT266833\"%5BACCN%5D%20OR%20\"KT266834\"%5BACCN%5D%20OR%20\"KT266835\"%5BACCN%5D%20OR%20\"KT266836\"%5BACCN%5D%20OR%20\"KT266837\"%5BACCN%5D%20OR%20\"KT266838\"%5BACCN%5D%20OR%20\"KT266839\"%5BACCN%5D%20OR%20\"KT266840\"%5BACCN%5D%20OR%20\"KT266841\"%5BACCN%5D%20OR%20\"KT266842\"%5BACCN%5D%20OR%20\"KT266843\"%5BACCN%5D%20OR%20\"KT266844\"%5BACCN%5D%20OR%20\"KT266845\"%5BACCN%5D%20OR%20\"KT266846\"%5BACCN%5D%20OR%20\"KT266847\"%5BACCN%5D%20OR%20\"KT266848\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Bayrakdar (2015)"
+    },
+    {
+        "RefID": 3,
+        "SubmissionSet": "Baz-flores (2024). Direct Submission; Baz-flores S., Herrero G., Cuadrado-matias R., Moraga fernandez A., Peralbo-moreno A., Fernandez de mera I., Ruiz-fons F.;  Sanidad Animal, Instituto de Investigacion en Recursos Cinegeticos, Ronda de Toledo s/n, Ciudad Real, Ciudad Real 13003, Espana; [S (5)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PP449382\"%5BACCN%5D%20OR%20\"PP449383\"%5BACCN%5D%20OR%20\"PP449384\"%5BACCN%5D%20OR%20\"PP449385\"%5BACCN%5D%20OR%20\"PP449386\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Baz-flores (2024)"
+    },
+    {
         "RefID": 5,
         "SubmissionSet": "Christova (). A cluster of inter-human transmission of Crimean-Congo hemorrhagic fever in south-western Bulgaria; Christova I., Di caro A., Papa A., Rezza G., Carletti F., Ippolito G., Capobianchi M., Papadimitriou E., Mohareb E., Castilletti C.; Unpublished; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"FJ472634\"%5BACCN%5D)",
         "PubID": "",
@@ -7,11 +21,95 @@
         "ShortName": "Christova ()"
     },
     {
+        "RefID": 16,
+        "SubmissionSet": "Ji (2022). Direct Submission; Ji J., Zhou H., Cui M., Guo M., Ma Z., Li L., Hu T., Shi W.;  Key Laboratory of Etiology and Epidemiology of Emerging Infectious Diseases, Shandong First Medical University and Shandong Academy of Medical Sciences, Yingshengdonglu No. 2, Taian 271000, China; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"ON500500\"%5BACCN%5D%20OR%20\"ON500501\"%5BACCN%5D%20OR%20\"ON500502\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Ji (2022)"
+    },
+    {
+        "RefID": 18,
+        "SubmissionSet": "Karan (2024). Direct Submission; Karan L., Perekopskaya N., Morozkin E., Roev G.;  Department of Molecular Diagnostic and Epidemiology, Central Research Institute of Epidemiology, Novogireevskaya 3A, Moscow 111123, Russia; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PP116318\"%5BACCN%5D%20OR%20\"PP116319\"%5BACCN%5D%20OR%20\"PP116320\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Karan (2024)"
+    },
+    {
+        "RefID": 25,
+        "SubmissionSet": "NCBI (2003). Direct Submission; NCBI;  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA; [L (1), M (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"NC_005300\"%5BACCN%5D%20OR%20\"NC_005301\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "NCBI (2003)"
+    },
+    {
+        "RefID": 26,
+        "SubmissionSet": "NCBI (2004). Direct Submission; NCBI;  National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"NC_005302\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "NCBI (2004)"
+    },
+    {
+        "RefID": 33,
+        "SubmissionSet": "Peng (2024). Direct Submission; Peng L., Hirsch S., Kocher G., Mehta M., Holbrook M.;  IRF, NIH/NIAID, 8200 Research Plaza, Frederick, MD 21702, USA; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PQ463982\"%5BACCN%5D%20OR%20\"PQ463983\"%5BACCN%5D%20OR%20\"PQ463984\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Peng (2024)"
+    },
+    {
+        "RefID": 34,
+        "SubmissionSet": "Picard (2023). Direct Submission; Picard C., Baize S.;  Virology, Institut Pasteur, 21 Av Tony Garnier, Lyon 69365, France; [L (14), M (14), S (14)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PP067047\"%5BACCN%5D%20OR%20\"PP067048\"%5BACCN%5D%20OR%20\"PP067049\"%5BACCN%5D%20OR%20\"PP067050\"%5BACCN%5D%20OR%20\"PP067051\"%5BACCN%5D%20OR%20\"PP067052\"%5BACCN%5D%20OR%20\"PP067053\"%5BACCN%5D%20OR%20\"PP067054\"%5BACCN%5D%20OR%20\"PP067055\"%5BACCN%5D%20OR%20\"PP067056\"%5BACCN%5D%20OR%20\"PP067057\"%5BACCN%5D%20OR%20\"PP067058\"%5BACCN%5D%20OR%20\"PP067059\"%5BACCN%5D%20OR%20\"PP067060\"%5BACCN%5D%20OR%20\"PP067061\"%5BACCN%5D%20OR%20\"PP067062\"%5BACCN%5D%20OR%20\"PP067063\"%5BACCN%5D%20OR%20\"PP067064\"%5BACCN%5D%20OR%20\"PP067065\"%5BACCN%5D%20OR%20\"PP067066\"%5BACCN%5D%20OR%20\"PP067067\"%5BACCN%5D%20OR%20\"PP067068\"%5BACCN%5D%20OR%20\"PP067069\"%5BACCN%5D%20OR%20\"PP067070\"%5BACCN%5D%20OR%20\"PP067071\"%5BACCN%5D%20OR%20\"PP067072\"%5BACCN%5D%20OR%20\"PP067073\"%5BACCN%5D%20OR%20\"PP067074\"%5BACCN%5D%20OR%20\"PP067075\"%5BACCN%5D%20OR%20\"PP067076\"%5BACCN%5D%20OR%20\"PP067077\"%5BACCN%5D%20OR%20\"PP067078\"%5BACCN%5D%20OR%20\"PP067079\"%5BACCN%5D%20OR%20\"PP067080\"%5BACCN%5D%20OR%20\"PP067081\"%5BACCN%5D%20OR%20\"PP067082\"%5BACCN%5D%20OR%20\"PP067083\"%5BACCN%5D%20OR%20\"PP067084\"%5BACCN%5D%20OR%20\"PP067085\"%5BACCN%5D%20OR%20\"PP067086\"%5BACCN%5D%20OR%20\"PP067087\"%5BACCN%5D%20OR%20\"PP067088\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Picard (2023)"
+    },
+    {
+        "RefID": 35,
+        "SubmissionSet": "Piorkowski (2023). Direct Submission; Piorkowski G., Kiwan P., Masse S., Ayhan N., Charrel R., De lamballerie X., Falchi A.;  UMR190 Unite des Virus Emergents U1207, IHU mediterranee, 19-21 boulevard Jean Moulin, Marseille 13005, France; [L (1), M (1), S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PP025038\"%5BACCN%5D%20OR%20\"PP025039\"%5BACCN%5D%20OR%20\"PP025040\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Piorkowski (2023)"
+    },
+    {
+        "RefID": 36,
+        "SubmissionSet": "Rangunwala (2013). Direct Submission; Rangunwala A., Burt F., Swanepoel R., Janusz P.;  Medical Microbiology and Virology, University of the Free State, DF Malherbe Drive, Bloemfontein, Free State 9310, South Africa; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KC880335\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Rangunwala (2013)"
+    },
+    {
+        "RefID": 37,
+        "SubmissionSet": "Rieu (2024). Direct Submission; Rieu M., Ji S., Byun H., Han S., Choi C., Nam H., Seo S., Chae J.;  Labaratory of Veterinary Internal Medicine, Seoul National University, 1 GwanakGwanak-ro, GwanakGwanak-gu, Seoul, Seoul 08840, Republic of Korea; [S (10)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"PP334101\"%5BACCN%5D%20OR%20\"PP334102\"%5BACCN%5D%20OR%20\"PP334103\"%5BACCN%5D%20OR%20\"PP334104\"%5BACCN%5D%20OR%20\"PP334105\"%5BACCN%5D%20OR%20\"PP334106\"%5BACCN%5D%20OR%20\"PP334107\"%5BACCN%5D%20OR%20\"PP334108\"%5BACCN%5D%20OR%20\"PP334109\"%5BACCN%5D%20OR%20\"PP334110\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Rieu (2024)"
+    },
+    {
+        "RefID": 43,
+        "SubmissionSet": "Shahid (2021). Direct Submission; Shahid M., Yaqub T., Ali M., Ul-rahman A., Bente D.;  Institute of Microbiology, University of Veterinary and Animal Sciences, Outfall Road, Lahore, Punjab 54600, Pakistan; [S (21)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW915541\"%5BACCN%5D%20OR%20\"MW915542\"%5BACCN%5D%20OR%20\"MW915543\"%5BACCN%5D%20OR%20\"MW915544\"%5BACCN%5D%20OR%20\"MW915545\"%5BACCN%5D%20OR%20\"MW915546\"%5BACCN%5D%20OR%20\"MW915547\"%5BACCN%5D%20OR%20\"MW915548\"%5BACCN%5D%20OR%20\"MW915549\"%5BACCN%5D%20OR%20\"MW915550\"%5BACCN%5D%20OR%20\"MW915551\"%5BACCN%5D%20OR%20\"MW915552\"%5BACCN%5D%20OR%20\"MW915553\"%5BACCN%5D%20OR%20\"MW915554\"%5BACCN%5D%20OR%20\"MW915555\"%5BACCN%5D%20OR%20\"MW915556\"%5BACCN%5D%20OR%20\"MW915557\"%5BACCN%5D%20OR%20\"MW915558\"%5BACCN%5D%20OR%20\"MW915559\"%5BACCN%5D%20OR%20\"MW915560\"%5BACCN%5D%20OR%20\"MW915561\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Shahid (2021)"
+    },
+    {
+        "RefID": 52,
+        "SubmissionSet": "Zhang (2005). Direct Submission; Zhang Y., Sun S., Meng W., Muhetar R., Wang X., Ma J., Zhang F., Hu J., Dai X., Feng C., Hang C., Azati R., Tai X.;  Xinjiang Center for Disease Control and Prevention, Key Lab of Biological Resources and Genetic Engineering of Xinjiang, College of Life Science and Technology, Xinjiang University 830046, P.R. China; [M (4)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"DQ301502\"%5BACCN%5D%20OR%20\"DQ301503\"%5BACCN%5D%20OR%20\"DQ301504\"%5BACCN%5D%20OR%20\"DQ301505\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Zhang (2005)"
+    },
+    {
         "RefID": 54,
         "SubmissionSet": "Abuova (2023). Genotypes of the congo-crimean hemorrhagic fever virus occurring in the turkestan region; Abuova G., Aliyev D., Berdaliyeva F., Karan L., Nurmagambet S., Polukchi T., Pshenichnaya N., Sadyhova D.;  Department of molecular diagnostic and epidemiology, Central Research Institute of Epidemiology, Novogireevskaya 3A, Moscow 111123, Russia, Arch Clin Infect Dis 17 (6), e129126 (2022); [M (5), S (6)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"OQ190959\"%5BACCN%5D%20OR%20\"OQ190960\"%5BACCN%5D%20OR%20\"OQ190961\"%5BACCN%5D%20OR%20\"OQ190962\"%5BACCN%5D%20OR%20\"OQ190963\"%5BACCN%5D%20OR%20\"OQ190964\"%5BACCN%5D%20OR%20\"OQ190965\"%5BACCN%5D%20OR%20\"OQ190966\"%5BACCN%5D%20OR%20\"OQ190967\"%5BACCN%5D%20OR%20\"OQ190968\"%5BACCN%5D%20OR%20\"OQ190969\"%5BACCN%5D)",
         "PubID": "",
         "Publication": "",
         "ShortName": "Abuova (2023)"
+    },
+    {
+        "RefID": 63,
+        "SubmissionSet": "Ashraf (2021). Direct Submission; Ashraf S., Burton C., Carmichael S., Filipe A., Love H., Richards K., Roddy S., Smollett K., Summers S., Thomson E., Tong L.;  MRC Centre for Virus Research, University of Glasgow, 464 Bearsden Road, Glasgow G61 1QH, United Kingdom,  MRC Centre for Virus Research, University of Glasgow, 464 Bearsden road, Glasgow G61 1QH, United Kingdom; [L (5), M (5), S (5)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"OL741591\"%5BACCN%5D%20OR%20\"OL741592\"%5BACCN%5D%20OR%20\"OL741593\"%5BACCN%5D%20OR%20\"OL741594\"%5BACCN%5D%20OR%20\"OL741595\"%5BACCN%5D%20OR%20\"OL741596\"%5BACCN%5D%20OR%20\"OL741597\"%5BACCN%5D%20OR%20\"OL741598\"%5BACCN%5D%20OR%20\"OL741599\"%5BACCN%5D%20OR%20\"OL774840\"%5BACCN%5D%20OR%20\"OL774841\"%5BACCN%5D%20OR%20\"OL774842\"%5BACCN%5D%20OR%20\"OL774849\"%5BACCN%5D%20OR%20\"OL774850\"%5BACCN%5D%20OR%20\"OL774851\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Ashraf (2021)"
     },
     {
         "RefID": 68,
@@ -26,6 +124,13 @@
         "PubID": "",
         "Publication": "",
         "ShortName": "Addo (2023)"
+    },
+    {
+        "RefID": 84,
+        "SubmissionSet": "Bouzari (2014). Direct Submission; Bouzari S., Chinikar S., Jalali T., Mostafavi E., Shah-hosseini N., Shokrgozar M.;  Arboviruses and Viral Haemorrhagic Fevers Laboratory (National Ref. Lab), Pasteur Institute of Iran, 69 Pasteur Ave, Tehran, Tehran 1316943551, Iran; [S (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KF796639\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Bouzari (2014)"
     },
     {
         "RefID": 106,
@@ -54,6 +159,13 @@
         "PubID": "",
         "Publication": "",
         "ShortName": "Papa (2016)"
+    },
+    {
+        "RefID": 144,
+        "SubmissionSet": "Glass (2001). Direct Submission; Glass P., Jennings G., Lofts R., Miller M., Parker M., Schoepp R., Smith J., Spik K.;  Michael D. Parker, Virology Divison, USAMRIID, Bldg. 1425 Fort Detrick, Frederick, MD 21702, USA; [M (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"U39455\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Glass (2001)"
     },
     {
         "RefID": 146,
@@ -89,6 +201,13 @@
         "PubID": "",
         "Publication": "",
         "ShortName": "Azad-manjiri (2018)"
+    },
+    {
+        "RefID": 190,
+        "SubmissionSet": "Ajati (2005). Direct Submission; Ajati A., Azati A., Dai X., Feng C., Hang C., Ma J., Meng W., Sun S., Wang X., Xie Y., Zhang F., Zhang Y., Zhu H.;  College of Life Science and Technology, Xinjiang University, 14 Shengli Road, Urumqi, Xinjiang 830046, China,  Xinjiang Center for Disease Control and Prevention, College of Life Science and Technology, Xinjiang University, Urumqi, Xinjiang 830002, China; [S (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"DQ217602\"%5BACCN%5D%20OR%20\"DQ227495\"%5BACCN%5D%20OR%20\"DQ227496\"%5BACCN%5D)",
+        "PubID": "",
+        "Publication": "",
+        "ShortName": "Ajati (2005)"
     },
     {
         "RefID": 204,

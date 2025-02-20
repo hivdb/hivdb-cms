@@ -1,10 +1,10 @@
 ---
-pageTitle: Lassa database summary
+pageTitle: Lassa
 introHeader: |-
-  # Lassa database summary
+  # Lassa
 content:
   _resource: pubmed-genbank-tables-Lassa.md
-toc: true
+toc: false
 tables:
   matched:
     columnDefs:

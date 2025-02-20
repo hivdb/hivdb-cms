@@ -49,11 +49,53 @@
         "ShortName": "Demby (1994, 7883875)"
     },
     {
+        "RefID": 11,
+        "SubmissionSet": "Djavani (1999). Direct Submission; Djavani M.;  Pathology, University of Wisconsin, 1300 University Ave., SMI, Rm.#512, Madison, WI 53706, USA; [L (3), Z (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"NC_004297\"%5BACCN%5D%20OR%20\"NC_004297\"%5BACCN%5D%20OR%20\"U73034\"%5BACCN%5D%20OR%20\"U73034\"%5BACCN%5D%20OR%20\"U73035\"%5BACCN%5D%20OR%20\"U73035\"%5BACCN%5D)",
+        "PubID": 42,
+        "Publication": "Djavani (1997, 9281522). Completion of the Lassa fever virus sequence and identification of a RING finger open reading frame at the L RNA 5' End.; Djavani M; Lukashevich IS; Sanchez A; Nichol ST; Salvato MS; Virology",
+        "ShortName": "Djavani (1997, 9281522)"
+    },
+    {
+        "RefID": 12,
+        "SubmissionSet": "Fichet-calvet (2015). Direct Submission; Fichet-calvet E., Stephan O., Thomas S., Lamine K., Beate B., N'faly M., Stephan G.;  Virology, Bernhard-Nocht Institute of Tropical Medicine, Bernhard-Nocht Strasse 74, Hamburg 20359, Germany; [N (84)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KP339050\"%5BACCN%5D%20OR%20\"KP339051\"%5BACCN%5D%20OR%20\"KP339052\"%5BACCN%5D%20OR%20\"KP339053\"%5BACCN%5D%20OR%20\"KP339054\"%5BACCN%5D%20OR%20\"KP339055\"%5BACCN%5D%20OR%20\"KP339056\"%5BACCN%5D%20OR%20\"KP339057\"%5BACCN%5D%20OR%20\"KP339058\"%5BACCN%5D%20OR%20\"KP339059\"%5BACCN%5D%20OR%20\"KP339060\"%5BACCN%5D%20OR%20\"KP339061\"%5BACCN%5D%20OR%20\"KP339062\"%5BACCN%5D%20OR%20\"KP339063\"%5BACCN%5D%20OR%20\"KP339064\"%5BACCN%5D%20OR%20\"KP339065\"%5BACCN%5D%20OR%20\"KP339066\"%5BACCN%5D%20OR%20\"KP339067\"%5BACCN%5D%20OR%20\"KP339068\"%5BACCN%5D%20OR%20\"KP339069\"%5BACCN%5D%20OR%20\"KP339070\"%5BACCN%5D%20OR%20\"KP339071\"%5BACCN%5D%20OR%20\"KP339072\"%5BACCN%5D%20OR%20\"KP339073\"%5BACCN%5D%20OR%20\"KP339074\"%5BACCN%5D%20OR%20\"KP339075\"%5BACCN%5D%20OR%20\"KP339076\"%5BACCN%5D%20OR%20\"KP339077\"%5BACCN%5D%20OR%20\"KP339078\"%5BACCN%5D%20OR%20\"KP339079\"%5BACCN%5D%20OR%20\"KP339080\"%5BACCN%5D%20OR%20\"KP339081\"%5BACCN%5D%20OR%20\"KP339082\"%5BACCN%5D%20OR%20\"KP339083\"%5BACCN%5D%20OR%20\"KP339084\"%5BACCN%5D%20OR%20\"KP339085\"%5BACCN%5D%20OR%20\"KP339086\"%5BACCN%5D%20OR%20\"KP339087\"%5BACCN%5D%20OR%20\"KP339088\"%5BACCN%5D%20OR%20\"KP339089\"%5BACCN%5D%20OR%20\"KP339090\"%5BACCN%5D%20OR%20\"KP339091\"%5BACCN%5D%20OR%20\"KP339092\"%5BACCN%5D%20OR%20\"KP339093\"%5BACCN%5D%20OR%20\"KP339094\"%5BACCN%5D%20OR%20\"KP339095\"%5BACCN%5D%20OR%20\"KP339096\"%5BACCN%5D%20OR%20\"KP339097\"%5BACCN%5D%20OR%20\"KP339098\"%5BACCN%5D%20OR%20\"KP339099\"%5BACCN%5D%20OR%20\"KP339100\"%5BACCN%5D%20OR%20\"KP339101\"%5BACCN%5D%20OR%20\"KP339102\"%5BACCN%5D%20OR%20\"KP339103\"%5BACCN%5D%20OR%20\"KP339104\"%5BACCN%5D%20OR%20\"KP339105\"%5BACCN%5D%20OR%20\"KP339106\"%5BACCN%5D%20OR%20\"KP339107\"%5BACCN%5D%20OR%20\"KP339108\"%5BACCN%5D%20OR%20\"KP339109\"%5BACCN%5D%20OR%20\"KP339110\"%5BACCN%5D%20OR%20\"KP339111\"%5BACCN%5D%20OR%20\"KP339112\"%5BACCN%5D%20OR%20\"KP339113\"%5BACCN%5D%20OR%20\"KP339114\"%5BACCN%5D%20OR%20\"KP339115\"%5BACCN%5D%20OR%20\"KP339116\"%5BACCN%5D%20OR%20\"KP339117\"%5BACCN%5D%20OR%20\"KP339118\"%5BACCN%5D%20OR%20\"KP339119\"%5BACCN%5D%20OR%20\"KP339120\"%5BACCN%5D%20OR%20\"KP339121\"%5BACCN%5D%20OR%20\"KP339122\"%5BACCN%5D%20OR%20\"KP339123\"%5BACCN%5D%20OR%20\"KP339124\"%5BACCN%5D%20OR%20\"KP339125\"%5BACCN%5D%20OR%20\"KP339126\"%5BACCN%5D%20OR%20\"KP339127\"%5BACCN%5D%20OR%20\"KP339128\"%5BACCN%5D%20OR%20\"KP339129\"%5BACCN%5D%20OR%20\"KP339130\"%5BACCN%5D%20OR%20\"KP339131\"%5BACCN%5D%20OR%20\"KP339132\"%5BACCN%5D%20OR%20\"KP339133\"%5BACCN%5D)",
+        "PubID": 24,
+        "Publication": "Fichet-Calvet (2016, 26911443). Spatial and temporal evolution of Lassa virus in the natural host population in Upper Guinea.; Fichet-Calvet E; \u221a\u00f1lschl\u221a\u00a7ger S; Strecker T; Koivogui L; Becker-Ziaja B; Camara AB; Soropogui B; Magassouba N; G\u221a\u00banther S; Sci Rep",
+        "ShortName": "Fichet-Calvet (2016, 26911443)"
+    },
+    {
         "RefID": 13,
         "SubmissionSet": "Fischer (2021, 33654106). ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge; Fischer R., Purushotham J., Van doremalen N., Sebastian S., Meade-white K., Cordova K., Letko M., Jeremiah matson M., Feldmann F., Haddock E., Lacasse R., Saturday G., Lambe T., Gilbert S., Munster V.; NPJ Vaccines 6 (1), 32 (2021); [G (1), L (1), N (1), Z (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW004546\"%5BACCN%5D%20OR%20\"MW004546\"%5BACCN%5D%20OR%20\"MW004547\"%5BACCN%5D%20OR%20\"MW004547\"%5BACCN%5D)",
         "PubID": 70,
         "Publication": "Fischer (2021, 33654106). ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge.; Fischer RJ; Purushotham JN; van Doremalen N; Sebastian S; Meade-White K; Cordova K; Letko M; Jeremiah Matson M; Feldmann F; Haddock E; LaCasse R; Saturday G; Lambe T; Gilbert SC; Munster VJ; NPJ Vaccines",
         "ShortName": "Fischer (2021, 33654106)"
+    },
+    {
+        "RefID": 14,
+        "SubmissionSet": "Geisbert (2020). Direct Submission; Geisbert J., Cross R., Safronetz D., Fischer R., Munster V., Feldmann H., Geisbert T.;  Microbiology and Immunology, University of Texas Medical Branch, 301 University Parkway, Galveston, TX 77555, USA; [G (1), L (1), N (1), Z (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MW004546\"%5BACCN%5D%20OR%20\"MW004546\"%5BACCN%5D%20OR%20\"MW004547\"%5BACCN%5D%20OR%20\"MW004547\"%5BACCN%5D)",
+        "PubID": 70,
+        "Publication": "Fischer (2021, 33654106). ChAdOx1-vectored Lassa fever vaccine elicits a robust cellular and humoral immune response and protects guinea pigs against lethal Lassa virus challenge.; Fischer RJ; Purushotham JN; van Doremalen N; Sebastian S; Meade-White K; Cordova K; Letko M; Jeremiah Matson M; Feldmann F; Haddock E; LaCasse R; Saturday G; Lambe T; Gilbert SC; Munster VJ; NPJ Vaccines",
+        "ShortName": "Fischer (2021, 33654106)"
+    },
+    {
+        "RefID": 15,
+        "SubmissionSet": "Hain (2016). Direct Submission; Hain T.;  Institute for Medical Microbiology, NGS core facility, Justus-Liebig-University, Institute for Medical Microbiology, Schuberttrasse 81, 35392 Giessen, Hessia, 35392, Germany; [G (1), L (1), N (1), Z (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"LT601601\"%5BACCN%5D%20OR%20\"LT601601\"%5BACCN%5D%20OR%20\"LT601602\"%5BACCN%5D%20OR%20\"LT601602\"%5BACCN%5D)",
+        "PubID": 19,
+        "Publication": "Whitmer (2018, 29460758). New Lineage of Lassa Virus, Togo, 2016.; Whitmer SLM; Strecker T; Cadar D; Dienes HP; Faber K; Patel K; Brown SM; Davis WG; Klena JD; Rollin PE; Schmidt-Chanasit J; Fichet-Calvet E; Noack B; Emmerich P; Rieger T; Wolff S; Fehling SK; Eickmann M; Mengel JP; Schultze T; Hain T; Ampofo W; Bonney K; Aryeequaye JND; Ribner B; Varkey JB; Mehta AK; Lyon GM 3rd; Kann G; De Leuw P; Schuettfort G; Stephan C; Wieland U; Fries JWU; Kochanek M; Kraft CS; Wolf T; Nichol ST; Becker S; Str\u221a\u2202her U; G\u221a\u00banther S; Emerg Infect Dis",
+        "ShortName": "Whitmer (2018, 29460758)"
+    },
+    {
+        "RefID": 15,
+        "SubmissionSet": "Hain (2016). Direct Submission; Hain T.;  Institute for Medical Microbiology, NGS core facility, Justus-Liebig-University, Institute for Medical Microbiology, Schuberttrasse 81, 35392 Giessen, Hessia, 35392, Germany; [G (1), L (1), N (1), Z (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"LT601601\"%5BACCN%5D%20OR%20\"LT601601\"%5BACCN%5D%20OR%20\"LT601602\"%5BACCN%5D%20OR%20\"LT601602\"%5BACCN%5D)",
+        "PubID": 20,
+        "Publication": "Wolff (2016, 27660771). Genome Sequence of Lassa Virus Isolated from the First Domestically Acquired Case in Germany.; Wolff S; Schultze T; Fehling SK; Mengel JP; Kann G; Wolf T; Eickmann M; Becker S; Hain T; Strecker T; Genome Announc",
+        "ShortName": "Wolff (2016, 27660771)"
+    },
+    {
+        "RefID": 30,
+        "SubmissionSet": "Rieger (2016). Direct Submission; Rieger T., Cadar D., Schmidt-chanasit J., Gunther S.;  WHO Collaborating Centre for Arboviruses and Hemorrhagic Fever Reference and Research, Bernhard Nocht Institute for Tropical Medicine, Bernhard-Nocht-Str. 74, Hamburg 20359, Germany; [G (1), L (3), N (1), Z (3)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"KU961971\"%5BACCN%5D%20OR%20\"KU961971\"%5BACCN%5D%20OR%20\"KU961972\"%5BACCN%5D%20OR%20\"KU961972\"%5BACCN%5D%20OR%20\"KU961972\"%5BACCN%5D%20OR%20\"KU961972\"%5BACCN%5D%20OR%20\"KU961972\"%5BACCN%5D%20OR%20\"KU961972\"%5BACCN%5D)",
+        "PubID": 19,
+        "Publication": "Whitmer (2018, 29460758). New Lineage of Lassa Virus, Togo, 2016.; Whitmer SLM; Strecker T; Cadar D; Dienes HP; Faber K; Patel K; Brown SM; Davis WG; Klena JD; Rollin PE; Schmidt-Chanasit J; Fichet-Calvet E; Noack B; Emmerich P; Rieger T; Wolff S; Fehling SK; Eickmann M; Mengel JP; Schultze T; Hain T; Ampofo W; Bonney K; Aryeequaye JND; Ribner B; Varkey JB; Mehta AK; Lyon GM 3rd; Kann G; De Leuw P; Schuettfort G; Stephan C; Wieland U; Fries JWU; Kochanek M; Kraft CS; Wolf T; Nichol ST; Becker S; Str\u221a\u2202her U; G\u221a\u00banther S; Emerg Infect Dis",
+        "ShortName": "Whitmer (2018, 29460758)"
     },
     {
         "RefID": 34,
