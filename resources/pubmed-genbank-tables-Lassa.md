@@ -1,7 +1,7 @@
 
-- [Paired submissionsets and publications](#paired.submissionsets.and.publications)
-- [Submissionsets without publications](#submissionsets.without.publications)
-- [Publications without submissionsets](#publications.without.submissionsets)
+- [Paired submission sets and publications](#paired.submission.sets.and.publications)
+- [Submission sets without publications](#submission.sets.without.publications)
+- [Publications without submission sets](#publications.without.submission.sets)
 - [Isolate Metadata Summary](#isolate.metadata.summary)
 - [Phylogenetic tree](#phylogenetic.tree)
     - [L gene](#l.gene)
@@ -10,20 +10,20 @@
     - [Phylogenetic studies](#phylogenetic.studies)
 
 
-## Paired submissionsets and publications
+## Paired submission sets and publications
 
 [table compact, lastCompact]
 matched
 [/table]
 
 
-## Submissionsets without publications
+## Submission sets without publications
 
 [table compact, lastCompact]
 nopub
 [/table]
 
-## Publications without submissionsets
+## Publications without submission sets
 
 [table compact, lastCompact]
 noref
