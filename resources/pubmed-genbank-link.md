@@ -20,7 +20,6 @@ This document outlines the methodology and results of creating and analyzing dat
 - \# accessions: 4806
 - \# Submission Sets: 217
     - % with matched publication: 86% (186)
-    - \# Matched by algorithm: 78
 
 ### Publication
 
@@ -39,7 +38,6 @@ This document outlines the methodology and results of creating and analyzing dat
 - \# accessions: 362
 - \# Submission Sets: 40
     - % with matched publication: 85% (34)
-    - \# Matched by algorithm: 14
 
 
 ### Publication
@@ -58,7 +56,6 @@ This document outlines the methodology and results of creating and analyzing dat
 - \# accessions: 2676
 - \# Submission Sets: 88
     - % with matched publication: 77% (68)
-    - \# Matched by algorithm: 24
 
 ### Publication
 

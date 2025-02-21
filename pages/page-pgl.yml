@@ -1,7 +1,7 @@
 ---
-pageTitle: PubMed GenBank Link Tool
+pageTitle: GenBank2PubMed
 introHeader: |-
-  # PubMed GenBank Link Tool
+  # GenBank2PubMed
 content:
   _resource: pubmed-genbank-link.md
 toc: true
