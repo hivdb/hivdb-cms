@@ -2,21 +2,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2006,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)",
-        "#": 28,
-        "Total": 362,
-        "%": 7.73
-    },
-    {
-        "Host": "Bat",
-        "Country": "Thailand",
-        "IsolateYear": 2006,
+        "IsolateYear": "2006",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2010, 19402762)",
+        "Accessions": "EU603726,EU603727,EU603728,EU603729,EU603730,EU603731,EU603732,EU603733,EU603734,EU603735,EU603736,EU603737,EU603738,EU603739,EU603740,EU603741,EU603742,EU603743,EU603744,EU603745,EU603746,EU603747,EU603748,EU603749,EU603750,EU603752,EU603753,EU620498",
         "#": 28,
         "Total": 362,
         "%": 7.73
@@ -24,10 +14,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Cortes-Azuero (2024, 38682164)",
+        "Accessions": "OR762515,OR762516,OR762517,OR762518,OR762519,OR762520,OR762521,OR762522,OR762523,OR762524,OR762525,OR762526,OR762527,OR762528,OR762529,OR762530,OR762531,OR762532,OR762533,OR762534,OR762535,OR762536",
         "#": 22,
         "Total": 362,
         "%": 6.08
@@ -35,10 +26,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": "2010 *",
+        "IsolateYear": "2010",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Amato (2019, 31652377)",
+        "Accessions": "MK995284,MK995285,MK995286,MK995287,MK995288,MK995289,MK995290,MK995291,MK995292,MK995293,MK995294,MK995295,MK995296,MK995297,MK995298,MK995299,MK995300,MK995301,MK995302",
         "#": 19,
         "Total": 362,
         "%": 5.25
@@ -46,10 +38,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": "2010 *",
+        "IsolateYear": "2010",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Epstein (2020, 33139552)",
+        "Accessions": "MK995284,MK995285,MK995286,MK995287,MK995288,MK995289,MK995290,MK995291,MK995292,MK995293,MK995294,MK995295,MK995296,MK995297,MK995298,MK995299,MK995300,MK995301,MK995302",
         "#": 19,
         "Total": 362,
         "%": 5.25
@@ -57,10 +50,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
+        "Accessions": "MK575060,MK575061,MK575062,MK575063,MK575064,MK575065,MK575066,MK575067,MK575068,MK575069,MK575070",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -68,10 +62,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
+        "Accessions": "MK575060,MK575061,MK575062,MK575063,MK575064,MK575065,MK575066,MK575067,MK575068,MK575069,MK575070",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -79,10 +74,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
+        "Accessions": "MK575060,MK575061,MK575062,MK575063,MK575064,MK575065,MK575066,MK575067,MK575068,MK575069,MK575070",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -90,10 +86,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
+        "Accessions": "MK575060,MK575061,MK575062,MK575063,MK575064,MK575065,MK575066,MK575067,MK575068,MK575069,MK575070",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -101,10 +98,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
+        "Accessions": "MK575060,MK575061,MK575062,MK575063,MK575064,MK575065,MK575066,MK575067,MK575068,MK575069,MK575070",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -112,32 +110,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Anderson (2019, 30561301)",
-        "#": 11,
-        "Total": 362,
-        "%": 3.04
-    },
-    {
-        "Host": "Bat",
-        "Country": "Thailand",
-        "IsolateYear": 2005,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)",
-        "#": 11,
-        "Total": 362,
-        "%": 3.04
-    },
-    {
-        "Host": "Bat",
-        "Country": "Thailand",
-        "IsolateYear": 2005,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Wacharapluesadee (2010, 19402762)",
+        "Accessions": "MK575060,MK575061,MK575062,MK575063,MK575064,MK575065,MK575066,MK575067,MK575068,MK575069,MK575070",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -145,10 +122,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981676,PP981677,PP981678,PP981679,PP981680,PP981681,PP981682,PP981683,PP981684,PQ368168,PQ368169",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -156,10 +134,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981676,PP981677,PP981678,PP981679,PP981680,PP981681,PP981682,PP981683,PP981684,PQ368168,PQ368169",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -167,10 +146,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981676,PP981677,PP981678,PP981679,PP981680,PP981681,PP981682,PP981683,PP981684,PQ368168,PQ368169",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -178,10 +158,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981676,PP981677,PP981678,PP981679,PP981680,PP981681,PP981682,PP981683,PP981684,PQ368168,PQ368169",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -189,10 +170,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981676,PP981677,PP981678,PP981679,PP981680,PP981681,PP981682,PP981683,PP981684,PQ368168,PQ368169",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -200,10 +182,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981676,PP981676,PP981676,PP981676,PP981677,PP981677,PP981677,PP981677,PP981678,PP981678,PP981678,PP981678,PP981679,PP981679,PP981679,PP981679,PP981680,PP981680,PP981680,PP981680,PP981681,PP981681,PP981681,PP981681,PP981682,PP981682,PP981682,PP981682,PP981683,PP981683,PP981683,PP981683,PP981684,PP981684,PP981684,PP981684,PQ368168,PQ368169",
         "#": 11,
         "Total": 362,
         "%": 3.04
@@ -211,10 +194,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MN549402,MN549403,MN549404,MN549405,MN549406,MN549407,MN549408,MN549409,MN549410,MN549411",
         "#": 10,
         "Total": 362,
         "%": 2.76
@@ -222,10 +206,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MN549402,MN549403,MN549404,MN549405,MN549406,MN549407,MN549408,MN549409,MN549410,MN549411",
         "#": 10,
         "Total": 362,
         "%": 2.76
@@ -233,10 +218,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MN549402,MN549403,MN549404,MN549405,MN549406,MN549407,MN549408,MN549409,MN549410,MN549411",
         "#": 10,
         "Total": 362,
         "%": 2.76
@@ -244,10 +230,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MN549402,MN549403,MN549404,MN549405,MN549406,MN549407,MN549408,MN549409,MN549410,MN549411",
         "#": 10,
         "Total": 362,
         "%": 2.76
@@ -255,10 +242,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MN549402,MN549403,MN549404,MN549405,MN549406,MN549407,MN549408,MN549409,MN549410,MN549411",
         "#": 10,
         "Total": 362,
         "%": 2.76
@@ -266,10 +254,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MN549402,MN549402,MN549402,MN549402,MN549403,MN549403,MN549403,MN549403,MN549404,MN549404,MN549404,MN549404,MN549405,MN549405,MN549405,MN549405,MN549406,MN549406,MN549406,MN549406,MN549407,MN549407,MN549407,MN549407,MN549408,MN549408,MN549408,MN549408,MN549409,MN549409,MN549409,MN549409,MN549410,MN549410,MN549410,MN549410,MN549411,MN549411,MN549411,MN549411",
         "#": 10,
         "Total": 362,
         "%": 2.76
@@ -277,10 +266,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Rahman (2021, 33129964)",
+        "Accessions": "MT890702,MT890703,MT890704,MT890705,MT890706,MT890707,MT890708,MT890709,MT890710",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -288,10 +278,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2005,
+        "IsolateYear": "2005",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2007, 17184850)",
+        "Accessions": "EF070182,EF070183,EF070184,EF070185,EF070186,EF070187,EF070188,EF070189,EF070190",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -299,21 +290,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2007,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)",
-        "#": 9,
-        "Total": 362,
-        "%": 2.49
-    },
-    {
-        "Host": "Bat",
-        "Country": "Thailand",
-        "IsolateYear": 2007,
+        "IsolateYear": "2007",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2010, 19402762)",
+        "Accessions": "EU603751,EU603754,EU603755,EU603756,EU603757,EU603758,EU624735,EU624736,EU624737",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -321,10 +302,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2011,
+        "IsolateYear": "2011",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673570,MK673571,MK673572,MK673573,MK673574,MK673575,MK673576,MK673577,MK673578",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -332,10 +314,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2011,
+        "IsolateYear": "2011",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673570,MK673571,MK673572,MK673573,MK673574,MK673575,MK673576,MK673577,MK673578",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -343,10 +326,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2011,
+        "IsolateYear": "2011",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673570,MK673571,MK673572,MK673573,MK673574,MK673575,MK673576,MK673577,MK673578",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -354,10 +338,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2011,
+        "IsolateYear": "2011",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673570,MK673571,MK673572,MK673573,MK673574,MK673575,MK673576,MK673577,MK673578",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -365,10 +350,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2011,
+        "IsolateYear": "2011",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673570,MK673571,MK673572,MK673573,MK673574,MK673575,MK673576,MK673577,MK673578",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -376,10 +362,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2011,
+        "IsolateYear": "2011",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673570,MK673570,MK673570,MK673570,MK673571,MK673571,MK673571,MK673571,MK673572,MK673572,MK673572,MK673572,MK673573,MK673573,MK673573,MK673573,MK673574,MK673574,MK673574,MK673574,MK673575,MK673575,MK673575,MK673575,MK673576,MK673576,MK673576,MK673576,MK673577,MK673577,MK673577,MK673577,MK673578,MK673578,MK673578,MK673578",
         "#": 9,
         "Total": 362,
         "%": 2.49
@@ -387,10 +374,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MH396625,MH423323,MH423324,MH523640,MH523641,MH523642,MK336155,MK336156",
         "#": 8,
         "Total": 362,
         "%": 2.21
@@ -398,10 +386,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR820506,OR820507,OR820508,OR828430,OR838351,OR838352,OR838353,OR838354",
         "#": 8,
         "Total": 362,
         "%": 2.21
@@ -409,10 +398,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR820506,OR820507,OR820508,OR828430,OR838351,OR838352,OR838353,OR838354",
         "#": 8,
         "Total": 362,
         "%": 2.21
@@ -420,10 +410,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR820506,OR820507,OR820508,OR828430,OR838351,OR838352,OR838353,OR838354",
         "#": 8,
         "Total": 362,
         "%": 2.21
@@ -431,10 +422,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR765959,OR765960,OR765961,OR765962,OR765963,OR765964,OR765965",
         "#": 7,
         "Total": 362,
         "%": 1.93
@@ -442,10 +434,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR765959,OR765960,OR765961,OR765962,OR765963,OR765964,OR765965",
         "#": 7,
         "Total": 362,
         "%": 1.93
@@ -453,10 +446,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR765959,OR765960,OR765961,OR765962,OR765963,OR765964,OR765965",
         "#": 7,
         "Total": 362,
         "%": 1.93
@@ -464,10 +458,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)",
+        "Accessions": "FJ648075,FJ648076,DQ061852,DQ061855,DQ061856,DQ061857,DQ061858",
         "#": 7,
         "Total": 362,
         "%": 1.93
@@ -475,10 +470,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Rahman (2021, 33129964)",
+        "Accessions": "MT890711,MT890712,MT890713,MT890714,MT890715,MT890728,MT890729",
         "#": 7,
         "Total": 362,
         "%": 1.93
@@ -486,10 +482,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)",
+        "Accessions": "FJ648077,FJ648078,FJ648079,FJ648080,FJ648081,FJ648082",
         "#": 6,
         "Total": 362,
         "%": 1.66
@@ -497,10 +494,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2016, 27016237)",
+        "Accessions": "KT163247,KT163249,KT163251,KT163253,KT163254,KT163255",
         "#": 6,
         "Total": 362,
         "%": 1.66
@@ -508,10 +506,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MH396625,MH523640,MH523641,MH523642,MK336155,MK336156",
         "#": 6,
         "Total": 362,
         "%": 1.66
@@ -519,10 +518,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MH396625,MH523640,MH523641,MH523642,MK336155,MK336156",
         "#": 6,
         "Total": 362,
         "%": 1.66
@@ -530,10 +530,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MH396625,MH523640,MH523641,MH523642,MK336155,MK336156",
         "#": 6,
         "Total": 362,
         "%": 1.66
@@ -541,10 +542,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MH396625,MH523640,MH523641,MH523642,MK336155,MK336156",
         "#": 6,
         "Total": 362,
         "%": 1.66
@@ -552,10 +554,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MH396625,MH396625,MH396625,MH396625,MH523640,MH523640,MH523640,MH523640,MH523641,MH523641,MH523641,MH523641,MH523642,MH523642,MH523642,MH523642,MK336155,MK336155,MK336155,MK336155,MK336156,MK336156,MK336156,MK336156",
         "#": 6,
         "Total": 362,
         "%": 1.66
@@ -563,10 +566,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MH523643,MH523644,MH523645,MK577986,MK577988",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -574,10 +578,11 @@
     {
         "Host": "Bat",
         "Country": "Indonesia",
-        "IsolateYear": 2009,
+        "IsolateYear": "2009",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Sendow (2013, 23894501)",
+        "Accessions": "KC903168,KC903169,KC903170,KC903171,KC903172",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -585,10 +590,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2011,
+        "IsolateYear": "2011",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2016, 27016237)",
+        "Accessions": "KT163248,KT163250,KT163252,KT163256,KT163257",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -596,10 +602,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2017,
+        "IsolateYear": "2017",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW535746,MW573867,MW573868,MW573869,MW573870",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -607,10 +614,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW573871,MW573872,MW573873,MW573874,MW573875",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -618,10 +626,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hassan (2018, 29260663)",
+        "Accessions": "KY887670,KY887671,MF133373,MF133376,MF133377",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -629,10 +638,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Rahman (2021, 33129964)",
+        "Accessions": "MT890716,MT890717,MT890718,MT890719,MT890720",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -640,10 +650,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673584,MK673585,MK673586,MK673587,MK673588",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -651,10 +662,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673584,MK673585,MK673586,MK673587,MK673588",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -662,10 +674,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673584,MK673585,MK673586,MK673587,MK673588",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -673,10 +686,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673584,MK673585,MK673586,MK673587,MK673588",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -684,10 +698,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Rahman (2021, 33129964)",
+        "Accessions": "MT890721,MT890722,MT890723,MT890725,MT890726",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -695,10 +710,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673584,MK673585,MK673586,MK673587,MK673588",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -706,10 +722,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673584,MK673584,MK673584,MK673584,MK673585,MK673585,MK673585,MK673585,MK673586,MK673586,MK673586,MK673586,MK673587,MK673587,MK673587,MK673587,MK673588,MK673588,MK673588,MK673588",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -717,10 +734,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2020,
+        "IsolateYear": "2020",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981668,PP981669,PP981670,PP981671,PP981672",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -728,10 +746,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2020,
+        "IsolateYear": "2020",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981668,PP981669,PP981670,PP981671,PP981672",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -739,10 +758,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2020,
+        "IsolateYear": "2020",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981668,PP981669,PP981670,PP981671,PP981672",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -750,10 +770,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2020,
+        "IsolateYear": "2020",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981668,PP981669,PP981670,PP981671,PP981672",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -761,10 +782,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2020,
+        "IsolateYear": "2020",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981668,PP981669,PP981670,PP981671,PP981672",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -772,10 +794,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2020,
+        "IsolateYear": "2020",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981668,PP981668,PP981668,PP981668,PP981669,PP981669,PP981669,PP981669,PP981670,PP981670,PP981670,PP981670,PP981671,PP981671,PP981671,PP981671,PP981672,PP981672,PP981672,PP981672",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -783,10 +806,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR820506,OR820507,OR820508,OR838349,OR838350",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -794,10 +818,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR820506,OR820507,OR820508,OR838349,OR838350",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -805,10 +830,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR820506,OR820507,OR820508,OR838349,OR838350",
         "#": 5,
         "Total": 362,
         "%": 1.38
@@ -816,10 +842,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MK577980,MK577981,MK577985,MK577989",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -827,10 +854,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2017,
+        "IsolateYear": "2017",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "NCBI (2020)",
+        "Accessions": "MT125114,MT125115,MT125116,MT125117",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -838,10 +866,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673564,MK673565,MK673566,MK673567",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -849,10 +878,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673564,MK673565,MK673566,MK673567",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -860,10 +890,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673564,MK673565,MK673566,MK673567",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -871,10 +902,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673564,MK673565,MK673566,MK673567",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -882,10 +914,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673564,MK673565,MK673566,MK673567",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -893,10 +926,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673564,MK673564,MK673564,MK673564,MK673565,MK673565,MK673565,MK673565,MK673566,MK673566,MK673566,MK673566,MK673567,MK673567,MK673567,MK673567",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -904,10 +938,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673579,MK673580,MK673581,MK673582",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -915,10 +950,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673579,MK673580,MK673581,MK673582",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -926,10 +962,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673579,MK673580,MK673581,MK673582",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -937,10 +974,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673579,MK673580,MK673581,MK673582",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -948,10 +986,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673579,MK673580,MK673581,MK673582",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -959,10 +998,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673579,MK673579,MK673579,MK673579,MK673580,MK673580,MK673580,MK673580,MK673581,MK673581,MK673581,MK673581,MK673582,MK673582,MK673582,MK673582",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -970,10 +1010,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673589,MK673590,MK673591,MK673592",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -981,10 +1022,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673589,MK673590,MK673591,MK673592",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -992,10 +1034,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673589,MK673590,MK673591,MK673592",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1003,10 +1046,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673589,MK673590,MK673591,MK673592",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1014,10 +1058,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673589,MK673590,MK673591,MK673592",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1025,10 +1070,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673589,MK673589,MK673589,MK673589,MK673590,MK673590,MK673590,MK673590,MK673591,MK673591,MK673591,MK673591,MK673592,MK673592,MK673592,MK673592",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1036,10 +1082,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2007,
+        "IsolateYear": "2007",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
+        "Accessions": "FJ513078,FJ513079,FJ513080,FJ513081,FJ513078,FJ513079,FJ513080,FJ513081",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1047,10 +1094,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR820506,OR820507,OR820508,OR838347",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1058,10 +1106,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR820506,OR820507,OR820508,OR838347",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1069,10 +1118,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR820506,OR820507,OR820508,OR838347",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1080,10 +1130,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR820506,OR820506,OR820506,OR820506,OR820507,OR820507,OR820507,OR820507,OR820508,OR820508,OR820508,OR820508,OR838348",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1091,10 +1142,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR820506,OR820506,OR820506,OR820506,OR820507,OR820507,OR820507,OR820507,OR820508,OR820508,OR820508,OR820508,OR838348",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1102,10 +1154,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR820506,OR820506,OR820506,OR820506,OR820507,OR820507,OR820507,OR820507,OR820508,OR820508,OR820508,OR820508,OR838348",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1113,10 +1166,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673558,MK673559,MK673560,MK673561",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1124,10 +1178,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673558,MK673559,MK673560,MK673561",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1135,10 +1190,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673558,MK673559,MK673560,MK673561",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1146,10 +1202,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673558,MK673559,MK673560,MK673561",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1157,10 +1214,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673558,MK673559,MK673560,MK673561",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1168,10 +1226,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673558,MK673558,MK673558,MK673558,MK673559,MK673559,MK673559,MK673559,MK673560,MK673560,MK673560,MK673560,MK673561,MK673561,MK673561,MK673561",
         "#": 4,
         "Total": 362,
         "%": 1.1
@@ -1179,10 +1238,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Buchy (2014)",
+        "Accessions": "KM034753,KM034754,KM034755",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1190,10 +1250,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Cortes-Azuero (2024, 38682164)",
+        "Accessions": "OR762512,OR762513,OR762514",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1201,10 +1262,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2015,
+        "IsolateYear": "2015",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Cortes-Azuero (2024, 38682164)",
+        "Accessions": "OR762525,OR762528,OR762529",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1212,10 +1274,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MK577983,MK577984,MK577987",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1223,10 +1286,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW573862,MW573863,MW573864",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1234,10 +1298,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2020,
+        "IsolateYear": "2020",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW573878,MW573879,MW573880",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1245,10 +1310,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808858,JN808861,JN808862",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1256,10 +1322,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808859,JN808860,JN808864",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1267,10 +1334,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2022,
+        "IsolateYear": "2022",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981673,PP981674,PP981675",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1278,10 +1346,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2022,
+        "IsolateYear": "2022",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981673,PP981674,PP981675",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1289,10 +1358,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2022,
+        "IsolateYear": "2022",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981673,PP981674,PP981675",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1300,10 +1370,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2022,
+        "IsolateYear": "2022",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981673,PP981674,PP981675",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1311,10 +1382,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2022,
+        "IsolateYear": "2022",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981673,PP981674,PP981675",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1322,10 +1394,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2022,
+        "IsolateYear": "2022",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981673,PP981673,PP981673,PP981673,PP981674,PP981674,PP981674,PP981674,PP981675,PP981675,PP981675,PP981675",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1333,10 +1406,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR820506,OR820507,OR820508",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1344,10 +1418,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR820506,OR820507,OR820508",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1355,10 +1430,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR820506,OR820507,OR820508",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1366,10 +1442,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR820506,OR820507,OR820508",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1377,10 +1454,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR820506,OR820507,OR820508",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1388,76 +1466,83 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2023,
+        "IsolateYear": "2023",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR820506,OR820507,OR820508",
         "#": 3,
         "Total": 362,
         "%": 0.83
     },
     {
-        "Host": "Human and Pig *",
+        "Host": "Human and Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ564621,AJ564622,AJ564623",
         "#": 3,
         "Total": 362,
         "%": 0.83
     },
     {
-        "Host": "Human and Pig *",
+        "Host": "Human and Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ564621,AJ564622,AJ564623",
         "#": 3,
         "Total": 362,
         "%": 0.83
     },
     {
-        "Host": "Human and Pig *",
+        "Host": "Human and Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ564621,AJ564622,AJ564623",
         "#": 3,
         "Total": 362,
         "%": 0.83
     },
     {
-        "Host": "Human and Pig *",
+        "Host": "Human and Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ564621,AJ564622,AJ564623",
         "#": 3,
         "Total": 362,
         "%": 0.83
     },
     {
-        "Host": "Human and Pig *",
+        "Host": "Human and Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ564621,AJ564622,AJ564623",
         "#": 3,
         "Total": 362,
         "%": 0.83
     },
     {
-        "Host": "Human and Pig *",
+        "Host": "Human and Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ564621,AJ564622,AJ564623",
         "#": 3,
         "Total": 362,
         "%": 0.83
@@ -1465,10 +1550,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893186,PP893186,PP893187",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1476,10 +1562,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893188,PP893189",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1487,10 +1574,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2003,
+        "IsolateYear": "2003",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)",
+        "Accessions": "DQ061853,DQ061854",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1498,10 +1586,23 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2009,
+        "IsolateYear": "2005",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Wacharapluesadee (2010, 19402762)",
+        "Accessions": "EU603724,EU603725",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Bat",
+        "Country": "Thailand",
+        "IsolateYear": "2009",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW573860,MW573861",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1509,10 +1610,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2016,
+        "IsolateYear": "2016",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "NCBI (2020)",
+        "Accessions": "MT125112,MT125113",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1520,10 +1622,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2016,
+        "IsolateYear": "2016",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW573865,MW573866",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1531,10 +1634,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW573876,MW573877",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1542,10 +1646,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808857,JN808863",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1553,10 +1658,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808857,JN808863",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1564,10 +1670,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808857,JN808863",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1575,10 +1682,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808857,JN808863",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1586,10 +1694,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808857,JN808863",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1597,10 +1706,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808857,JN808857,JN808857,JN808857,JN808863,JN808863,JN808863,JN808863",
         "#": 2,
         "Total": 362,
         "%": 0.55
@@ -1608,692 +1718,539 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2017,
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Hossain (2024)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2017,
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Hossain (2024)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2017,
-        "Gene": "L",
-        "NumPublications": 1,
-        "Publications": "Hossain (2024)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2017,
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Hossain (2024)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2017,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Hossain (2024)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2017,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Rahman (2021, 33129964)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2017,
-        "Gene": "P",
-        "NumPublications": 1,
-        "Publications": "Hossain (2024)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2018,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Rahman (2021, 33129964)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Barnes (2017)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Barnes (2017)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "L",
-        "NumPublications": 1,
-        "Publications": "Barnes (2017)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Barnes (2017)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Barnes (2017)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "P",
-        "NumPublications": 1,
-        "Publications": "Barnes (2017)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Bangladesh",
-        "IsolateYear": 2014,
+        "IsolateYear": "2014",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hassan (2018, 29260663)",
+        "Accessions": "MF133374,MF133375",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2017",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Hossain (2024)",
+        "Accessions": "PP981664,PP981665",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2017",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Hossain (2024)",
+        "Accessions": "PP981664,PP981665",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2017",
+        "Gene": "L",
+        "NumPublications": 1,
+        "Publications": "Hossain (2024)",
+        "Accessions": "PP981664,PP981665",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2017",
+        "Gene": "M",
+        "NumPublications": 1,
+        "Publications": "Hossain (2024)",
+        "Accessions": "PP981664,PP981665",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2017",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Hossain (2024)",
+        "Accessions": "PP981664,PP981665",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2017",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Rahman (2021, 33129964)",
+        "Accessions": "MT890724,MT890727",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2017",
+        "Gene": "P",
+        "NumPublications": 1,
+        "Publications": "Hossain (2024)",
+        "Accessions": "PP981664,PP981664,PP981664,PP981664,PP981665,PP981665,PP981665,PP981665",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Bangladesh",
+        "IsolateYear": "2018",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Rahman (2021, 33129964)",
+        "Accessions": "MT890730,MT890731",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
+        "Accessions": "AY029767,AY029768",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
+        "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
+        "Accessions": "AY029767,AY029768",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
+        "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
+        "Accessions": "AY029767,AY029768",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
+        "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "L",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
+        "Accessions": "AY029767,AY029768",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
+        "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
+        "Accessions": "AY029767,AY029768",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
+        "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Chan (2001, 11514724)",
+        "Accessions": "AY029767,AY029767,AY029767,AY029768,AY029768,AY029768",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
+        "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1999",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Barnes (2017)",
+        "Accessions": "KY425646,KY425655",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Barnes (2017)",
+        "Accessions": "KY425646,KY425655",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "L",
+        "NumPublications": 1,
+        "Publications": "Barnes (2017)",
+        "Accessions": "KY425646,KY425655",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "M",
+        "NumPublications": 1,
+        "Publications": "Barnes (2017)",
+        "Accessions": "KY425646,KY425655",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Barnes (2017)",
+        "Accessions": "KY425646,KY425655",
+        "#": 2,
+        "Total": 362,
+        "%": 0.55
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
         "Gene": "P",
         "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
+        "Publications": "Barnes (2017)",
+        "Accessions": "KY425646,KY425646,KY425646,KY425646,KY425655,KY425655,KY425655,KY425655",
         "#": 2,
         "Total": 362,
         "%": 0.55
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2001, 11504554)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Anderson (2000, 10827955)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2001, 11504554)",
-        "#": 2,
-        "Total": 362,
-        "%": 0.55
-    },
-    {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "F",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "NCBI (2004)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "NCBI (2004)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "L",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "NCBI (2004)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "NCBI (2004)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "NCBI (2004)",
+        "Accessions": "NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "NC_002728,NC_002728,NC_002728,NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "P",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "NC_002728,NC_002728,NC_002728,NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Lo (2009, 19141449)",
+        "Accessions": "NC_002728,NC_002728,NC_002728,NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "293t cells, a human cell line *",
-        "Country": "Malaysia, Bangladesh *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "293t cells, a human cell line",
+        "Country": "Malaysia, Bangladesh",
+        "IsolateYear": "Not available",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "NCBI (2004)",
+        "Accessions": "NC_002728,NC_002728,NC_002728,NC_002728",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2301,10 +2258,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PQ368170",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2312,10 +2270,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PQ368170",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2323,10 +2282,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PQ368170",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2334,10 +2294,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PQ368170",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2345,10 +2306,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PQ368170",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2356,10 +2318,11 @@
     {
         "Host": "Bat",
         "Country": "Bangladesh",
-        "IsolateYear": 2012,
+        "IsolateYear": "2012",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PQ368170",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2367,10 +2330,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2003,
+        "IsolateYear": "2003",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
+        "Accessions": "MK801755",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2378,10 +2342,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2003,
+        "IsolateYear": "2003",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
+        "Accessions": "MK801755",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2389,10 +2354,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2003,
+        "IsolateYear": "2003",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
+        "Accessions": "MK801755",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2400,10 +2366,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2003,
+        "IsolateYear": "2003",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
+        "Accessions": "MK801755",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2411,10 +2378,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2003,
+        "IsolateYear": "2003",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
+        "Accessions": "MK801755",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2422,10 +2390,11 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2003,
+        "IsolateYear": "2003",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Gaudino (2020, 31855143)",
+        "Accessions": "MK801755",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2433,32 +2402,35 @@
     {
         "Host": "Bat",
         "Country": "Cambodia",
-        "IsolateYear": 2013,
+        "IsolateYear": "2003-2004",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Reynes (2005, 16022778)",
+        "Accessions": "AY858111",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": "2003-2004",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Reynes (2005, 16022778)",
+        "Accessions": "AY858110",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Bat",
+        "Country": "Cambodia",
+        "IsolateYear": "2013",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Cortes-Azuero (2024, 38682164)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Bat",
-        "Country": "Cambodia",
-        "IsolateYear": "2003-2004 *",
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Reynes (2005, 16022778)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Bat",
-        "Country": "Cambodia",
-        "IsolateYear": "2003-2004 *",
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Reynes (2005, 16022778)",
+        "Accessions": "OR762537",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2466,10 +2438,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
+        "Accessions": "JF899342",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2477,10 +2450,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
+        "Accessions": "JF899340",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2488,10 +2462,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
+        "Accessions": "JF899339",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2499,10 +2474,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2012, 22802440)",
+        "Accessions": "JF899341",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2510,10 +2486,11 @@
     {
         "Host": "Bat",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Yadav (2019, 31002049)",
+        "Accessions": "MK577982",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2521,10 +2498,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
+        "Accessions": "FN869553",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2532,10 +2510,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
+        "Accessions": "FN869553",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2543,10 +2522,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "SH (2009, https://www.neurology-asia.org/articles/20091_067.pdf)",
+        "Accessions": "HM545086",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2554,10 +2534,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
+        "Accessions": "FN869553",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2565,10 +2546,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "SH (2009, https://www.neurology-asia.org/articles/20091_067.pdf)",
+        "Accessions": "HM545088",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2576,10 +2558,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
+        "Accessions": "FN869553",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2587,10 +2570,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
+        "Accessions": "FN869553",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2598,10 +2582,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Rahman (2010, 21122240)",
+        "Accessions": "FN869553",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2609,10 +2594,11 @@
     {
         "Host": "Bat",
         "Country": "Malaysia",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "SH (2009, https://www.neurology-asia.org/articles/20091_067.pdf)",
+        "Accessions": "HM545087",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2620,10 +2606,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893186,PP893186",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2631,10 +2618,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893186",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2642,10 +2630,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893186",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2653,10 +2642,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893186",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2664,10 +2654,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893186",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2675,10 +2666,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893188",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2686,10 +2678,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893188",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2697,10 +2690,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893188",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2708,10 +2702,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893188",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2719,10 +2714,11 @@
     {
         "Host": "Bat",
         "Country": "Sri Lanka",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Claudia (2024, https://www.biorxiv.org/content/10.1101/2024.07.31.605971v1)",
+        "Accessions": "PP893188",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2730,10 +2726,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2002,
+        "IsolateYear": "2002",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)",
+        "Accessions": "DQ061851",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2741,10 +2738,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2017,
+        "IsolateYear": "2017",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW535746",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2752,10 +2750,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2017,
+        "IsolateYear": "2017",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW535746",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2763,10 +2762,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2017,
+        "IsolateYear": "2017",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW535746",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2774,10 +2774,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2017,
+        "IsolateYear": "2017",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW535746",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2785,10 +2786,11 @@
     {
         "Host": "Bat",
         "Country": "Thailand",
-        "IsolateYear": 2017,
+        "IsolateYear": "2017",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Wacharapluesadee (2021, 34218820)",
+        "Accessions": "MW535746,MW535746,MW535746,MW535746",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2796,10 +2798,11 @@
     {
         "Host": "Dog",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673563",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2807,10 +2810,11 @@
     {
         "Host": "Dog",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673563",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2818,10 +2822,11 @@
     {
         "Host": "Dog",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673563",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2829,10 +2834,11 @@
     {
         "Host": "Dog",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673563",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2840,10 +2846,11 @@
     {
         "Host": "Dog",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673563",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2851,21 +2858,59 @@
     {
         "Host": "Dog",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1999",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673563,MK673563,MK673563,MK673563",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "Host": "Dog and Human and Pig",
+        "Country": "Malaysia, Singapore",
+        "IsolateYear": "1998-1999",
         "Gene": "F",
         "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
+        "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF238466",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Dog and Human and Pig",
+        "Country": "Malaysia, Singapore",
+        "IsolateYear": "1998-1999",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Harcourt (2000, 10860887)",
+        "Accessions": "AF238466",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Dog and Human and Pig",
+        "Country": "Malaysia, Singapore",
+        "IsolateYear": "1998-1999",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF238467",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Dog and Human and Pig",
+        "Country": "Malaysia, Singapore",
+        "IsolateYear": "1998-1999",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Harcourt (2000, 10860887)",
+        "Accessions": "AF238467",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2873,10 +2918,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
+        "Accessions": "AY988601",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2884,21 +2930,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
-        "Gene": "G",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
+        "Accessions": "AY988601",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2906,21 +2942,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
-        "Gene": "L",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
+        "Accessions": "AY988601",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2928,21 +2954,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
+        "Accessions": "AY988601",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2950,21 +2966,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
+        "Accessions": "AY988601",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2972,21 +2978,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2004,
-        "Gene": "P",
-        "NumPublications": 1,
-        "Publications": "Gaudino (2020, 31855143)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human",
-        "Country": "Bangladesh",
-        "IsolateYear": 2004,
+        "IsolateYear": "2004",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Harcourt (2005, 16318702)",
+        "Accessions": "AY988601,AY988601,AY988601,AY988601",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -2994,10 +2990,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673568",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3005,10 +3002,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673568",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3016,10 +3014,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673568",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3027,10 +3026,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673568",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3038,10 +3038,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673568",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3049,10 +3050,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2008,
+        "IsolateYear": "2008",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673568,MK673568,MK673568,MK673568",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3060,10 +3062,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808864",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3071,10 +3074,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808864",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3082,10 +3086,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808864",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3093,10 +3098,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808864",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3104,10 +3110,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2010,
+        "IsolateYear": "2010",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Lo (2012, 22304936)",
+        "Accessions": "JN808864,JN808864,JN808864,JN808864",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3115,10 +3122,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673583",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3126,10 +3134,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673583",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3137,10 +3146,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673583",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3148,10 +3158,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673583",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3159,10 +3170,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673583",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3170,10 +3182,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2013,
+        "IsolateYear": "2013",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673583,MK673583,MK673583,MK673583",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3181,10 +3194,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981666",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3192,10 +3206,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981666",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3203,10 +3218,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981666",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3214,10 +3230,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981666",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3225,10 +3242,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981666",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3236,10 +3254,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981666,PP981666,PP981666,PP981666",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3247,10 +3266,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981667",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3258,10 +3278,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981667",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3269,10 +3290,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981667",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3280,10 +3302,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981667",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3291,10 +3314,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981667",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3302,10 +3326,11 @@
     {
         "Host": "Human",
         "Country": "Bangladesh",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Hossain (2024)",
+        "Accessions": "PP981667,PP981667,PP981667,PP981667",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3313,10 +3338,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2007,
+        "IsolateYear": "2007",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
+        "Accessions": "FJ513078,FJ513078",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3324,10 +3350,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2007,
+        "IsolateYear": "2007",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
+        "Accessions": "FJ513078,FJ513078",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3335,10 +3362,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2007,
+        "IsolateYear": "2007",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
+        "Accessions": "FJ513078,FJ513078",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3346,10 +3374,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2007,
+        "IsolateYear": "2007",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
+        "Accessions": "FJ513078,FJ513078",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3357,10 +3386,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2007,
+        "IsolateYear": "2007",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Arankalle (2011, 21529409)",
+        "Accessions": "FJ513078,FJ513078",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3368,10 +3398,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
+        "Accessions": "MH891776",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3379,10 +3410,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
+        "Accessions": "MH891777",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3390,10 +3422,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
+        "Accessions": "MH891778",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3401,10 +3434,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
+        "Accessions": "MH891775",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3412,10 +3446,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
+        "Accessions": "MH891773",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3423,10 +3458,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2018,
+        "IsolateYear": "2018",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Arunkumar (2019, 30364984)",
+        "Accessions": "MH891774,MH891774",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3434,10 +3470,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3445,10 +3482,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3456,10 +3494,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3467,10 +3506,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3478,10 +3518,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3489,10 +3530,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3500,10 +3542,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3511,10 +3554,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3522,10 +3566,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3533,10 +3578,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3544,10 +3590,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3555,10 +3602,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3566,10 +3614,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3577,10 +3626,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3588,10 +3638,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3599,10 +3650,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OR130496,OR130496,OR130496,OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3610,10 +3662,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OR130496,OR130496,OR130496,OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3621,10 +3674,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2019,
+        "IsolateYear": "2019",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OR130496,OR130496,OR130496,OR130496",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3632,10 +3686,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3643,10 +3698,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3654,10 +3710,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3665,10 +3722,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3676,10 +3734,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3687,10 +3746,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3698,10 +3758,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3709,10 +3770,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3720,10 +3782,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3731,10 +3794,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3742,10 +3806,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3753,10 +3818,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3764,10 +3830,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3775,10 +3842,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3786,10 +3854,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3797,10 +3866,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "As (2024, 38529536)",
+        "Accessions": "OM135495,OM135495,OM135495,OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3808,10 +3878,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Balasubramanian (2024, 38511004)",
+        "Accessions": "OM135495,OM135495,OM135495,OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3819,10 +3890,11 @@
     {
         "Host": "Human",
         "Country": "India",
-        "IsolateYear": 2021,
+        "IsolateYear": "2021",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Yadav (2022, 35252095)",
+        "Accessions": "OM135495,OM135495,OM135495,OM135495",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3830,10 +3902,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1998,
+        "IsolateYear": "1998",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Peng (2024)",
+        "Accessions": "PQ463988",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3841,10 +3914,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1998,
+        "IsolateYear": "1998",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Peng (2024)",
+        "Accessions": "PQ463988",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3852,10 +3926,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1998,
+        "IsolateYear": "1998",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Peng (2024)",
+        "Accessions": "PQ463988",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3863,10 +3938,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1998,
+        "IsolateYear": "1998",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Peng (2024)",
+        "Accessions": "PQ463988",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3874,10 +3950,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1998,
+        "IsolateYear": "1998",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Peng (2024)",
+        "Accessions": "PQ463988",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3885,10 +3962,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1998,
+        "IsolateYear": "1998",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Peng (2024)",
+        "Accessions": "PQ463988",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3896,10 +3974,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1998-1999",
         "Gene": "F",
         "NumPublications": 1,
-        "Publications": "Whitmer (2021, 34422315)",
+        "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3907,10 +3986,23 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
+        "IsolateYear": "1998-1999",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "AF212302",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "G",
         "NumPublications": 1,
-        "Publications": "Whitmer (2021, 34422315)",
+        "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3918,10 +4010,11 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "L",
+        "IsolateYear": "1998-1999",
+        "Gene": "G",
         "NumPublications": 1,
-        "Publications": "Whitmer (2021, 34422315)",
+        "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -3929,164 +4022,167 @@
     {
         "Host": "Human",
         "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Whitmer (2021, 34422315)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Whitmer (2021, 34422315)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human",
-        "Country": "Malaysia",
-        "IsolateYear": 1999,
-        "Gene": "P",
-        "NumPublications": 1,
-        "Publications": "Whitmer (2021, 34422315)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "L",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "M",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "N",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Anderson (2000, 10827955)",
+        "Accessions": "AF212302,AF212302,AF212302",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
-        "Gene": "P",
-        "NumPublications": 1,
-        "Publications": "Harcourt (2000, 10860887)",
-        "#": 1,
-        "Total": 362,
-        "%": 0.28
-    },
-    {
-        "Host": "Human *",
-        "Country": "Malaysia *",
-        "IsolateYear": "1998-1999 *",
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1998-1999",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Harcourt (2001, 11504554)",
+        "Accessions": "AF212302,AF212302,AF212302",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "F",
+        "NumPublications": 1,
+        "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673562",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "G",
+        "NumPublications": 1,
+        "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673562",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "L",
+        "NumPublications": 1,
+        "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673562",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "M",
+        "NumPublications": 1,
+        "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673562",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "N",
+        "NumPublications": 1,
+        "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673562",
+        "#": 1,
+        "Total": 362,
+        "%": 0.28
+    },
+    {
+        "Host": "Human",
+        "Country": "Malaysia",
+        "IsolateYear": "1999",
+        "Gene": "P",
+        "NumPublications": 1,
+        "Publications": "Whitmer (2021, 34422315)",
+        "Accessions": "MK673562,MK673562,MK673562,MK673562",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -4094,10 +4190,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ627196",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -4105,10 +4202,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ627196",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -4116,10 +4214,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "L",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ627196",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -4127,10 +4226,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ627196",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -4138,10 +4238,11 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ627196",
         "#": 1,
         "Total": 362,
         "%": 0.28
@@ -4149,65 +4250,71 @@
     {
         "Host": "Pig",
         "Country": "Malaysia",
-        "IsolateYear": "1998-1999 *",
+        "IsolateYear": "1998-1999",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "AbuBakar (2004, 15663869)",
+        "Accessions": "AJ627196",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "island flying foxes (pteropus hypomelanus) *",
+        "Host": "island flying foxes (pteropus hypomelanus)",
         "Country": "Malaysia",
-        "IsolateYear": "1999-2000 *",
+        "IsolateYear": "1999-2000",
         "Gene": "F",
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
+        "Accessions": "AF376747",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "island flying foxes (pteropus hypomelanus) *",
+        "Host": "island flying foxes (pteropus hypomelanus)",
         "Country": "Malaysia",
-        "IsolateYear": "1999-2000 *",
+        "IsolateYear": "1999-2000",
         "Gene": "G",
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
+        "Accessions": "AF376747",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "island flying foxes (pteropus hypomelanus) *",
+        "Host": "island flying foxes (pteropus hypomelanus)",
         "Country": "Malaysia",
-        "IsolateYear": "1999-2000 *",
+        "IsolateYear": "1999-2000",
         "Gene": "M",
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
+        "Accessions": "AF376747",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "island flying foxes (pteropus hypomelanus) *",
+        "Host": "island flying foxes (pteropus hypomelanus)",
         "Country": "Malaysia",
-        "IsolateYear": "1999-2000 *",
+        "IsolateYear": "1999-2000",
         "Gene": "N",
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
+        "Accessions": "AF376747",
         "#": 1,
         "Total": 362,
         "%": 0.28
     },
     {
-        "Host": "island flying foxes (pteropus hypomelanus) *",
+        "Host": "island flying foxes (pteropus hypomelanus)",
         "Country": "Malaysia",
-        "IsolateYear": "1999-2000 *",
+        "IsolateYear": "1999-2000",
         "Gene": "P",
         "NumPublications": 1,
         "Publications": "Chua (2002, 11880045)",
+        "Accessions": "AF376747,AF376747,AF376747",
         "#": 1,
         "Total": 362,
         "%": 0.28

@@ -1,11 +1,18 @@
+- [Isolate Metadata Summary](#isolate.metadata.summary)
 - [Paired submission sets and publications](#paired.submission.sets.and.publications)
 - [Submission sets without publications](#submission.sets.without.publications)
 - [Publications without submission sets](#publications.without.submission.sets)
-- [Isolate Metadata Summary](#isolate.metadata.summary)
 - [Phylogenetic tree](#phylogenetic.tree)
     - [L gene](#l.gene)
     - [N gene](#n.gene)
-    - [Phylogenetic studies](#phylogenetic.studies)
+    - [Published phylogenetic studies](#phylogenetic.studies)
+
+## Isolate Metadata Summary
+
+
+[table compact, lastCompact]
+metadata_summary
+[/table]
 
 
 ## Paired submission sets and publications
@@ -28,15 +35,10 @@ noref
 [/table]
 
 
-## Isolate Metadata Summary
-
-
-[table compact, lastCompact]
-metadata_summary
-[/table]
-
 
 ## Phylogenetic tree
+
+Each sequence was aligned to the reference nucleic acid sequence using Viral MSA with Minimap2. IQTree2 was used to create a maximum likelihood tree using a general time reversible + gamma distribution. The R library ggtree was used to draw the figures.
 
 ### L gene
 
@@ -47,7 +49,7 @@ metadata_summary
 ![](https://cms.hivdb.org/prod/downloads/pgl/Nipah/N_gene-1.png#!maxWidth=80rem)
 
 
-#### Phylogenetic studies
+#### Published phylogenetic studies
 
 
 -  de Campos, G.M.; Cella, E.; Kashima, S.; Alcântara, L.C.J.; Sampaio, S.C.; Elias, M.C.; Giovanetti, M.; Slavov, S.N. Updated Insights into the Phylogenetics, Phylodynamics, and Genetic Diversity of Nipah Virus (NiV). Viruses 2024, 16, 171, doi:10.3390/v16020171.

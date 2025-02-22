@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "Accession": "NC_002728",
+        "Country": "Malaysia, Bangladesh *",
+        "RecordYear": 2018,
+        "IsolateYear": "Not available",
+        "Host": "293t cells, a human cell line *",
+        "Specimen": "virus-infected cell lysates *",
+        "IsolateName": "",
+        "SeqLength": 18246,
+        "NonClinical": ""
+    }
+]

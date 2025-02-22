@@ -506,6 +506,50 @@
         "NonClinical": ""
     },
     {
+        "Accession": "HQ688675",
+        "Country": "Sierra Leone *",
+        "RecordYear": 2011,
+        "IsolateYear": "Not available",
+        "Host": "recombinant *",
+        "Specimen": "cell cultures *",
+        "IsolateName": "recombinant Josiah",
+        "SeqLength": 7285,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "HQ688674",
+        "Country": "Sierra Leone *",
+        "RecordYear": 2011,
+        "IsolateYear": "Not available",
+        "Host": "recombinant *",
+        "Specimen": "cell cultures *",
+        "IsolateName": "Josiah",
+        "SeqLength": 7285,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "HQ688673",
+        "Country": "Sierra Leone *",
+        "RecordYear": 2011,
+        "IsolateYear": "Not available",
+        "Host": "recombinant *",
+        "Specimen": "cell cultures *",
+        "IsolateName": "recombinant Josiah",
+        "SeqLength": 3401,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "HQ688672",
+        "Country": "Sierra Leone *",
+        "RecordYear": 2011,
+        "IsolateYear": "Not available",
+        "Host": "recombinant *",
+        "Specimen": "cell cultures *",
+        "IsolateName": "Josiah",
+        "SeqLength": 3401,
+        "NonClinical": ""
+    },
+    {
         "Accession": "AY628208",
         "Country": "Not available",
         "RecordYear": 2004,
@@ -602,6 +646,72 @@
         "Specimen": "Not available",
         "IsolateName": "Macenta",
         "SeqLength": 7280,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AJ969409",
+        "Country": "Nigeria",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "PA",
+        "SeqLength": 628,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AJ969408",
+        "Country": "Nigeria",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "SA",
+        "SeqLength": 553,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AJ969407",
+        "Country": "Nigeria",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "LP",
+        "SeqLength": 737,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AJ969406",
+        "Country": "Liberia",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Rodent",
+        "Specimen": "Rodent",
+        "IsolateName": "523",
+        "SeqLength": 612,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AJ969405",
+        "Country": "Nigeria",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "PB1",
+        "SeqLength": 611,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AJ969404",
+        "Country": "Sierra Leone",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Rodent",
+        "Specimen": "Rodent",
+        "IsolateName": "331",
+        "SeqLength": 743,
         "NonClinical": ""
     },
     {

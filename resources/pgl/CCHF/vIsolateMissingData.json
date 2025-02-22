@@ -308,6 +308,72 @@
         "NonClinical": ""
     },
     {
+        "Accession": "AF481807",
+        "Country": "Russia",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "VLG/HU29662",
+        "SeqLength": 436,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AF481805",
+        "Country": "Russia",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "TADJ/HU8966",
+        "SeqLength": 220,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AF481804",
+        "Country": "Russia",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "ASTR/TI28870",
+        "SeqLength": 220,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AF481803",
+        "Country": "Russia",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "ASTR/TI28832",
+        "SeqLength": 220,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AF481801",
+        "Country": "Russia",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "ASTR/TI28870",
+        "SeqLength": 467,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AF481800",
+        "Country": "Russia",
+        "RecordYear": 2016,
+        "IsolateYear": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "ASTR/TI28832",
+        "SeqLength": 467,
+        "NonClinical": ""
+    },
+    {
         "Accession": "KC880335",
         "Country": "South Africa",
         "RecordYear": 2013,
@@ -462,6 +528,28 @@
         "NonClinical": ""
     },
     {
+        "Accession": "AY277672",
+        "Country": "Russia",
+        "RecordYear": 2003,
+        "IsolateYear": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "ROS/TI28044",
+        "SeqLength": 1673,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AF481802",
+        "Country": "Russia",
+        "RecordYear": 2004,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "STV/HU29223",
+        "SeqLength": 1674,
+        "NonClinical": ""
+    },
+    {
         "Accession": "DQ227496",
         "Country": "China",
         "RecordYear": 2005,
@@ -503,6 +591,28 @@
         "Specimen": "Not available",
         "IsolateName": "Matin",
         "SeqLength": 12168,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AF481799",
+        "Country": "Russia",
+        "RecordYear": 2004,
+        "IsolateYear": "Not available",
+        "Host": "Tick",
+        "Specimen": "Tick",
+        "IsolateName": "Uzbek/TI10145",
+        "SeqLength": 1672,
+        "NonClinical": ""
+    },
+    {
+        "Accession": "AY277676",
+        "Country": "Bulgaria",
+        "RecordYear": 2004,
+        "IsolateYear": "Not available",
+        "Host": "Human",
+        "Specimen": "Human",
+        "IsolateName": "Bul/HU517",
+        "SeqLength": 1673,
         "NonClinical": ""
     }
 ]

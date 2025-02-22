@@ -28,6 +28,8 @@ tables:
       _resource: pgl/Lassa/vGPMatchedNoRef.json
   metadata_summary:
     columnDefs:
+    - name: Publications
+      label: Publications
     - name: Host
       label: Host
     - name: Country
@@ -38,8 +40,6 @@ tables:
       label: Gene
     - name: "#"
       label: NumSeq
-    - name: Publications
-      label: Publications
     data:
       _resource: pgl/Lassa/vIsolateMetadataSummary.json
   isolate_missing_data:

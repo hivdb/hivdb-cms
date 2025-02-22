@@ -30,13 +30,6 @@
     {
         "RefID": 12,
         "SubmissionSet": "Olival (2019, 31652377). Population genetics of fruit bat reservoir informs the dynamics, distribution, and diversity of Nipah virus; Olival K., Latinne A., Islam A., Epstein J., Hersch R., Engstrand R., Gurley E., Amato G., Luby S., Daszak P.; Mol. Ecol. (2019) In press; [N (19)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MK995284\"%5BACCN%5D%20OR%20\"MK995285\"%5BACCN%5D%20OR%20\"MK995286\"%5BACCN%5D%20OR%20\"MK995287\"%5BACCN%5D%20OR%20\"MK995288\"%5BACCN%5D%20OR%20\"MK995289\"%5BACCN%5D%20OR%20\"MK995290\"%5BACCN%5D%20OR%20\"MK995291\"%5BACCN%5D%20OR%20\"MK995292\"%5BACCN%5D%20OR%20\"MK995293\"%5BACCN%5D%20OR%20\"MK995294\"%5BACCN%5D%20OR%20\"MK995295\"%5BACCN%5D%20OR%20\"MK995296\"%5BACCN%5D%20OR%20\"MK995297\"%5BACCN%5D%20OR%20\"MK995298\"%5BACCN%5D%20OR%20\"MK995299\"%5BACCN%5D%20OR%20\"MK995300\"%5BACCN%5D%20OR%20\"MK995301\"%5BACCN%5D%20OR%20\"MK995302\"%5BACCN%5D)",
-        "PubID": 8,
-        "Publication": "Epstein (2020, 33139552). Nipah virus dynamics in bats and implications for spillover to humans.; Epstein JH; Anthony SJ; Islam A; Kilpatrick AM; Ali Khan S; Balkey MD; Ross N; Smith I; Zambrana-Torrelio C; Tao Y; Quan PL; Olival KJ; Khan MSU; Gurley ES; Hossein MJ; Field HE; Fielder MD; Briese T; Rahman M; Broder CC; Crameri G; Wang LF; Luby SP; Lipkin WI; Daszak P; Proc Natl Acad Sci U S A",
-        "ShortName": "Epstein (2020, 33139552)"
-    },
-    {
-        "RefID": 12,
-        "SubmissionSet": "Olival (2019, 31652377). Population genetics of fruit bat reservoir informs the dynamics, distribution, and diversity of Nipah virus; Olival K., Latinne A., Islam A., Epstein J., Hersch R., Engstrand R., Gurley E., Amato G., Luby S., Daszak P.; Mol. Ecol. (2019) In press; [N (19)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"MK995284\"%5BACCN%5D%20OR%20\"MK995285\"%5BACCN%5D%20OR%20\"MK995286\"%5BACCN%5D%20OR%20\"MK995287\"%5BACCN%5D%20OR%20\"MK995288\"%5BACCN%5D%20OR%20\"MK995289\"%5BACCN%5D%20OR%20\"MK995290\"%5BACCN%5D%20OR%20\"MK995291\"%5BACCN%5D%20OR%20\"MK995292\"%5BACCN%5D%20OR%20\"MK995293\"%5BACCN%5D%20OR%20\"MK995294\"%5BACCN%5D%20OR%20\"MK995295\"%5BACCN%5D%20OR%20\"MK995296\"%5BACCN%5D%20OR%20\"MK995297\"%5BACCN%5D%20OR%20\"MK995298\"%5BACCN%5D%20OR%20\"MK995299\"%5BACCN%5D%20OR%20\"MK995300\"%5BACCN%5D%20OR%20\"MK995301\"%5BACCN%5D%20OR%20\"MK995302\"%5BACCN%5D)",
         "PubID": 36,
         "Publication": "Amato (2019, 31652377). Population genetics of fruit bat reservoir informs the dynamics, and diversity of Nipah virus, distribution; Amato G., Anthony S., Briese T., Broder C., Crameri G., Daszak P., Engstrand R., Epstein J., Field H., Fielder M., Gurley E., Hersch R., Hossein M., Islam A., Khan M., Khan S., Kilpatrick A., Latinne A., Lipkin W., Luby S., Olival K., Quan P., Rahman M., Ross N., Sanchez M., Smith I., Tao Y., Wang L., Zambrana-torrelio C.; 460 West 34th street, EcoHealth Alliance, Mol. Ecol. (2019) In press, NY 10001, New York, USA",
         "ShortName": "Amato (2019, 31652377)"
@@ -70,13 +63,6 @@
         "ShortName": "Chan (2001, 11514724)"
     },
     {
-        "RefID": 22,
-        "SubmissionSet": "Chan (2001, 11514724). Complete nucleotide sequences of nipah virus isolates from malaysia; Chan Y., Chua K., Koh C., Lam S., Lim M.;  Department of Medical Microbiology, University of Malaya, Faculty of Medicine, Kuala Lumpur, F.T. 50603, Malaysia, J. Gen. Virol. 82 (Pt 9), 2151-2155 (2001); [F (2), G (2), L (2), M (2), N (2), P (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY029767\"%5BACCN%5D%20OR%20\"AY029767\"%5BACCN%5D%20OR%20\"AY029767\"%5BACCN%5D%20OR%20\"AY029767\"%5BACCN%5D%20OR%20\"AY029767\"%5BACCN%5D%20OR%20\"AY029767\"%5BACCN%5D%20OR%20\"AY029768\"%5BACCN%5D%20OR%20\"AY029768\"%5BACCN%5D%20OR%20\"AY029768\"%5BACCN%5D%20OR%20\"AY029768\"%5BACCN%5D%20OR%20\"AY029768\"%5BACCN%5D%20OR%20\"AY029768\"%5BACCN%5D)",
-        "PubID": 32,
-        "Publication": "Gaudino (2020, 31855143). High Pathogenicity of Nipah Virus from Pteropus lylei Fruit Bats, Cambodia.; Gaudino M; Aurine N; Dumont C; Fouret J; Ferren M; Mathieu C; Reynard O; Volchkov VE; Legras-Lachuer C; Georges-Courbot MC; Horvat B; Emerg Infect Dis",
-        "ShortName": "Gaudino (2020, 31855143)"
-    },
-    {
         "RefID": 23,
         "SubmissionSet": "Chang (2010). Characterization of nipah virus from naturally infected pteropus vampyrus bats, malaysia; Chang L., Daszak P., Epstein J., Field H., Hassan L., Hassan S., Henipavirus ecology research G., Mamat Z., Mohamed M., Naim M., Olival K., Rahman S., Saad N., Shohaimi S., Suri A.;  Chang L.Y., Medical Microbiology, University Malaya, Faculty of Medicine, 50603, MALAYSIA, Emerg. Infect. Dis. 16 (12), 1990-1993 (2010); [F (1), G (1), L (1), M (1), N (1), P (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"FN869553\"%5BACCN%5D%20OR%20\"FN869553\"%5BACCN%5D%20OR%20\"FN869553\"%5BACCN%5D%20OR%20\"FN869553\"%5BACCN%5D%20OR%20\"FN869553\"%5BACCN%5D%20OR%20\"FN869553\"%5BACCN%5D)",
         "PubID": 20,
@@ -105,32 +91,11 @@
         "ShortName": "Harcourt (2005, 16318702)"
     },
     {
-        "RefID": 28,
-        "SubmissionSet": "Bankamp (2005, 16318702). Genetic characterization of nipah virus, bangladesh, 2004; Bankamp B., Bellini W., Bowden N., Breiman R., Comer J., Gurley E., Harcourt B., Hossain J., Hossain M., Ksiazek T., Liu X., Lowe L., Rollin P., Rota P., Tamin A.;  Division of Viral and Rickettsial Diseases, Centers for Disease Control and Prevention, 1600 Clifton Rd., Mail Stop C-22, Atlanta, GA 30333, USA, Emerging Infect. Dis. 11 (10), 1594-1597 (2005); [F (1), G (1), L (1), M (1), N (1), P (1)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AY988601\"%5BACCN%5D%20OR%20\"AY988601\"%5BACCN%5D%20OR%20\"AY988601\"%5BACCN%5D%20OR%20\"AY988601\"%5BACCN%5D%20OR%20\"AY988601\"%5BACCN%5D%20OR%20\"AY988601\"%5BACCN%5D)",
-        "PubID": 32,
-        "Publication": "Gaudino (2020, 31855143). High Pathogenicity of Nipah Virus from Pteropus lylei Fruit Bats, Cambodia.; Gaudino M; Aurine N; Dumont C; Fouret J; Ferren M; Mathieu C; Reynard O; Volchkov VE; Legras-Lachuer C; Georges-Courbot MC; Horvat B; Emerg Infect Dis",
-        "ShortName": "Gaudino (2020, 31855143)"
-    },
-    {
         "RefID": 29,
         "SubmissionSet": "Bellini (2001, 11504554). Molecular characterization of the polymerase gene and genomic termini of nipah virus; Bellini W., Halpin K., Harcourt B., Ksiazek T., Rollin P., Rota P., Tamin A.; Virology 287 (1), 192-201 (2001); [F (2), G (2), L (2), M (2), N (2), P (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D)",
         "PubID": 29,
         "Publication": "Harcourt (2001, 11504554). Molecular characterization of the polymerase gene and genomic termini of Nipah virus.; Harcourt BH; Tamin A; Halpin K; Ksiazek TG; Rollin PE; Bellini WJ; Rota PA; Virology",
         "ShortName": "Harcourt (2001, 11504554)"
-    },
-    {
-        "RefID": 29,
-        "SubmissionSet": "Bellini (2001, 11504554). Molecular characterization of the polymerase gene and genomic termini of nipah virus; Bellini W., Halpin K., Harcourt B., Ksiazek T., Rollin P., Rota P., Tamin A.; Virology 287 (1), 192-201 (2001); [F (2), G (2), L (2), M (2), N (2), P (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D)",
-        "PubID": 30,
-        "Publication": "Harcourt (2000, 10860887). Molecular characterization of Nipah virus, a newly emergent paramyxovirus.; Harcourt BH; Tamin A; Ksiazek TG; Rollin PE; Anderson LJ; Bellini WJ; Rota PA; Virology",
-        "ShortName": "Harcourt (2000, 10860887)"
-    },
-    {
-        "RefID": 29,
-        "SubmissionSet": "Bellini (2001, 11504554). Molecular characterization of the polymerase gene and genomic termini of nipah virus; Bellini W., Halpin K., Harcourt B., Ksiazek T., Rollin P., Rota P., Tamin A.; Virology 287 (1), 192-201 (2001); [F (2), G (2), L (2), M (2), N (2), P (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D)",
-        "PubID": 35,
-        "Publication": "Anderson (2000, 10827955). Nipah virus: a recently emergent deadly paramyxovirus; Anderson L., Bellini W., Chua K., Daniels P., Eaton B., Field H., Goldsmith C., Gould A., Gubler D., Halpin K., Harcourt B., Ksiazek T., Lam S., Ling A., Mahy B., Olson J., Peters C., Roehrig J., Rollin P., Rota P., Shieh W., Tamin A., Zaki S.; 1432-1435 (2000), 1600 Clifton Rd., Atlanta, Centers for Disease Control and Prevention, GA 30333, MS-C-22, Measles Virus Section, Science 288 (5470), USA",
-        "ShortName": "Anderson (2000, 10827955)"
     },
     {
         "RefID": 30,
@@ -182,32 +147,11 @@
         "ShortName": "Wacharapluesadee (2010, 19402762)"
     },
     {
-        "RefID": 37,
-        "SubmissionSet": "Boongird (2010, 19402762). A longitudinal study of the prevalence of nipah virus in pteropus lylei bats in thailand: evidence for seasonal preference in disease transmission, A longitudinal study of the prevalence of nipah virus in pteropus lylei bats in thailand: evidence of seasonal preference in disease transmission; Boongird K., Gongal G., Hemachudha T., Ratanasetyuth N., Saengsen D., Supavonwong P., Wacharapluesadee S., Wanghongsa S.;  Medicine, Chulalongkorn University, Rama4, Bangkok, Bangkok 10330, Thailand, Unpublished, Vector Borne Zoonotic Dis. 10 (2), 183-190 (2010); [N (39)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EU603724\"%5BACCN%5D%20OR%20\"EU603725\"%5BACCN%5D%20OR%20\"EU603726\"%5BACCN%5D%20OR%20\"EU603727\"%5BACCN%5D%20OR%20\"EU603728\"%5BACCN%5D%20OR%20\"EU603729\"%5BACCN%5D%20OR%20\"EU603730\"%5BACCN%5D%20OR%20\"EU603731\"%5BACCN%5D%20OR%20\"EU603732\"%5BACCN%5D%20OR%20\"EU603733\"%5BACCN%5D%20OR%20\"EU603734\"%5BACCN%5D%20OR%20\"EU603735\"%5BACCN%5D%20OR%20\"EU603736\"%5BACCN%5D%20OR%20\"EU603737\"%5BACCN%5D%20OR%20\"EU603738\"%5BACCN%5D%20OR%20\"EU603739\"%5BACCN%5D%20OR%20\"EU603740\"%5BACCN%5D%20OR%20\"EU603741\"%5BACCN%5D%20OR%20\"EU603742\"%5BACCN%5D%20OR%20\"EU603743\"%5BACCN%5D%20OR%20\"EU603744\"%5BACCN%5D%20OR%20\"EU603745\"%5BACCN%5D%20OR%20\"EU603746\"%5BACCN%5D%20OR%20\"EU603747\"%5BACCN%5D%20OR%20\"EU603748\"%5BACCN%5D%20OR%20\"EU603749\"%5BACCN%5D%20OR%20\"EU603750\"%5BACCN%5D%20OR%20\"EU603751\"%5BACCN%5D%20OR%20\"EU603752\"%5BACCN%5D%20OR%20\"EU603753\"%5BACCN%5D%20OR%20\"EU603754\"%5BACCN%5D%20OR%20\"EU603755\"%5BACCN%5D%20OR%20\"EU603756\"%5BACCN%5D%20OR%20\"EU603757\"%5BACCN%5D%20OR%20\"EU603758\"%5BACCN%5D%20OR%20\"EU620498\"%5BACCN%5D%20OR%20\"EU624735\"%5BACCN%5D%20OR%20\"EU624736\"%5BACCN%5D%20OR%20\"EU624737\"%5BACCN%5D)",
-        "PubID": 38,
-        "Publication": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244). Genetic characterization of Nipah virus from Thai fruit bats (Pteropus lylei); Supaporn Wacharapluesadee, Thongchai Ngamprasertwong, Thongchai Kaewpom, Peerapat Kattong, Apaporn Rodpan, Sawai Wanghongsa and Thiravat Hemachudha; Asian Biomedicine",
-        "ShortName": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)"
-    },
-    {
-        "RefID": 38,
-        "SubmissionSet": "Hemachudha (2007, 17184850). Duplex nested rt-pcr for detection of nipah virus rna from urine specimens of bats; Hemachudha T., Wacharapluesadee S.;  Medicine, Chulalongkorn University, Rama4, Bangkok 10330, Thailand, J. Virol. Methods 141 (1), 97-101 (2007); [N (9)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EF070182\"%5BACCN%5D%20OR%20\"EF070183\"%5BACCN%5D%20OR%20\"EF070184\"%5BACCN%5D%20OR%20\"EF070185\"%5BACCN%5D%20OR%20\"EF070186\"%5BACCN%5D%20OR%20\"EF070187\"%5BACCN%5D%20OR%20\"EF070188\"%5BACCN%5D%20OR%20\"EF070189\"%5BACCN%5D%20OR%20\"EF070190\"%5BACCN%5D)",
-        "PubID": 21,
-        "Publication": "Wacharapluesadee (2010, 19402762). A longitudinal study of the prevalence of Nipah virus in Pteropus lylei bats in Thailand: evidence for seasonal preference in disease transmission.; Wacharapluesadee S; Boongird K; Wanghongsa S; Ratanasetyuth N; Supavonwong P; Saengsen D; Gongal GN; Hemachudha T; Vector Borne Zoonotic Dis",
-        "ShortName": "Wacharapluesadee (2010, 19402762)"
-    },
-    {
         "RefID": 38,
         "SubmissionSet": "Hemachudha (2007, 17184850). Duplex nested rt-pcr for detection of nipah virus rna from urine specimens of bats; Hemachudha T., Wacharapluesadee S.;  Medicine, Chulalongkorn University, Rama4, Bangkok 10330, Thailand, J. Virol. Methods 141 (1), 97-101 (2007); [N (9)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EF070182\"%5BACCN%5D%20OR%20\"EF070183\"%5BACCN%5D%20OR%20\"EF070184\"%5BACCN%5D%20OR%20\"EF070185\"%5BACCN%5D%20OR%20\"EF070186\"%5BACCN%5D%20OR%20\"EF070187\"%5BACCN%5D%20OR%20\"EF070188\"%5BACCN%5D%20OR%20\"EF070189\"%5BACCN%5D%20OR%20\"EF070190\"%5BACCN%5D)",
         "PubID": 22,
         "Publication": "Wacharapluesadee (2007, 17184850). Duplex nested RT-PCR for detection of Nipah virus RNA from urine specimens of bats.; Wacharapluesadee S; Hemachudha T; J Virol Methods",
         "ShortName": "Wacharapluesadee (2007, 17184850)"
-    },
-    {
-        "RefID": 38,
-        "SubmissionSet": "Hemachudha (2007, 17184850). Duplex nested rt-pcr for detection of nipah virus rna from urine specimens of bats; Hemachudha T., Wacharapluesadee S.;  Medicine, Chulalongkorn University, Rama4, Bangkok 10330, Thailand, J. Virol. Methods 141 (1), 97-101 (2007); [N (9)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"EF070182\"%5BACCN%5D%20OR%20\"EF070183\"%5BACCN%5D%20OR%20\"EF070184\"%5BACCN%5D%20OR%20\"EF070185\"%5BACCN%5D%20OR%20\"EF070186\"%5BACCN%5D%20OR%20\"EF070187\"%5BACCN%5D%20OR%20\"EF070188\"%5BACCN%5D%20OR%20\"EF070189\"%5BACCN%5D%20OR%20\"EF070190\"%5BACCN%5D)",
-        "PubID": 38,
-        "Publication": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244). Genetic characterization of Nipah virus from Thai fruit bats (Pteropus lylei); Supaporn Wacharapluesadee, Thongchai Ngamprasertwong, Thongchai Kaewpom, Peerapat Kattong, Apaporn Rodpan, Sawai Wanghongsa and Thiravat Hemachudha; Asian Biomedicine",
-        "ShortName": "Supaporn (2013, https://sciendo.com/article/10.5372/1905-7415.0706.244)"
     },
     {
         "RefID": 39,
@@ -243,20 +187,6 @@
         "PubID": 26,
         "Publication": "AbuBakar (2004, 15663869). Isolation and molecular identification of Nipah virus from pigs.; AbuBakar S; Chang LY; Ali AR; Sharifah SH; Yusoff K; Zamrod Z; Emerg Infect Dis",
         "ShortName": "AbuBakar (2004, 15663869)"
-    },
-    {
-        "RefID": 44,
-        "SubmissionSet": "Anderson (2000, 10827955). Nipah virus: a recently emergent deadly paramyxovirus; Anderson L., Bellini W., Chua K., Daniels P., Eaton B., Field H., Goldsmith C., Gould A., Gubler D., Halpin K., Harcourt B., Ksiazek T., Lam S., Ling A., Mahy B., Olson J., Peters C., Roehrig J., Rollin P., Rota P., Shieh W., Tamin A., Zaki S.;  Measles Virus Section, Centers for Disease Control and Prevention, MS-C-22, 1600 Clifton Rd., Atlanta, GA 30333, USA, Science 288 (5470), 1432-1435 (2000); [F (3), G (3), L (2), M (2), N (2), P (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF238466\"%5BACCN%5D%20OR%20\"AF238467\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D)",
-        "PubID": 29,
-        "Publication": "Harcourt (2001, 11504554). Molecular characterization of the polymerase gene and genomic termini of Nipah virus.; Harcourt BH; Tamin A; Halpin K; Ksiazek TG; Rollin PE; Bellini WJ; Rota PA; Virology",
-        "ShortName": "Harcourt (2001, 11504554)"
-    },
-    {
-        "RefID": 44,
-        "SubmissionSet": "Anderson (2000, 10827955). Nipah virus: a recently emergent deadly paramyxovirus; Anderson L., Bellini W., Chua K., Daniels P., Eaton B., Field H., Goldsmith C., Gould A., Gubler D., Halpin K., Harcourt B., Ksiazek T., Lam S., Ling A., Mahy B., Olson J., Peters C., Roehrig J., Rollin P., Rota P., Shieh W., Tamin A., Zaki S.;  Measles Virus Section, Centers for Disease Control and Prevention, MS-C-22, 1600 Clifton Rd., Atlanta, GA 30333, USA, Science 288 (5470), 1432-1435 (2000); [F (3), G (3), L (2), M (2), N (2), P (2)](https://www.ncbi.nlm.nih.gov/nuccore?cmd=Search&doptcmdl=Summary&term=\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF212302\"%5BACCN%5D%20OR%20\"AF238466\"%5BACCN%5D%20OR%20\"AF238467\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D%20OR%20\"NC_002728\"%5BACCN%5D)",
-        "PubID": 30,
-        "Publication": "Harcourt (2000, 10860887). Molecular characterization of Nipah virus, a newly emergent paramyxovirus.; Harcourt BH; Tamin A; Ksiazek TG; Rollin PE; Anderson LJ; Bellini WJ; Rota PA; Virology",
-        "ShortName": "Harcourt (2000, 10860887)"
     },
     {
         "RefID": 44,
