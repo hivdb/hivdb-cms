@@ -78,6 +78,12 @@ slideItems:
   description: HIV, HBV, HCV Genbank submission tool
   to: /genbank/
   type: text
+- bgColor: '#cfd9df'
+  caption: GenBank2PubMed
+  date: May 07, 2025
+  description: Connect GenBank virus sequences to publications
+  to: /genbank2pubmed/
+  type: text
 - bgColor: '#dccb92'
   caption: HIV in vitro selection
   date: May 13, 2024
