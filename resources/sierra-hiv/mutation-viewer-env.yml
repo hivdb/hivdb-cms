@@ -1,0 +1,22 @@
+positionAxis:
+  posOffset: 6224
+  posStart: 6225
+  posEnd: 8792
+  convertToAA: true
+  tickCount: 50
+  roundToNearest: 5
+
+domains:
+- posStart: 6225
+  posEnd: 8792
+  scaleRatio: 1
+
+regions:
+- name: env
+  label: Envelope
+  posStart: 6225
+  posEnd: 8792
+  fill: '#fdbf6f'
+  color: '#c94a00'
+  shapeType: rect
+  labelPosition: over

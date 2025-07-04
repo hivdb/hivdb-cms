@@ -1,0 +1,22 @@
+pattern-analysis-form-title: >- # Warning: title doesn't support markdown
+  HIV-1 Envelope: Mutations Analysis
+
+pattern-analysis-report-title: >- # Warning: title doesn't support markdown
+  HIV-1 Envelope Mutations Analysis Report
+ 
+sequence-analysis-form-title: >- # Warning: title doesn't support markdown
+  HIV-1 Envelope: Sequence Analysis
+ 
+sequence-analysis-report-title: >- # Warning: title doesn't support markdown
+  HIV-1 Envelope Sequence Analysis Report
+ 
+seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
+  HIV-1 Envelope: Sequence Reads (NGS) Analysis
+ 
+seqreads-analysis-report-title: >- # Warning: title doesn't support markdown
+  HIV-1 Envelope Sequence Reads (NGS) Analysis Report
+
+max-mixture-rate-dropdown-desc: >-
+  Choose a threshold that limits the proportion of allowed nucleotide mixtures
+  across the genome (after the minimum read depth is applied). The default
+  threshold is 2% (~17 mixtures in Envelope). 

@@ -1,0 +1,38 @@
+.<<global:
+  _resource: sierra-hiv/global.yml
+allGenes: &allGenes [env]
+highlightGenes: &hlGenes [env]
+geneSynonyms:
+  Envelope: env
+displaySubtype: false
+displayMutationScores: []
+displaySDRMs: false
+formEnableTabs:
+  - sequences
+  - reads
+regionPresets:
+  presets:
+    - name: env
+      label: Envelope
+      highlightGenes: [env]
+      preset:
+        <<: &presetCommon
+          width: 1720
+          minHeight: 170
+          paddingLeft: 60
+          paddingRight: 20
+          paddingTop: 20
+        .:
+          _resource: sierra-hiv/mutation-viewer-env.yml
+  genes:
+    _resource: sierra-hiv/mutation-viewer-genes.yml
+sequenceExamples:
+  - url: downloads/fasta-examples/dataset-hivca.txt
+    title: Capsid sequences (N=5)
+seqReadsExamples: []
+drugDisplayOptions: false
+messages:
+  .<<common:
+    _resource: sierra-hiv/messages.yml
+  .<<CAonly:
+    _resource: sierra-hiv/messages-CA.yml
