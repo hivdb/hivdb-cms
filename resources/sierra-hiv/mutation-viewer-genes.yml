@@ -10,3 +10,6 @@
 - gene: IN
   displayGene: IN
   range: [4230, 5093]
+- gene: env
+  displayGene: env
+  range: [6225, 8792]

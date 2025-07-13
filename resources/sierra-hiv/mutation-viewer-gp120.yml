@@ -1,0 +1,22 @@
+positionAxis:
+  posOffset: 6224
+  posStart: 6225
+  posEnd: 7757
+  convertToAA: true
+  tickCount: 15
+  roundToNearest: 5
+
+domains:
+- posStart: 6225
+  posEnd: 7757
+  scaleRatio: 1
+
+regions:
+- name: gp120
+  label: Envelope (gp120)
+  posStart: 6225
+  posEnd: 7757
+  fill: '#fdbf6f'
+  color: '#c94a00'
+  shapeType: rect
+  labelPosition: over
