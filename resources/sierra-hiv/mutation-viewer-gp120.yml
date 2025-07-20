@@ -16,7 +16,7 @@ regions:
   label: Envelope (gp120)
   posStart: 6225
   posEnd: 7757
-  fill: '#fdbf6f'
-  color: '#c94a00'
+  fill: '#4CAF50'
+  color: '#E8F5E9'
   shapeType: rect
   labelPosition: over

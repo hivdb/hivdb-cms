@@ -2,7 +2,8 @@ species: HIV1
 allGenes: &allGenes [PR, RT, IN]
 defaultAlgorithm: HIVDB_9_8
 highlightGenes: &hlGenes [PR, RT, IN]
-geneDisplay: {}
+geneDisplay:
+  env: Env
 geneSynonyms:
   Protease: PR
   Reverse transcriptase: RT
@@ -211,7 +212,9 @@ mutationTypesByGenes:
     Major: Major
     Other: Other
   env:
-    bNAb: bNAb
-    AI: AI
-    FI: FI
-    Other: Other
+    CD4_bnAb: CD4-targeting bnAbs
+    V2_bnAb: V2-targeting bnAbs
+    V3_bnAb: V3-targeting bnAbs
+    FTR: Fostemsavir
+    ENF: Enfuvirtide
+hideEmptyMutationTypes: false

@@ -20,3 +20,6 @@ max-mixture-rate-dropdown-desc: >-
   Choose a threshold that limits the proportion of allowed nucleotide mixtures
   across the genome (after the minimum read depth is applied). The default
   threshold is 2% (~17 mixtures in Envelope). 
+
+no-mutations-found: >-
+  No known drug resistance mutations were found in this sequence.

@@ -3,6 +3,7 @@
 defaultAlgorithm: HIVDB_9_8env
 allGenes: &allGenes [env]
 highlightGenes: &hlGenes [env]
+hideEmptyMutationTypes: true
 geneSynonyms:
   Envelope: env
 displaySubtype: false
@@ -49,4 +50,4 @@ messages:
   .<<common:
     _resource: sierra-hiv/messages.yml
   .<<CAonly:
-    _resource: sierra-hiv/messages-CA.yml
+    _resource: sierra-hiv/messages-env.yml

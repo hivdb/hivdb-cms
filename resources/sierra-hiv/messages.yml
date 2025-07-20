@@ -171,6 +171,12 @@ mutation-type-IN-Major: INSTI Major
 mutation-type-IN-Accessory: INSTI Accessory
 mutation-type-IN-Other: IN Other
 
+mutation-type-env-CD4_bnAb: CD4-targeting bnAbs
+mutation-type-env-FTR: Fostemsavir
+mutation-type-env-ENF: Enfuvirtide
+mutation-type-env-V2_bnAb: V2-targeting bnAbs
+mutation-type-env-V3_bnAb: V3-targeting bnAbs
+
 drug-display-options-title: >- # no markdown
   Drug display options
 drug-display-options-desc: >-
