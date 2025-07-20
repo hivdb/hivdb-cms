@@ -1,5 +1,6 @@
 species: HIV1
 allGenes: &allGenes [PR, RT, IN]
+defaultAlgorithm: HIVDB_9_8
 highlightGenes: &hlGenes [PR, RT, IN]
 geneDisplay: {}
 geneSynonyms:
@@ -208,4 +209,9 @@ mutationTypesByGenes:
     Other: Other
   CA:
     Major: Major
+    Other: Other
+  env:
+    bNAb: bNAb
+    AI: AI
+    FI: FI
     Other: Other

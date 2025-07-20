@@ -1,6 +1,7 @@
 .<<global:
   _resource: sierra-hiv/global.yml
 species: HIV2
+defaultAlgorithm: HIVDB_HIV2_9_0
 displayMutationScores: []
 formEnableTabs:
   - sequences

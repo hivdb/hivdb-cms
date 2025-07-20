@@ -1,5 +1,6 @@
 .<<global:
   _resource: sierra-hiv/global.yml
+defaultAlgorithm: HIVDB_9_8env
 allGenes: &allGenes [env]
 highlightGenes: &hlGenes [env]
 geneSynonyms:
