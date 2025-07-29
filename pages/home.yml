@@ -1,5 +1,5 @@
 ---
-dbReleaseText: HIVDB released on Jul 23, 2025
+dbReleaseText: HIVDB released on Jul 29, 2025
 otherResources:
   items:
   - description: |
@@ -20,16 +20,16 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 235,106
-      protease, 246,013 RT, 39,665 integrase and 24,328 capsid HIV-1 virus sequences
-      from 277,161 persons; 1,091 protease, 898 RT and 358 integrase HIV-2 virus sequences
-      from 1,153 persons. [In vitro selection data](/pages/genotype-rx.html) includes
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 235,712
+      protease, 249,852 RT, 39,984 integrase and 25,334 capsid HIV-1 virus sequences
+      from 278,671 persons; 1,090 protease, 890 RT and 358 integrase HIV-2 virus sequences
+      from 1,147 persons. [In vitro selection data](/pages/genotype-rx.html) includes
       1,111 HIV-1 in vitro selection data of PR, RT and IN.'
     icon: treatment
     title: Genotype-treatment
     to: /pages/genotype-rx.html
   - description: '[Drug susceptibility data](/pages/genotype-phenotype.html) comprising
-      30,356 PI, 24,185 NRTI, 14,965 NNRTI and 5,479 INI susceptibility results from
+      30,356 PI, 24,241 NRTI, 14,945 NNRTI and 5,479 INI susceptibility results from
       HIV-1 virus isolates'
     icon: phenotype
     title: Genotype-phenotype
@@ -42,7 +42,7 @@ queryPages:
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
   - description: |-
-      2,276 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
+      2,275 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
 
       [3,991 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 68 new submissions from Genbank release on 2025-04-15.
 
