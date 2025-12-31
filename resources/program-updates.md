@@ -1,6 +1,14 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.5.4 update 2025-12-31
+- **HIVDB algorithm 10.0**: This latest update includes major score and comment
+  updates for all drug classes (NRTI, NNRTI, PI, INSTI and CAI/Lenacapavir).
+  Visit [algorithm updates
+  page](/page/algorithm-updates/#version.10.0.update.2025-12-31) for more
+  information.
+
+
 ## Version 3.5.3 update 2025-01-05
 - **HIVDB algorithm 9.8**: This latest update includes score and comment
   updates for Lenacapavir (LEN), the Capsid Inhibitor. In addition, we added
