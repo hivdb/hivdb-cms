@@ -6,6 +6,12 @@ This major update includes significant score and comment updates for NRTI, NNRTI
 INSTI, PI, and CAI/Lenacapavir drug classes. All affected rules and comments can
 be found in [this zip file][asi100changes].
 
+### Version 10.0-1 update 2025-12-31
+The 10.0-1 drug resistance ASI file is downloadable at [here][asi1001].
+
+This bugfix update added the missing L74I score (10) for cabotegravir (CAB) in the
+10.0 release.
+
 ## Version 9.8 update 2025-01-05
 
 The 9.8 drug resistance ASI file is downloadable at [here][asi98].

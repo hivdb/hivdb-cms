@@ -1,6 +1,12 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.5.4-1 update 2025-12-31
+- **HIVDB algorithm 10.0-1**: This is a bugfix version that added the missing
+  L74I score for Cabotegravir (score=10). Visit [algorithm updates
+  page](/page/algorithm-updates/#version.10.0-1.update.2025-12-31) for more
+  information.
+
 ## Version 3.5.4 update 2025-12-31
 - **HIVDB algorithm 10.0**: This latest update includes major score and comment
   updates for all drug classes (NRTI, NNRTI, PI, INSTI and CAI/Lenacapavir).

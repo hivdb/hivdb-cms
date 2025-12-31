@@ -52,13 +52,13 @@ queryPages:
     to: /pages/references.html
   title: Query / Download
 slideItems:
-- caption: "HIVDB Algorithm  \nVersion 10.0"
+- caption: "HIVDB Algorithm  \nVersion 10.0-1"
   date: Dec 31, 2025
   description: ''
   image: slide-hivdb.png
-  to: /page/algorithm-updates/#version.10.0.update.2025-12-31
+  to: /page/algorithm-updates/#version.10.0-1.update.2025-12-31
   type: image
-- caption: Sierra 3.5.4
+- caption: Sierra 3.5.4-1
   date: Dec 31, 2025
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
