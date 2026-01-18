@@ -1,3 +1,10 @@
+## Version 10.1 update 2026-01-18
+
+The 10.1 drug resistance ASI file is downloadable at [here][asi101].
+
+This minor update includes score updates for INSTI DRM Q146PRLI: 5 for BIC and
+DTG, 10 for CAB.
+
 ## Version 10.0 update 2025-12-31
 
 The 10.0 drug resistance ASI file is downloadable at [here][asi100].
@@ -298,6 +305,8 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi97]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.7.xml
 [asi98]: $$CMS_PREFIX$$downloads/asi/HIVDB_9.8.xml
 [asi100]: $$CMS_PREFIX$$downloads/asi/HIVDB_10.0.xml
+[asi1001]: $$CMS_PREFIX$$downloads/asi/HIVDB_10.0-1.xml
+[asi101]: $$CMS_PREFIX$$downloads/asi/HIVDB_10.1.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf
