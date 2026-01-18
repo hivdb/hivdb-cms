@@ -49,7 +49,7 @@ queryPages:
     to: /pages/references.html
   title: Query / Download
 slideItems:
-- caption: "HIVDB Algorithm  \nVersion 10.0-1"
+- caption: "HIVDB Algorithm  \nVersion 10.1"
   date: Jan 18, 2026
   description: ''
   image: slide-hivdb.png
