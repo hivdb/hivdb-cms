@@ -44,6 +44,8 @@ queryPages:
   - description: 2,293 references of genotype-treatment and/or genotype-phenotype
       data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year
       of addition](/pages/new_submissions.html) to HIVDB.
+      [3,991 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 68 new submissions from Genbank release on 2025-04-15.
+      [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html).
     icon: references
     title: References
     to: /pages/references.html
