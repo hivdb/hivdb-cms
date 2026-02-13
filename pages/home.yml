@@ -46,7 +46,7 @@ queryPages:
 
       [4,097 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 54 new submissions from Genbank release on 2025-12-15.
 
-      [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)..
+      [1,493 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2025-12-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)..
     icon: references
     title: References
     to: /pages/references.html
