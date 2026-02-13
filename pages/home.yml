@@ -20,9 +20,9 @@ otherResources:
   title: Other Resources
 queryPages:
   items:
-  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 239,317
-      protease, 253,707 RT, 41,666 integrase and 25,362 capsid HIV-1 virus sequences
-      from 283,048 persons; 1,091 protease, 898 RT and 358 integrase HIV-2 virus sequences
+  - description: '[ARV selection data](/pages/genotype-rx.html) comprising 241,901
+      protease, 256,288 RT, 43,058 integrase and 27,248 capsid HIV-1 virus sequences
+      from 285,920 persons; 1,091 protease, 898 RT and 358 integrase HIV-2 virus sequences
       from 1,153 persons. [In vitro selection data](/pages/genotype-rx.html) includes
       1,111 HIV-1 in vitro selection data of PR, RT and IN.'
     icon: treatment
@@ -41,11 +41,12 @@ queryPages:
     icon: clinical
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
-  - description: 2,293 references of genotype-treatment and/or genotype-phenotype
-      data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year
-      of addition](/pages/new_submissions.html) to HIVDB.
-      [3,991 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 68 new submissions from Genbank release on 2025-04-15.
-      [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html).
+  - description: |-
+      2,305 references of genotype-treatment and/or genotype-phenotype data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year of addition](/pages/new_submissions.html) to HIVDB.
+
+      [4,097 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 54 new submissions from Genbank release on 2025-12-15.
+
+      [1,245 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2021-10-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html)..
     icon: references
     title: References
     to: /pages/references.html
