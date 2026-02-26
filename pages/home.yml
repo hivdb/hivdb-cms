@@ -66,7 +66,7 @@ slideItems:
   type: image
 - bgColor: '#dccb92'
   caption: HIV Drug Resistance Tutorials
-  date: Jun 02, 2024
+  date: Feb 21, 2026
   description: '[NRTI](https://www.youtube.com/watch?v=lbkznxR11Wk) / [NNRTI](https://www.youtube.com/watch?v=6Ff7MIXejCU)
     / [PI] (https://www.youtube.com/watch?v=s6w8u890BMc) / [INSTI](https://www.youtube.com/watch?v=awfKA4-d8T8)
     / [HIVDR Intepretation Program](https://www.youtube.com/watch?v=fdwx0MB6dBk)'
@@ -74,7 +74,7 @@ slideItems:
   type: text
 - bgColor: '#dccb92'
   caption: HIVDB Viral Sequence and Treatment Submission (VISTAS) Program
-  date: Jun 28, 2024
+  date: Jan 02, 2026
   description: HIV, HBV, HCV Genbank submission tool
   to: /genbank/
   type: text
@@ -86,7 +86,7 @@ slideItems:
   type: text
 - bgColor: '#dccb92'
   caption: HIV in vitro selection
-  date: May 13, 2024
+  date: Feb 25, 2026
   description: HIV in vitro selected PR, RT, IN and CA mutations
   to: /pages/genotype-rx.html
   type: text
