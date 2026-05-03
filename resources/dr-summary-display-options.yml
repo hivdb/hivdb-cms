@@ -6,6 +6,8 @@
       disabled: true
     - name: FTC
       disabled: true
+    - name: ISL
+      disabled: true
     - name: 3TC
       disabled: true
     - name: TDF
