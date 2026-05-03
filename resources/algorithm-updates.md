@@ -1,3 +1,16 @@
+## Version 10.2 update 2026-04-26
+
+The 10.2 drug resistance ASI file is downloadable at [here][asi102].
+
+- Added ISL (islatravir) as a scored NRTI drug with its own scoring rule,
+  including positions 41, 65, 69i, 70, 74, 75, 114, 151, 184, 210, 215, and
+  combinations of TAMs.
+- New comment for RT114S: a rare ISL-selected mutation conferring ~2-fold
+  reduced ISL susceptibility (more with M184V).
+- Updated existing mutation comments (M41L, K65R, K70R, L74V, Q151M, L210W,
+  T215Y/F, T69ins) to reference ISL impacts and standardize "islatravir" → "ISL".
+- Minor reordering of MAX() entries in scoring rules (cosmetic).
+
 ## Version 10.1 update 2026-01-18
 
 The 10.1 drug resistance ASI file is downloadable at [here][asi101].
@@ -307,6 +320,7 @@ This is a bugfix version which fixed several issues related with comments. No sc
 [asi100]: $$CMS_PREFIX$$downloads/asi/HIVDB_10.0.xml
 [asi1001]: $$CMS_PREFIX$$downloads/asi/HIVDB_10.0-1.xml
 [asi101]: $$CMS_PREFIX$$downloads/asi/HIVDB_10.1.xml
+[asi102]: $$CMS_PREFIX$$downloads/asi/HIVDB_10.2.xml
 [asi84changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.4.changes.zip
 [asi86changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.6.changes.pdf
 [asi87changes]: $$CMS_PREFIX$$downloads/hivdb-changes/HIVDB_8.7.changes.pdf

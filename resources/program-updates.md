@@ -1,6 +1,13 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.5.6 update 2026-05-02
+
+- **HIVDB Algorithm 10.2**: This version adds full resistance scoring and
+  mutation commentary for islatravir (ISL). Visit
+  [algorithm updates](/page/algorithm-updates/#version.10.2.update.2026-04-26)
+  for more information.
+
 ## Version 3.5.5 update 2026-01-18
 
 - **HIVDB Algorithm 10.1**: This version updates scores of IN:Q146. Visit
