@@ -4,13 +4,13 @@ import os
 import re
 import json
 import copy
+import shutil
 import subprocess
 from collections.abc import Mapping
 from importlib import import_module
-from datetime import datetime
+from datetime import datetime, timezone
 
 import ruamel.yaml
-from distutils.dir_util import copy_tree, remove_tree
 
 BASEDIR = os.path.dirname(os.path.abspath(__file__))
 PAGEDIR = os.path.join(BASEDIR, 'pages')
@@ -123,13 +123,15 @@ def main():
                 mtime = max(new_mtime, mtime)
                 if isinstance(data, Mapping):
                     data['lastModified'] = (
-                        datetime.utcfromtimestamp(mtime).isoformat() + 'Z'
+                        datetime.fromtimestamp(mtime, timezone.utc).isoformat()
                     )
                 json.dump(data, jsonfp)
                 print('create: {}'.format(jsonpath))
-    copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'images'))
-    copy_tree(DOWNLOADDIR, os.path.join(BUILDDIR, 'downloads'))
-    remove_tree(BUILDRESDIR)
+    shutil.copytree(IMAGEDIR, os.path.join(BUILDDIR, 'images'),
+                    dirs_exist_ok=True)
+    shutil.copytree(DOWNLOADDIR, os.path.join(BUILDDIR, 'downloads'),
+                    dirs_exist_ok=True)
+    shutil.rmtree(BUILDRESDIR)
 
 
 if __name__ == '__main__':

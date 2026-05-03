@@ -139,6 +139,8 @@ drugDisplayOptions:
         disabled: true
       - name: FTC
         disabled: true
+      - name: ISL
+        disabled: true
       - name: LMV
         disabled: true
       - name: TDF

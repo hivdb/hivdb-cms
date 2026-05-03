@@ -1,5 +1,5 @@
 requirements.txt: Pipfile.lock
-	@pipenv lock --requirements > requirements.txt
+	@pipenv requirements > requirements.txt
 
 build-docker: requirements.txt
 	@docker pull python:3
