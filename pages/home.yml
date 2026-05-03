@@ -52,14 +52,14 @@ queryPages:
     to: /pages/references.html
   title: Query / Download
 slideItems:
-- caption: "HIVDB Algorithm  \nVersion 10.1"
-  date: Jan 18, 2026
+- caption: "HIVDB Algorithm  \nVersion 10.2"
+  date: Apr 26, 2026
   description: ''
   image: slide-hivdb.png
-  to: /page/algorithm-updates/#version.10.1.update.2026-01-18
+  to: /page/algorithm-updates/#version.10.2.update.2026-04-26
   type: image
-- caption: Sierra 3.5.5
-  date: Jan 18, 2026
+- caption: Sierra 3.5.6
+  date: May 2, 2026
   description: '[release notes](/page/release-notes/) / [web service](/page/webservice/)'
   image: slide-sierra.png
   to: /page/release-notes/
@@ -74,7 +74,7 @@ slideItems:
   type: text
 - bgColor: '#dccb92'
   caption: HIVDB Viral Sequence and Treatment Submission (VISTAS) Program
-  date: Jan 02, 2026
+  date: Jan 2, 2026
   description: HIV, HBV, HCV Genbank submission tool
   to: /genbank/
   type: text
