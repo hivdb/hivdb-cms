@@ -41,15 +41,17 @@ queryPages:
     icon: clinical
     title: Genotype-clinical
     to: /pages/genotype-clinical.html
-  - description: 2,244 references of genotype-treatment and/or genotype-phenotype
-      data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year
-      of addition](/pages/new_submissions.html) to HIVDB.
-      [4,097 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 54 new submissions from Genbank release on 2025-12-15.
+  # - description: 2,244 references of genotype-treatment and/or genotype-phenotype
+  #     data [according to author-yr](/cgi-bin/Reference.cgi) or [according to year
+  #     of addition](/pages/new_submissions.html) to HIVDB.
+  #     [4,097 Genbank submission sets](/cgi-bin/gbReference.cgi) according to author-yr and submission title, including 54 new submissions from Genbank release on 2025-12-15.
 
-      [1,493 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2025-12-15. [capsid mutation profile according to subtype](/pages/capsid_profile.html).
+  #     [1,493 Genbank submission sets of capsid sequences](/cgi-bin/gbReferenceCapsid.cgi) according to author-yr and submission title from Genbank release on 2025-12-15.
+  - description: >-
+      [4,723 total references](https://ref.hivdb.org/hiv/) includes 2,145 references of genotype-treatment, genotype-phenotype, in vitro selection data in HIVDB. 4,275 references of blasthit result. 1,698 references have both HIVDB and blasthit results. 61 new references were added from GenBank release on 2026-06-15
     icon: references
     title: References
-    to: /pages/references.html
+    to: https://ref.hivdb.org/hiv/
   title: Query / Download
 slideItems:
 - caption: "HIVDB Algorithm  \nVersion 10.2"
