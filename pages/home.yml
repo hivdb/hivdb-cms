@@ -67,24 +67,22 @@ slideItems:
   to: /page/release-notes/
   type: image
 - bgColor: '#dccb92'
-  caption: HIV Drug Resistance Tutorials
-  date: Feb 21, 2026
-  description: '[NRTI](https://www.youtube.com/watch?v=lbkznxR11Wk) / [NNRTI](https://www.youtube.com/watch?v=6Ff7MIXejCU)
-    / [PI] (https://www.youtube.com/watch?v=s6w8u890BMc) / [INSTI](https://www.youtube.com/watch?v=awfKA4-d8T8)
-    / [HIVDR Intepretation Program](https://www.youtube.com/watch?v=fdwx0MB6dBk)'
-  href: '#'
+  caption: Updated HIVDB Reference Search Tool
+  date: Aug 14, 2026
+  description: ''
+  to: https://ref.hivdb.org/hiv/
+  type: text
+- bgColor: '#dccb92'
+  caption: Genotypic challenges in implementing bnAb-based long-acting HIV-1 therapies
+  date: May 28, 2026
+  description: ''
+  to: https://hivdb.stanford.edu/pages/pdf/Tao_2026_May.pdf
   type: text
 - bgColor: '#dccb92'
   caption: HIVDB Viral Sequence and Treatment Submission (VISTAS) Program
   date: Jan 2, 2026
   description: HIV, HBV, HCV Genbank submission tool
   to: /genbank/
-  type: text
-- bgColor: '#cfd9df'
-  caption: GenBank2PubMed
-  date: May 07, 2025
-  description: Connect GenBank virus sequences to publications
-  to: /genbank2pubmed/
   type: text
 - bgColor: '#dccb92'
   caption: HIV in vitro selection
@@ -152,4 +150,18 @@ slideItems:
   caption: "Usual and  \nUnusual Mutations  \nfor Sequence QA/QC"
   description: Version 2019.8
   href: https://github.com/hivdb/hivfacts
+  type: text
+- bgColor: '#dccb92'
+  caption: HIV Drug Resistance Tutorials
+  date: Feb 21, 2026
+  description: '[NRTI](https://www.youtube.com/watch?v=lbkznxR11Wk) / [NNRTI](https://www.youtube.com/watch?v=6Ff7MIXejCU)
+    / [PI] (https://www.youtube.com/watch?v=s6w8u890BMc) / [INSTI](https://www.youtube.com/watch?v=awfKA4-d8T8)
+    / [HIVDR Intepretation Program](https://www.youtube.com/watch?v=fdwx0MB6dBk)'
+  href: '#'
+  type: text
+- bgColor: '#cfd9df'
+  caption: GenBank2PubMed
+  date: May 07, 2025
+  description: Connect GenBank virus sequences to publications
+  to: /genbank2pubmed/
   type: text
