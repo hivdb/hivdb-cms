@@ -70,13 +70,13 @@ slideItems:
   caption: Updated HIVDB Reference Search Tool
   date: Aug 14, 2026
   description: ''
-  to: https://ref.hivdb.org/hiv/
+  href: https://ref.hivdb.org/hiv/
   type: text
 - bgColor: '#dccb92'
   caption: Genotypic challenges in implementing bnAb-based long-acting HIV-1 therapies
   date: May 28, 2026
   description: ''
-  to: https://hivdb.stanford.edu/pages/pdf/Tao_2026_May.pdf
+  href: https://hivdb.stanford.edu/pages/pdf/Tao_2026_May.pdf
   type: text
 - bgColor: '#dccb92'
   caption: HIVDB Viral Sequence and Treatment Submission (VISTAS) Program
