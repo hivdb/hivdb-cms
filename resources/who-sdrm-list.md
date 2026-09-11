@@ -1,7 +1,7 @@
 <div>
   <section>
-    <div style="display: flex; box-sizing: border-box;">
-      <div style="box-sizing: border-box; flex-grow: 0; flex-shrink: 0; flex-basis: calc(33.33333% - 18px); margin: 0 9px;">
+    <div style="display: flex; flex-wrap: nowrap; align-items: flex-start; gap: 12px; width: 100%; box-sizing: border-box;">
+      <div style="box-sizing: border-box; flex: 1 1 0; min-width: 0;">
         <table>
           <caption>NRTI</caption>
           <tbody>
@@ -11,7 +11,7 @@
             </tr>
             <tr>
               <td>K65</td>
-              <td>R</td>
+              <td>R, <strong style="color: #0000ff;">N</strong></td>
             </tr>
             <tr>
               <td>D67</td>
@@ -19,11 +19,11 @@
             </tr>
             <tr>
               <td>T69</td>
-              <td>D, Ins</td>
+              <td>D, Ins, <strong style="color: #0000ff;">Del</strong></td>
             </tr>
             <tr>
               <td>K70</td>
-              <td>R, E</td>
+              <td>R, E, <strong style="color: #0000ff;">Q, N, S, T, G, Del</strong></td>
             </tr>
             <tr>
               <td>L74</td>
@@ -68,7 +68,7 @@
           </tbody>
         </table>
       </div>
-      <div style="box-sizing: border-box; flex-grow: 0; flex-shrink: 0; flex-basis: calc(33.33333% - 18px); margin: 0 9px;">
+      <div style="box-sizing: border-box; flex: 1 1 0; min-width: 0;">
         <table>
           <caption>NNRTI</caption>
           <tbody>
@@ -105,17 +105,33 @@
               <td>A, S, E</td>
             </tr>
             <tr>
+              <td><strong style="color: #0000ff;">H221</strong></td>
+              <td><strong style="color: #0000ff;">Y</strong></td>
+            </tr>
+            <tr>
               <td>P225</td>
               <td>H</td>
+            </tr>
+            <tr>
+              <td><strong style="color: #0000ff;">F227</strong></td>
+              <td><strong style="color: #0000ff;">Y, L</strong></td>
             </tr>
             <tr>
               <td>M230</td>
               <td>L</td>
             </tr>
+            <tr>
+              <td><strong style="color: #0000ff;">L234</strong></td>
+              <td><strong style="color: #0000ff;">I</strong></td>
+            </tr>
+            <tr>
+              <td><strong style="color: #0000ff;">Y318</strong></td>
+              <td><strong style="color: #0000ff;">F</strong></td>
+            </tr>
           </tbody>
         </table>
       </div>
-      <div style="box-sizing: border-box; flex-grow: 0; flex-shrink: 0; flex-basis: calc(33.33333% - 18px); margin: 0 9px;">
+      <div style="box-sizing: border-box; flex: 1 1 0; min-width: 0;">
         <table>
           <caption>PI</caption>
           <tbody>
@@ -194,24 +210,87 @@
           </tbody>
         </table>
       </div>
+      <div style="box-sizing: border-box; flex: 1 1 0; min-width: 0;">
+        <table>
+          <caption>INSTI</caption>
+          <tbody>
+            <tr>
+              <td style="width: 4rem;">A49</td>
+              <td>G</td>
+            </tr>
+            <tr>
+              <td>H51</td>
+              <td>Y</td>
+            </tr>
+            <tr>
+              <td>T66</td>
+              <td>A, I, K</td>
+            </tr>
+            <tr>
+              <td>E92</td>
+              <td>G, Q</td>
+            </tr>
+            <tr>
+              <td>G118</td>
+              <td>R</td>
+            </tr>
+            <tr>
+              <td>F121</td>
+              <td>Y</td>
+            </tr>
+            <tr>
+              <td>E138</td>
+              <td>A, K, T</td>
+            </tr>
+            <tr>
+              <td>G140</td>
+              <td>A, C, S</td>
+            </tr>
+            <tr>
+              <td>Y143</td>
+              <td>C, H, R, S</td>
+            </tr>
+            <tr>
+              <td>S147</td>
+              <td>G</td>
+            </tr>
+            <tr>
+              <td>Q148</td>
+              <td>H, R, K</td>
+            </tr>
+            <tr>
+              <td>G149</td>
+              <td>A</td>
+            </tr>
+            <tr>
+              <td>S153</td>
+              <td>Y, F</td>
+            </tr>
+            <tr>
+              <td>N155</td>
+              <td>H</td>
+            </tr>
+            <tr>
+              <td>S230</td>
+              <td>R</td>
+            </tr>
+            <tr>
+              <td>R263</td>
+              <td>K</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </section>
+</div>
 
+New mutations are in <strong style="color: #0000ff;">bold and blue</strong>.
 
+### References
 
-from **Drug Resistance Mutations for Surveillance of Transmitted HIV-1 Drug-Resistance: 2009 Update**, Authors: Diane E. Bennett[^WHO], Ricardo J. Camacho[^Lisbon], Dan Otelea[^Bucharest], Daniel R. Kuritzkes[^BWH], Hervé Fleury[^EA2968], Mark Kiuchi[^Stanford], Walid Heneine[^CDC], Rami Kantor[^Brown], Michael R. Jordan[^Tufts], Jonathan M. Schapiro[^Stanford], Anne-Mieke Vandamme[^Rega], Paul Sandstrom[^PHAC], Charles A.B. Boucher[^Erasmus][^UU], David van de Vijver[^PHAC], Soo-Yon Rhee[^Stanford], Tommy F Liu[^Stanford], Deenan Pillay[^UCL], Robert W. Shafer[^Stanford]
-
-[^WHO]: World Health Organization, Geneva, Switzerland;
-[^Lisbon]: Molecular Biology Laboratory, Centro Hospitalar de Lisboa Ocidental, Lisbon, Portugal;
-[^Bucharest]: Molecular Diagnostics, "Prof. Dr. Matei Bals" Institute for Infectious Diseases, Bucharest, Romania;
-[^BWH]: Brigham and Women's Hospital Harvard Medical School, Boston MA, USA;
-[^EA2968]: Laboratoire de Virologie EA 2968, Université de Bordeaux, France;
-[^Stanford]: Division of Infectious Diseases, Stanford University, Stanford, CA;
-[^CDC]: Centers for Disease Control and Prevention, Atlanta, GA, USA;
-[^Brown]: Division of Infectious Diseases, Brown University, RI, USA;
-[^Tufts]: Tufts University School of Medicine, Boston, MA, USA;
-[^Rega]: Rega Institute for Medical Research, Katholieke Universiteit Leuven, Belgium;
-[^PHAC]: Centre for Infectious Disease Prevention and Control, Public Health Agency of Canada, Ottowa, Ontario, Canada;
-[^Erasmus]: Department of Virology, Erasmus MC, University Medical Center Rotterdam, The Netherlands;
-[^UU]: Department of Medical Microbiology. University Medical Center Utrecht, Utrecht University, Utrecht, the Netherlands;
-[^UCL]: Centre for Virology, Division of Infection and Immunity, University College London and Centre for Infections, Health Protection Agency, London UK.
+1. Bennett DE, Camacho RJ, Otelea D, Kuritzkes DR, Fleury H, Kiuchi M, Heneine W, Kantor R, Jordan MR, Schapiro JM, Vandamme AM, Sandstrom P, Boucher CA, van de Vijver D, Rhee SY, Liu TF, Pillay D, Shafer RW (2009). Drug resistance mutations for surveillance of transmitted HIV-1 drug-resistance: 2009 update. PLoS One. 2009;4(3):e4724. PMID: [19266092](https://pubmed.ncbi.nlm.nih.gov/19266092/).
+2. Tzou PL, Rhee SY, Descamps D, Clutter DS, Hare B, Mor O, Grude M, Parkin N, Jordan MR, Bertagnolio S, Schapiro JM, Harrigan PR, Geretti AM, Marcelin AG, Shafer RW (2020). Integrase strand transfer inhibitor (INSTI)-resistance mutations for the surveillance of transmitted HIV-1 drug resistance. J Antimicrob Chemother. 2020 Jan 1;75(1):170-182. PMID: [31617907](https://pubmed.ncbi.nlm.nih.gov/31617907/).
+3. Rhee SY, Tzou PL, Shafer RW (2021). Temporal Trends in HIV-1 Mutations Used for the Surveillance of Transmitted Drug Resistance. Viruses. 2021 May 11;13(5):879. PMID: [34064774](https://pubmed.ncbi.nlm.nih.gov/34064774/).
+4. Rhee SY, Schapiro JM, Saladini F, Zazzi M, Khoo S, Shafer RW (2023). Potential role of doravirine for the treatment of HIV-1-infected persons with transmitted drug resistance. AIDS Res Ther. 2023 Feb 7;20(1):8. PMID: [36750835](https://pubmed.ncbi.nlm.nih.gov/36750835/).
+5. Tao K, Rhee SY, Chu C, Avalos A, Ahluwalia AK, Gupta RK, Jordan MR, Shafer RW (2023). Treatment Emergent Dolutegravir Resistance Mutations in Individuals Naïve to HIV-1 Integrase Inhibitors: A Rapid Scoping Review. Viruses. 2023 Sep 15;15(9):1932. PMID: [37766338](https://pubmed.ncbi.nlm.nih.gov/37766338/).
