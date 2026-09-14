@@ -114,7 +114,7 @@
             </tr>
             <tr>
               <td><strong style="color: #0000ff;">F227</strong></td>
-              <td><strong style="color: #0000ff;">Y, L</strong></td>
+              <td><strong style="color: #0000ff;">C, L</strong></td>
             </tr>
             <tr>
               <td>M230</td>
@@ -215,12 +215,12 @@
           <caption>INSTI</caption>
           <tbody>
             <tr>
-              <td style="width: 4rem;">A49</td>
-              <td>G</td>
+              <td style="width: 4rem;"><strong style="color: #0000ff;">A49</strong></td>
+              <td><strong style="color: #0000ff;">G</strong></td>
             </tr>
             <tr>
-              <td>H51</td>
-              <td>Y</td>
+              <td><strong style="color: #0000ff;">H51</strong></td>
+              <td><strong style="color: #0000ff;">Y</strong></td>
             </tr>
             <tr>
               <td>T66</td>
@@ -259,12 +259,12 @@
               <td>H, R, K</td>
             </tr>
             <tr>
-              <td>G149</td>
-              <td>A</td>
+              <td><strong style="color: #0000ff;">G149</strong></td>
+              <td><strong style="color: #0000ff;">A</strong></td>
             </tr>
             <tr>
-              <td>S153</td>
-              <td>Y, F</td>
+              <td><strong style="color: #0000ff;">S153</strong></td>
+              <td><strong style="color: #0000ff;">Y, F</strong></td>
             </tr>
             <tr>
               <td>N155</td>
@@ -285,7 +285,7 @@
   </section>
 </div>
 
-New mutations are in <strong style="color: #0000ff;">bold and blue</strong>.
+Mutations in plain text are from Bennett2009 and Tzou2020; mutations in <strong style="color: #0000ff;">bold and blue</strong> are from Rhee2021, Rhee2023, and Tao2023.
 
 ### References
 
