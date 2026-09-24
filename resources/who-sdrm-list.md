@@ -6,64 +6,64 @@
           <caption>NRTI</caption>
           <tbody>
             <tr>
-              <td style="width: 4rem;">M41</td>
-              <td>L</td>
+              <td style="width: 4rem;"><strong>M41</strong></td>
+              <td><strong>L</strong></td>
             </tr>
             <tr>
-              <td>K65</td>
-              <td>R, <strong style="color: #0000ff;">N</strong></td>
+              <td><strong>K65</strong></td>
+              <td><strong>R, <strong style="color: #0000ff;">N</strong></strong></td>
             </tr>
             <tr>
-              <td>D67</td>
-              <td>N, G, E</td>
+              <td><strong>D67</strong></td>
+              <td><strong>N, G, E</strong></td>
             </tr>
             <tr>
-              <td>T69</td>
-              <td>D, Ins, <strong style="color: #0000ff;">Del</strong></td>
+              <td><strong>T69</strong></td>
+              <td><strong>D, Ins, <strong style="color: #0000ff;">Del</strong></strong></td>
             </tr>
             <tr>
-              <td>K70</td>
-              <td>R, E, <strong style="color: #0000ff;">Q, N, S, T, G, Del</strong></td>
+              <td><strong>K70</strong></td>
+              <td><strong>R, E, <strong style="color: #0000ff;">Q, N, S, T, G, Del</strong></strong></td>
             </tr>
             <tr>
-              <td>L74</td>
-              <td>V, I</td>
+              <td><strong>L74</strong></td>
+              <td><strong>V, I</strong></td>
             </tr>
             <tr>
-              <td>V75</td>
-              <td>M, T, A, S</td>
+              <td><strong>V75</strong></td>
+              <td><strong>M, T, A, S</strong></td>
             </tr>
             <tr>
-              <td>F77</td>
-              <td>L</td>
+              <td><strong>F77</strong></td>
+              <td><strong>L</strong></td>
             </tr>
             <tr>
-              <td>Y115</td>
-              <td>F</td>
+              <td><strong>Y115</strong></td>
+              <td><strong>F</strong></td>
             </tr>
             <tr>
-              <td>F116</td>
-              <td>Y</td>
+              <td><strong>F116</strong></td>
+              <td><strong>Y</strong></td>
             </tr>
             <tr>
-              <td>Q151</td>
-              <td>M</td>
+              <td><strong>Q151</strong></td>
+              <td><strong>M</strong></td>
             </tr>
             <tr>
-              <td>M184</td>
-              <td>V, I</td>
+              <td><strong>M184</strong></td>
+              <td><strong>V, I</strong></td>
             </tr>
             <tr>
-              <td>L210</td>
-              <td>W</td>
+              <td><strong>L210</strong></td>
+              <td><strong>W</strong></td>
             </tr>
             <tr>
-              <td>T215</td>
-              <td>Y, F, I, S, C, D, V, E</td>
+              <td><strong>T215</strong></td>
+              <td><strong>Y, F, I, S, C, D, V, E</strong></td>
             </tr>
             <tr>
-              <td>K219</td>
-              <td>Q, E, N, R</td>
+              <td><strong>K219</strong></td>
+              <td><strong>Q, E, N, R</strong></td>
             </tr>
           </tbody>
         </table>
@@ -73,52 +73,52 @@
           <caption>NNRTI</caption>
           <tbody>
             <tr>
-              <td style="width: 4rem;">L100</td>
-              <td>I</td>
+              <td style="width: 4rem;"><strong>L100</strong></td>
+              <td><strong>I</strong></td>
             </tr>
             <tr>
-              <td>K101</td>
-              <td>E, P</td>
+              <td><strong>K101</strong></td>
+              <td><strong>E, P</strong></td>
             </tr>
             <tr>
-              <td>K103</td>
-              <td>N, S</td>
+              <td><strong>K103</strong></td>
+              <td><strong>N, S</strong></td>
             </tr>
             <tr>
-              <td>V106</td>
-              <td>M, A</td>
+              <td><strong>V106</strong></td>
+              <td><strong>M, A</strong></td>
             </tr>
             <tr>
-              <td>V179</td>
-              <td>F</td>
+              <td><strong>V179</strong></td>
+              <td><strong>F</strong></td>
             </tr>
             <tr>
-              <td>Y181</td>
-              <td>C, I, V</td>
+              <td><strong>Y181</strong></td>
+              <td><strong>C, I, V</strong></td>
             </tr>
             <tr>
-              <td>Y188</td>
-              <td>L, H, C</td>
+              <td><strong>Y188</strong></td>
+              <td><strong>L, H, C</strong></td>
             </tr>
             <tr>
-              <td>G190</td>
-              <td>A, S, E</td>
+              <td><strong>G190</strong></td>
+              <td><strong>A, S, E</strong></td>
             </tr>
             <tr>
               <td><strong style="color: #0000ff;">H221</strong></td>
               <td><strong style="color: #0000ff;">Y</strong></td>
             </tr>
             <tr>
-              <td>P225</td>
-              <td>H</td>
+              <td><strong>P225</strong></td>
+              <td><strong>H</strong></td>
             </tr>
             <tr>
               <td><strong style="color: #0000ff;">F227</strong></td>
               <td><strong style="color: #0000ff;">C, L</strong></td>
             </tr>
             <tr>
-              <td>M230</td>
-              <td>L</td>
+              <td><strong>M230</strong></td>
+              <td><strong>L</strong></td>
             </tr>
             <tr>
               <td><strong style="color: #0000ff;">L234</strong></td>
@@ -136,76 +136,76 @@
           <caption>PI</caption>
           <tbody>
             <tr>
-              <td style="width: 4rem;">L23</td>
-              <td>I</td>
+              <td style="width: 4rem;"><strong>L23</strong></td>
+              <td><strong>I</strong></td>
             </tr>
             <tr>
-              <td>L24</td>
-              <td>I</td>
+              <td><strong>L24</strong></td>
+              <td><strong>I</strong></td>
             </tr>
             <tr>
-              <td>D30</td>
-              <td>N</td>
+              <td><strong>D30</strong></td>
+              <td><strong>N</strong></td>
             </tr>
             <tr>
-              <td>V32</td>
-              <td>I</td>
+              <td><strong>V32</strong></td>
+              <td><strong>I</strong></td>
             </tr>
             <tr>
-              <td>M46</td>
-              <td>I, L</td>
+              <td><strong>M46</strong></td>
+              <td><strong>I, L</strong></td>
             </tr>
             <tr>
-              <td>I47</td>
-              <td>V, A</td>
+              <td><strong>I47</strong></td>
+              <td><strong>V, A</strong></td>
             </tr>
             <tr>
-              <td>G48</td>
-              <td>V, M</td>
+              <td><strong>G48</strong></td>
+              <td><strong>V, M</strong></td>
             </tr>
             <tr>
-              <td>I50</td>
-              <td>V, L</td>
+              <td><strong>I50</strong></td>
+              <td><strong>V, L</strong></td>
             </tr>
             <tr>
-              <td>F53</td>
-              <td>L, Y</td>
+              <td><strong>F53</strong></td>
+              <td><strong>L, Y</strong></td>
             </tr>
             <tr>
-              <td>I54</td>
-              <td>V, L, M, A, T, S</td>
+              <td><strong>I54</strong></td>
+              <td><strong>V, L, M, A, T, S</strong></td>
             </tr>
             <tr>
-              <td>G73</td>
-              <td>S, T, C, A</td>
+              <td><strong>G73</strong></td>
+              <td><strong>S, T, C, A</strong></td>
             </tr>
             <tr>
-              <td>L76</td>
-              <td>V</td>
+              <td><strong>L76</strong></td>
+              <td><strong>V</strong></td>
             </tr>
             <tr>
-              <td>V82</td>
-              <td>A, T, F, S, C, M, L</td>
+              <td><strong>V82</strong></td>
+              <td><strong>A, T, F, S, C, M, L</strong></td>
             </tr>
             <tr>
-              <td>N83</td>
-              <td>D</td>
+              <td><strong>N83</strong></td>
+              <td><strong>D</strong></td>
             </tr>
             <tr>
-              <td>I84</td>
-              <td>V, A, C</td>
+              <td><strong>I84</strong></td>
+              <td><strong>V, A, C</strong></td>
             </tr>
             <tr>
-              <td>I85</td>
-              <td>V</td>
+              <td><strong>I85</strong></td>
+              <td><strong>V</strong></td>
             </tr>
             <tr>
-              <td>N88</td>
-              <td>D, S</td>
+              <td><strong>N88</strong></td>
+              <td><strong>D, S</strong></td>
             </tr>
             <tr>
-              <td>L90</td>
-              <td>M</td>
+              <td><strong>L90</strong></td>
+              <td><strong>M</strong></td>
             </tr>
           </tbody>
         </table>
@@ -223,40 +223,40 @@
               <td><strong style="color: #0000ff;">Y</strong></td>
             </tr>
             <tr>
-              <td>T66</td>
-              <td>A, I, K</td>
+              <td><strong>T66</strong></td>
+              <td><strong>A, I, K</strong></td>
             </tr>
             <tr>
-              <td>E92</td>
-              <td>G, Q</td>
+              <td><strong>E92</strong></td>
+              <td><strong>G, Q</strong></td>
             </tr>
             <tr>
-              <td>G118</td>
-              <td>R</td>
+              <td><strong>G118</strong></td>
+              <td><strong>R</strong></td>
             </tr>
             <tr>
-              <td>F121</td>
-              <td>Y</td>
+              <td><strong>F121</strong></td>
+              <td><strong>Y</strong></td>
             </tr>
             <tr>
-              <td>E138</td>
-              <td>A, K, T</td>
+              <td><strong>E138</strong></td>
+              <td><strong>A, K, T</strong></td>
             </tr>
             <tr>
-              <td>G140</td>
-              <td>A, C, S</td>
+              <td><strong>G140</strong></td>
+              <td><strong>A, C, S</strong></td>
             </tr>
             <tr>
-              <td>Y143</td>
-              <td>C, H, R, S</td>
+              <td><strong>Y143</strong></td>
+              <td><strong>C, H, R, S</strong></td>
             </tr>
             <tr>
-              <td>S147</td>
-              <td>G</td>
+              <td><strong>S147</strong></td>
+              <td><strong>G</strong></td>
             </tr>
             <tr>
-              <td>Q148</td>
-              <td>H, R, K</td>
+              <td><strong>Q148</strong></td>
+              <td><strong>H, R, K</strong></td>
             </tr>
             <tr>
               <td><strong style="color: #0000ff;">G149</strong></td>
@@ -267,16 +267,16 @@
               <td><strong style="color: #0000ff;">Y, F</strong></td>
             </tr>
             <tr>
-              <td>N155</td>
-              <td>H</td>
+              <td><strong>N155</strong></td>
+              <td><strong>H</strong></td>
             </tr>
             <tr>
-              <td>S230</td>
-              <td>R</td>
+              <td><strong>S230</strong></td>
+              <td><strong>R</strong></td>
             </tr>
             <tr>
-              <td>R263</td>
-              <td>K</td>
+              <td><strong>R263</strong></td>
+              <td><strong>K</strong></td>
             </tr>
           </tbody>
         </table>
@@ -285,7 +285,7 @@
   </section>
 </div>
 
-Mutations in plain text are from Bennett2009 and Tzou2020; mutations in <strong style="color: #0000ff;">bold and blue</strong> are from Rhee2021, Rhee2023, and Tao2023.
+NRTI, NNRTI, and PI mutations in black represent the original WHO 2009 List of Surveillance Drug Resistance Mutations (DRMs; Bennett 2009). INSTI mutations in black were derived from an analysis published in 2020 (Tzou 2020). NRTI, NNRTI, and PI mutations in blue were added based on two recent publications (Rhee 2021; Rhee 2023). INSTI mutations in blue were added based on analysis of sequences from persons with virological failure following treatment with a dolutegravir-containing regimen (Tao 2023).
 
 ### References
 
