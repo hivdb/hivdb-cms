@@ -1,6 +1,15 @@
 This page lists the change logs of current and previous versions of Sierra program since December 2017. For algorithm change logs (scoring tables and comments) please access
 [Algorithm Updates](/page/algorithm-updates/) page.
 
+## Version 3.5.7 update 2026-09-27
+
+- **Subtyping**: Added a validation warning for sequences whose closest subtype
+  reference is a pure subtype but whose distance exceeds the maximum distance
+  expected within that subtype (while remaining below the "unknown" threshold).
+  In this case Sierra continues to report the subtype, but now also returns a
+  warning that the assignment is uncertain and that further analysis using a
+  more sophisticated subtyping program is recommended.
+
 ## Version 3.5.6 update 2026-05-02
 
 - **HIVDB Algorithm 10.2**: This version adds full resistance scoring and
