@@ -8,6 +8,7 @@ Major updates since 2018:
 
 - CPR 7.0 (2018-12-18): Updated to use the alignment process of the latest Sierra program (2.2.10) rather than the original stand-alone program.
 - CPR 8.0 (2019-07-01): A list of 24 integrase SDRMs (SDRM\_2019) was added for analyzing integrase sequences.
+- CPR 9.0 (2026-10-15): CPR provides two options: original SDRMs based on [Bennett 2009](https://pubmed.ncbi.nlm.nih.gov/19266092/) for RT and protease and [Tzou 2020](https://pubmed.ncbi.nlm.nih.gov/31617907/) for integrase; and expanded DRMs based on [Bennett 2009](https://pubmed.ncbi.nlm.nih.gov/19266092/) and [Rhee 2021](https://pubmed.ncbi.nlm.nih.gov/34064774/) for RT and protease, [Rhee 2023](https://pubmed.ncbi.nlm.nih.gov/36750835/) for NNRTI mutations in RT, and [Tzou 2020](https://pubmed.ncbi.nlm.nih.gov/31617907/) and [Tao 2023](https://pubmed.ncbi.nlm.nih.gov/37766338/) for integrase.
 
 ## Input
 
@@ -17,13 +18,13 @@ CPR accepts a set of FASTA-formatted HIV-1 RT, protease (PR) or integrase (IN) g
 
 ### Surveillance drug-resistance mutation (SDRM) list
 
-The surveillance drug-resistance mutations (SDRMs) were designed to be sensitive and specific indicators of antiretroviral drug selection pressure. A standard list of SDRMs makes it possible to compare the results of sequencing studies performed in different regions or at different times. Mutations on the current SDRM list \[[appendix 1](#appendix.1.sdrm.lists)\] were selected for their suitability as indicators of transmitted resistance: (a) they are commonly recognized as causing or contributing to resistance; (b) they are nonpolymorphic in untreated persons; and (c) they are applicable to all HIV-1 subtypes. 
+The surveillance drug-resistance mutations (SDRMs) were designed to be sensitive and specific indicators of antiretroviral drug selection pressure. A standard list of SDRMs makes it possible to compare the results of sequencing studies performed in different regions or at different times. Mutations on the current SDRM lists \[[appendix 1](#appendix.1.sdrm.lists)\] were selected for their suitability as indicators of transmitted resistance: (a) they are commonly recognized as causing or contributing to resistance; (b) they are nonpolymorphic in untreated persons; and (c) they are applicable to all HIV-1 subtypes.
 
 ## Processing
 
 ### Sequence alignment and amino acid translation
 
-Each submitted nucleotide sequence is aligned to [the consensus subtype B amino acid reference sequence](/page/release-notes/#appendix.1.consensus.b.sequences) using NucAmino [^Tzou2017] The aligned nucleotide sequence is translated in the correct reading frame. Nucleotide triplets containing IUPAC ambiguities (e.g. R indicates a mixture of A and G) are translated into each of the possible amino acids they encode. For example, ATR indicates a mixture of ATA (Isoleucine; I) and ATG (Methionine; M). Nucleotide triplets encoding >4 possible different amino acids or containing a 'N' (a highly ambiguity nucleotide indicating 'G', 'A', 'T' or 'C') at the first or second nucleotide in a codon are translated to "X". Amino acid differences from the reference sequence are referred to as mutations.
+Each submitted nucleotide sequence is aligned to [the consensus subtype B amino acid reference sequence](/page/release-notes/#appendix.1.consensus.b.sequences) using the HIVDB drug resistance interpretation program [^Tzou2017]. The aligned nucleotide sequence is translated in the correct reading frame. Nucleotide triplets containing IUPAC ambiguities (e.g. R indicates a mixture of A and G) are translated into each of the possible amino acids they encode. For example, ATR indicates a mixture of ATA (Isoleucine; I) and ATG (Methionine; M). Nucleotide triplets encoding >8 possible different amino acids or containing a 'N' (a highly ambiguity nucleotide indicating 'G', 'A', 'T' or 'C') at the first or second nucleotide in a codon are translated to "X". Amino acid differences from the reference sequence are referred to as mutations.
 
 RT sequences with fewer than 150 amino acid positions, protease sequences with fewer than 60 amino acid positions, integrase sequences with fewer than 197 amino acid positions, or sequences of either gene with <50% identity to the consensus reference sequences will not be analyzed further.
 
@@ -67,7 +68,7 @@ The CPR report consists of a Summary page and four additional detailed reports a
 
 ### Title Area
 
-Version of SDRM list, date of CPR report generation, version of Sierra and HIVDB algorithm used for this report. Options for downloading the same summary page in pdf and the CPR analysis details in excel.
+Version of SDRM list (original versus expanded), date of CPR report generation, and version of the HIVDB interpretation algorithm used for this report. Options for downloading the same summary page in pdf and the CPR analysis details in excel.
 
 ### Summary
 
@@ -150,10 +151,17 @@ The nexus tree file can be downloaded for viewing the tree using tree viewing to
 
 ### Appendix 1: SDRM lists
 
-[SDRM 2009 (PRRT)](/page/who-sdrm-list/)[^Benett2009] / [SDRM 2019 (IN)](/page/insti-sdrm-list/)[^Tzou2019]
+The [current mutation lists](/page/who-sdrm-list/) show the original SDRMs in black and the expanded DRMs in blue.
+
+Original SDRMs: [SDRM 2009 (PRRT)](/page/who-sdrm-list/)[^Benett2009] / [SDRM 2019 (IN)](/page/insti-sdrm-list/)[^Tzou2019]
+
+Expanded DRMs: [Rhee 2021](https://pubmed.ncbi.nlm.nih.gov/34064774/)[^Rhee2021], [Rhee 2023](https://pubmed.ncbi.nlm.nih.gov/36750835/)[^Rhee2023], and [Tao 2023](https://pubmed.ncbi.nlm.nih.gov/37766338/)[^Tao2023].
 
 [^Benett2009]: Bennett DE, Camacho RJ, Otelea D, Kuritzkes DR, Fleury H, Kiuchi M, Heneine W, Kantor R, Jordan MR, Schapiro JM, Vandamme AM, Sandstrom P, Boucher CA, van de Vijver D, Rhee SY, Liu TF, Pillay D, Shafer RW. Drug resistance mutations for surveillance of transmitted HIV-1 drug-resistance: 2009 update. [PLoS One 2009](https://www.ncbi.nlm.nih.gov/pubmed/19266092).
 [^Tzou2019]: Tzou PL, Rhee SY, Descamps D, Clutter DS, Hare B, Mor O, Grude M, Parkin N, Jordan MR, Bertagnolio S, Schapiro JM, Harrigan PR, Geretti AM, Marcelin A, Shafer RW. Integrase Strand Transfer Inhibitor Resistance Mutations for Surveillance of Transmitted HIV-1 Drug Resistance. [J Antimicrob Chemother 2019](https://www.ncbi.nlm.nih.gov/pubmed/31617907) ([pdf](https://hivdb.stanford.edu/pages/pdf/Tzou.2019.JAC.pdf)).
+[^Rhee2021]: Rhee SY, Tzou PL, Shafer RW. Temporal Trends in HIV-1 Mutations Used for the Surveillance of Transmitted Drug Resistance. [Viruses 2021](https://pubmed.ncbi.nlm.nih.gov/34064774/).
+[^Rhee2023]: Rhee SY, Schapiro JM, Saladini F, Zazzi M, Khoo S, Shafer RW. Potential role of doravirine for the treatment of HIV-1-infected persons with transmitted drug resistance. [AIDS Res Ther 2023](https://pubmed.ncbi.nlm.nih.gov/36750835/).
+[^Tao2023]: Tao K, Rhee SY, Chu C, Avalos A, Ahluwalia AK, Gupta RK, Jordan MR, Shafer RW. Treatment Emergent Dolutegravir Resistance Mutations in Individuals Naïve to HIV-1 Integrase Inhibitors: A Rapid Scoping Review. [Viruses 2023](https://pubmed.ncbi.nlm.nih.gov/37766338/).
 
 ### Appendix 2: APOBEC3G/F hypermutations
 
