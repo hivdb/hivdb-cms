@@ -1,9 +1,7 @@
 survdbVersion: 20261021-033926-slim
-defaultMinSeq: 25
+defaultMinSeq: 1
 minSeqChoices:
-  - 25
-  - 50
-  - 100
+  - 1
 plotSubregions:
   - Asia
   - Europe
