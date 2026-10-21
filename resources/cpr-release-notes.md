@@ -2,7 +2,7 @@
 
 The CPR (Calibrated Population Resistance) tool is a program for analyzing populations of human immunodeficiency type 1 (HIV-1) sequences. CPR provides a standard approach for determining the proportion of submitted sequences containing a mutation suggestive of transmitted HIV-1 drug resistance.
 
-CPR uses the list of surveillance drug-resistance mutations (SDRMs) as indicators of transmitted resistance. CPR ensures consistency in the analysis of molecular epidemiologic studies by providing investigators access to a standard protocol for handling missing data and identifying sequence artifacts. Unlike the HIVdb interpretation program, CPR does not provide a drug resistance interpretation.
+CPR uses the [list of surveillance drug-resistance mutations (SDRMs)](/page/who-sdrm-list/) as indicators of transmitted resistance. CPR ensures consistency in the analysis of molecular epidemiologic studies by providing investigators access to a standard protocol for handling missing data and identifying sequence artifacts. Unlike the HIVdb interpretation program, CPR does not provide a drug resistance interpretation.
 
 Major updates since 2018:
 
