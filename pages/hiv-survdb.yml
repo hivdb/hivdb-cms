@@ -1,4 +1,4 @@
-survdbVersion: 20261020-181344-slim
+survdbVersion: 20261020-191015-slim
 defaultMinSeq: 25
 minSeqChoices:
   - 25
