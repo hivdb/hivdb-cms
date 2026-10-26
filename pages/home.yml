@@ -82,7 +82,7 @@ slideItems:
   caption: HIVDB Viral Sequence and Treatment Submission (VISTAS) Program
   date: Jan 2, 2026
   description: HIV, HBV, HCV Genbank submission tool
-  to: /genbank/
+  to: /vistas/
   type: text
 - bgColor: '#dccb92'
   caption: HIV in vitro selection
