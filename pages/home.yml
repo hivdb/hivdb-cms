@@ -73,6 +73,12 @@ slideItems:
   href: https://ref.hivdb.org/hiv/
   type: text
 - bgColor: '#dccb92'
+  caption: HIV-1 Drug Resistance in ART-Naive Populations
+  date: Oct 26, 2026
+  description: ''
+  to: /surveillance/
+  type: text
+- bgColor: '#dccb92'
   caption: Genotypic challenges in implementing bnAb-based long-acting HIV-1 therapies
   date: May 28, 2026
   description: ''
