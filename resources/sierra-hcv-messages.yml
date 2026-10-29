@@ -1,0 +1,20 @@
+pattern-analysis-form-title: Hepatitis C Virus Mutations Analysis
+pattern-analysis-form-desc: >-
+  Enter HCV amino acid mutations with a gene prefix, such as NS3:Q80K.
+  Mutation entry uses the HCV genotype 1 reference sequences.
+pattern-analysis-report-title: Hepatitis C Virus Mutations Analysis Report
+pattern-analysis-prefill-label: 'Pre-populate mutations:'
+pattern-analysis-input-label: 'Enter/paste mutations:'
+pattern-analysis-input-placeholder: Enter/paste mutations
+sequence-analysis-form-title: Hepatitis C Virus Sequence Analysis
+sequence-analysis-form-desc: >-
+  Paste one HCV nucleotide sequence or upload multiple sequences in FASTA
+  format. The report shows the best matching genotype, aligned genes, and
+  mutations.
+sequence-analysis-report-title: Hepatitis C Virus Sequence Analysis Report
+mut-input-error-invalid-mutation: >-
+  Enter a gene, position and amino acid, such as NS3:Q80K.
+mut-input-error-invalid-gene: 'Unknown gene "$$GENE$$".'
+mut-input-error-pos-is-zero: Position cannot be zero.
+mut-input-error-pos-out-of-bounds: >-
+  Position cannot be greater than $$MAX_POS$$.
