@@ -1,0 +1,12 @@
+mutationDefaultGene: NS3
+mutationPrefills: []
+sequenceExamples:
+  - title: Example set 1
+    url: downloads/hcv-fasta-examples/PX386717-PX387040.fasta
+  - title: Example set 2 (NS3)
+    url: downloads/hcv-fasta-examples/PZ727692-PZ728743.fasta
+  - title: Example set 3 (NS5A_NTD)
+    url: downloads/hcv-fasta-examples/PZ727692-PZ728743-NS5A_NTD.fasta
+messages:
+  .:
+    _resource: sierra-hcv-messages.yml
